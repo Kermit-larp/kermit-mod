@@ -1,0 +1,7 @@
+owner = MAD
+controller = MAD
+add_core = GEL
+add_core = AJU
+trade_goods = cattle
+terrain = savanna
+life_rating = 35

@@ -1,0 +1,36 @@
+
+army = {
+	name = "Mir Hassan Khan's Army"
+	location = 1107
+	regiment = {
+		name = "The Khan's Guard"
+		type = infantry
+		home = 1107
+	}
+	regiment = {
+		name = "1. Brigade"
+		type = infantry
+		home = 3380
+	}
+	regiment = {
+		name = "2. Brigade"
+		type = infantry
+		home = 1112
+	}
+	regiment = {
+		name = "Talyshi Horsemen"
+		type = cavalry
+		home = 3380
+	}
+}
+
+leader = {
+	name = "Mir Hassan Khan"
+	picture = arab_general_4
+	date = 1800.1.1
+	type = land
+	personality = uncommonly_young
+	background = school_of_offense
+}
+
+	

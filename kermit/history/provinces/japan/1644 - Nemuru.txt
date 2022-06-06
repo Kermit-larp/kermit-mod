@@ -1,0 +1,11 @@
+owner = EZO
+controller = EZO
+add_core = EZO
+trade_goods = timber
+life_rating = 10
+colonial = 1
+1861.1.1 = {
+	owner = TKG
+	controller = TKG
+	add_core = TKG
+}

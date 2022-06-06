@@ -1,0 +1,6 @@
+owner = EDO
+controller = EDO
+add_core = EDO
+add_core = TKG
+trade_goods = grain
+life_rating = 35

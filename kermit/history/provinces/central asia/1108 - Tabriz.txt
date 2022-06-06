@@ -1,0 +1,6 @@
+owner = TBZ
+controller = TBZ
+add_core = TBZ
+add_core = AZB
+trade_goods = coal
+life_rating = 35

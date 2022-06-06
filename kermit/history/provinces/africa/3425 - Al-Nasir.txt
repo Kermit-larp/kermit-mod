@@ -1,0 +1,6 @@
+owner = SHK
+controller = SHK
+add_core = SHK
+add_core = SUD
+trade_goods = fruit
+life_rating = 10

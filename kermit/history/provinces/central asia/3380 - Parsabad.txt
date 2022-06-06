@@ -1,0 +1,8 @@
+owner = TLY
+controller = TLY
+add_core = TLY
+add_core = AZB
+add_core = TBZ
+trade_goods = cotton
+life_rating = 35
+terrain = mountain

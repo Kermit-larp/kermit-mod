@@ -1,0 +1,10 @@
+owner = ZAN
+controller = ZAN
+add_core = ZAN
+trade_goods = precious_goods
+life_rating = 40
+terrain = zanzibar
+1861.1.1 = {
+	owner = ZAN
+	controller = ZAN
+}

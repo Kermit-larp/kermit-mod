@@ -1,0 +1,28 @@
+RYU = { value = 125 }
+SUL = { value = 100 }
+BRU = { value = 100 }
+
+army = {
+	name = "Army of Daimyo Hojo"
+	location = 1676
+	regiment = {
+		name= "1.Samurai"
+		type = cavalry
+		home = 1650
+	}
+	regiment = {
+		name= "1.Hojo"
+		type = irregular
+		home = 1653
+	}
+	regiment = {
+		name= "2.Hojo"
+		type = irregular
+		home = 1652
+	}
+	regiment = {
+		name= "3.Hojo"
+		type = irregular
+		home = 1674
+	}
+}

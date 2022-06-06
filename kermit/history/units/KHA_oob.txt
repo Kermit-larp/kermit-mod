@@ -1,0 +1,24 @@
+PER = {
+	value = -50
+}
+
+army = {
+	name = "Barak bin Abdul Mohsen's Army"
+	location = 1164
+	regiment = {
+		name = "1.Khalidi"
+		type = cavalry
+		home = 1164
+	}
+	regiment = {
+		name = "2.Khalidi"
+		type = cavalry
+		home = 3675
+	}
+	regiment = {
+		name = "3.Khaidi"
+		type = cavalry
+		home = 1164
+	}
+}
+

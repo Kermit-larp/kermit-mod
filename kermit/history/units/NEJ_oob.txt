@@ -1,0 +1,19 @@
+KHA = {
+	value = 200
+}
+
+army = {
+	name = "Ibn Muammar's Army"
+	location = 1157
+	regiment = {
+		name = "1.Mu'ammarid"
+		type = cavalry
+		home = 1157
+	}
+	regiment = {
+		name = "2.Mu'ammarid"
+		type = cavalry
+		home = 1157
+	}
+}
+

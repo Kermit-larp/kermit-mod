@@ -1,0 +1,7 @@
+owner = KAF
+controller = KAF
+add_core = KAF
+add_core = BUG
+trade_goods = coffee
+terrain = savanna
+life_rating = 10

@@ -1,0 +1,36 @@
+
+army = {
+	name = "Ismail Khan's Army"
+	location = 1104
+	regiment = {
+		name = "The Khan's Guard"
+		type = infantry
+		home = 1104
+	}
+	regiment = {
+		name = "1. Brigade"
+		type = infantry
+		home = 1106
+	}
+	regiment = {
+		name = "2. Brigade"
+		type = infantry
+		home = 1106
+	}
+	regiment = {
+		name = "Azeri Horsemen"
+		type = cavalry
+		home = 1104
+	}
+}
+
+leader = {
+	name = "Ismail Khan Domboli"
+	picture = arab_general_3
+	date = 1800.1.1
+	type = land
+	personality = pusillanimous
+	background = expert_raider
+}
+
+	

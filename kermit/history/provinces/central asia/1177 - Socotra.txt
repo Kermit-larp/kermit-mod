@@ -1,0 +1,9 @@
+owner = AJU
+controller = AJU
+add_core = KTH
+add_core = MHR
+add_core = FDL
+add_core = AJU
+trade_goods = fish
+life_rating = 20
+terrain = semidesert

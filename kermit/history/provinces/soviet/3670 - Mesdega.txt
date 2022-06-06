@@ -1,0 +1,6 @@
+owner = KAB
+controller = KAB
+add_core = KAB
+trade_goods = grain
+life_rating = 35
+terrain = forest

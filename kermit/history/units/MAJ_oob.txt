@@ -1,0 +1,48 @@
+GON = {
+	value = -200
+}
+
+ADL = {
+	value = -200
+}
+
+TIG = {
+	value = -200
+}
+
+KAF = {
+	value = -200
+}
+
+AJU = {
+	value = 200
+}
+
+TUR = {
+	value = 50
+}
+
+EGY = {
+	value = 60
+}
+
+GEL = {
+	value = 50
+}
+
+army = {
+	name = "Army of the Majeerteen Sultanate"
+	location = 1872	
+	regiment = {
+		name= "Shaykh's Guards"	
+		type = irregular
+		home = 1872
+	}
+	regiment = {
+		name= "Berbera Warriors"	
+		type = irregular
+		home = 1872
+	}
+}
+
+

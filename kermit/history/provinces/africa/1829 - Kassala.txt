@@ -1,0 +1,7 @@
+owner = TIG
+controller = TIG
+add_core = TIG
+add_core = SUD
+trade_goods = tropical_wood
+terrain = semidesert
+life_rating = 32

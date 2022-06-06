@@ -1,0 +1,22 @@
+army = {
+	name = "Army of Khartli-Kakheti"
+	location = 1090
+	regiment = {
+		name = "Soldiers of Kartli"
+		type = infantry
+		home = 1090
+	}
+	regiment = {
+		name = "Soldiers of Kakheti"
+		type = infantry
+		home = 3363
+}
+
+leader = {
+	name = "David III"
+	picture = european_general_14
+	date = 1800.1.1
+	type = land
+	personality = soldierly
+	background = rising_star
+}

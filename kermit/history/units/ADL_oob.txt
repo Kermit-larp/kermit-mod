@@ -1,0 +1,85 @@
+EGY = {
+	value = 60
+}
+
+GON = {
+	truce_until = 1841.1.1
+	value = 40
+}
+
+TIG = {
+	truce_until = 1841.1.1
+	value = 60
+}
+
+HAR = {
+	value = 40
+}
+
+KAF = {
+	truce_until = 1841.1.1
+	value = 50
+}
+
+SID = {
+	value = 40
+}
+
+AWS = {
+	value = 40
+}
+
+leader = {
+   name = "Sahle Selassie"
+   type = land
+   date = 1836.1.1
+   background = gifted_administrator
+   personality = bootlicker
+}
+
+army = {
+	name = "Army of the Sultanate of Adal"
+	location = 1859
+	regiment = {
+		name= "Sultan's Guard"
+		type = irregular
+		home = 1859
+	}
+
+	regiment = {
+		name= "Cavalry of the Sultan"
+		type = hussar
+		home = 1859
+	}
+
+	regiment = {
+		name= "1st Shewa Division"
+		type = irregular
+		home = 1859
+	}
+
+	regiment = {
+		name= "2nd Shewa Division"
+		type = irregular
+		home = 1859
+	}
+
+	regiment = {
+		name= "3rd Shewa Division"
+		type = irregular
+		home = 1859
+	}
+
+	regiment = {
+		name= "1st Hawassa Division"
+		type = irregular
+		home = 1860
+	}
+
+	regiment = {
+		name= "1st Aselia Division"
+		type = irregular
+		home = 1861
+	}
+
+}

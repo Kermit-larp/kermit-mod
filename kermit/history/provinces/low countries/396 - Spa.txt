@@ -1,0 +1,7 @@
+owner = AAC
+controller = AAC
+add_core = AAC
+add_core = RHI
+trade_goods = coal
+life_rating = 35
+1861.1.1 = { railroad = 3 }

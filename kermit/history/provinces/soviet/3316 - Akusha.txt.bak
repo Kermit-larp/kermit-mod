@@ -1,0 +1,7 @@
+owner = GMZ
+controller = GMZ
+add_core = GMZ
+add_core = DAG
+trade_goods = grain
+life_rating = 35
+terrain = mountain

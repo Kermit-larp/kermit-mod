@@ -1,0 +1,24 @@
+
+army = {
+	name = "Karim Khan's Army"
+	location = 1101
+	regiment = {
+		name = "The Khan's Guard"
+		type = infantry
+		home = 1101
+	}
+	regiment = {
+		name = "1. Brigade"
+		type = infantry
+		home = 1100
+	}
+}
+
+leader = {
+	name = "Karim Khan Kangarli"
+	picture = arab_general_5
+	date = 1800.1.1
+	type = land
+	personality = skilled
+	background = womanizer
+}

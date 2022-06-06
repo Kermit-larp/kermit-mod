@@ -1,0 +1,7 @@
+owner = SMK
+controller = SMK
+add_core = SMK
+add_core = ARM
+add_core = KDS
+trade_goods = wool
+life_rating = 35

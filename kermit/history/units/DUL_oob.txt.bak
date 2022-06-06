@@ -1,0 +1,51 @@
+EGY = {
+	value = 200
+}
+
+TUR = {
+	value = -120
+}
+
+army = {
+	name = "Army of the Bey of Dulkadir"
+	location = 893
+	
+	regiment = {
+			name = "The Bey's Guards"
+		type = infantry
+		home = 893
+	}
+	regiment = {
+			name = 1. Infantry Brigade"
+		type = infantry
+		home = 893
+	}
+	regiment = {
+			name = 2. Infantry Brigade"
+		type = infantry
+		home = 888
+	}
+	regiment = {
+			name = 3. Infantry Brigade"
+		type = infantry
+		home = 888
+	}
+	regiment = {
+			name = 1. Cavalry Brigade"
+		type = cavalry
+		home = 893
+	}
+	regiment = {
+			name = 2. Cavalry Brigade"
+		type = cavalry
+		home = 888
+	}
+	regiment = {
+			name = 1. Cavalry Brigade"
+		type = artillery
+		home = 888
+	}
+}
+	
+	
+	

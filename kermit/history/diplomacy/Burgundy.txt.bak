@@ -1,0 +1,96 @@
+#Burgundy - Utrecht
+vassal = {
+	first = BRG
+	second = UTR
+	start_date = 1444.1.1
+	end_date = 1936.1.1
+}
+
+#Burgundy - Guelders
+vassal = {
+	first = BRG
+	second = GLD
+	start_date = 1444.1.1
+	end_date = 1936.1.1
+}
+
+#Burgundy - Flanders
+vassal = {
+	first = BRG
+	second = FLA
+	start_date = 1444.1.1
+	end_date = 1936.1.1
+}	
+
+#Burgundy - West Frisia
+vassal = {
+	first = BRG
+	second = FRI
+	start_date = 1444.1.1
+	end_date = 1936.1.1
+}
+
+#Burgundy - Overijssel
+vassal = {
+	first = BRG
+	second = OVJ
+	start_date = 1444.1.1
+	end_date = 1936.1.1
+}
+
+#Burgundy - Zeeland
+vassal = {
+	first = BRG
+	second = ZLD
+	start_date = 1444.1.1
+	end_date = 1936.1.1
+}
+
+#Burgundy - Limburg
+vassal = {
+	first = BRG
+	second = LBG
+	start_date = 1444.1.1
+	end_date = 1936.1.1
+}
+
+#Burgundy - Brabant
+vassal = {
+	first = BRG
+	second = BRB
+	start_date = 1444.1.1
+	end_date = 1936.1.1
+}
+
+#Burgundy - Holland
+vassal = {
+	first = BRG
+	second = HLD
+	start_date = 1444.1.1
+	end_date = 1936.1.1
+}
+
+#Burgundy - Luxembourg
+vassal = {
+	first = BRG
+	second = LUX
+	start_date = 1444.1.1
+	end_date = 1936.1.1
+}
+
+
+#Burgundy - Aachen
+vassal = {
+	first = BRG
+	second = AAC
+	start_date = 1444.1.1
+	end_date = 1936.1.1
+}
+
+#Burgundy - Artois
+vassal = {
+	first = BRG
+	second = ART
+	start_date = 1444.1.1
+	end_date = 1936.1.1
+}

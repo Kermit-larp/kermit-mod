@@ -1,0 +1,27 @@
+MIG = {
+	value = -100
+}
+
+IME = {
+	value = -80
+}	
+
+army = {
+	name = "Army of Samtskhe-Saatabago"
+	location = 886
+	regiment = {
+		name = "1. Infantry Brigade"
+		type = infantry
+		home = 887
+	}
+	regiment = {
+		name = "2. Infantry Brigade"
+		type = infantry
+		home = 887
+	}	
+	regiment = {
+		name = "Horsemen of Samtskhe"
+		type = infantry
+		home = 887
+	}
+}		

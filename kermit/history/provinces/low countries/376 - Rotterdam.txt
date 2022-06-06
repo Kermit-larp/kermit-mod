@@ -1,0 +1,11 @@
+owner = HLD
+controller = HLD
+add_core = HLD
+add_core = NET
+trade_goods = fish
+life_rating = 35
+terrain = rotterdam
+1861.1.1 = { 
+	railroad = 1
+	naval_base = 3
+}

@@ -1,0 +1,36 @@
+
+army = {
+	name = "Isgandar Khan's Army"
+	location = 1102
+	regiment = {
+		name = "The Khan's Guard"
+		type = infantry
+		home = 1102
+	}
+	regiment = {
+		name = "1. Brigade"
+		type = infantry
+		home = 1103
+	}
+	regiment = {
+		name = "2. Brigade"
+		type = infantry
+		home = 1104
+	}
+	regiment = {
+		name = "Talyshi Horsemen"
+		type = cavalry
+		home = 1102
+	}
+}
+
+leader = {
+	name = "Isgandar Khan"
+	picture = arab_general_5
+	date = 1800.1.1
+	type = land
+	personality = impetuous
+	background = school_of_offense
+}
+
+	

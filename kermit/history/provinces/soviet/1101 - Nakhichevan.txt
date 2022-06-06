@@ -1,0 +1,7 @@
+owner = NKC
+controller = NKC
+add_core = ARM
+add_core = AZB
+add_core = NKC
+trade_goods = iron
+life_rating = 35
