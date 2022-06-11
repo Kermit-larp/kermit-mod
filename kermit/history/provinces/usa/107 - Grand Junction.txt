@@ -1,6 +1,7 @@
 owner = BZD
 controller = BZD
 add_core = BZD
+add_core = ARM
 trade_goods = cattle
 life_rating = 35
 1861.1.1 = {

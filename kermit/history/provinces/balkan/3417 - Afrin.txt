@@ -1,6 +1,7 @@
-owner = EGY
-controller = EGY
-add_core = EGY
+owner = DUL
+controller = DUL
+add_core = DUL
+add_core = ARM
 trade_goods = grain
 life_rating = 35
 terrain = mountain
