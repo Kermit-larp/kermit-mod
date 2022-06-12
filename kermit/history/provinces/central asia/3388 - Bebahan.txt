@@ -1,7 +1,6 @@
-owner = KHZ
-controller = KHZ
-add_core = KHZ
-add_core = LUR
+owner = ZND
+controller = ZND
+add_core = ZND
 trade_goods = fish
 life_rating = 35
 terrain = dryhills
