@@ -1,6 +1,6 @@
-owner = KHI
-controller = KHI
-add_core = KHI
+owner = ASB
+controller = ASB
+add_core = ASB
 add_core = TKM
 terrain = desert
 trade_goods = opium

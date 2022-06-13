@@ -1,6 +1,6 @@
-owner = TIM
-controller = TIM
-add_core = TIM
+owner = KHI
+controller = KHI
+add_core = KHI
 add_core = TKM
 terrain = semidesert
 trade_goods = wool
