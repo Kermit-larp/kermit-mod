@@ -1,6 +1,6 @@
-owner = ASB
-controller = ASB
-add_core = ASB
+owner = KHA
+controller = KHA
+add_core = ABU
 trade_goods = fish
 life_rating = 31
 terrain = semidesert
