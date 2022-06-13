@@ -1,6 +1,6 @@
-owner = ASB
-controller = ASB
-add_core = ASB
+owner = QAJ
+controller = QAJ
+add_core = QAJ
 trade_goods = wool
 life_rating = 35
 terrain = dryhills
