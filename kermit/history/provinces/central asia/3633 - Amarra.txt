@@ -1,6 +1,6 @@
-owner = ZND
-controller = ZND
-add_core = ZND
+owner = LUR
+controller = LUR
+add_core = LUR
 add_core = IRQ
 trade_goods = grain
 life_rating = 35
