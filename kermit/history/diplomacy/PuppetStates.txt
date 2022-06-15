@@ -143,9 +143,9 @@ vassal = {
 	end_date = 1853.1.1
 }
 
-#Persia - Ardalan
+#Zand - Ardalan
 vassal = {
-	first = PER
+	first = ZND
 	second = RDL
 	start_date = 1836.1.1
 	end_date = 1844.1.1
@@ -847,5 +847,46 @@ vassal = {
 	first = LOR
 	second = SAA
 	start_date = 1724.4.5
+	end_date = 1936.1.1
+}	
+
+#Afrasiyab - Khiva
+vassal = {
+	first = ASB
+	second = KHI
+	start_date = 1804.4.10
+	end_date = 1936.1.1
+}	
+
+#Afrasiyab - Yomuds
+vassal = {
+	first = ASB
+	second = TKM
+	start_date = 1784.2.3
+	end_date = 1936.1.1
+}	
+
+#Zand - Muntafiq
+vassal = {
+	first = ZND
+	second = MFQ
+	start_date = 1794.8.9
+	end_date = 1936.1.1
+}	
+
+
+#Zand - Khuzestan
+vassal = {
+	first = ZND
+	second = KHZ
+	start_date = 1793.10.12
+	end_date = 1936.1.1
+}	
+
+#Zand - Luristan
+vassal = {
+	first = ZND
+	second = LUR
+	start_date = 1793.10.9
 	end_date = 1936.1.1
 }	

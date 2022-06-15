@@ -1,5 +1,5 @@
 owner = LUR
-controller = LUR
+controller = LUR 
 add_core = LUR
 trade_goods = grain
 life_rating = 35

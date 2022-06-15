@@ -1,8 +1,6 @@
-owner = TIM
-controller = TIM
-add_core = TIM
-add_core = KHR
-add_core = TKM
+owner = QAJ
+controller = QAJ
+add_core = QAJ
 trade_goods = wool
 life_rating = 35
 terrain = dryhills

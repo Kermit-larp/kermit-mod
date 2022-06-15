@@ -1,6 +1,5 @@
-owner = TIM
-controller = TIM
-add_core = TIM
+owner = KHI
+controller = KHI
 add_core = KHI
 trade_goods = cotton
 life_rating = 35

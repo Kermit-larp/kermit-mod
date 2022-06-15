@@ -1,5 +1,6 @@
-owner = TUR
-controller = TUR
-add_core = TUR
+owner = DUL
+controller = DUL
+add_core = DUL
+add_core = ARMw
 trade_goods = wool
 life_rating = 35

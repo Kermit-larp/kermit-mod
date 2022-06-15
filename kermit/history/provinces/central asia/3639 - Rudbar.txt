@@ -1,6 +1,6 @@
-owner = GLN
-controller = GLN
-add_core = GLN
+owner = ASB
+controller = ASB
+add_core = ASB
 trade_goods = cattle
 life_rating = 35
 terrain = dryhills

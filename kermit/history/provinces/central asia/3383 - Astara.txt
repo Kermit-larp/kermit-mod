@@ -1,6 +1,5 @@
-owner = GLN
-controller = GLN
-add_core = GLN
+owner = TLY
+controller = TLY
 add_core = TLY
 trade_goods = grain
 life_rating = 35

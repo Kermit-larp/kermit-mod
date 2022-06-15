@@ -1,5 +1,6 @@
-owner = TUR
-controller = TUR
+owner = KAR
+controller = KAR
+add_core = KAR
 add_core = TUR
 trade_goods = opium
 life_rating = 35

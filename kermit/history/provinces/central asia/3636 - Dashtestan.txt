@@ -1,7 +1,6 @@
-owner = FRS
-controller = FRS
-add_core = TIM
-add_core = FRS
+owner = ZND
+controller = ZND
+add_core = ZND
 trade_goods = fish
 life_rating = 35
 terrain = semidesert

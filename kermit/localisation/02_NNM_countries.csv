@@ -1596,9 +1596,14 @@ TCA_ADJ;Transcaucasian;;;;;;;;;;;;x
 TKG;Shogunate Japan;;;;;;;;;;;x
 TKG_ADJ;Tokugawa;;;;;;;;;;;x
 TKM;Turkmenistan;;;;;;;;;;;;;x
-TKM_absolute_monarchy;Salor Confederation;;;;;;;;;;;;x
-TKM_hms_government;Salor Confederation;;;;;;;;;;;;x
-TKM_prussian_constitutionalism;Salor Confederation;;;;;;;;;;;;x
+TKM_colonial_company;Yomud Khanate;;;;;;;;;;;;x
+TKM_absolute_monarchy;Yomud Khanate;;;;;;;;;;;;x
+TKM_hms_government;Yomud Khanate;;;;;;;;;;;;x
+TKM_prussian_constitutionalism;Yomud Khanate;;;;;;;;;;;;x
+TKM_absolute_monarchy_ADJ;Yomud;;;;;;;;;;;;x
+TKM_hms_government_ADJ;Yomud;;;;;;;;;;;;x
+TKM_prussian_constitutionalism_ADJ;Yomud;;;;;;;;;;;;x
+TKM_colonial_company_ADJ;Yomud;;;;;;;;;;;;x
 TKM_ADJ;Turkmenian;;;;;;;;;;;;;x
 TKM_conservative;Royal Faction;Faction royale;Königsfraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TKM_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;

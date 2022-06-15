@@ -1,6 +1,6 @@
-owner = TIM
-controller = TIM
-add_core = TIM
+owner = ASB
+controller = ASB
+add_core = ASB
 add_core = BUK
 trade_goods = wool
 life_rating = 35

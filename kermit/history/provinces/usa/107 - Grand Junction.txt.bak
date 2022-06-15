@@ -1,6 +1,7 @@
-owner = MEX
-controller = MEX
-add_core = MEX
+owner = BZD
+controller = BZD
+add_core = BZD
+add_core = DUL
 trade_goods = cattle
 life_rating = 35
 1861.1.1 = {

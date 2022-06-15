@@ -14,9 +14,9 @@ EFR_ADJ;East Frisian;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 FRI;West Frisia;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 FRI_ADJ;West Frisian;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 BRG;Burgundy;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-BRG_absolute_monarchy;Kingdom of Burgundy;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-BRG_prussian_constitutionalism;Kingdom of Burgundy;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-BRG_hms_government;Kingdom of Burgundy;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+BRG_absolute_monarchy;Burgundian Circle;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+BRG_prussian_constitutionalism;Burgundian Circle;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+BRG_hms_government;Burgundian Circle;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 BRG_democracy,Republic of Burgundy;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 BRG_proletarian_dictatorship;People's Republic of Burgundy;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 BRG_presidential_dictatorship;Republic of Burgundy;;;;;;;;;;;;;;;;;;;;;;;x;;;;
@@ -38,11 +38,11 @@ PAL_ADJ;Palatinate;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 PAL_absolute_monarchy;Electorate of the Palatinate;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 PAL_prussian_constitutionalism;Electorate of the Palatinate;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 PAL_hms_government;Electorate of the Palatinate;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-LGE_absolute_monarchy;Prince-Bishopric of LiÃ¨ge;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-LGE_prussian_constitutionalism;Prince-Bishopric of LiÃ¨ge;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-LGE_hms_government;Prince-Bishopric of LiÃ¨ge;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-LGE_republic;Republic of LiÃ¨ge;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-LGE_presidential_dictatorship;Republic of LiÃ¨ge;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+LGE_absolute_monarchy;Prince-Bishopric of Liège;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+LGE_prussian_constitutionalism;Prince-Bishopric of Liège;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+LGE_hms_government;Prince-Bishopric of Liège;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+LGE_republic;Republic of Liège;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+LGE_presidential_dictatorship;Republic of Liège;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 LGE;Liege;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 LGE_ADJ;Liege;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 ZLD;Zeeland;;;;;;;;;;;;;;;;;;;;;;;x;;;;
@@ -64,3 +64,33 @@ QAJ_absolute_monarchy;Qajar Dynasty;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 QAJ_hms_government;Qajar Dynasty;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 QAJ_prussian_constitutionalism;Qajar Dynasty;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 QAJ_ADJ;Qajar;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+ASB_absolute_monarchy;Afrasiyab Dynasty;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+ASB_hms_governmemt;Afrasiyab Dynasty;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+ASB_prussian_constitutionalism;Afrasiyab Dynasty;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+ASB;Afrasiyabs;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+ASB_republic;Mazanderani Republic;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+ASB_presidential_dictatorship;Mazanderani Republic;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+ASB_proletarian_dictatorship;The Union of Iranian Communist Nations;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+ASB_fascist_dictatorship;Greater Mazanderani State;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+ABS_ADJ;Afrasiyab;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+ZND;Zands;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+ZND_absolute_monarchy;Zand Empire;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+ZND_prussian_constitutionalism;Zand Empire;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+ZND_hms_government;Zand Empire;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+ZND_ADJ;Zand;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+MFQ;al-Muntafiq;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MFQ_colonial_company;al-Muntafiq;;;;;;;;;;;;x
+MFQ_absolute_monarchy;al-Muntafiq;;;;;;;;;;;;x
+MFQ_hms_government;al-Muntafiq;;;;;;;;;;;x
+MFQ_prussian_constitutionalism;al-Muntafiq;;;;;;;;;;;;x
+MFQ_ADJ;Muntafiq;;;;;;;;;;;;x
+LUR;Luristan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+LUR_colonial_company:Khorshidis;;;;;;;;;;;;x
+LUR_absolute_monarchy;Khorshidis;;;;;;;;;;;;x
+LUR_hms_government;Khorshidis;;;;;;;;;;;;x
+LUR_prussian_constitutionalism;Khorshidis;;;;;;;;;;;;x
+LUR_colonial_company_ADJ:Khorshidi;;;;;;;;;;;;x
+LUR_absolute_monarchy_ADJ;Khorshidi;;;;;;;;;;;;x
+LUR_hms_government_ADJ;Khorshidi;;;;;;;;;;;;x
+LUR_prussian_constitutionalism_ADJ;Khorshidi;;;;;;;;;;;;x
+LUR_ADJ;Lurish;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
