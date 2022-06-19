@@ -2,5 +2,6 @@ owner = ASB
 controller = ASB
 add_core = ASB
 add_core = TKM
+add_core = KHI
 trade_goods = fruit
 life_rating = 35

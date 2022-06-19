@@ -1,7 +1,3 @@
-owner = OGD
-controller = OGD
-add_core = OGD
-add_core = RRI
 add_core = SOM
 add_core = ETH
 trade_goods = cattle

@@ -1,6 +1,7 @@
 owner = ASB
 controller = ASB
 add_core = ASB
+add_core = KHI
 trade_goods = wool
 life_rating = 35
 terrain = semidesert
