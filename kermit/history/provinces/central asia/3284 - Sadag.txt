@@ -1,6 +1,7 @@
 owner = ASB
 controller = ASB
 add_core = ASB
+add_core = TKM
 terrain = steppe
 trade_goods = wool
 life_rating = 25
