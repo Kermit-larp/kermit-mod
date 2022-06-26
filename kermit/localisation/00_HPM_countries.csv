@@ -92,7 +92,9 @@ GCO_communist;Partido Communista;;;;;;;;;;;;;;;;;;;;;;;;;x
 GCO_fascist;Partido Fascista;;;;;;;;;;;;;;;;;;;;;;;;;;x
 MNP;Manipur;;;;;;;;;;;;;;;;;;;;;;;;x
 MNP_ADJ;Manipuri;;;;;;;;;;;;;;;;;;;;;;;;x
-BDK_absolute_monarchy;Kunduz;;;;;;;;;;;;;;;;;;;;;;;;x
+BDK_absolute_monarchy;Khanate of Kunduz;;;;;;;;;;;;;;;;;;;;;;;;x
+BDK_prussian_constitutionalism;Khanate of Kunduz;;;;;;;;;;;;;;;;;;;;;;;;x
+BDK_hms_government;Khanate of Kunduz;;;;;;;;;;;;;;;;;;;;;;;;x
 BDK;Badakhshan;;;;;;;;;;;;;;;;;;;;;;;;x
 BDK_ADJ;Badakhshani;;;;;;;;;;;;;;;;;;;;;;;;x
 guajiro;Wayuu;;;;;;;;;;;;;;;;;;;;;;;;x
