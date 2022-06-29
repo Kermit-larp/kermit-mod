@@ -1,4 +1,8 @@
 color = { 135  104  85 }
+absolute_monarchy = { 92 148 152 }
+prussian_constitutionalism = { 92 148 152 }
+hms_government = { 92 148 152 }
+
 graphical_culture = IndianGC
 
 party = {
