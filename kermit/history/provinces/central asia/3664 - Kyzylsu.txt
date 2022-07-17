@@ -1,5 +1,6 @@
-owner = KYR
-controller = KYR
+owner = XIN
+controller = XIN
+add_core = XIN
 add_core = KYR
 add_core = KOK
 trade_goods = wool

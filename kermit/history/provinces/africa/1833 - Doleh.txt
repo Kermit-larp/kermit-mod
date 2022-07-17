@@ -1,6 +1,5 @@
 owner = EGY
 controller = EGY
 add_core = EGY
-add_core = TIG
 trade_goods = tropical_wood
 life_rating = 30

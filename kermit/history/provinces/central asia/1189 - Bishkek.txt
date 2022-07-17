@@ -1,5 +1,6 @@
-owner = KOK
-controller = KOK
-add_core = KOK
+owner = KAZ
+controller = KAZ
+add_core = KAZ
+add_core = KYR
 trade_goods = wool
 life_rating = 35
