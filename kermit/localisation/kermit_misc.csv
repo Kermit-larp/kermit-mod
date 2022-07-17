@@ -105,3 +105,13 @@ HRT_communist;The Communist Faction;Faction communiste;Die kommunistische Frakti
 HRT_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;;;;;;;;;;
 KND;Kandahar;;;;;;;;;;;;;
 KND_ADJ;Kandahari;;;;;;;;;;;;;
+KHZ;Khuzestan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KHZ_colonial_company;Emirate of Arabistan;;;;;;;;;;;;x
+KHZ_absolute_monarchy;Banu Ka'ab;;;;;;;;;;;;x
+KHZ_hms_government;Banu Ka'ab;;;;;;;;;;;x
+KHZ_prussian_constitutionalism;Banu Ka'ab;;;;;;;;;;;;x
+KHZ_colonial_company_ADJ;Ka'abi;;;;;;;;;;;;x
+KHZ_absolute_monarchy_ADJ;Ka'abi;;;;;;;;;;;;x
+KHZ_hms_government_ADJ;Ka'abi;;;;;;;;;;;x
+KHZ_prussian_constitutionalism_ADJ;Ka'abi;;;;;;;;;;;;x
+KHZ_ADJ;Khuzi;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
