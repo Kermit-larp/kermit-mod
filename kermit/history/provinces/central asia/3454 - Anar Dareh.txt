@@ -1,8 +1,6 @@
-owner = TIM
-controller = TIM
-add_core = TIM
-add_core = KHR
-add_core = MHL
+owner = HRT
+controller = HRT
+add_core = HRT
 trade_goods = cattle
 life_rating = 35
 terrain = dryhills

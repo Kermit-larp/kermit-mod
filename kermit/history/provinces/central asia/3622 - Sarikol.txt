@@ -1,5 +1,6 @@
-owner = HNZ
-controller = HNZ
+owner = XIN
+controller = XIN
+add_core = XIN
 add_core = HNZ
 trade_goods = wool
 life_rating = 35

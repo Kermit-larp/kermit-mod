@@ -1478,7 +1478,7 @@
 	aristocrats = {
 		culture = panjabi
 		religion = sunni
-		size = 100
+		size = 50
 	}
 
 	clergymen = {
@@ -1520,49 +1520,7 @@
 	aristocrats = {
 		culture = rajput
 		religion = sunni
-		size = 650
-	}
-
-	clergymen = {
-		culture = rajput
-		religion = sunni
-		size = 600
-	}
-
-	artisans = {
-		culture = rajput
-		religion = sunni
-		size = 2500
-	}
-
-	soldiers = {
-		culture = rajput
-		religion = sunni
-		size = 4100
-	}
-
-	farmers = {
-		culture = rajput
-		religion = sunni
-		size = 40050
-	}
-
-	aristocrats = {
-		culture = rajput
-		religion = hindu
-		size = 150
-	}
-
-	clergymen = {
-		culture = rajput
-		religion = hindu
-		size = 125
-	}
-
-	artisans = {
-		culture = rajput
-		religion = hindu
-		size = 1100
+		size = 350
 	}
 
 	soldiers = {
@@ -10309,5 +10267,75 @@
 		culture = nepali
 		religion = hindu
 		size = 300
+	}
+}
+
+#Bahawalpur (352000/88000 POPS)
+3677 = {
+	aristocrats = {
+		culture = panjabi
+		religion = sunni
+		size = 50
+	}
+
+	soldiers = {
+		culture = panjabi
+		religion = sunni
+		size = 1100
+	}
+
+	farmers = {
+		culture = panjabi
+		religion = sunni
+		size = 30000
+	}
+	
+	aristocrats = {
+		culture = rajput
+		religion = sunni
+		size = 250
+	}
+
+	clergymen = {
+		culture = rajput
+		religion = sunni
+		size = 600
+	}
+
+	artisans = {
+		culture = rajput
+		religion = sunni
+		size = 2500
+	}
+
+	soldiers = {
+		culture = rajput
+		religion = sunni
+		size = 4100
+	}
+
+	farmers = {
+		culture = rajput
+		religion = sunni
+		size = 40050
+	}
+
+	
+	artisans = {
+		culture = rajput
+		religion = hindu
+		size = 1100
+	}
+
+	soldiers = {
+		culture = rajput
+		religion = hindu
+		size = 150
+	}
+
+	farmers = {
+		culture = rajput
+		religion = hindu
+		size = 10575
 	}
 }

@@ -1,7 +1,7 @@
-owner = SST
-controller = SST
+owner = KND
+controller = KND
+add_core = KND
 add_core = BLC
-add_core = SST
 trade_goods = grain
 life_rating = 35
 terrain = semi_desert_mountains

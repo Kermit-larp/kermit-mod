@@ -1,7 +1,6 @@
-owner = AFG
-controller = AFG
+owner = BDK
+controller = BDK
 add_core = KAL
-add_core = AFG
-add_core = HND
+add_core = BDK
 trade_goods = wool
 life_rating = 35

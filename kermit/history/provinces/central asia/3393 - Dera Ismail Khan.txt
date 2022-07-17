@@ -1,6 +1,5 @@
-owner = TIM
-controller = TIM
-add_core = TIM
-add_core = AFG
+owner = BDK
+controller = BDK
+add_core = BDK
 trade_goods = grain
 life_rating = 35

@@ -1,6 +1,6 @@
-owner = HSR
-controller = HSR
-add_core = HSR
+owner = BUK
+controller = BUK
+add_core = BUK
 trade_goods = wool
 life_rating = 35
 terrain = mountain

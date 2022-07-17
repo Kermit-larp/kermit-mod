@@ -394,17 +394,17 @@ vassal = {
 	end_date = 1949.1.1
 }
 
-# United Kingdom-Beroda
+# Mughals -Beroda
 vassal = {
-	first = ENG
+	first = MUG
 	second = BER
 	start_date = 1802.1.1
 	end_date = 1949.1.1
 }
 
-# United Kingdom-Bikaner
+# Mughals -Bikaner
 vassal = {
-	first = ENG
+	first = MUG
 	second = BIK
 	start_date = 1818.5.9
 	end_date = 1949.1.1
@@ -442,25 +442,25 @@ vassal = {
 	end_date = 1949.1.1
 }
 
-# United Kingdom-Jaipur
+# Mughals-Jaipur
 vassal = {
-	first = ENG
+	first = MUG
 	second = JAI
 	start_date = 1818.1.1
 	end_date = 1949.1.1
 }
 
-# United Kingdom-Jaisalmer
+# Mughals - Jaisalmer
 vassal = {
-	first = ENG
+	first = MUG
 	second = JAS
 	start_date = 1818.1.1
 	end_date = 1949.1.1
 }
 
-# United Kingdom-Jodhpur
+# Mughals -Jodhpur
 vassal = {
-	first = ENG
+	first = MUG
 	second = JOD
 	start_date = 1818.1.1
 	end_date = 1949.1.1
@@ -481,9 +481,9 @@ vassal = {
 #	end_date = 1949.1.1
 #}
 
-# United Kingdom-Mewar
+# Mughals -Mewar
 vassal = {
-	first = ENG
+	first = MUG
 	second = MEW
 	start_date = 1818.1.1
 	end_date = 1949.1.1
@@ -888,5 +888,77 @@ vassal = {
 	first = ZND
 	second = LUR
 	start_date = 1793.10.9
+	end_date = 1936.1.1
+}	
+
+#Kunduz - Bukkhara
+vassal = {
+	first = BDK
+	second = BUK
+	start_date = 1794.5.10
+	end_date = 1936.1.1
+}	
+
+#Kunduz - Herat
+vassal = {
+	first = BDK
+	second = HRT
+	start_date = 1799.11.12
+	end_date = 1936.1.1
+}	
+
+#Kunduz - Kandahar
+vassal = {
+	first = BDK
+	second = KND
+	start_date = 1800.1.5
+	end_date = 1936.1.1
+}	
+
+#Kunduz - Punjab
+vassal = {
+	first = BDK
+	second = PNJ
+	start_date = 1810.5.10
+	end_date = 1936.1.1
+}	
+
+#Kunduz - Maymana
+vassal = {
+	first = BDK
+	second = MYN
+	start_date = 1799.11.12
+	end_date = 1936.1.1
+}	
+
+#Kunduz - Chitral
+vassal = {
+	first = BDK
+	second = CRL
+	start_date = 1820.11.12
+	end_date = 1936.1.1
+}	
+
+#Kunduz - Wakhan
+vassal = {
+	first = BDK
+	second = WKH
+	start_date = 1820.6.9
+	end_date = 1936.1.1
+}	
+
+#Kunduz - Hunza-Nagar
+vassal = {
+	first = BDK
+	second = HNZ
+	start_date = 1821.1.4
+	end_date = 1936.1.1
+}	
+
+#Kunduz - Kashmir
+vassal = {
+	first = BDK
+	second = KAS
+	start_date = 1810.8.10
 	end_date = 1936.1.1
 }	

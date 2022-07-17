@@ -1922,6 +1922,8 @@ PNP;Pohnpei;Pohnpei;Pohnpei;;;;;;;;;;;;x
 PNP_ADJ;Pohnpeian;Pohnpeian;Pohnpeian;;;;;;;;;;;;x
 PNJ;Punjab;Pendjab;Pandschab;;Punjab;;;;;;;;;;x;;;;;;;;;;;;;;
 PNJ_ADJ;Panjabi;Penjabi;Pundschabisch;;;;;;;;;;;;x;;;;;;;;;;;;;;
+PNJ_colonial_company;Sikh Misl Confederacy;;;;;;;;;;;;x;;;;;;;;;;;;;;
+PNJ_colonial_company_ADJ;Sikh;;;;;;;;;;;;x;;;;;;;;;;;;;;
 PNJ_conservative;Khalsa;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 PNJ_liberal;Fauj-i-Khas;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 PNJ_reactionary;Misls;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;

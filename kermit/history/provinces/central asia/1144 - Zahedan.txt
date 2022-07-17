@@ -1,5 +1,5 @@
-owner = ZND
-controller = ZND
-add_core = ZND
+owner = BLC
+controller = BLC
+add_core = BLC
 trade_goods = grain
 life_rating = 35
