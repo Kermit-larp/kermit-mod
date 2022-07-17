@@ -895,7 +895,7 @@ vassal = {
 vassal = {
 	first = BDK
 	second = BUK
-	start_date = 1794.5.10
+	start_date = 1784.5.10
 	end_date = 1936.1.1
 }	
 
