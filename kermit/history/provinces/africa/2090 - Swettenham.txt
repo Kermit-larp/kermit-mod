@@ -1,5 +1,5 @@
-owner = ENG
-controller = ENG
+owner = ATR
+controller = ATR
 add_core = SAF
 trade_goods = wool
 life_rating = 35

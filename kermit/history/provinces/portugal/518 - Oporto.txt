@@ -1,14 +1,14 @@
-owner = POR
-controller = POR
-add_core = POR
+owner = ATR
+controller = ATR
+add_core = ATR
 trade_goods = fruit
 life_rating = 35
 naval_base = 1
-#state_building = {
-#	level = 1
-#	building = winery
-#	upgrade = yes
-#}
+state_building = {
+	level = 1
+	building = winery
+	upgrade = yes
+}
 1861.1.1 = {
 	state_building = {
 		level = 1

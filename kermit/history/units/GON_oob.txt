@@ -7,7 +7,7 @@ TUR = {
 	value = 30
 }
 
-SHW = {
+ADL = {
 	truce_until = 1841.1.1
 	value = 40
 }

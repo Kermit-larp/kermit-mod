@@ -1,8 +1,8 @@
-owner = SPA
-controller = SPA
-add_core = SPA
+owner = BSQ
+controller = BSQ
 add_core = BSQ
 trade_goods = iron
+naval_base = 1
 life_rating = 35
 terrain = bilbao
 

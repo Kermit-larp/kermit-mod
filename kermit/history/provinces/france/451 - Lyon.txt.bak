@@ -1,7 +1,8 @@
-owner = CAT
-controller = CAT
-add_core = CAT
+owner = SVN
+controller = SVN
+add_core = SVN
 add_core = BRG
+add_core = ITA
 trade_goods = iron
 life_rating = 30
 terrain = lyon

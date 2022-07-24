@@ -1,4 +1,4 @@
-SHW = {
+ADL = {
 	value = 40
 }
 

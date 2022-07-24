@@ -1,0 +1,38 @@
+#Sphere of Influence
+#Europe
+SEV = {
+	value = -10
+}
+
+MUR = {
+	value = 120
+}	
+
+POR = {
+	value = 90
+}	
+
+#Army
+army = {
+	name = "Army of Farûq ibn Mardanís"
+	location = 515
+	regiment = {
+		name= "1. Southern Infantry Brigade"
+		type = infantry
+		home = 515
+	}
+
+	regiment = {
+		name= "2. Southern Infantry Brigade"
+		type = infantry
+		home = 515
+	}
+
+leader = {
+	name = "Tâleb al-Amiri"
+	date = 1823.1.1
+	type = land
+	personality = clever
+	background = uncommonly_young
+	prestige = 0.2
+}

@@ -846,8 +846,11 @@ TMR_ADJ;Timorese;;;;;;;;;;;;x
 TMR_absolute_monarchy;Wehali;;;;;;;;;;;;x
 BKV;Bukovina;;;;;;;;;;;;x
 BKV_ADJ;Bukovinian;;;;;;;;;;;;x
-BLC;Baluchistan;;;;;;;;;;;;x
-BLC_ADJ;Baluchi;;;;;;;;;;;;x
+BLC;Türgeshistan;;;;;;;;;;;;x
+BLC_ADJ;Türgesh;;;;;;;;;;;;x
+BLC_absolute_monarchy;Türgesh Khaganate;;;;;;;;;;;;x
+BLC_prussian_constitutionalism;Türgesh Khaganate;;;;;;;;;;;;x
+BLC_hms_government;Kingdom of the Türgesh;;;;;;;;;;;;x
 BLZ;Belize;;;;;;;;;;;;x
 BLZ_ADJ;Belizean;;;;;;;;;;;;x
 BNG;Bangladesh;;;;;;;;;;;;x
@@ -877,7 +880,17 @@ BRT_anarcho_liberal;Strollad Radical;;;;;;;;;;;;;x
 BRT_conservative;Strollad Mirour;;;;;;;;;;;;;x
 BRU_ADJ;Bruneian;;;;;;;;;;;;;x
 BSQ;Basque Country;;;;;;;;;;;;;x
+BSQ_absolute_monarchy;Navarre;;;;;;;;;;;;;x
+BSQ_prussian_constitutionalism;Navarre;;;;;;;;;;;;;x
+BSQ_hms_government;Navarre;;;;;;;;;;;;;x
+BSQ_democracy;Basque Republic;;;;;;;;;;;;;x
+BSQ_presidential_dictatorship;Basque Republic;;;;;;;;;;;;;x
+BSQ_proletarian_dictatorship;Euskal Socialist Republic;;;;;;;;;;;;;x
+BSQ_fascist_dictatorship;Euskal Estatu Handia;;;;;;;;;;;;;x
 BSQ_ADJ;Basque;;;;;;;;;;;;;x
+BSQ_absolute_monarchy_ADJ;Navarrean;;;;;;;;;;;;;x
+BSQ_prussian_constitutionalism_ADJ;Navarrean;;;;;;;;;;;;;x
+BSQ_hms_government_ADJ;Navarrean;;;;;;;;;;;;;x
 BSQ_socialist;Abertzale Ekintza;;;;;;;;;;;;;x
 BSQ_conservative;Alderdi Jeltzalea;;;;;;;;;;;;;x
 BSQ_liberal;Alderdi Abertzale Errepublikanoa;;;;;;;;;;;;;x
@@ -1901,8 +1914,12 @@ PAN_absolute_monarchy_ADJ;Sikh;;;;;;;;;;;;x
 PAN_prussian_constitutionalism_ADJ;Sikh;;;;;;;;;;;;x
 PAN_fascist_dictatorship;Khalistan;;;;;;;;;;;;x
 PAN_fascist_dictatorship_ADJ;Khalistani;;;;;;;;;;;;x
-PHL;Philippines;Philippines;Philippinen;;;;;;;;;;;x
-PHL_ADJ;Philippine;Philippine;Philippinisch;;;;;;;;;;;x
+PHL;Tondo;Philippines;Philippinen;;;;;;;;;;;x
+PHL_ADJ;Tondoan;Philippine;Philippinisch;;;;;;;;;;;x
+PHL_absolute_monarchy;Kingdom of Tondo;;;;;;;;;;;x
+PHL_prussian_constitutionalism;Kingdom of Tondo;;;;;;;;;;;x
+PHL_hms_government;Kingdom of Tondo;;;;;;;;;;;x
+PHL_colonial_company;Kingdom of Tondo;;;;;;;;;;;x
 PHL_reactionary;Partido Tradicionalista;Partido Tradicionalista;Partido Tradicionalista;;;;;;;;;;;x
 PHL_socialist;Partido Demokratiko;Partido Demokratiko;Partido Demokratiko;;;;;;;;;;;x
 PHL_communist;Partido Komunista;Partido Komunista;Partido Komunista;;;;;;;;;;;x
@@ -1921,9 +1938,9 @@ PML_ADJ;Pomerelian;;;;;;;;;;;;x
 PNP;Pohnpei;Pohnpei;Pohnpei;;;;;;;;;;;;x
 PNP_ADJ;Pohnpeian;Pohnpeian;Pohnpeian;;;;;;;;;;;;x
 PNJ;Punjab;Pendjab;Pandschab;;Punjab;;;;;;;;;;x;;;;;;;;;;;;;;
+PNJ_colonial_company;Sikh Misl Confederacy;;;;;;;;;;x;;;;;;;;;;;;;;
+PNJ_colonial_company_ADJ;Sikh;;;;;;;;;;x;;;;;;;;;;;;;;
 PNJ_ADJ;Panjabi;Penjabi;Pundschabisch;;;;;;;;;;;;x;;;;;;;;;;;;;;
-PNJ_colonial_company;Sikh Misl Confederacy;;;;;;;;;;;;x;;;;;;;;;;;;;;
-PNJ_colonial_company_ADJ;Sikh;;;;;;;;;;;;x;;;;;;;;;;;;;;
 PNJ_conservative;Khalsa;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 PNJ_liberal;Fauj-i-Khas;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 PNJ_reactionary;Misls;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -2243,12 +2260,12 @@ SRD;Sardinia;;;;;;;;;;;;;
 SRD_ADJ;Sardinian;;;;;;;;;;;;;
 SRI;Sri Lanka;;;;;;;;;;;;;x
 SRI_ADJ;Sri Lankan;;;;;;;;;;;;;x
-SRI_absolute_monarchy;Ceylon;;;;;;;;;;;;x
-SRI_prussian_constitutionalism;Ceylon;;;;;;;;;;;;x
-SRI_hms_government;Ceylon;;;;;;;;;;;;x
-SRI_absolute_monarchy_ADJ;Ceylonian;;;;;;;;;;;;x
-SRI_prussian_constitutionalism_ADJ;Ceylonian;;;;;;;;;;;;x
-SRI_hms_government_ADJ;Ceylonian;;;;;;;;;;;;x
+SRI_absolute_monarchy;Kingdom of Kandy;;;;;;;;;;;;x
+SRI_prussian_constitutionalism;Kingdom of Kandy;;;;;;;;;;;;x
+SRI_hms_government;Kingdom of Kandy;;;;;;;;;;;;x
+SRI_absolute_monarchy_ADJ;Kandian;;;;;;;;;;;;x
+SRI_prussian_constitutionalism_ADJ;Kandian;;;;;;;;;;;;x
+SRI_hms_government_ADJ;Kandian;;;;;;;;;;;;x
 SRI_conservative;Royal Faction;;;;;;;;;;;;x
 SRI_liberal;The Liberal Faction;;;;;;;;;;;;x
 SRI_reactionary;The Nationalist Faction;;;;;;;;;;;;x
@@ -2277,6 +2294,11 @@ SUD_communist;Al Shiu'i;;;;;;;;;;;;;x
 SUD_fascist;Al Fashi;;;;;;;;;;;;;x
 SUL;Sulu;;;;;;;;;;;;;x
 SUL_ADJ;Sulu;;;;;;;;;;;;;x
+SUL_absolute_monarchy;Sulu Thalassocracy;;;;;;;;;;;;;x
+SUL_prussian_constitutionalism;Sulu Thalassocracy;;;;;;;;;;;;;x
+SUL_hms_government;Sulu Thalassocracy;;;;;;;;;;;;;x
+SUL_republic;Sulu Thalassocracy;;;;;;;;;;;;;x
+SUL_presidential_dictatorship;Sulu Thalassocracy;;;;;;;;;;;;;x
 SUL_conservative;Conservatist Faction;;;;;;;;;;;;;x
 SUL_liberal;Reformist Faction;;;;;;;;;;;;;x
 SUL_socialist;Progressive Faction;;;;;;;;;;;;;x

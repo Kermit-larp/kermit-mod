@@ -1,0 +1,8 @@
+owner = XIN
+controller = XIN
+add_core = XIN
+add_core = KYR
+add_core = KOK
+trade_goods = wool
+life_rating = 35
+terrain = dry_mountains

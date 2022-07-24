@@ -2,7 +2,7 @@ EGY = {
 	value = 30
 }
 
-SHW = {
+ADL = {
 	value = 50
 }
 

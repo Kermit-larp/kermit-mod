@@ -5,11 +5,8 @@ government = absolute_monarchy
 plurality = 5.0
 nationalvalue = nv_autocracy
 literacy = 0.04
-non_state_culture_literacy = 0.01
 civilized = yes
-
-#GreaterPowers = prestige
-prestige = 15
+prestige = 1
 
 # Political reforms
 slavery = yes_slavery

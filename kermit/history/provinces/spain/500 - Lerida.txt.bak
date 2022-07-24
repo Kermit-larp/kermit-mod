@@ -1,6 +1,5 @@
-owner = SPA
-controller = SPA
-add_core = SPA
+owner = CAT
+controller = CAT
 add_core = CAT
 trade_goods = fruit
 life_rating = 35

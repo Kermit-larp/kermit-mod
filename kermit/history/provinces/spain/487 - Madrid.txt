@@ -1,6 +1,6 @@
-owner = SPA
-controller = SPA
-add_core = SPA
+owner = BSQ
+controller = BSQ
+add_core = BSQ
 trade_goods = cattle
 life_rating = 40
 terrain = madrid

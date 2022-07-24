@@ -30,6 +30,14 @@ vassal = {
 	end_date = 1936.1.1
 }
 
+#Burgundy - Hainaut
+vassal = {
+	first = BRG
+	second = HNT
+	start_date = 1444.1.1
+	end_date = 1936.1.1
+}
+
 #Burgundy - Overijssel
 vassal = {
 	first = BRG

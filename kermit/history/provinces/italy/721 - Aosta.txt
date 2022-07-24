@@ -1,7 +1,7 @@
-owner = CAT
-controller = CAT
-add_core = CAT
-add_core = SAR
+owner = SVN
+controller = SVN
+add_core = SVN
+add_core = SVY
 add_core = ITA
 trade_goods = silk
 life_rating = 35

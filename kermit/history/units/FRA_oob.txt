@@ -1,75 +1,55 @@
 #Sphere of Influence
 LUC = {
-	value = 75
-	level = 3
+	value = 174
+	level = 4
 	influence_value = 0
 }
-BEL = {
-	value = 125		#relation
-	level = 4		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
-}
-LUX = {
+
+SWE = {
 	value = 125		#relation
 	level = 3		#3=cordial, 4 = friendly, 5 sphere
 	influence_value = 25
 }
-NET = {
-	value = -100
-		#relation
-
-	level = 3
-		#3=cordial, 4 = friendly, 5 sphere
-
-}
-PAP = {
+SVN = {
 	value = 125		#relation
 	level = 5		#3=cordial, 4 = friendly, 5 sphere
 	influence_value = 25
 }
-SIC = {
-	value = 125		#relation
+
+LOM = {
+	value = 150		#relation
 	level = 3		#3=cordial, 4 = friendly, 5 sphere
 	influence_value = 25
 }
-SWI = {
-	value = 125		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
+
+GEN = {
+	value = 190		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
 	influence_value = 25
-}
-SAR = {
-	value = 125		#relation
-	level = 4		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
-}
-GRE = {
-	value = 75	#relation
-	level = 4		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 10
 }
 
 #GPs
-ENG = { value = 25 }
+ENG = { value = -125 }
 RUS = { value = 25 }
 AUS = { value = -50 }
 USA = { value = 150 }
-PRU = { value = -50 }
+BRG = { value = -100 }
 TUR = { value = -75 }
-SPA = { value = 55 }
+BSQ = { value = -15 }
 
 army = {
 	name = "Garde Royale"
-	location = 425
+	location = 442
 	regiment = {
 		name= "1.Garde Royale"
 		type = guard
-		home = 425
+		home = 442
 	}
 
 	regiment = {
 		name= "2.Garde Royale"
 		type = guard
-		home = 426
+		home = 444
 	}
 
 	regiment = {
@@ -134,7 +114,7 @@ army = {
 }
 army = {
 	name = "1ère Armée"
-	location = 409
+	location = 458
 	
 	regiment = {
 		name= "1ère Division d'Hussard"
@@ -176,6 +156,12 @@ army = {
 		name= "2.3ème Division d'Infanterie"
 		type = infantry
 		home = 399
+	}
+	
+	regiment = {
+		name= "2.4ème Division d'Infanterie"
+		type = infantry
+		home = 426
 	}
 
 	regiment = {
@@ -333,7 +319,7 @@ army = {
 	regiment = {
 		name= "1ème Division d'Artillerie"
 		type = artillery
-		home = 442
+		home = 425
 	}
 
 	regiment = {
@@ -374,8 +360,8 @@ army = {
 }
 
 army = {
-	name = "Force d'intervention Espagnole"
-	location = 458
+	name = "Force d'intervention Bourguignon"
+	location = 425
 	regiment = {
 		name= "1.8ème Division d'Infanterie"
 		type = infantry
@@ -444,28 +430,6 @@ army = {
 
 }
 
-army = {
-	name = "Garnison du Sénégal"
-	location = 1784
-	regiment = {
-		name= "1.10ème Division d'Infanterie"
-		type = infantry
-		home = 411
-	}
-
-	regiment = {
-		name= "2.10ème Division d'Infanterie"
-		type = infantry
-		home = 407
-	}
-
-	regiment = {
-		name= "3.10ème Division d'Infanterie"
-		type = infantry
-		home = 444
-	}
-
-}
 
 army = {
 	name = "Garnison de Côte d'Ivoire"

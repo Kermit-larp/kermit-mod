@@ -1,0 +1,188 @@
+SEV = {
+	value = -100
+}
+
+POR = {
+	value = 10
+}
+
+BSQ = {
+	value = 60
+}	
+
+
+#Army
+army = {
+	name = "Exércitu Real Asturianu"
+	location = 477
+	
+	regiment = {
+		name = "1. Brigada d'Infantería 'Santolaya'"
+		type = infantry
+		home = 474
+	}
+
+	regiment = {
+		name= "2. Brigada d'Infantería"
+		type = artillery
+		home = 474
+	}
+	
+	regiment = {
+		name= "Errege Guardia"
+		type = guard
+		home = 475
+	}
+	
+	regiment = {
+		name= "3. Brigada d'Infantería 'El Lleones'"
+		type = infantry
+		home = 475
+	}
+
+	regiment = {
+		name= "1. Brigada d'Artillería"
+		type = artillery
+		home = 518
+	}
+	
+	regiment = {
+		name= "Húsares del Príncipe de Llión"
+		type = artillery
+		home = 519
+	}
+}
+
+
+army = {
+	name = "Exércitu de Cuba"
+	location = 2209
+	
+	regiment = {
+		name = "1. Brigada Colonial"
+		type = infantry
+		home = 2209
+	}
+}
+
+
+navy = {
+	name = "Armada Real d'Uviéu"
+	location = 475
+	
+	ship = {
+		name = "Santolaya de Mérida"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Espertu"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Esperanza"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Santiago"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Virxe de Garabandal"
+		type = frigate
+	}
+	
+	ship = {
+		name= "1a Flotilla de Tresporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2a Flotilla de Tresporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3a Flotilla de Tresporte"
+		type = clipper_transport
+	}
+}
+
+navy = {
+	name = "Armada de les Indies Occidentales"
+	location = 2209
+	ship = {
+		name= "Francisco de Garráis"
+		type = manowar
+	}
+
+	ship = {
+		name= "Nube"
+		type = manowar
+	}
+
+	ship = {
+		name= "San Mateo"
+		type = manowar
+	}
+
+	ship = {
+		name= "Viquingu"
+		type = frigate
+	}
+
+	ship = {
+		name= "Xúpiter"
+		type = frigate
+	}
+
+	ship = {
+		name= "Mayes"
+		type = frigate
+	}
+
+	ship = {
+		name= "1a Flotilla de Tresporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2a Flotilla de Tresporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3a Flotilla de Tresporte"
+		type = clipper_transport
+	}
+}
+
+leader = {
+	name = "Bilio Noriega"
+	date = 1833.1.1
+	type = land
+	personality = stalwart
+	background = nationalist
+	prestige = 0.0
+}
+
+leader = {
+	name = "Viges de la Rosa"
+	date = 1836.1.1
+	type = land
+	personality = spirited
+	background = powerful_friends
+	prestige = 0.0
+}
+
+leader = {
+	name = "Matías Xavier Pastur"
+	date = 1836.1.1
+	type = land
+	personality = soldierly
+	background = amateur
+	prestige = 0.0
+}

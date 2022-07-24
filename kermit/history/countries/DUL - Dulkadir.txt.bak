@@ -1,4 +1,4 @@
-capital = 893
+capital = 3417
 primary_culture = turkish
 religion = sunni
 government = absolute_monarchy
@@ -39,7 +39,7 @@ centralization = regionalism
 colonial_policy = settlement 
 
 
-ruling_party = TUR_conservative
+ruling_party = DUL_conservative
 upper_house = {
 	fascist = 0
 	liberal = 25
@@ -79,4 +79,4 @@ dragoon_activation = yes
 consciousness = 1
 nonstate_consciousness = 0
 
-oob = "KRM_oob.txt"
+oob = "DUL_oob.txt"

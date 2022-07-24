@@ -42,6 +42,4 @@ leader = {
 	background = school_of_defense
 	personality = implacable
 	prestige = 0.9
-	}
-}
-	 
+}	 

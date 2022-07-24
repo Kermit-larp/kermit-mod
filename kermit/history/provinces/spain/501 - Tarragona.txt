@@ -1,6 +1,7 @@
-owner = CAT
-controller = CAT
+owner = SVN
+controller = SVN
 add_core = CAT
+add_core = SVN
 trade_goods = grain
 life_rating = 35
 1861.1.1 = { railroad = 3 }

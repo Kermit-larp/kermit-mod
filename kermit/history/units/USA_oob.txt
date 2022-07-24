@@ -384,11 +384,6 @@ MAD = {
 	influence_value = 0
 }
 
-WRL = {
-	value = 0
-	level = 0
-	influence_value = 0
-}
 
 MAJ = {
 	value = 0
@@ -432,7 +427,7 @@ KAF = {
 	influence_value = 0
 }
 
-SHW = {
+ADL = {
 	value = 0
 	level = 0
 	influence_value = 0

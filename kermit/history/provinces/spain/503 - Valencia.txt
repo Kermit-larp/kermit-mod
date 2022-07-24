@@ -1,7 +1,6 @@
-owner = SPA
-controller = SPA
-add_core = SPA
-add_core = CAT
+owner = MUR
+controller = MUR
+add_core = MUR
 trade_goods = fruit
 life_rating = 35
 terrain = valencia

@@ -93,7 +93,7 @@ party = {
 }
 
 party = {
-	name = "KAR_communist"
+	name = "KRM_communist"
 	start_date = 1878.1.1
 	end_date = 2000.1.1
 
@@ -108,7 +108,7 @@ party = {
 }
 
 party = {
-	name = "KAR_fascist"
+	name = "KRM_fascist"
 	start_date = 1900.1.1
 	end_date = 2000.1.1
 

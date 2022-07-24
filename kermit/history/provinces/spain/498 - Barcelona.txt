@@ -1,6 +1,7 @@
-owner = CAT
-controller = CAT
+owner = SVN
+controller = SVN
 add_core = CAT
+add_core = SVN
 trade_goods = cattle
 life_rating = 35
 terrain = barcelona

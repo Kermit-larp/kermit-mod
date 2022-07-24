@@ -1,5 +1,6 @@
-owner = SAR
-controller = SAR
+owner = SVN
+controller = SVN
+add_core = SVN
 add_core = SAR
 add_core = ITA
 trade_goods = fruit
@@ -10,21 +11,21 @@ state_building = {
 	building = luxury_clothes_factory
 	upgrade = yes
 }
-#state_building = {
-#	level = 1
-#	building = fabric_factory
-#	upgrade = yes
-#}
-#state_building = {
-#	level = 1
-#	building = ammunition_factory
-#	upgrade = yes
-#}
-#state_building = {
-#	level = 1
-#	building = small_arms_factory
-#	upgrade = yes
-#}
+state_building = {
+	level = 1
+	building = fabric_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = ammunition_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = small_arms_factory
+	upgrade = yes
+}
 1861.1.1 = {
 	controller = ITA
 	owner = ITA

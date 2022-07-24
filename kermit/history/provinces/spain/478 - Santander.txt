@@ -1,6 +1,7 @@
-owner = SPA
-controller = SPA
-add_core = SPA
+owner = BSQ
+controller = BSQ
+add_core = BSQ
+add_core = ATR
 trade_goods = fish
 life_rating = 35
 1861.1.1 = { railroad = 3 }

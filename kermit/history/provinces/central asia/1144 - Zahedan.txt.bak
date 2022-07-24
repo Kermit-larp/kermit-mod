@@ -1,0 +1,5 @@
+owner = ZND
+controller = ZND
+add_core = ZND
+trade_goods = grain
+life_rating = 35

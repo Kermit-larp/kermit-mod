@@ -2,7 +2,7 @@ GON = {
 	value = -200
 }
 
-SHW = {
+ADL = {
 	value = -200
 }
 
@@ -31,10 +31,6 @@ SID = {
 }
 
 MAJ = {
-	value = -200
-}
-
-WRL = {
 	value = -200
 }
 

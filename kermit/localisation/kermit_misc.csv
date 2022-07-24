@@ -115,3 +115,33 @@ KHZ_absolute_monarchy_ADJ;Ka'abi;;;;;;;;;;;;x
 KHZ_hms_government_ADJ;Ka'abi;;;;;;;;;;;x
 KHZ_prussian_constitutionalism_ADJ;Ka'abi;;;;;;;;;;;;x
 KHZ_ADJ;Khuzi;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+SVN;Savoy-Aragon;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+SVN_ADJ;Perforaniean;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+SEV_absolute_monarchy;Sultanate of Ishbiliyah;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+SEV_prussian_constitutionalism;Sultanate of Ishbiliyah;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+SEV_hms_government;Sultanate of Ishbiliyah;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+SEV;Ishbiliyah;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+SEV_ADJ;Ishbiliyan;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+POR_absolute_monarchy;Emirate of Batalyaws;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+POR_prussian_constitutionalism;Emirate of Batalyaws;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+POR_hms_government;Kingdom of Lwsitanya;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+POR_republic;Republic of Lwsitanya;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+POR_presidential_dictatorship;Republic of Lwsitanya;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+POR_proletarian_dictatorship;Worker's State of Lwsitanya;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+POR_fascist_dictatorship;Lwsitanyan State;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+POR_ADJ;Lwsitanyan;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+POR_absolute_monarchy_ADJ;Batalyawsan;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+POR_prussian_constitutionalism_ADJ;Batalyawsan;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+VAL;Balansiya;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+MUR;Mursiya;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+MUR_colonial_company;Taifa of Mursiya;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+MUR_absolute_monarchy;Taifa of Mursiya;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+MUR_prussian_constitutionalism;Taifa of Mursiya;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+MUR_hms_government;Kingdom of Mursiya;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+MUR_ADJ;Mursiyan;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+ALM;al-Mariyya;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+ALM_colonial_company;Taifa of al-Mariyya;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+ALM_absolute_monarchy;Taifa of al-Mariyya;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+ALM_prussian_constitutionalism;Taifa of al-Mariyya;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+ALM_hms_government;Principality of al-Mariyya;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+ALM_ADJ;Mursiyan;;;;;;;;;;;;;;;;;;;;;;;x;;;;

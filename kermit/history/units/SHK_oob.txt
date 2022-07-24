@@ -6,7 +6,7 @@ GON = {
 	value = -10
 }
 
-SHW = {
+ADL = {
 	value = -10
 }
 

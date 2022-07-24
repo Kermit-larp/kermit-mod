@@ -141,7 +141,7 @@ post_napoleonic_thought = {
 
 strategic_mobility = {
 	area = army_doctrine
-	year = 1836
+	year = 1840
 	cost = 7200
 	unciv_military = yes
 	
