@@ -1,6 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = ENG
+owner = SEV
+controller = SEV
+add_core = SEV
 #terrain = urban
 trade_goods = fish
 life_rating = 35

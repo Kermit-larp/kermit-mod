@@ -1,7 +1,7 @@
-owner = SVN
-controller = SVN
+owner = ADO
+controller = ASO
+add_core = ADO
 add_core = CAT
-add_core = SVN
 trade_goods = cattle
 life_rating = 25
 
