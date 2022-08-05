@@ -1,4 +1,4 @@
-capital = 641
+capital = 599
 primary_culture = hungarian
 religion = catholic
 government = absolute_monarchy
@@ -6,6 +6,7 @@ plurality = 0.0
 nationalvalue = nv_order
 literacy = 0.25
 civilized = yes
+prestige = 50
 
 # Political reforms
 slavery = no_slavery
@@ -38,6 +39,8 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 set_country_flag = catholic_country
+
+oob = "HUN_oob.txt"
 
 ruling_party = HUN_conservative
 upper_house = {

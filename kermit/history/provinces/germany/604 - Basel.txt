@@ -1,6 +1,6 @@
-owner = SWI
-controller = SWI
-add_core = SWI
+owner = BRN
+controller = BRN
+add_core = BRN
 trade_goods = fruit
 life_rating = 32
 fort = 1

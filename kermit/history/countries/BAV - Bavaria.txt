@@ -1,12 +1,14 @@
-capital = 599
+capital = 3298
 primary_culture = south_german
 religion = catholic
-government = absolute_monarchy
+government = theocracy
 plurality = 15.0
 nationalvalue = nv_order
 literacy = 0.7
 civilized = yes
 prestige = 0
+
+set_country_flag = theocratic_government
 
 # Political reforms
 slavery = no_slavery

@@ -1,0 +1,60 @@
+BAV = {
+	value = 75
+	level = 5
+	influence_value = 125
+	military_access = yes
+}
+BAD = {
+	value = 100
+	level = 5
+	influence_value = 100
+	military_access = yes
+}
+SWI = {
+	value = 60
+	level = 5
+	influence_value = 100
+	military_access = yes
+}
+BRN = {
+	value = 100
+	level = 5
+	influence_value = 90
+	military_access = yes
+}
+ULM = {
+	value = 100
+	level = 5
+	influence_value = 150
+	military_access = yes
+}
+SGM = {
+	value = 100
+	level = 5
+	influence_value = 150
+	military_access = yes
+}
+LIE = {
+	value = 100
+	level = 5
+	influence_value = 150
+	military_access = yes
+}
+VLS = {
+	value = 100
+	level = 5
+	influence_value = 150
+	military_access = yes
+}
+SLZ = {
+	value = 100
+	level = 5
+	influence_value = 150
+	military_access = yes
+}
+RAE = {
+	value = 100
+	level = 5
+	influence_value = 150
+	military_access = yes
+}

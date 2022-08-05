@@ -1,6 +1,6 @@
-owner = SWI
-controller = SWI
-add_core = SWI
+owner = VLS
+controller = VLS
+add_core = VLS
 trade_goods = cattle
 life_rating = 32
 terrain = mountain

@@ -6,6 +6,12 @@ life_rating = 34
 terrain = bern
 fort = 1
 
+state_building = {
+	level = 1
+	building = glass_factory
+	upgrade = yes
+}
+
 party_loyalty = {
 	ideology = conservative
 	loyalty_value = 1

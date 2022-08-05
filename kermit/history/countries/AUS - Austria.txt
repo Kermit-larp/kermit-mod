@@ -8,9 +8,6 @@ nationalvalue = nv_autocracy
 literacy = 0.45
 civilized = yes
 
-#GreaterPowers = prestige
-prestige = 70
-
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
@@ -100,7 +97,6 @@ guild_based_production = 1
 piston_steam_engine = 1
 mechanical_production = 1
 mechanized_mining = 1
-basic_chemistry = 1
 
 #Inventions
 

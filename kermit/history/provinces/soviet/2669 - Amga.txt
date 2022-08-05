@@ -1,8 +1,6 @@
-owner = LOM
-controller = LOM
-add_core = LOM
-add_core = PAR
-add_core = ITA
+owner = RAE
+controller = RAE
+add_core = RAE
 trade_goods = iron
 life_rating = 35
 1861.1.1 = {

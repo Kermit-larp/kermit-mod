@@ -1,15 +1,14 @@
-capital = 605
-primary_culture = swiss_german
-culture = swiss_french
+capital = 606
+primary_culture = romansh
 culture = swiss_italian
-culture = romansh
+culture = swiss_german
 religion = protestant
-government = democracy
+government = colonial_company
 plurality = 40.0
 nationalvalue = nv_liberty
 literacy = 0.8
 civilized = yes
-prestige = 10
+prestige = 6
 
 # Political reforms
 slavery = no_slavery

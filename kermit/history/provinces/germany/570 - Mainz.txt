@@ -1,6 +1,6 @@
-owner = PAL
-controller = PAL
-add_core = PAL
+owner = MAI
+controller = MAI
+add_core = MAI
 add_core = RHI
 trade_goods = sulphur
 life_rating = 40

@@ -6,7 +6,8 @@ religion = catholic
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
-literacy = 0.446917
+literacy = 0.496917
+prestige = 80
 
 civilized = yes
 
