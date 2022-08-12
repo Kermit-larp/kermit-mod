@@ -2495,13 +2495,68 @@
 	aristocrats = {
 		culture = swiss_german
 		religion = protestant
-		size = 500 
+		size = 200 
 	}
 
 	clergymen = {
 		culture = swiss_german
 		religion = protestant
-		size = 500 
+		size = 200 
+	}
+
+	artisans = {
+		culture = swiss_german
+		religion = protestant
+		size = 2600
+	}
+
+	soldiers = {
+		culture = swiss_german
+		religion = protestant
+		size = 550
+	}
+
+	farmers = {
+		culture = swiss_german
+		religion = protestant
+		size = 46850 
+	}
+	clergymen = {
+		culture = swiss_german
+		religion = catholic
+		size = 100         
+	}
+
+	artisans = {
+		culture = swiss_german
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = swiss_german
+		religion = catholic
+		size = 100         
+	}
+
+	farmers = {
+		culture = swiss_german
+		religion = catholic
+		size = 10300       
+	}
+}
+
+3678 = {
+	aristocrats = {
+		culture = swiss_german
+		religion = protestant
+		size = 300 
+	}
+
+	clergymen = {
+		culture = swiss_german
+		religion = protestant
+		size = 300 
 	}
 
 	artisans = {

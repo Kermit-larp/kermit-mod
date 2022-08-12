@@ -1,6 +1,6 @@
-owner = SAX
-controller = SAX
-add_core = SAX
+owner = COB
+controller = COB
+add_core = COB
 add_core = GER
 trade_goods = coal
 life_rating = 40

@@ -38,13 +38,14 @@ PAL_ADJ;Palatinate;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 PAL_absolute_monarchy;Electorate of the Palatinate;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 PAL_prussian_constitutionalism;Electorate of the Palatinate;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 PAL_hms_government;Electorate of the Palatinate;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-LGE_absolute_monarchy;Prince-Bishopric of Liège;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-LGE_prussian_constitutionalism;Prince-Bishopric of Liège;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-LGE_hms_government;Prince-Bishopric of Liège;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+LGE_theocracy;Prince-Bishopric of Liège;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+LGE_absolute_monarchy;Grand Duchy of Liège;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+LGE_prussian_constitutionalism;Grand Duchy of Liège;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+LGE_hms_government;Grand Duchy of Liège;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 LGE_democracy;Republic of Liège;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 LGE_presidential_dictatorship;Republic of Liège;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-LGE;Liege;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-LGE_ADJ;Liege;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+LGE;Liège;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+LGE_ADJ;Liège;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 ZLD;Zeeland;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 ZLD_ADJ;Zeeuw;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 OVJ;Overijssel;;;;;;;;;;;;;;;;;;;;;;;x;;;;
@@ -188,6 +189,9 @@ SLZ_hms_government;Electorate of Salzburg;;;;;;;;;;;;;x,
 SLZ_ADJ;Salzburgian;;;;;;;;;;;;;x,
 MAI;Mainz;;;;;;;;;;;;;;x,
 MAI_theocracy;Archbishopric of Mainz;;;;;;;;;;;;;x,
+MAI_absolute_monarchy;Electorate of Mainz;;;;;;;;;;;;;x,
+MAI_prussian_constitutionalism;Electorate of Mainz;;;;;;;;;;;;;x,
+MAI_hms_government;Electorate of Mainz;;;;;;;;;;;;;x,
 MAI_ADJ;Mainz;;;;;;;;;;;;;x,
 RAE;Three Leagues of Raetia;;;;;;;;;;;;;x,
 RAE_ADJ;Raetian;;;;;;;;;;;;;x,
@@ -205,3 +209,31 @@ BAV_prussian_constitutionalism;Duchy of Passau;;;;;;;;;;;;;x
 BAV_hms_government;Duchy of Passau;;;;;;;;;;;;;x
 BAV_ADJ;Passauan;;;;;;;;;;;;;x
 BAV;Passau;;;;;;;;;;;;;x
+WUR;Konstanz;;;;;;;;;;;;;x
+WUR_ADJ;Konstanzian;;;;;;;;;;;;;x
+THU;Thuringia;;;;;;;;;;;;;x
+THU_absolute_monarchy;Grand Duchy of Thuringia;;;;;;;;;;;;;x
+THU_prussian_constitutionalism;Grand Duchy of Thuringia;;;;;;;;;;;;;x
+THU_hms_government;Grand Duchy of Thuringia;;;;;;;;;;;;;x
+THU_ADJ;Thuringian;;;;;;;;;;;;;x
+MEI;County of Hanau;;;;;;;;;;;;;x
+MEI_ADJ;Hanau;;;;;;;;;;;;;x
+WEI;Duchy of Erfurt-Weimar;;;;;;;;;;;;;x
+WEI_ADJ;Weimar;;;;;;;;;;;;;x 
+COB;Margravate of Meissen;;;;;;;;;;;;;x 
+COB_ADJ;Meissenian;;;;;;;;;;;;;x 
+MST;Saxe-Strelitz;;;;;;;;;;;;;x
+MST_ADJ;Strelitzan;;;;;;;;;;;;;x
+STY;Styria;;;;;;;;;;;;;x
+STY_absolute_monarchy;Duchy of Styria;;;;;;;;;;;;;x
+STY_prussian_constitutionalism;Duchy of Styria;;;;;;;;;;;;;x
+STY_hms_government;Duchy of Styria;;;;;;;;;;;;;x
+STY_ADJ;Styrian;;;;;;;;;;;;;x
+SLO_absolute_monarchy;Duchy of Carniola-Gorizia;;;;;;;;;;;;;x
+SLO_prussian_constitutionalism;Duchy of Carniola-Gorizia;;;;;;;;;;;;;x
+SLO_hms_government;Duchy of Carniola-Gorizia;;;;;;;;;;;;;x
+SLO_colonial_company;Duchy of Carniola-Gorizia;;;;;;;;;;;;;x
+SLO_absolute_monarchy_ADJ;Carniolan;;;;;;;;;;;;;x
+SLO_prussian_constitutionalism_ADJ;Carniolan;;;;;;;;;;;;;x
+SLO_hms_government_ADJ;Carniolan;;;;;;;;;;;;;x
+SLO_colonial_company_ADJ;Carniolan;;;;;;;;;;;;;x

@@ -1,5 +1,6 @@
-owner = AUS
-controller = AUS
+owner = HUN
+controller = HUN
 add_core = VEN
+add_core = HUN
 trade_goods = iron
 life_rating = 35

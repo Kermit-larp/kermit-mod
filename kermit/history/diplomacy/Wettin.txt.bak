@@ -1,0 +1,17 @@
+#This txt file show all Saxon vassals
+
+# Weimar
+vassal = {
+	first = SAX
+	second = WEI
+	start_date = 1643.1.1
+	end_date = 1840.7.1
+}
+
+#Schwerin
+vassal = {
+	first = SAX
+	second = MST
+	start_date = 1728.1.1
+	end_date = 1840.7.1
+}

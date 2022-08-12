@@ -294,7 +294,7 @@ THU_556 = { 556 555 559 3255 } #Ostthüringen
 
 SAX_558 = { 558 560 } #Krušné Hory
 
-HES_566 = { 566 567 568 3257 } #Osthessen
+HES_566 = { 566 567 568 3257 3678 } #Osthessen
 
 PRU_570 = { 570 2560 564 565 3270 } #Westhessen
 

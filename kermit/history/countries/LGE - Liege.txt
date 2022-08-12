@@ -1,13 +1,15 @@
 capital = 395
 primary_culture = wallonian
 religion = catholic
-government = hms_government
+government = theocracy
 plurality = 25.0
 nationalvalue = nv_liberty
 literacy = 0.45
 non_state_culture_literacy = 0.5 #Germans/Dutch
 civilized = yes
 prestige = 5
+
+set_country_flag = theocratic_government
 
 # Political reforms
 slavery = no_slavery
