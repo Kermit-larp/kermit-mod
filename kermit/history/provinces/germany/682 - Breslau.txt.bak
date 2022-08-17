@@ -1,7 +1,6 @@
 owner = SLS
 controller = SLS
 add_core = SLS
-add_core = GER
 trade_goods = grain
 life_rating = 40
 terrain = breslau

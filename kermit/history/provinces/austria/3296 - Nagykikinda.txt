@@ -1,7 +1,7 @@
-owner = HUN
-controller = HUN
+owner = BKV
+controller = BKV
 add_core = SER
 add_core = BAN
-add_core = HUN
+add_core = BKV
 trade_goods = fruit
 life_rating = 35

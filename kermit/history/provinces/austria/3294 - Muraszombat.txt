@@ -1,8 +1,7 @@
-owner = HUN
-controller = HUN
+owner = PNN
+controller = PNN
 add_core = SLO
-add_core = CMN
-add_core = HUN
+add_core = PNN
 trade_goods = timber
 life_rating = 35
 

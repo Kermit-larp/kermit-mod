@@ -228,6 +228,7 @@ STY;Styria;;;;;;;;;;;;;x
 STY_absolute_monarchy;Duchy of Styria;;;;;;;;;;;;;x
 STY_prussian_constitutionalism;Duchy of Styria;;;;;;;;;;;;;x
 STY_hms_government;Duchy of Styria;;;;;;;;;;;;;x
+STY_colonial_company;Duchy of Styria;;;;;;;;;;;;;x
 STY_ADJ;Styrian;;;;;;;;;;;;;x
 SLO_absolute_monarchy;Duchy of Carniola-Gorizia;;;;;;;;;;;;;x
 SLO_prussian_constitutionalism;Duchy of Carniola-Gorizia;;;;;;;;;;;;;x
@@ -237,3 +238,9 @@ SLO_absolute_monarchy_ADJ;Carniolan;;;;;;;;;;;;;x
 SLO_prussian_constitutionalism_ADJ;Carniolan;;;;;;;;;;;;;x
 SLO_hms_government_ADJ;Carniolan;;;;;;;;;;;;;x
 SLO_colonial_company_ADJ;Carniolan;;;;;;;;;;;;;x
+PNN;Panonijan;;;;;;;;;;;;;x
+PNN_ADJ;Panonijan;;;;;;;;;;;;;x
+PNN_colonial_company;Principality of Panonija;;;;;;;;;;;;;x
+PNN_absolute_monarchy;Principality of Panonija;;;;;;;;;;;;;x
+PNN_prussian_constitutionalism;Principality of Panonija;;;;;;;;;;;;;x
+PNN_hms_government;Principality of Panonija;;;;;;;;;;;;;x

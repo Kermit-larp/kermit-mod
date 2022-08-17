@@ -1,6 +1,6 @@
-owner = SLS
-controller = SLS
-add_core = SLS
+owner = BOH
+controller = BOH
+add_core = BOH
 trade_goods = grain
 life_rating = 40
 terrain = breslau

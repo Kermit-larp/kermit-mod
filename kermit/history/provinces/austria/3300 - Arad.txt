@@ -1,6 +1,6 @@
-owner = HUN
-controller = HUN
-add_core = HUN
+owner = BKV
+controller = BKV
+add_core = BKV
 add_core = ROM
 add_core = BAN
 trade_goods = grain

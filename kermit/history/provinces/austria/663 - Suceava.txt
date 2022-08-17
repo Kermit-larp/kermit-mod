@@ -1,8 +1,6 @@
-owner = HUN
-controller = HUN
+owner = SIE
+controller = SIE
 add_core = ROM
-add_core = MOL
-add_core = HUN
-add_core = BKV
+add_core = SIE
 trade_goods = cattle
 life_rating = 35

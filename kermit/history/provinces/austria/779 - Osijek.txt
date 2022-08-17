@@ -1,6 +1,6 @@
-owner = AUS
-controller = AUS
+owner = PNN
+controller = PNN
 add_core = CRO
-add_core = HUN
+add_core = PNN
 trade_goods = cattle
 life_rating = 35
