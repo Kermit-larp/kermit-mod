@@ -146,31 +146,23 @@ ALM_absolute_monarchy;Taifa of al-Mariyya;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 ALM_prussian_constitutionalism;Taifa of al-Mariyya;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 ALM_hms_government;Principality of al-Mariyya;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 ALM_ADJ;Mursiyan;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-BOH_ADJ;Ceský;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 BOH_colonial_company;Protektorat Böhmen-Mähren;;;;;;;;;;;;;x,
 BOH_dominion;Böhmen-Mähren;;;;;;;;;;;;;x,
-BOH_colonial_company_ADJ;Böhmen;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-BOH_dominion_ADJ;Böhmen;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-BOH_absolute_monarchy_ADJ;Bohémské;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-BOH_hms_government_ADJ;Bohémské;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-BOH_prussian_constitutionalism_ADJ;Bohémské;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-BOH_absolute_monarchy;Ceské Impérium;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-BOH_prussian_constitutionalism;Ceské Impérium;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-BOH_hms_government;Ceské Impérium;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-BOH_democracy;Bohemian Republic;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-BOH_presidential_dictatorship;Bohemian Republic;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-BOH_proletarian_dictatorship;Bohemian Socialist Worker's Republic;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-BOH_fascist_dictatorship;Greater Bohemian-Moravian State;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-AUS_colonial_company;Grand Duchy of Rakousko;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-AUS_colonial_company_ADJ;Rakousko;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+BOH_colonial_company_ADJ;Mähren;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+BOH_dominion_ADJ;Mähren;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+BOH_ADJ;Moravian;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+BOH_absolute_monarchy;The Moravian Empire;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+BOH_prussian_constitutionalism;The Moravian Empire;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+BOH_hms_government;The Moravian Empire;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+BOH_democracy;Moravian Republic;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+BOH_presidential_dictatorship;Moravian Republic;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+BOH_proletarian_dictatorship;Moravian Socialist Worker's Republic;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+BOH_fascist_dictatorship;Great Moravian State;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 SLV_colonial_company;Capitaincy of Slovensko;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 SLV_dominion;Capitaincy of Slovensko;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 SLV_ADJ;Slovenský;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-SLS_colonial_company;Duchy of Slezsko;;;;;;;;;;;;;x,
-SLS_dominion;Duchy of Slezsko;;;;;;;;;;;;;x,
-SLS_colonial_company_ADJ;Slezský;;;;;;;;;;;;;x,
-CRO_colonial_company;Capitaincy of Chorvatsko;;;;;;;;;;;;;x,
-CRO_colonial_company_ADJ;Chorvatský;;;;;;;;;;;;;x,
+SLS;Lužická League;;;;;;;;;;;;;x,
+SLS_ADJ;Lusatia;;;;;;;;;;;;;x,
 BRN;Lémanland;;;;;;;;;;;;;x,
 BRN_colonial_company;Léman Confederacy;;;;;;;;;;;;;x,
 BRN_democracy;Léman Confederacy;;;;;;;;;;;;;x,
@@ -244,3 +236,8 @@ PNN_colonial_company;Principality of Panonija;;;;;;;;;;;;;x
 PNN_absolute_monarchy;Principality of Panonija;;;;;;;;;;;;;x
 PNN_prussian_constitutionalism;Principality of Panonija;;;;;;;;;;;;;x
 PNN_hms_government;Principality of Panonija;;;;;;;;;;;;;x
+POM;Pomerania;;;;;;;;;;;;;x
+POM_ADJ;Pomeranian;;;;;;;;;;;;;x
+POM_absolute_monarchy;Grand Duchy of Pommern;;;;;;;;;;;;;x
+POM_prussian_constitutionalism;Grand Duchy of Pommern;;;;;;;;;;;;;x
+POM_hms_government;Grand Duchy of Pommern;;;;;;;;;;;;;x
