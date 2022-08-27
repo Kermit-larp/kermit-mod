@@ -64,3 +64,24 @@ RAE = {
 	influence_value = 150
 	military_access = yes
 }
+
+STY = {
+	value = 100
+	level = 5
+	influence_value = 150
+	military_access = yes
+}
+
+SLO = {
+	value = 100
+	level = 5
+	influence_value = 150
+	military_access = yes
+}
+
+VEN = {
+	value = 45
+	level = 4
+	influence_value = 70
+	military_access = yes
+}

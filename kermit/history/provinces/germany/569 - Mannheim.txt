@@ -1,6 +1,6 @@
-owner = BAD
-controller = BAD
-add_core = BAD
+owner = PAL
+controller = PAL
+add_core = PAL
 add_core = GER
 trade_goods = grain
 life_rating = 40

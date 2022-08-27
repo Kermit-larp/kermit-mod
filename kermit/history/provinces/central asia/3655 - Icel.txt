@@ -1,6 +1,6 @@
-owner = EGY
-controller = EGY
-add_core = EGY
+owner = KRM
+controller = KRM
+add_core = KRM
 trade_goods = fish
 life_rating = 35
 terrain = dryhills

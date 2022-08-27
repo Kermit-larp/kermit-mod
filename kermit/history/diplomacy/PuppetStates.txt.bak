@@ -1003,3 +1003,12 @@ vassal = {
 	start_date = 1789.11.9
 	end_date = 1936.1.1
 }
+
+
+#Moravia - Bukovina
+vassal = {
+	first = BOH
+	second = BKV
+	start_date = 1789.11.9
+	end_date = 1936.1.1
+}

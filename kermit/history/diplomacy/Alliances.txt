@@ -185,19 +185,6 @@ alliance = {
 	end_date = 1911.1.1
 }
 
-#Russia/Transcaucasia
-alliance = {
-	first = RUS
-	second = TCA
-	start_date = 1835.1.1
-	end_date = 1881.1.1
-}
-#France/Papal States
-alliance = {
-	first = FRA
-	second = PAP
-	start_date = 1835.1.1
-	end_date = 1861.1.1
 }
 #China/Lanfang
 alliance = {
@@ -244,5 +231,3 @@ alliance = {
 	start_date = 1520.8.8
 	end_date = 1936.1.1
 }
-
-

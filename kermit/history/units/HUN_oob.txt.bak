@@ -16,6 +16,12 @@ SWI = {
 	influence_value = 100
 	military_access = yes
 }
+WUR = {
+	value = 60
+	level = 5
+	influence_value = 100
+	military_access = yes
+}
 BRN = {
 	value = 100
 	level = 5
@@ -58,3 +64,18 @@ RAE = {
 	influence_value = 150
 	military_access = yes
 }
+
+STY = {
+	value = 100
+	level = 5
+	influence_value = 150
+	military_access = yes
+}
+
+SLO = {
+	value = 100
+	level = 5
+	influence_value = 150
+	military_access = yes
+}
+

@@ -30,13 +30,6 @@ alliance = {
 	end_date = 1857.1.1
 }
 
-#Circassia and Caucasiam Imamate
-alliance = {
-		first = CIR 
-		second = DAG 
-		start_date =  1835.1.1
-		end_date = 1838.1.1
-}
 	
 #Morrocan-Algerian
 alliance = {
@@ -192,19 +185,6 @@ alliance = {
 	end_date = 1911.1.1
 }
 
-#Russia/Transcaucasia
-alliance = {
-	first = RUS
-	second = TCA
-	start_date = 1835.1.1
-	end_date = 1881.1.1
-}
-#France/Papal States
-alliance = {
-	first = FRA
-	second = PAP
-	start_date = 1835.1.1
-	end_date = 1861.1.1
 }
 #China/Lanfang
 alliance = {
@@ -252,4 +232,32 @@ alliance = {
 	end_date = 1936.1.1
 }
 
+####Papal States - German Prince-Bishoprics
 
+alliance = {
+	first = KOL
+	second = PAP
+	start_date = 1000.1.1
+	end_date = 1936.1.1
+}	
+
+alliance = {
+	first = HAN
+	second = PAP
+	start_date = 1180.1.1
+	end_date = 1936.1.1
+}	
+
+alliance = {
+	first = SLZ
+	second = PAP
+	start_date = 1328.1.1
+	end_date = 1936.1.1
+}	
+
+alliance = {
+	first = BAV
+	second = PAP
+	start_date = 1000.1.1
+	end_date = 1936.1.1
+}	

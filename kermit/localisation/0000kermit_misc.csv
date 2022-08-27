@@ -208,14 +208,24 @@ THU_absolute_monarchy;Grand Duchy of Thuringia;;;;;;;;;;;;;x
 THU_prussian_constitutionalism;Grand Duchy of Thuringia;;;;;;;;;;;;;x
 THU_hms_government;Grand Duchy of Thuringia;;;;;;;;;;;;;x
 THU_ADJ;Thuringian;;;;;;;;;;;;;x
-MEI;County of Hanau;;;;;;;;;;;;;x
-MEI_ADJ;Hanau;;;;;;;;;;;;;x
+HES;County of Hanau;;;;;;;;;;;;;x
+HES_ADJ;Hanau;;;;;;;;;;;;;x
+MEI;County of Henneberg;;;;;;;;;;;;;x
+MEI_ADJ;Hennebergian;;;;;;;;;;;;;x
 WEI;Duchy of Erfurt-Weimar;;;;;;;;;;;;;x
+HEK_theocracy;Prince-Bishopric of Fulda;;;;;;;;;;;;;x
+HEK_absolute_monarchy;Duchy of Fulda;;;;;;;;;;;;;x
+HEK_prussian_constitutionalism;Duchy of Fulda;;;;;;;;;;;;;x
+HEK_hms_government;Duchy of Fulda;;;;;;;;;;;;;x
+HEK;Fulda;;;;;;;;;;;;;x
+HEK_ADJ;Fuldan;;;;;;;;;;;;;x
 WEI_ADJ;Weimar;;;;;;;;;;;;;x 
 COB;Margravate of Meissen;;;;;;;;;;;;;x 
 COB_ADJ;Meissenian;;;;;;;;;;;;;x 
 MST;Saxe-Strelitz;;;;;;;;;;;;;x
 MST_ADJ;Strelitzan;;;;;;;;;;;;;x
+MEC;Saxe-Wolgast;;;;;;;;;;;;;x
+MEC_ADJ;Wolgastian;;;;;;;;;;;;;x
 STY;Styria;;;;;;;;;;;;;x
 STY_absolute_monarchy;Duchy of Styria;;;;;;;;;;;;;x
 STY_prussian_constitutionalism;Duchy of Styria;;;;;;;;;;;;;x
@@ -236,3 +246,35 @@ PNN_colonial_company;Principality of Panonija;;;;;;;;;;;;;x
 PNN_absolute_monarchy;Principality of Panonija;;;;;;;;;;;;;x
 PNN_prussian_constitutionalism;Principality of Panonija;;;;;;;;;;;;;x
 PNN_hms_government;Principality of Panonija;;;;;;;;;;;;;x
+HAN;Magdeburg;;;;;;;;;;;;;x
+HAN_theocracy;Prince-Archbishopric of Magdeburg;;;;;;;;;;;;;x
+HAN_absolute_monarchy;Duchy of Magdeburg;;;;;;;;;;;;;x
+HAN_prussian_constitutionalism;Duchy of Magdeburg;;;;;;;;;;;;;x
+HAN_hms_government;Duchy of Magdeburg;;;;;;;;;;;;;x
+HAN_ADJ;Magdeburgian;;;;;;;;;;;;;x
+BRA;Lower Saxony;;;;;;;;;;;;;x
+BRA_ADJ;Lower Saxon;;;;;;;;;;;;;x
+BRA_absolute_monarchy;Duchy of Brunswick-Lüneburg;;;;;;;;;;;;;x
+BRA_prussian_consitutionalism;Duchy of Brunswick-Lüneburg;;;;;;;;;;;;;x
+BRA_hms_government;Duchy of Brunswick-Lüneburg;;;;;;;;;;;;;x
+BRA_absolute_monarchy_ADJ;Braunschweig;;;;;;;;;;;;;x
+BRA_prussian_consitutionalism_ADJ;Braunschweig;;;;;;;;;;;;;x
+BRA_hms_government_ADJ;Braunschweig;;;;;;;;;;;;;x
+KOL;Cologne;;;;;;;;;;;;;x
+KOL_ADJ;Colognian;;;;;;;;;;;;;x
+KOL_theocracy;Electorate of Cologne;;;;;;;;;;;;;x
+KOL_absolute_monarchy;Electorate of Cologne;;;;;;;;;;;;;x
+KOL_prussian_constitutionalism;Electorate of Cologne;;;;;;;;;;;;;x
+KOL_hms_government;Electorate of Cologne;;;;;;;;;;;;;x
+POM;Pomerania;;;;;;;;;;;;;x
+POM_ADJ;Pomeranian;;;;;;;;;;;;;x
+POM_absolute_monarchy;Grand Duchy of Pommern;;;;;;;;;;;;;x
+POM_prussian_constitutionalism;Grand Duchy of Pommern;;;;;;;;;;;;;x
+POM_hms_government;Grand Duchy of Pommern;;;;;;;;;;;;;x
+KLE;Kleves;;;;;;;;;;;;;x
+KLE_ADJ;Klevesian;;;;;;;;;;;;;x
+KLE_absolute_monarchy;Grand Duchy of Kleves;;;;;;;;;;;;;x
+KLE_prussian_constitutionalism;Grand Duchy of Kleves;;;;;;;;;;;;;x
+KLE_hms_government;Grand Duchy of Kleves;;;;;;;;;;;;;x
+STT;Stettin;;;;;;;;;;;;;x
+STT_ADJ;Stettin;;;;;;;;;;;;;x
