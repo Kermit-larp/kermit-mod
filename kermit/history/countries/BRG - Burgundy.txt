@@ -63,6 +63,8 @@ mechanical_production = 1
 hot_blast = 1
 basic_chemistry = 1
 
+oob = "BRG_oob.txt"
+
 ruling_party = FRA_reactionary
 upper_house =
 {
@@ -78,4 +80,3 @@ upper_house =
 # Starting Consciousness
 consciousness = 2
 nonstate_consciousness= 0.14
-prestige=10

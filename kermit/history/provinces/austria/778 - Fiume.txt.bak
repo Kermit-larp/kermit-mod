@@ -1,0 +1,7 @@
+owner = TRE
+controller = TRE
+add_core = TRE
+add_core = CRO
+add_core = FIU
+trade_goods = fruit
+life_rating = 35

@@ -1,8 +1,6 @@
-owner = SVN
-controller = SVN
-add_core = SVN
-add_core = SVY
-add_core = GEN
+owner = FNE
+controller = FNE
+add_core = FNE
 add_core = ITA
 trade_goods = fish
 life_rating = 35

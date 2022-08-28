@@ -4,49 +4,42 @@ WEI = {
 	influence_value = 125
 	military_access = yes
 }
-
 MEC = {
 	value = 100
 	level = 5
 	influence_value = 125
 	military_access = yes
 }
-
-MES = {
+MST = {
 	value = 100
 	level = 5
 	influence_value = 125
 	military_access = yes
 }
-
 STT = {
 	value = 100
 	level = 5
 	influence_value = 125
 	military_access = yes
 }
-
 POM = {
 	value = 100
 	level = 5
 	influence_value = 125
 	military_access = yes
 }
-
 HAN = {
 	value = 100
 	level = 5
 	influence_value = 125
 	military_access = yes
 }
-
 LAU = {
 	value = 100
 	level = 5
 	influence_value = 125
 	military_access = yes
 }
-
 leader = {
 	name = "von Leysser"
 	date = 1829.1.1

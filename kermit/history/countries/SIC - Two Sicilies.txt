@@ -1,9 +1,9 @@
-capital = 754
+capital = 756
 primary_culture = south_italian
-religion = catholic
+religion = sunni
 government = absolute_monarchy
 plurality = 25.0
-nationalvalue = nv_order
+nationalvalue = nv_tradition
 literacy = 0.1
 non_state_culture_literacy = 0.05
 civilized = yes
@@ -39,12 +39,7 @@ border_policy = open_borders
 centralization = regionalism
 colonial_policy = no_colonies 
 
-set_country_flag = catholic_country
-
-govt_flag = {
-	government = hms_government
-	flag = theocracy
-}
+set_country_flag = sunni_country
 
 ruling_party = SIC_reactionary
 upper_house = {

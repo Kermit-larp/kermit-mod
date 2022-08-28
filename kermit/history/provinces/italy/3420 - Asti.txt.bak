@@ -1,7 +1,6 @@
-owner = SVN
-controller = SVN
-add_core = SVN
-add_core = SVY
+owner = ATI
+controller = ATI
+add_core = ATI
 add_core = ITA
 trade_goods = fruit
 life_rating = 40

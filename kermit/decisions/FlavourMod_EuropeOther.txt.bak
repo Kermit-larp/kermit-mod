@@ -311,9 +311,7 @@ political_decisions = {
 		potential = {
 			AND= {
 				primary_culture = serb
-				NOT = { 
-					tag = YUG 
-				}
+				NOT = { tag = YUG }
 			}
 			owns = 769
 			owns = 736
@@ -895,39 +893,7 @@ political_decisions = {
 		}
 		ai_will_do = { factor = 1 }
 	}
-	
-	bohemia_rename_czh = {
-		picture = gtfo
-		potential = {
-			OR = {
-				is_culture_group = czecho_slovak_culture_group
-				tag = SLV
-				tag = CZH
-				accepted_culture = czech
-			}
-			owns = 625 #Prague
-			owns = 626 #Hradec Kralove
-			owns = 631 #Brno
-			NOT = { has_global_flag = bohemia_rename_czh }
-		}
 		
-		allow = {
-			war = no
-		}
-		
-		effect = {
-			set_global_flag = bohemia_rename_czh
-			prestige = 2
-			625 = {
-				change_province_name = "Praha"
-				state_scope = { change_region_name = "Cechy-Morava" }
-			}
-			626 = { change_province_name = "Hradec Králové" }
-			631 = { change_province_name = "Brno" }
-		}
-		ai_will_do = { factor = 1 }
-	}
-	
 	bohemia_rename_aus = {
 		picture = gtfo
 		potential = {
@@ -951,44 +917,6 @@ political_decisions = {
 			}
 			626 = { change_province_name = "Königgrätz" }
 			631 = { change_province_name = "Brünn" }
-		}
-		ai_will_do = { factor = 1 }
-	}
-	
-	sudetes_rename_czh = {
-		picture = gtfo
-		potential = {
-			OR = {
-				is_culture_group = czecho_slovak_culture_group
-				tag = SLV
-				tag = CZH
-				accepted_culture = czech
-			}
-			owns = 627 #Karlsbad
-			owns = 628 #Aussig
-			owns = 629 #Plzen
-			owns = 630 #Budejovice
-			owns = 632 #Olomouc
-			owns = 688 #Troppau
-			NOT = { has_global_flag = sudetes_rename_czh }
-		}
-		
-		allow = {
-			war = no
-		}
-		
-		effect = {
-			set_global_flag = sudetes_rename_czh
-			prestige = 2
-			627 = {
-				change_province_name = "Karlovy Vary"
-				state_scope = { change_region_name = "Sudety" }
-			}
-			628 = { change_province_name = "Ústí nad Labem" }
-			629 = { change_province_name = "Plzen" }
-			630 = { change_province_name = "Budejovice" }
-			632 = { change_province_name = "Olomouc" }
-			688 = { change_province_name = "Opava" }
 		}
 		ai_will_do = { factor = 1 }
 	}

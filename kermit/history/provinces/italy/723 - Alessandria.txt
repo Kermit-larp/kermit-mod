@@ -1,7 +1,7 @@
-owner = CAT
-controller = CAT
-add_core = CAT
-add_core = SAR
+owner = PAR
+controller = PAR
+add_core = PAR
+add_core = LOM
 add_core = ITA
 trade_goods = fruit
 life_rating = 35

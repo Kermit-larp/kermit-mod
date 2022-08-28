@@ -1,7 +1,6 @@
-owner = AUS
-controller = AUS
-add_core = AUS
-add_core = FIU
+owner = TRE
+controller = TRE
+add_core = TRE
 add_core = CRO
 terrain = pola
 naval_base = 1

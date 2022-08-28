@@ -1,6 +1,6 @@
-owner = GEN
-controller = GEN
-add_core = GEN
+owner = MOT
+controller = MOT
+add_core = MOT
 add_core = ITA
 trade_goods = fruit
 life_rating = 40
@@ -12,16 +12,6 @@ state_building = {
 state_building = {
 	level = 1
 	building = fabric_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = ammunition_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = small_arms_factory
 	upgrade = yes
 }
 1861.1.1 = {

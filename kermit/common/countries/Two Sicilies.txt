@@ -1,8 +1,8 @@
-color = { 160  30  154 } 
+color = { 192  138  129 } 
 graphical_culture = ItalianGC
 
 party = {
-	name = "SIC_reactionary"
+	name = "MOR_reactionary"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -17,7 +17,7 @@ party = {
 }
 
 party = {
-	name = "SIC_conservative"
+	name = "MOR_conservative"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -32,7 +32,7 @@ party = {
 }
 
 party = {
-	name = "SIC_liberal"
+	name = "MOR_liberal"
 	start_date = 1830.1.1
 	end_date = 1890.1.1
 
@@ -47,7 +47,7 @@ party = {
 }
 
 party = {
-	name = "SIC_liberal_2"
+	name = "MOR_liberal_2"
 	start_date = 1890.1.1
 	end_date = 2000.1.1
 
@@ -62,7 +62,7 @@ party = {
 }
 
 party = {
-	name = "SIC_socialist"
+	name = "MOR_socialist"
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
@@ -77,7 +77,7 @@ party = {
 }
 
 party = {
-	name = "SIC_conservative_2"
+	name = "MOR_conservative_2"
 	start_date = 2000.1.1
 	end_date = 2000.1.1
 
@@ -92,7 +92,7 @@ party = {
 }
 
 party = {
-	name = "SIC_anarcho_liberal"
+	name = "MOR_anarcho_liberal"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -107,7 +107,7 @@ party = {
 }
 
 party = {
-	name = "SIC_communist"
+	name = "MOR_communist"
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
@@ -122,7 +122,7 @@ party = {
 }
 
 party = {
-	name = "SIC_fascist"
+	name = "MOR_fascist"
 	start_date = 1900.1.1
 	end_date = 2000.1.1
 

@@ -1,5 +1,6 @@
-owner = ENG
-controller = ENG
+owner = SYC
+controller = SYC
+add_core = SYC
 add_core = MLT
 trade_goods = fish
 life_rating = 32

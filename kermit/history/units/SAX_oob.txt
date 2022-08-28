@@ -1,5 +1,5 @@
 WEI = {
-	value = 200
+	value = 140
 	level = 5
 	influence_value = 125
 	military_access = yes
@@ -10,7 +10,7 @@ MEC = {
 	influence_value = 125
 	military_access = yes
 }
-MES = {
+MST = {
 	value = 100
 	level = 5
 	influence_value = 125

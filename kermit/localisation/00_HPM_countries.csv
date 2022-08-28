@@ -1114,17 +1114,18 @@ ERT_communist;The Communist Faction;;;;;;;;;;;;x
 ERT_fascist;The Fascist Faction;;;;;;;;;;;;x
 FIJ;Fiji;Fiji;Fiji;;;;;;;;;;;;x
 FIJ_ADJ;Fijian;Fijian;Fijian;;;;;;;;;;;;x
-FIU;Fiume;Fiume;Fiume;;;;;;;;;;;x
-FIU_ADJ;Fiumani;Fiumani;Fiumani;;;;;;;;;;;x
-FIU_fascist_dictatorship;Carnaro;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-FIU_bourgeois_dictatorship;Carnaro;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-FIU_presidential_dictatorship;Carnaro;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-FIU_democracy;Free State of Fiume;êtat libre de Fiume;Freistaat Fiume;;;;;;;;;;;x
+FIU;Amalfi;;;;;;;;;;;;;x
+FIU_ADJ;Amalfian;;;;;;;;;;;;;x
+FIU_democracy;Free Republic of Amalfi;;;;;;;;;;;;;x
+FIU_presidential_dictatorship;Free Republic of Amalfi;;;;;;;;;;;;;x
+FIU_absolute_monarchy;Duchy of Amalfi;;;;;;;;;;;;;x
+FIU_prussian_constitutionalism;Duchy of Amalfi;;;;;;;;;;;;;x
+FIU_hms_government;Duchy of Amalfi;;;;;;;;;;;;;x
 FIU_liberal;Partito Liberale;Partito Liberale;Partito Liberale;;;;;;;;;;;x
 FIU_conservative;Partito Autonomo;Partito Autonomo;Partito Autonomo;;;;;;;;;;;x
 FIU_reactionary;Nazionalisti;Nazionalisti;Nazionalisti;;;;;;;;;;;x
-FIU_socialist;Partito Socialista di Fiume;Partito Socialista di Fiume;Partito Socialista di Fiume;;;;;;;;;;;x
-FIU_communist;Partito Comunista di Fiume;Partito Comunista di Fiume;Partito Comunista di Fiume;;;;;;;;;;;x
+FIU_socialist;Partito Socialista di Amalfi;Partito Socialista di Amalfi;Partito Socialista di Amalfi;;;;;;;;;;;x
+FIU_communist;Partito Comunista di Amalfi;Partito Comunista di Amalfi;Partito Comunista di Amalfi;;;;;;;;;;;x
 FIU_anarcho_liberal;Radicali;Radical;Radikal;;;;;;;;;;;x
 FIU_fascist;Fascisti;Fasciste;Faschistisch;;;;;;;;;;;x
 FJN;Fujian;;;;;;;;;;;;x
@@ -2067,8 +2068,10 @@ RHI_anarcho_liberal;Radical Arbeiterpartei;Arbeiterpartei radical;Radikale Arbei
 RHI_communist;Communist Arbeiterpartei;Arbeiterpartei communiste;Kommunistische Arbeiterpartei;;;;;;;;;;;;x;;;;;;;;;;;;;;
 RHI_fascist;NSDP;NSDP;NSDP;;;;;;;;;;;;x;;;;;;;;;;;;;;
 RHO_democracy;Rhodesia;;;;;;;;;;;;x;;;;;;;;;;;;;;
-RMG;Romagna;;;;;;;;;;;;;x
-RMG_ADJ;Romagnan;;;;;;;;;;;;;x
+RMG;Ancona;;;;;;;;;;;;;x
+RMG_democracy;Republic of Ancona;;;;;;;;;;;;;x
+RMG_presidential_dictatorship;Republic of Ancona;;;;;;;;;;;;;x
+RMG_ADJ;Anconan;;;;;;;;;;;;;x
 RPL_colonial_company;The Hudson's Bay Company;;;;;;;;;;;;x,
 RPL_dominion;The Hudson's Bay Company;;;;;;;;;;;;x,
 RPL_colonial_company_ADJ;British;;;;;;;;;;;;x
@@ -2656,8 +2659,8 @@ UZB_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;
 UZB_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;
 UZB_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;
 UZB_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;
-VEN_democracy;The Republic of San Marco;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-VEN_presidential_dictatorship;The Republic of San Marco;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+VEN_democracy;Most Serene Republic of Venice;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+VEN_presidential_dictatorship;Most Serene Republic of Venice;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 VEN_reactionary;Monarchici;Monarchici;Monarchici;;Monarchici;;;;;;;;;x
 VEN_liberal;Intransigenti;Intransigenti;Intransige nti;;Intransigenti;;;;;;;;;x
 VEN_conservative;Transigenti;Transigenti;Transigen ti;;Transigenti;;;;;;;;;x

@@ -1,0 +1,100 @@
+LOR = {
+	value = 140
+	level = 5
+	influence_value = 125
+	military_access = yes
+}
+FLA = {
+	value = 100
+	level = 5
+	influence_value = 125
+	military_access = yes
+}
+UTR = {
+	value = 100
+	level = 5
+	influence_value = 125
+	military_access = yes
+}
+HLD = {
+	value = 100
+	level = 5
+	influence_value = 125
+	military_access = yes
+}
+GLD = {
+	value = 100
+	level = 5
+	influence_value = 125
+	military_access = yes
+}
+OVJ = {
+	value = 100
+	level = 5
+	influence_value = 125
+	military_access = yes
+}
+ZLD = {
+	value = 100
+	level = 5
+	influence_value = 125
+	military_access = yes
+}
+BRB = {
+	value = 100
+	level = 5
+	influence_value = 125
+	military_access = yes
+}
+ART = {
+	value = 100
+	level = 5
+	influence_value = 125
+	military_access = yes
+}
+HNT = {
+	value = 100
+	level = 5
+	influence_value = 125
+	military_access = yes
+}
+SAA = {
+	value = 100
+	level = 5
+	influence_value = 125
+	military_access = yes
+}
+PAL = {
+	value = 80
+	level = 5
+	influence_value = 40
+	military_access = yes
+}
+KOL = {
+	value = 80
+	level = 5
+	influence_value = 40
+	military_access = yes
+}
+KLE = {
+	value = 80
+	level = 5
+	influence_value = 40
+	military_access = yes
+}
+OLD = {
+	value = 140
+	level = 4
+	influence_value = 125
+	military_access = yes
+}
+FRI = {
+	value = 60
+	level = 4
+	influence_value = 90
+}
+EFR = {
+	value = 30
+	level = 3
+	influence_value = 50
+}

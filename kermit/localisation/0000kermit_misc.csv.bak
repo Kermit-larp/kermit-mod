@@ -224,6 +224,8 @@ COB;Margravate of Meissen;;;;;;;;;;;;;x
 COB_ADJ;Meissenian;;;;;;;;;;;;;x 
 MST;Saxe-Strelitz;;;;;;;;;;;;;x
 MST_ADJ;Strelitzan;;;;;;;;;;;;;x
+MEC;Saxe-Wolgast;;;;;;;;;;;;;x
+MEC_ADJ;Wolgastian;;;;;;;;;;;;;x
 STY;Styria;;;;;;;;;;;;;x
 STY_absolute_monarchy;Duchy of Styria;;;;;;;;;;;;;x
 STY_prussian_constitutionalism;Duchy of Styria;;;;;;;;;;;;;x
@@ -276,3 +278,42 @@ KLE_prussian_constitutionalism;Grand Duchy of Kleves;;;;;;;;;;;;;x
 KLE_hms_government;Grand Duchy of Kleves;;;;;;;;;;;;;x
 STT;Stettin;;;;;;;;;;;;;x
 STT_ADJ;Stettin;;;;;;;;;;;;;x
+PRO;Provence;;;;;;;;;;;;;x
+PRO_ADJ;Provençal;;;;;;;;;;;;;x
+NAP;Naples;;;;;;;;;;;;;x
+NAP_ADJ;Neapolitan;;;;;;;;;;;;;x
+NAP_absolute_monarchy;Grand Duchy of Naples;;;;;;;;;;;;;x
+NAP_prussian_constitutionalism;Grand Duchy of Naples;;;;;;;;;;;;;x
+NAP_hms_government;Grand Duchy of Naples;;;;;;;;;;;;;x
+MOT_absolute_monarchy;Duchy of Montferrat;;;;;;;;;;;;;x
+MOT_prussian_constitutionalism;Duchy of Montferrat;;;;;;;;;;;;;x
+MOT_hms_government;Duchy of Montferrat;;;;;;;;;;;;;x
+MOT;Montferrat;;;;;;;;;;;;;x
+MOT_ADJ;Casalaschi;;;;;;;;;;;;;x
+ATI_absolute_monarchy;Duchy of Asti;;;;;;;;;;;;;x
+ATI_prussian_constitutionalism;Duchy of Asti;;;;;;;;;;;;;x
+ATI_hms_government;Duchy of Asti;;;;;;;;;;;;;x
+ATI;Asti;;;;;;;;;;;;;x
+ATI_ADJ;Astigiano;;;;;;;;;;;;;x
+FNE;Finale;;;;;;;;;;;;;x
+FNE_ADJ;Finalesi;;;;;;;;;;;;;x
+FNE_absolute_monarchy;Duchy of Finale;;;;;;;;;;;;;x
+FNE_prussian_constitutionalism;Duchy of Finale;;;;;;;;;;;;;x
+FNE_hms_government;Duchy of Finale;;;;;;;;;;;;;x
+SAR;Gaeta;;;;;;;;;;;;;x
+SAR_ADJ;Gaetan;;;;;;;;;;;;;x
+SAR_absolute_monarchy;Duchy of Gaeta;;;;;;;;;;;;;x
+SAR_prussian_constitutionalism;Duchy of Gaeta;;;;;;;;;;;;;x
+SAR_hms_government;Duchy of Gaeta;;;;;;;;;;;;;x
+SIC;Bari;;;;;;;;;;;;;x
+SIC_ADJ;Bari;;;;;;;;;;;;;x
+SIC_absolute_monarchy;Emirate of Bari;;;;;;;;;;;;;x
+SIC_prussian_constitutionalism;Emirate of Bari;;;;;;;;;;;;;x
+SIC_hms_government;Emirate of Bari;;;;;;;;;;;;;x
+SYC;Bari;;;;;;;;;;;;;x
+SYC_ADJ;Bari;;;;;;;;;;;;;x
+SYC_absolute_monarchy;Emirate of Sicily;;;;;;;;;;;;;x
+SYC_prussian_constitutionalism;Emirate of Sicily;;;;;;;;;;;;;x
+SYC_hms_government;Emirate of Sicily;;;;;;;;;;;;;x
+PAR_democracy;Ambrosian Republic;;;;;;;;;;;;;x
+PAR_presidential_dictatorship;Ambrosian Republic;;;;;;;;;;;;;x

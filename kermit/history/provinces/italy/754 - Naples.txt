@@ -1,16 +1,16 @@
-owner = SIC
-controller = SIC
-add_core = SIC
+owner = NAP
+controller = NAP
+add_core = NAP
 add_core = ITA
 trade_goods = fish
 life_rating = 40
 terrain = naples
 naval_base = 1
-#state_building = {
-#	level = 1
-#	building = glass_factory
-#	upgrade = yes
-#}
+state_building = {
+	level = 1
+	building = glass_factory
+	upgrade = yes
+}
 1861.1.1 = {
 	controller = ITA
 	owner = ITA

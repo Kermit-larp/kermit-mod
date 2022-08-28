@@ -1,5 +1,6 @@
-owner = SAR
-controller = SAR
+owner = CAT
+controller = CAT
+add_core = CAT
 add_core = SAR
 add_core = ITA
 trade_goods = fruit

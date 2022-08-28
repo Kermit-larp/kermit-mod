@@ -1,6 +1,6 @@
-owner = MTU
-controller = MTU
-add_core = MTU
+owner = NAP
+controller = NAP
+add_core = NAP
 add_core = ITA
 trade_goods = cattle
 life_rating = 35

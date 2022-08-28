@@ -79,3 +79,9 @@ SLO = {
 	military_access = yes
 }
 
+VEN = {
+	value = 45
+	level = 4
+	influence_value = 70
+	military_access = yes
+}

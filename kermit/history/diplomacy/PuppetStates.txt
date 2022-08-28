@@ -83,24 +83,10 @@ substate = {
 #
 #Monaco
 vassal = {
-	first = SAR
+	first = SVN
 	second = MNC
 	start_date = 1814.11.1
 	end_date = 1860.1.1
-}
-
-vassal = {
-	first = FRA
-	second = MNC
-	start_date = 1860.1.1
-	end_date = 1936.1.1
-}
-
-vassal = {
-	first = FRA
-	second = MNC
-	start_date = 1870.1.1
-	end_date = 1936.1.1
 }
 
 #Bahrain - Qatar

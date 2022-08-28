@@ -5,6 +5,16 @@ add_core = GEN
 trade_goods = fruit
 life_rating = 40
 terrain = genoa
+state_building = {
+	level = 1
+	building = luxury_clothes_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = ammunition_factory
+	upgrade = yes
+}
 naval_base = 1
 1861.1.1 = {
 	controller = ITA

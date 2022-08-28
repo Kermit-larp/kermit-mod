@@ -1,6 +1,6 @@
-owner = SIC
-controller = SIC
-add_core = SIC
+owner = FIU
+controller = FIU
+add_core = FIU
 add_core = ITA
 trade_goods = wool
 life_rating = 35

@@ -580,7 +580,7 @@ political_decisions = {
 		}
 		
 		effect = {
-			set_global_flag = german_rename_limburg
+			set_global_flag = german_rename_limburg.
 			any_pop = {
 				limit = {
 					OR = {
@@ -1195,15 +1195,18 @@ political_decisions = {
 	AUS_setup_1836 = {
 		picture = constantinople
 		potential = {
-			tag = AUS
+			tag = BOH
 			always = no
 		}
 		
 		allow = {
-			tag = AUS
+			tag = BOH
 		}
 		
 		effect = {
+			set_global_flag = bohemia_rename_czh
+			set_global_flag = sudetes_rename_czh
+			set_global_flag = austrian_silesia_rename_czech
 			any_pop = { limit = { location = { is_core = VEN } has_pop_culture = north_italian } literacy = 0.2 }
 			any_pop = {
 				limit = {
@@ -2389,7 +2392,6 @@ political_decisions = {
 			any_country = {
 				limit = {
 					OR = {
-						tag = CHO
 						tag = SAT
 						tag = TOS
 						tag = JAP

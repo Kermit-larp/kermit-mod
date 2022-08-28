@@ -34,7 +34,31 @@ ULM = {
 	influence_value = 150
 	military_access = yes
 }
+ALS = {
+	value = 100
+	level = 5
+	influence_value = 150
+	military_access = yes
+}
 SGM = {
+	value = 100
+	level = 5
+	influence_value = 150
+	military_access = yes
+}
+SLZ = {
+	value = 100
+	level = 5
+	influence_value = 150
+	military_access = yes
+}
+STY = {
+	value = 100
+	level = 5
+	influence_value = 150
+	military_access = yes
+}
+SLO = {
 	value = 100
 	level = 5
 	influence_value = 150

@@ -76,4 +76,3 @@ consciousness = 0
 nonstate_consciousness= 0
 
 # Technologies
-prestige=0

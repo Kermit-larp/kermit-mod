@@ -1,6 +1,7 @@
 owner = PAR
 controller = PAR
 add_core = PAR
+add_core = LOM
 add_core = ITA
 trade_goods = iron
 life_rating = 35

@@ -31,22 +31,22 @@ army = {
 		home = 873
 	}
 	regiment = {
-			name = 4. Infantry Brigade"
+			name = "4. Infantry Brigade"
 		type = infantry
 		home = 873
 	}
 	regiment = {
-			name = 1. Cavalry Brigade"
+			name = "1. Cavalry Brigade"
 		type = cavalry
 		home = 3337
 	}
 	regiment = {
-			name = 2. Cavalry Brigade"
+			name = "2. Cavalry Brigade"
 		type = cavalry
 		home = 3656
 	}
 	regiment = {
-			name = 3. Cavalry Brigade"
+			name = "3. Cavalry Brigade"
 		type = cavalry
 		home = 873
 	}

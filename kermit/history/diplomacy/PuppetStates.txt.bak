@@ -244,14 +244,6 @@ substate = {
 	end_date = 1936.1.1
 }
 
-# United Kingdom-Hanover
-vassal = {
-	first = ENG
-	second = HAN
-	start_date = 1814.10.1
-	end_date = 1837.1.1
-}
-
 # United Kingdom-Ionian Islands
 vassal = {
 	first = ENG

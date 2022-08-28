@@ -1,6 +1,6 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = PRO
+controller = PRO
+add_core = PRO
 trade_goods = fruit
 life_rating = 30
 terrain = marseille

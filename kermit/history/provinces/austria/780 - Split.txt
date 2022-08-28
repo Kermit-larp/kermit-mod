@@ -1,5 +1,6 @@
-owner = TUR
-controller = TUR
+owner = RMG
+controller = RMG
+add_core = RMG
 add_core = CRO
 add_core = DLM
 trade_goods = fish
