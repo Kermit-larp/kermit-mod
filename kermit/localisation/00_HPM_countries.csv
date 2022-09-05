@@ -1936,8 +1936,8 @@ PLC_proletarian_dictatorship;The Polish-Lithuanian Republic;;;;;;;;;;;;x
 PLC_fascist_dictatorship;The Polish-Lithuanian Republic;;;;;;;;;;;;x
 PLC_presidential_dictatorship;The Polish-Lithuanian Republic;;;;;;;;;;;;x
 PLC_democracy;Poland-Lithuania;;;;;;;;;;;;x
-PML;Pomerelia;;;;;;;;;;;;x
-PML_ADJ;Pomerelian;;;;;;;;;;;;x
+PML;Weichselland;;;;;;;;;;;;x
+PML_ADJ;Weichselan;;;;;;;;;;;;x
 PNP;Pohnpei;Pohnpei;Pohnpei;;;;;;;;;;;;x
 PNP_ADJ;Pohnpeian;Pohnpeian;Pohnpeian;;;;;;;;;;;;x
 PNJ;Punjab;Pendjab;Pandschab;;Punjab;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -2380,6 +2380,12 @@ TAJ_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;
 TAJ_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TAJ_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TAJ_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TAR_absolute_monarchy;The Sarai Khanate;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TAR_prussian_constitutionalism;The Sarai Khanate;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TAR_hms_government;The Sarai Khanate;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TAR_absolute_monarchy_ADJ;Sarai;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TAR_prussian_constitutionalism_ADJ;Sarai;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TAR_hms_government_ADJ;Sarai;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TAR;Tatarstan;;;;;;;;;;;;;x
 TAR_ADJ;Tatar;;;;;;;;;;;;;x
 TAR_conservative;The Conservatives;Faction royale;Königsfraktion;;;;;;;;;;;x

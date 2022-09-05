@@ -2,6 +2,7 @@ owner = PAL
 controller = PAL
 add_core = PAL
 add_core = RHI
+add_core = GER
 trade_goods = iron
 terrain = koblenz
 life_rating = 40

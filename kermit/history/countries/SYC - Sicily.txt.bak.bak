@@ -38,9 +38,9 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies 
 
-set_country_flag = sunni_country
+set_country_flag = catholic_country
 
-ruling_party = TUN_conservative
+ruling_party = SIC_reactionary
 upper_house = {
 	fascist = 0
 	liberal = 0

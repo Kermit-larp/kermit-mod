@@ -1,6 +1,5 @@
 owner = PNN
 controller = PNN
-add_core = SER
 add_core = PNN
 trade_goods = wool
 life_rating = 35

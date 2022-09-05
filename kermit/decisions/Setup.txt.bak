@@ -1207,6 +1207,8 @@ political_decisions = {
 			set_global_flag = bohemia_rename_czh
 			set_global_flag = sudetes_rename_czh
 			set_global_flag = austrian_silesia_rename_czech
+			set_global_flag = slovakia_rename_czhslo
+			set_global_flag = banat_rename_rom
 			any_pop = { limit = { location = { is_core = VEN } has_pop_culture = north_italian } literacy = 0.2 }
 			any_pop = {
 				limit = {
