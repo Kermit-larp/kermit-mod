@@ -41,6 +41,8 @@ From;To;Type;Through;Data;Comment
 #
 254;271;sea;2737;0;Irish Strait
 324;348;sea;2706;0;Aland Strait #Uppsala to Aland #these were in V1
+995;1004;sea;3346;0;Swir
+994;996;sea;3345;0;Newa
 334;372;sea;2711;0;Öresund
 335;374;sea;2710;0;Bornholmsfärjan
 348;345;sea;2706;0;Aland Strait #Aland to Turku 

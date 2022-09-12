@@ -1,5 +1,5 @@
 WEI = {
-	value = 200
+	value = 140
 	level = 5
 	influence_value = 125
 	military_access = yes
@@ -8,6 +8,18 @@ MEC = {
 	value = 100
 	level = 5
 	influence_value = 125
+	military_access = yes
+}
+ANH = {
+	value = 100
+	level = 5
+	influence_value = 125
+	military_access = yes
+}
+COB = {
+	value = 100
+	level = 5
+	influence_value = 50
 	military_access = yes
 }
 MST = {
@@ -31,13 +43,55 @@ POM = {
 HAN = {
 	value = 100
 	level = 5
-	influence_value = 125
+	influence_value = 50
 	military_access = yes
 }
 LAU = {
 	value = 100
 	level = 5
 	influence_value = 125
+	military_access = yes
+}
+LUB = {
+	value = 28
+	level = 4
+	influence_value = 35
+	military_access = yes
+}
+HAM = {
+	value = 28
+	level = 4
+	influence_value = 35
+	military_access = yes
+}
+BRE = {
+	value = 28
+	level = 3
+	influence_value = 25
+	military_access = yes
+}
+BRA = {
+	value = 65
+	level = 4
+	influence_value = 35
+	military_access = yes
+}
+BRE = {
+	value = 28
+	level = 3
+	influence_value = 16
+	military_access = yes
+}
+SWG = {
+	value = 100
+	level = 5
+	influence_value = 50
+	military_access = yes
+}
+THU = {
+	value = 70
+	level = 4
+	influence_value = 20
 	military_access = yes
 }
 leader = {

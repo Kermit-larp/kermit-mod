@@ -1,6 +1,6 @@
-owner = BRB
-controller = BRB
-add_core = BRB
+owner = BRG
+controller = BRG
+add_core = BRG
 add_core = FLA
 add_core = BEL
 trade_goods = grain

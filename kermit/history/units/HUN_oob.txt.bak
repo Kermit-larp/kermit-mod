@@ -34,7 +34,31 @@ ULM = {
 	influence_value = 150
 	military_access = yes
 }
+ALS = {
+	value = 100
+	level = 5
+	influence_value = 150
+	military_access = yes
+}
 SGM = {
+	value = 100
+	level = 5
+	influence_value = 150
+	military_access = yes
+}
+SLZ = {
+	value = 100
+	level = 5
+	influence_value = 150
+	military_access = yes
+}
+STY = {
+	value = 100
+	level = 5
+	influence_value = 150
+	military_access = yes
+}
+SLO = {
 	value = 100
 	level = 5
 	influence_value = 150
@@ -78,10 +102,39 @@ SLO = {
 	influence_value = 150
 	military_access = yes
 }
-
+BAM = {
+	value = 60
+	level = 5
+	influence_value = 50
+	military_access = yes
+}
+HES = {
+	value = 60
+	level = 5
+	influence_value = 30
+	military_access = yes
+}
+MEI = {
+	value = 60
+	level = 5
+	influence_value = 30
+	military_access = yes
+}
+HEK = {
+	value = 60
+	level = 5
+	influence_value = 30
+	military_access = yes
+}
 VEN = {
 	value = 45
-	level = 4
+	level = 5
 	influence_value = 70
+	military_access = yes
+}
+MAI = {
+	value = 28
+	level = 3
+	influence_value = 30
 	military_access = yes
 }

@@ -1,5 +1,6 @@
-owner = FLA
-controller = FLA
+owner = BRB
+controller = BRB
+add_core = BRB
 add_core = FLA
 add_core = BEL
 trade_goods = grain

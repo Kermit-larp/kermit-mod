@@ -1,6 +1,6 @@
-owner = GLD
-controller = GLD
-add_core = GLD
+owner = BRG
+controller = BRG
+add_core = BRG
 add_core = NET
 trade_goods = cattle
 life_rating = 35

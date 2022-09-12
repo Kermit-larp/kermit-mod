@@ -1,6 +1,6 @@
-owner = GLD
-controller = GLD
-add_core = GLD
+owner = BRB
+controller = BRB
+add_core = BRB
 add_core = LBG
 add_core = NET
 add_core = BEL

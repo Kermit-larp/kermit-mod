@@ -1,6 +1,6 @@
-owner = ZLD
-controller = ZLD
-add_core = ZLD
+owner = BRG
+controller = BRG
+add_core = BRG
 add_core = NET
 trade_goods = fish
 life_rating = 35

@@ -102,3 +102,11 @@ vassal = {
 	start_date = 1444.1.1
 	end_date = 1936.1.1
 }
+
+#Burgundy - Liege
+vassal = {
+	first = BRG
+	second = LGE
+	start_date = 1444.1.1
+	end_date = 1936.1.1
+}	
