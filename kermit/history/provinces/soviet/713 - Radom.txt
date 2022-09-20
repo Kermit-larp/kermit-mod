@@ -1,6 +1,5 @@
-owner = RUS
-controller = RUS
-add_core = CPL
-add_core = POL
+owner = PML
+controller = PML
+add_core = PML
 trade_goods = coal
 life_rating = 35

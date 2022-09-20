@@ -1,4 +1,4 @@
-owner = GUT
+owner = GUR
 controller = GUR
 add_core = GUR
 add_core = MIG

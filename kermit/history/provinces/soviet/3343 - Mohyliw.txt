@@ -1,8 +1,6 @@
-owner = RTH
-controller = RTH
-add_core = RTH
-add_core = RUS
+owner = RUT
+controller = RUT
+add_core = RUT
 add_core = UKR
-add_core = TAR
 trade_goods = grain
 life_rating = 35

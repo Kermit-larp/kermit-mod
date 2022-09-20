@@ -1,6 +1,5 @@
-owner = TUR
-controller = TUR
-add_core = UKR
+owner = TAR
+controller = TAR
 add_core = CRI
 trade_goods = iron
 life_rating = 35

@@ -1,7 +1,6 @@
-owner = NOG
-controller = NOG
-add_core = NOG
-add_core = TAR
+owner = KMK
+controller = KMK
+add_core = KMK
 trade_goods = cattle
 life_rating = 35
 terrain = steppe

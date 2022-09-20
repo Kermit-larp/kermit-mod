@@ -1,10 +1,12 @@
 capital = 1041
 primary_culture = mongol
+culture = gypsy
 religion = gelugpa
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
-literacy = 0.28
+literacy = 0.38
+prestige = 4
 
 # Political reforms
 slavery = no_slavery

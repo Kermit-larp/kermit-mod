@@ -1,7 +1,6 @@
-owner = KRA
-controller = KRA
-add_core = KRA
-add_core = POL
+owner = PML
+controller = PML
+add_core = PML
 trade_goods = coal
 life_rating = 40
 terrain = krakow

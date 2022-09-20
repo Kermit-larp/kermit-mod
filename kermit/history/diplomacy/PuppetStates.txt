@@ -982,3 +982,11 @@ vassal = {
 	start_date = 1789.11.9
 	end_date = 1936.1.1
 }
+
+#Galicia - Masovia
+vassal = {
+	first = RUT
+	second = CPL
+	start_date = 1789.11.9
+	end_date = 1936.1.1
+}

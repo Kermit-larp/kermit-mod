@@ -982,8 +982,12 @@ CMR_reactionary;Cameroonian National Union;;;;;;;;;;;;x
 CMR_anarcho_liberal;National Union for Democracy and Progress;;;;;;;;;;;;x
 CMR_communist;Union of the Peoples of Cameroon;;;;;;;;;;;;x
 CMR_fascist;Grouping of Patriotic Forces;;;;;;;;;;;;x
-CPL;Congress Poland;Royaume du Congres;Kongresspolen;;Zarato de Polonia;;;;;;;;;;x;;;;;;;;;;;;;;
-CPL_ADJ;Polish;Polonais;Polnisch;;Polaca;;;;;;;;;;x;;;;;;;;;;;;;;
+CPL;Masovia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+CPL_absolute_monarchy;Principality of Masovia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+CPL_prussian_constitutionalism;Principality of Masovia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+CPL_hms_government;Principality of Masovia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+CPL_colonial_company;Principality of Masovia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+CPL_ADJ;Masovian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CRS;Corsica;;;;;;;;;;;;;x
 CRS_ADJ;Corsican;;;;;;;;;;;;;x
 CRS_conservative;Fazzione Cunservatore;;;;;;;;;;;;;x
@@ -1436,10 +1440,13 @@ KIT;Saint Kitts;;;;;;;;;;;;x
 KIT_ADJ;Kittitian;;;;;;;;;;;;x
 KLM;Kalimantan;;;;;;;;;;;;;x
 KLM_ADJ;Kalimantan;;;;;;;;;;;;;x
-KMK;Kalmykia;;;;;;;;;;;;x
-KMK_fascist_dictatorship;Kalmyk Khanate;;;;;;;;;;;;x
+KMK;Romani-Kalmykia;;;;;;;;;;;;x
+KMK_absolute_monarchy;Romani-Kalmyk Khanate;;;;;;;;;;;;x
+KMK_prussian_constitutionalism;Romani-Kalmyk Khanate;;;;;;;;;;;;x
+KMK_hms_government;Romani-Kalmyk Khanate;;;;;;;;;;;;x
+KMK_fascist_dictatorship;Romani-Kalmyk Khanate;;;;;;;;;;;;x
 KMK_proletarian_dictatorship;Kalmyk Republic;;;;;;;;;;;;x
-KMK_ADJ;Kalmyk;;;;;;;;;;;;x
+KMK_ADJ;Romani-Kalmyk;;;;;;;;;;;;x
 KMK_conservative;The Conservatives;Faction royale;Königsfraktion;;;;;;;;;;;x
 KMK_liberal;The Liberals;Faction libérale;Die liberale Fraktion;;;;;;;;;;;x
 KMK_reactionary;The Khanate Faction;Faction nationaliste;Die nationalistische Fraktion;;;;;;;;;;;x
@@ -1936,8 +1943,11 @@ PLC_proletarian_dictatorship;The Polish-Lithuanian Republic;;;;;;;;;;;;x
 PLC_fascist_dictatorship;The Polish-Lithuanian Republic;;;;;;;;;;;;x
 PLC_presidential_dictatorship;The Polish-Lithuanian Republic;;;;;;;;;;;;x
 PLC_democracy;Poland-Lithuania;;;;;;;;;;;;x
-PML;Pomerelia;;;;;;;;;;;;x
-PML_ADJ;Pomerelian;;;;;;;;;;;;x
+PML;Lügiland;;;;;;;;;;;;x
+PML_absolute_monarchy;Kingdom of Lügiland;;;;;;;;;;;;x
+PML_prussian_constitutionalism;Kingdom of Lügiland;;;;;;;;;;;;x
+PML_hms_government;Kingdom of Lügiland;;;;;;;;;;;;x
+PML_ADJ;Lügian;;;;;;;;;;;;x
 PNP;Pohnpei;Pohnpei;Pohnpei;;;;;;;;;;;;x
 PNP_ADJ;Pohnpeian;Pohnpeian;Pohnpeian;;;;;;;;;;;;x
 PNJ;Punjab;Pendjab;Pandschab;;Punjab;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -2080,12 +2090,13 @@ RPL;Assiniboia;;;;;;;;;;;;x
 RPL_ADJ;Assiniboian;;;;;;;;;;;;x
 RPL_hms_government;Rupert's Land;;;;;;;;;;;;x
 RPL_hms_government_ADJ;Northwestern;;;;;;;;;;;;x
-RUT_proletarian_dictatorship;West Ukrainian People's Republic;;;;;;;;;;;;;x
-RUT_proletarian_dictatorship_ADJ;West Ukrainian;;;;;;;;;;;;;x
-RUT_democracy;West Ukraine;;;;;;;;;;;;;x
-RUT_democracy_ADJ;West Ukrainian;;;;;;;;;;;;;x
-RUT_presidential_dictatorship;West Ukraine;;;;;;;;;;;;;x
-RUT_presidential_dictatorship_ADJ;West Ukrainian;;;;;;;;;;;;;x
+RUT_proletarian_dictatorship;Ruthenian People's Republic;;;;;;;;;;;;;x
+RUT_ADJ;Ruthenian;;;;;;;;;;;;;x
+RUT_democracy;Ruthenian Republic;;;;;;;;;;;;;x
+RUT_presidential_dictatorship;Ruthenian Republic;;;;;;;;;;;;;x
+RUT_absolute_monarchy;Galicia-Volhynia;;;;;;;;;;;;;x
+RUT_prussian_constitutionalism;Galicia-Volhynia;;;;;;;;;;;;;x
+RUT_hms_government;Galicia-Volhynia;;;;;;;;;;;;;x
 RYU;Ryukyu;;;;;;;;;;;;;x
 RYU_ADJ;Ryukyuan;;;;;;;;;;;;;x
 RYU_conservative;National Party;;;;;;;;;;;;;x
@@ -2380,6 +2391,12 @@ TAJ_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;
 TAJ_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TAJ_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TAJ_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TAR_absolute_monarchy;The Sarai Khanate;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TAR_prussian_constitutionalism;The Sarai Khanate;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TAR_hms_government;The Sarai Khanate;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TAR_absolute_monarchy_ADJ;Sarai;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TAR_prussian_constitutionalism_ADJ;Sarai;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TAR_hms_government_ADJ;Sarai;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TAR;Tatarstan;;;;;;;;;;;;;x
 TAR_ADJ;Tatar;;;;;;;;;;;;;x
 TAR_conservative;The Conservatives;Faction royale;Königsfraktion;;;;;;;;;;;x
@@ -2659,8 +2676,8 @@ UZB_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;
 UZB_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;
 UZB_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;
 UZB_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;
-VEN_democracy;The Republic of San Marco;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-VEN_presidential_dictatorship;The Republic of San Marco;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+VEN_democracy;Most Serene Republic of Venice;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+VEN_presidential_dictatorship;Most Serene Republic of Venice;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 VEN_reactionary;Monarchici;Monarchici;Monarchici;;Monarchici;;;;;;;;;x
 VEN_liberal;Intransigenti;Intransigenti;Intransige nti;;Intransigenti;;;;;;;;;x
 VEN_conservative;Transigenti;Transigenti;Transigen ti;;Transigenti;;;;;;;;;x
