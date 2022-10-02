@@ -1,5 +1,5 @@
-owner = HYD
-controller = HYD
+owner = MAH
+controller = MAH
 add_core = HYD
 add_core = MAH
 add_core = HND

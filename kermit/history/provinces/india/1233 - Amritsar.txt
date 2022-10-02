@@ -1,6 +1,5 @@
-owner = PNJ
-controller = PNJ
-add_core = PNJ
+owner = MUG
+controller = MUG
 add_core = MUG
 add_core = HND
 trade_goods = fruit
