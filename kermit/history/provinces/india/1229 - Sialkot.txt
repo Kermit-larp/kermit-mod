@@ -1,6 +1,6 @@
-owner = KAS
-controller = KAS
-add_core = KAS
+owner = PNJ
+controller = PNJ
+add_core = PNJ
 add_core = HND
 trade_goods = cotton
 life_rating = 32

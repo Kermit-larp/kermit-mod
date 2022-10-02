@@ -1,4 +1,5 @@
 color = { 99  137  153 }
+colonial_company = { 85 94 42 }
 graphical_culture = IndianGC
 
 party = {

@@ -1,6 +1,5 @@
-owner = SIN
-controller = SIN
-add_core = SIN
+owner = BIK
+controller = BIK
 add_core = BIK
 add_core = HND
 trade_goods = cattle

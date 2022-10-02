@@ -1,10 +1,12 @@
-capital = 1277
-primary_culture = marathi
-religion = hindu
-government = colonial_company
+capital = 1283
+primary_culture = avadhi
+culture = marathi
+culture = telegu
+religion = sunni
+government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
-literacy = 0.01
+literacy = 0.02
 non_state_culture_literacy = 0.01
 
 # Political reforms
@@ -14,7 +16,7 @@ vote_franschise = none_voting
 public_meetings = no_meeting
 press_rights = state_press
 trade_unions = no_trade_unions
-voting_system = first_past_the_post
+voting_system = jefferson_method
 political_parties = underground_parties
 
 # Social Reforms
@@ -38,9 +40,7 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 
-set_country_flag = hindu_country
-
-ruling_party = NAG_conservative
+ruling_party = HYD_conservative
 upper_house = {
 	fascist = 0
 	liberal = 11
@@ -51,34 +51,35 @@ upper_house = {
 	communist = 0
 }
 
-
+set_country_flag = sunni_country
+foreign_artillery = yes_foreign_artillery
 foreign_weapons = yes_foreign_weapons
 
 # Technologies
 flintlock_rifles = 1
+bronze_muzzle_loaded_artillery = 1
 
 # Inventions
-#bottling_process = yes
-modern_winemaking = yes
 
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
 
-oob = "NAG_oob.txt"
+oob = "HYD_oob.txt"
 1861.1.1 = {
-	literacy = 0.08
-	non_state_culture_literacy = 0.04
+	oob = "/1861/HYD_oob.txt"
+	literacy = 0.10
+	non_state_culture_literacy = 0.05
 
 	foreign_training = yes_foreign_training
 	foreign_weapons = yes_foreign_weapons
+	foreign_officers = yes_foreign_officers
+	army_schools = yes_army_schools
 
 	# Technologies
 	military_staff_system = 1
 	flintlock_rifles = 1
 
 	# Inventions
-#bottling_process = yes
-modern_winemaking = yes
 
 }

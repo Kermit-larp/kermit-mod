@@ -1,9 +1,8 @@
-color = { 255  208  170 }
-colonial_company = { 78 87 39 }
+color = { 110  173  129 }
 graphical_culture = IndianGC
 
 party = {
-	name = "BIK_conservative"
+	name = "BAS_conservative"
 	start_date = 1800.1.1
 	end_date = 2000.1.1
 
@@ -18,7 +17,7 @@ party = {
 }
 
 party = {
-	name = "BIK_liberal"
+	name = "BAS_liberal"
 	start_date = 1820.1.1
 	end_date = 1936.1.1
 
@@ -33,7 +32,7 @@ party = {
 }
 
 party = {
-	name = "BIK_reactionary"
+	name = "BAS_reactionary"
 	start_date = 1820.1.1
 	end_date = 2000.1.1
 
@@ -48,7 +47,7 @@ party = {
 }
 
 party = {
-	name = "BIK_anarcho_liberal"
+	name = "BAS_anarcho_liberal"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -63,7 +62,7 @@ party = {
 }
 
 party = {
-	name = "BIK_socialist"
+	name = "BAS_socialist"
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
@@ -78,7 +77,7 @@ party = {
 }
 
 party = {
-	name = "BIK_communist"
+	name = "BAS_communist"
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
@@ -93,7 +92,7 @@ party = {
 }
 
 party = {
-	name = "BIK_fascist"
+	name = "BAS_fascist"
 	start_date = 1900.1.1
 	end_date = 2000.1.1
 
