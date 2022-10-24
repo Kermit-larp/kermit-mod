@@ -61,15 +61,15 @@ QAJ_absolute_monarchy;Qajar Dynasty;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 QAJ_hms_government;Qajar Dynasty;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 QAJ_prussian_constitutionalism;Qajar Dynasty;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 QAJ_ADJ;Qajar;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-ASB_absolute_monarchy;Afrasiyab Dynasty;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-ASB_hms_governmemt;Afrasiyab Dynasty;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-ASB_prussian_constitutionalism;Afrasiyab Dynasty;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-ASB;Afrasiyabs;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+ASB_absolute_monarchy;Chalavid Dynasty;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+ASB_hms_governmemt;Chalavid Dynasty;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+ASB_prussian_constitutionalism;Chalavid Dynasty;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+ASB;Chalavids;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 ASB_democracy;Mazanderani Republic;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 ASB_presidential_dictatorship;Mazanderani Republic;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 ASB_proletarian_dictatorship;The Union of Iranian Communist Nations;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 ASB_fascist_dictatorship;Greater Mazanderani State;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-ASB_ADJ;Afrasiyab;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+ASB_ADJ;Chalavid;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 ZND;Zands;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 ZND_absolute_monarchy;Zand Empire;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 ZND_prussian_constitutionalism;Zand Empire;;;;;;;;;;;;;;;;;;;;;;;x;;;;
@@ -320,7 +320,13 @@ LOM_ADJ;Milanese;;;;;;;;;;;;;x
 LOM_absolute_monarchy;Grand Duchy of Milan;;;;;;;;;;;;;x
 LOM_prussian_constitutionalism;Grand Duchy of Milan;;;;;;;;;;;;;x
 LOM_hms_government;Grand Duchy of Milan;;;;;;;;;;;;;x
-FIN_absolute_monarchy;Lands of the Suomen Realms;;;;;;;;;;;;;x
-FIN_prussian_constitutionaliam;Lands of the Suomen Realms;;;;;;;;;;;;;x
-FIN_hms_government;Lands of the Suomen Realms;;;;;;;;;;;;;x
+FIN_absolute_monarchy;The Suomen Realms;;;;;;;;;;;;;x
+FIN_prussian_constitutionaliam;The Suomen Realms;;;;;;;;;;;;;x
+FIN_hms_government;The Suomen Realms;;;;;;;;;;;;;x
 FIN_ADJ;Suomi;;;;;;;;;;;;;x
+BAR_absolute_monarchy;Duchy of Bar;;;;;;;;;;;;;x
+BAR_prussian_constitutionalism;Duchy of Bar;;;;;;;;;;;;;x
+BAR_hms_government;Duchy of Bar;;;;;;;;;;;;;x
+BAR_colonial_company;Duchy of Bar;;;;;;;;;;;;;x
+BAR_ADJ;Barisian;;;;;;;;;;;;;x
+BAR;BAR;;;;;;;;;;;;;x

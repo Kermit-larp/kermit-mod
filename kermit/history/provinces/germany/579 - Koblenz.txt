@@ -1,6 +1,6 @@
-owner = BRG
-controller = BRG
-add_core = BRG
+owner = TRR
+controller = TRR
+add_core = TRR
 add_core = RHI
 add_core = GER
 trade_goods = timber

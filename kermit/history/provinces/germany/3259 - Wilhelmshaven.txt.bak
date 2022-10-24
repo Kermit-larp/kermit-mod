@@ -1,0 +1,6 @@
+owner = LOR
+controller = LOR
+add_core = LOR
+naval_base = 1
+trade_goods = fish
+life_rating = 20

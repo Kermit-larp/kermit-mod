@@ -4,7 +4,7 @@ religion = protestant
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
-literacy = 0.457096
+literacy = 0.657096
 
 civilized = yes
 
@@ -77,4 +77,4 @@ consciousness = 2
 nonstate_consciousness= 0
 
 # Technologies
-prestige=0
+prestige=3

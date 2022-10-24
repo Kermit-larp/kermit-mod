@@ -1,6 +1,8 @@
-owner = KOL
-controller = KOL
+owner = TRR
+controller = TRR
+add_core = TRR
 add_core = KOL
+add_core = KLE
 add_core = RHI
 add_core = GER
 trade_goods = coal

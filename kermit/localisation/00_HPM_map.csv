@@ -6,7 +6,7 @@ SWI_603;Mittelland;;;;;;;;;;;;;;x
 SWI_607;Région Lémanique;;;;;;;;;;;;;;x
 SWI_2568;Ticino;;;;;;;;;;;;;;x
 PROV3273;Thohoyandu;;;;;;;;;;;;;;x
-PROV3270;Wetzlar;;;;;;;;;;;;;;x
+PROV3270;Barrois;;;;;;;;;;;;;;x
 PROV3271;Jura;;;;;;;;;;;;;;x
 PROV3272;Brig;;;;;;;;;;;;;;x
 BEL_387;Vlaanderen;;;;;;;;;;;;;;x
@@ -362,7 +362,7 @@ BRZ_2428;Nordeste;;;;;;;;;;;;;;;;;;;x;
 PROV2423;Vila da Palma;;;;;;;;;;;;;;;;;;;x;
 PROV2426;Vila do Poti;;;;;;;;;;;;;;;;;;;x;
 NEJ_1156;Ha'il;;;;;;;;;;;;;;;;;;;x;
-PROV396;Eupen-Malmedy;;;;;;;;;;;;;;;;;x;;;;;;
+PROV396;Jülich;;;;;;;;;;;;;;;;;x;;;;;;
 PROV1445;Koepang;;;;;;;;;;;;;;;;;x;;;;;;
 PROV1448;Tidore;;;;;;;;;;;;;;;;;x;;;;;;
 KOR_1624;Hanseong;;;;;;;;;;;;;;;;;x;;;;;;
@@ -961,7 +961,7 @@ PROV60;Richmond;;;;;;;;;;;;x
 PROV211;Lynchburg;;;;;;;;;;;;x
 PROV2186;Guatemala City;;;;;;;;;;;;x
 PROV14;Victoria;;;;;;;;;;;;x
-PROV3259;Jadegebiet;;;;;;;;;;;;;x
+PROV3259;Val de Briey;;;;;;;;;;;;;x
 east_africa;East Africa;;;;;;;;;;;;;x
 west_africa;West Africa;;;;;;;;;;;;;x
 south_west_africa;South-West Africa;;;;;;;;;;;;;x
