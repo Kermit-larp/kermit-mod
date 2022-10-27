@@ -1,254 +1,286 @@
-#Carinthia-Styria Region (204000) #see Austria.txt for balance of Region
-#under the rule of Austria in 1836  
-#Maribor (204000/51000 POPS) #Part of Slovenia Today
+#Maribor
 767 = {
-	aristocrats = {
-		culture = hungarian
-		religion = catholic
-		size = 750 
-	}
-	
-	bureaucrats = {
-		culture = hungarian
-		religion = catholic
-		size = 250
-	}
+    aristocrats = {
+        culture = hungarian
+        religion = catholic
+        size = 300
+    }
 
-	clergymen = {
-		culture = hungarian
-		religion = catholic
-		size = 50 
-	}
+    bureaucrats = {
+        culture = hungarian
+        religion = catholic
+        size = 100
+    }
 
-	artisans = {
-		culture = hungarian
-		religion = catholic
-		size = 2100
-	}
+    clergymen = {
+        culture = hungarian
+        religion = catholic
+        size = 10
+    }
 
-	soldiers = {
-		culture = hungarian
-		religion = catholic
-		size = 50 
-	}
+    artisans = {
+        culture = hungarian
+        religion = catholic
+        size = 800
+    }
 
-	farmers = {
-		culture = hungarian
-		religion = catholic
-		size = 5150
-	}
+    soldiers = {
+        culture = hungarian
+        religion = catholic
+        size = 100
+    }
 
-	clergymen = {
-		culture = slovene
-		religion = catholic
-		size = 450
-	}
+    farmers = {
+        culture = hungarian
+        religion = catholic
+        size = 500
+    }
 
-	artisans = {
-		culture = slovene
-		religion = catholic
-		size = 600
-	}
+    clergymen = {
+        culture = slovene
+        religion = catholic
+        size = 250
+    }
 
-	soldiers = {
-		culture = slovene
-		religion = catholic
-		size = 450 
-	}
+    artisans = {
+        culture = slovene
+        religion = catholic
+        size = 2600
+    }
 
-	farmers = {
-		culture = slovene
-		religion = catholic
-		size = 12500
-	}
-	
-	serfs = {
-		culture = gypsy
-		religion = catholic
-		size = 1000
-	}
-	
-	serfs = {
-		culture = slovene
-		religion = catholic
-		size = 25000
-	}
-	
-	artisans = {
-		culture = south_german
-		religion = catholic
-		size = 3600
-	}
-	
+    soldiers = {
+        culture = slovene
+        religion = catholic
+        size = 450
+    }
+
+    farmers = {
+        culture = slovene
+        religion = catholic
+        size = 8000
+    }
+
+    aristocrats = {
+        culture = slovene
+        religion = catholic
+        size = 200
+    }
+
+    aristocrats = {
+        culture = noriconian
+        religion = catholic
+        size = 1000
+    }
+
+    artisans = {
+        culture = noriconian
+        religion = catholic
+        size = 9000
+    }
+
+    clergymen = {
+        culture = noriconian
+        religion = catholic
+        size = 500
+    }
+
+    soldiers = {
+        culture = noriconian
+        religion = catholic
+        size = 1800
+    }
+
+    farmers = {
+        culture = noriconian
+        religion = catholic
+        size = 30000
+    }
+
 }
-#Carniola Region (460000)  
-#under the rule of Austria in 1836  
-#Ljubljana (280000/70000 POPS) 
+
+#Ljubljana
 768 = {
-	aristocrats = {
-		culture = slovene
-		religion = catholic
-		size = 825
-	}
+    aristocrats = {
+        culture = slovene
+        religion = catholic
+        size = 825
+    }
 
-	bureaucrats = {
-		culture = slovene
-		religion = catholic
-		size = 225
-	}
+    bureaucrats = {
+        culture = slovene
+        religion = catholic
+        size = 225
+    }
 
-	officers = {
-		culture = slovene
-		religion = catholic
-		size = 100
-	}
+    officers = {
+        culture = slovene
+        religion = catholic
+        size = 100
+    }
 
-	clergymen = {
-		culture = slovene
-		religion = catholic
-		size = 700
-	}
+    clergymen = {
+        culture = slovene
+        religion = catholic
+        size = 700
+    }
 
-	artisans = {
-		culture = slovene
-		religion = catholic
-		size = 4000
-	}
+    artisans = {
+        culture = slovene
+        religion = catholic
+        size = 4000
+    }
 
-	soldiers = {
-		culture = slovene
-		religion = catholic
-		size = 1100
-	}
+    soldiers = {
+        culture = slovene
+        religion = catholic
+        size = 1100
+    }
 
-	farmers = {
-		culture = slovene
-		religion = catholic
-		size = 53150
-	}
-	
-	serfs = {
-		culture = slovene
-		religion = catholic
-		size = 20000
-	}
-	
+    farmers = {
+        culture = slovene
+        religion = catholic
+        size = 53150
+    }
+
+    serfs = {
+        culture = slovene
+        religion = catholic
+        size = 20000
+    }
+
 }
-#Postojna (180000/45000 POPS) 
+
+#Postojna
 769 = {
-	aristocrats = {
-		culture = slovene
-		religion = catholic
-		size = 500
-	}
+    aristocrats = {
+        culture = hungarian
+        religion = catholic
+        size = 300
+    }
 
-	clergymen = {
-		culture = slovene
-		religion = catholic
-		size = 425
-	}
+    clergymen = {
+        culture = slovene
+        religion = catholic
+        size = 600
+    }
 
-	artisans = {
-		culture = slovene
-		religion = catholic
-		size = 2100
-	}
+    artisans = {
+        culture = slovene
+        religion = catholic
+        size = 5100
+    }
 
-	soldiers = {
-		culture = slovene
-		religion = catholic
-		size = 425
-	}
+    soldiers = {
+        culture = slovene
+        religion = catholic
+        size = 2000
+    }
 
-	farmers = {
-		culture = slovene
-		religion = catholic
-		size = 30000
-	}
-	
-	farmers = {
-		culture = gypsy
-		religion = catholic
-		size = 500
-	}
+    farmers = {
+        culture = slovene
+        religion = catholic
+        size = 36000
+    }
 
-	clergymen = {
-		culture = hungarian
-		religion = catholic
-		size = 25
-	}
+    artisans = {
+        culture = noriconian
+        religion = catholic
+        size = 500
+    }
 
-	farmers = {
-		culture = hungarian
-		religion = catholic
-		size = 1975
-	}
-	
-	farmers = {
-		culture = venetian
-		religion = catholic
-		size = 8075
-	}
-	
-	farmers = {
-		culture = romansh
-		religion = catholic
-		size = 1000
-	}
+    clergymen = {
+        culture = istriot
+        religion = catholic
+        size = 120
+    }
+
+    artisans = {
+        culture = istriot
+        religion = catholic
+        size = 1000
+    }
+
+    farmers = {
+        culture = istriot
+        religion = catholic
+        size = 2500
+    }
+
+    farmers = {
+        culture = venetian
+        religion = catholic
+        size = 600
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = catholic
+        size = 600
+    }
 
 }
 
-#Murska Sobota
+#Muraszombat
 3294 = {
-	aristocrats = {
-		culture = cuman
-		religion = catholic
-		size = 250
-	}
-	clergymen = {
-		culture = cuman
-		religion = catholic
-		size = 100
-	}
-	artisans = {
-		culture = slovene
-		religion = catholic
-		size = 1000
-	}
-	soldiers = {
-		culture = slovene
-		religion = catholic
-		size = 100
-	}
-	farmers = {
-		culture = slovene
-		religion = catholic
-		size = 4500
-	}
-	
-	aristocrats = {
-		culture = hungarian
-		religion = catholic
-		size = 150
-	}
-	clergymen = {
-		culture = hungarian
-		religion = catholic
-		size = 10
-	}
-	farmers = {
-		culture = hungarian
-		religion = catholic
-		size = 3000
-	}
-	farmers = {
-		culture = cuman
-		religion = catholic
-		size = 5000
-	}
-	artisans = {
-		culture = south_german
-		religion = catholic
-		size = 500
-	}
+    aristocrats = {
+        culture = noriconian
+        religion = catholic
+        size = 250
+    }
+
+    clergymen = {
+        culture = noriconian
+        religion = catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = slovene
+        religion = catholic
+        size = 1000
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = catholic
+        size = 100
+    }
+
+    farmers = {
+        culture = slovene
+        religion = catholic
+        size = 2500
+    }
+
+    aristocrats = {
+        culture = noriconian
+        religion = catholic
+        size = 150
+    }
+
+    clergymen = {
+        culture = noriconian
+        religion = catholic
+        size = 10
+    }
+
+    farmers = {
+        culture = noriconian
+        religion = catholic
+        size = 3000
+    }
+
+    farmers = {
+        culture = noriconian
+        religion = catholic
+        size = 7000
+    }
+
+    artisans = {
+        culture = noriconian
+        religion = catholic
+        size = 500
+    }
+
 }
+

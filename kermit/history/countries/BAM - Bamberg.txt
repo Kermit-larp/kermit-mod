@@ -1,4 +1,4 @@
-capital = 597
+capital = 595
 primary_culture = south_german
 religion = catholic
 government = absolute_monarchy

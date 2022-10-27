@@ -15,9 +15,6 @@ civilized = yes
 
 set_country_flag = serfdom_not_abolished
 
-#GreaterPowers = prestige
-prestige = 80
-
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
@@ -59,12 +56,6 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
-
-decision = RUS_setup_1836
-decision = mazovia_rename_russian
-decision = west_galicia_rename_russian
-decision = lithuania_rename
-decision = latvia_rename
 
 # Technologies
 post_napoleonic_thought = 1

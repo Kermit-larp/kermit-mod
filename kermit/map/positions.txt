@@ -134646,3 +134646,13 @@
     }
 
 }
+
+# Pisino
+3679 = {
+    text_scale = 1.0
+}
+
+# Braunau
+3680 = {
+    text_scale = 1.0
+}
