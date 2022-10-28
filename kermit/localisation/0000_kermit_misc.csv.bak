@@ -329,4 +329,9 @@ BAR_prussian_constitutionalism;Duchy of Bar;;;;;;;;;;;;;x
 BAR_hms_government;Duchy of Bar;;;;;;;;;;;;;x
 BAR_colonial_company;Duchy of Bar;;;;;;;;;;;;;x
 BAR_ADJ;Barisian;;;;;;;;;;;;;x
-BAR;BAR;;;;;;;;;;;;;x
+BAR;Bar;;;;;;;;;;;;;x
+TRR;Trier;;;;;;;;;;;;;x
+TRR_absolute_monarchy;Electorate of Trier;;;;;;;;;;;;;x
+TRR_prussian_constitutionalism;Electorate of Trier;;;;;;;;;;;;;x
+TRR_hms_government;Electorate of Trier;;;;;;;;;;;;;x
+TRR_ADJ;Trevian;;;;;;;;;;;;;x

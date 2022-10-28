@@ -1,6 +1,6 @@
-owner = OLD
-controller = OLD
-add_core = OLD
+owner = OSB
+controller = OSB
+add_core = OSB
 add_core = GER
 trade_goods = grain
 life_rating = 40

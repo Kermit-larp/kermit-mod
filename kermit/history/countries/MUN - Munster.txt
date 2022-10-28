@@ -1,11 +1,11 @@
-capital = 3281
+capital = 581
 primary_culture = north_german
 religion = catholic
 government = theocracy
 plurality = 0
 nationalvalue = nv_order
-literacy = 0.788665
-prestige = 5
+literacy = 0.678665
+prestige 5
 
 civilized = yes
 

@@ -1,6 +1,6 @@
-owner = WES
-controller = WES
-add_core = WES
+owner = MIN
+controller = MIN
+add_core = MIN
 add_core = GER
 trade_goods = cattle
 life_rating = 40
