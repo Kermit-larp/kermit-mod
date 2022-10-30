@@ -355,6 +355,14 @@ vassal = {
 	end_date = 1949.1.1
 }
 
+# Mughals - Beroda
+vassal = {
+	first = MUG
+	second = BER
+	start_date = 1818.1.1
+	end_date = 1949.1.1
+}
+
 # Maratha - Nagpur
 vassal = {
 	first = MAH
@@ -848,4 +856,20 @@ vassal = {
 	second = CPL
 	start_date = 1789.11.9
 	end_date = 1936.1.1
+}
+
+# Poland - Kashubia
+vassal = {
+	first = POL
+	second = PML
+	start_date = 1818.1.1
+	end_date = 1949.1.1
+}
+
+# Poland - Poznan
+vassal = {
+	first = POL
+	second = PZN
+	start_date = 1818.1.1
+	end_date = 1949.1.1
 }

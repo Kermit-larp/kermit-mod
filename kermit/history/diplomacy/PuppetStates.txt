@@ -857,3 +857,27 @@ vassal = {
 	start_date = 1789.11.9
 	end_date = 1936.1.1
 }
+
+# Poland - Kashubia
+vassal = {
+	first = POL
+	second = PML
+	start_date = 1818.1.1
+	end_date = 1949.1.1
+}
+
+# Poland - Poznan
+vassal = {
+	first = POL
+	second = PZN
+	start_date = 1818.1.1
+	end_date = 1949.1.1
+}
+
+# Poland - Prussia
+vassal = {
+	first = POL
+	second = PRU
+	start_date = 1818.1.1
+	end_date = 1949.1.1
+}

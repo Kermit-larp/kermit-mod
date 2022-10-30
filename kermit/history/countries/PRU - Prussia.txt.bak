@@ -1,19 +1,15 @@
 capital = 549
-primary_culture = north_german
-culture = south_german
-culture = volga_german
-religion = protestant
-government = absolute_monarchy
+primary_culture = polish
+culture = north_german
+religion = catholic
+government = colonial_company
 plurality = 25.0
 nationalvalue = nv_order
-literacy = 0.80
+literacy = 0.60
 non_state_culture_literacy = 0.25
 civilized = yes
-is_releasable_vassal = no
 
-
-#GreaterPowers = prestige
-prestige = 50
+prestige = 3
 
 # Political reforms
 slavery = no_slavery

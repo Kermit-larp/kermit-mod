@@ -335,3 +335,20 @@ TRR_absolute_monarchy;Electorate of Trier;;;;;;;;;;;;;x
 TRR_prussian_constitutionalism;Electorate of Trier;;;;;;;;;;;;;x
 TRR_hms_government;Electorate of Trier;;;;;;;;;;;;;x
 TRR_ADJ;Trevian;;;;;;;;;;;;;x
+MUN;Münster;;;;;;;;;;;;;x
+MUN_theocracy;Prince-Bishopric of Münster;;;;;;;;;;;;;x
+MUN_absolute_monarchy;Duchy of Münster;;;;;;;;;;;;;x
+MUN_prussian_constitutionalism;Duchy of Münster;;;;;;;;;;;;;x
+MUN_hms_government;Duchy of Münster;;;;;;;;;;;;;x
+MUN_ADJ;Münsterian;;;;;;;;;;;;;x
+MIN;Ravensberg-Minden;;;;;;;;;;;;;x
+MIN_absolute_monarchy;Duchy of Ravensberg-Minden;;;;;;;;;;;;;x
+MIN_prussian_constitutionalism;Duchy of Ravensberg-Minden;;;;;;;;;;;;;x
+MIN_hms_government;Duchy of Ravensberg-Minden;;;;;;;;;;;;;x
+MIN_ADJ;Mindenean;;;;;;;;;;;;;x
+OSB;Osnabrück;;;;;;;;;;;;;x
+OSB_theocracy;Prince-Bishopric of Osnabrück;;;;;;;;;;;;;x
+OSB_absolute_monarchy;County of Osnabrück;;;;;;;;;;;;;x
+OSB_prussian_constitutionalism;County of Osnabrück;;;;;;;;;;;;;x
+OSB_hms_government;County of Osnabrück;;;;;;;;;;;;;x
+OSB_ADJ;Osnabrück;;;;;;;;;;;;;x
