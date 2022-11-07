@@ -33279,20 +33279,20 @@
 
 804 = {
     text_position = {
-        x = 3120.100098
-        y = 1495.400024
+        x = 3118.050000
+        y = 1501.550000
     }
 
     text_rotation = 5.846851
     text_scale = 2.100000
     unit = {
-        x = 3120.000000
-        y = 1497.000000
+        x = 3119.150000
+        y = 1500.500000
     }
 
     factory = {
-        x = 3112.600098
-        y = 1499.300049
+        x = 3113.900000
+        y = 1502.350000
     }
 
     building_construction = {
@@ -33302,13 +33302,13 @@
 
     building_position = {
         fort = {
-            x = 3128.200000
-            y = 1494.350000
+            x = 3128.700000
+            y = 1495.350000
         }
 
         railroad = {
-            x = 3121.000000
-            y = 1497.000000
+            x = 3122.350000
+            y = 1502.900000
         }
 
     }
@@ -34042,24 +34042,30 @@
 
 825 = {
     text_position = {
-        x = 3135.600098
-        y = 1421.699951
+        x = 3153.050000
+        y = 1406.350000
     }
 
+    text_rotation = 0.105666
     text_scale = 1.800000
-    building_construction = {
-        x = 3135.199951
-        y = 1421.300049
-    }
-
-    military_construction = {
-        x = 3136.199951
-        y = 1423.500000
+    unit = {
+        x = 3154.800000
+        y = 1406.950000
     }
 
     factory = {
-        x = 3136.100098
-        y = 1427.000000
+        x = 3150.450000
+        y = 1407.350000
+    }
+
+    building_construction = {
+        x = 3153.750000
+        y = 1406.050000
+    }
+
+    military_construction = {
+        x = 3154.450000
+        y = 1408.400000
     }
 
     building_position = {
@@ -34069,14 +34075,14 @@
         }
 
         naval_base = {
-            x = 3133.000000
-            y = 1417.800049
+            x = 3153.450000
+            y = 1404.250000
         }
 
     }
 
     building_rotation = {
-        naval_base = 4.799655
+        naval_base = 4.727463
     }
 
 } # Corfu
@@ -34466,19 +34472,20 @@
 
 835 = {
     text_position = {
-        x = 3161.399902
-        y = 1405.699951
+        x = 3162.600000
+        y = 1407.500000
     }
 
-    text_scale = 2.200000
-    building_construction = {
-        x = 3154.000000
-        y = 1408.900024
-    }
-
+    text_rotation = 5.864451
+    text_scale = 2.800000
     factory = {
         x = 3169.100098
         y = 1405.699951
+    }
+
+    building_construction = {
+        x = 3159.800000
+        y = 1407.650000
     }
 
     building_position = {
@@ -34496,17 +34503,22 @@
 } # Lamia
 
 836 = {
+    text_position = {
+        x = 3150.950000
+        y = 1414.850000
+    }
+
+    text_scale = 2.300000
     unit = {
         x = 3151.000000
         y = 1417.000000
     }
 
-    text_position = {
-        x = 3151.100098
-        y = 1414.099976
+    factory = {
+        x = 3143.800049
+        y = 1417.800049
     }
 
-    text_scale = 2.300000
     building_construction = {
         x = 3148.000000
         y = 1415.099976
@@ -34515,11 +34527,6 @@
     military_construction = {
         x = 3161.000000
         y = 1418.000000
-    }
-
-    factory = {
-        x = 3143.800049
-        y = 1417.800049
     }
 
     building_position = {
@@ -34534,10 +34541,11 @@
 
 837 = {
     text_position = {
-        x = 3140.899902
-        y = 1409.099976
+        x = 3139.616667
+        y = 1415.925000
     }
 
+    text_rotation = 5.476514
     text_scale = 2.000000
     factory = {
         x = 3133.000000
@@ -34616,26 +34624,26 @@
 } # Nafplion
 
 839 = {
+    text_position = {
+        x = 3156.628333
+        y = 1384.671667
+    }
+
+    text_rotation = 5.572382
+    text_scale = 2.900000
     unit = {
         x = 3157.000000
         y = 1384.000000
     }
 
-    text_position = {
-        x = 3158.800049
-        y = 1377.699951
-    }
-
-    text_rotation = 6.283184
-    text_scale = 2.200000
-    building_construction = {
-        x = 3154.000000
-        y = 1391.000000
-    }
-
     factory = {
         x = 3163.500000
         y = 1375.599976
+    }
+
+    building_construction = {
+        x = 3154.000000
+        y = 1391.000000
     }
 
     building_position = {
@@ -34659,12 +34667,17 @@
 
 840 = {
     text_position = {
-        x = 3160.100098
-        y = 1393.099976
+        x = 3161.550000
+        y = 1394.450000
     }
 
     text_rotation = 5.759586
-    text_scale = 1.700000
+    text_scale = 2.500000
+    factory = {
+        x = 3157.300049
+        y = 1398.000000
+    }
+
     building_construction = {
         x = 3161.000000
         y = 1395.300049
@@ -34675,20 +34688,10 @@
         y = 1391.900024
     }
 
-    factory = {
-        x = 3157.300049
-        y = 1398.000000
-    }
-
     building_position = {
         fort = {
             x = 3167.000000
             y = 1389.000000
-        }
-
-        naval_base = {
-            x = 3170.000000
-            y = 1385.599976
         }
 
         railroad = {
@@ -34696,17 +34699,9 @@
             y = 1394.900024
         }
 
-    }
-
-    spawn_railway_track = {
-        {
-            x = 3163.889160
-            y = 1397.599854
-        }
-
-        {
-            x = 3157.695801
-            y = 1389.400635
+        naval_base = {
+            x = 3170.000000
+            y = 1385.599976
         }
 
     }
@@ -34718,18 +34713,23 @@
 } # Kalamata
 
 841 = {
+    text_position = {
+        x = 3147.500000
+        y = 1384.400000
+    }
+
+    text_rotation = 5.497787
+    text_scale = 1.800000
     unit = {
         x = 3148.000000
         y = 1385.000000
     }
 
-    text_position = {
-        x = 3146.300049
-        y = 1383.800049
+    factory = {
+        x = 3144.199951
+        y = 1389.099976
     }
 
-    text_rotation = 5.497787
-    text_scale = 1.800000
     building_construction = {
         x = 3147.899902
         y = 1387.000000
@@ -34738,11 +34738,6 @@
     military_construction = {
         x = 3148.800049
         y = 1382.900024
-    }
-
-    factory = {
-        x = 3144.199951
-        y = 1389.099976
     }
 
     building_position = {
@@ -34766,11 +34761,17 @@
 
 842 = {
     text_position = {
-        x = 3147.100098
-        y = 1395.099976
+        x = 3146.650000
+        y = 1396.700000
     }
 
-    text_scale = 2.300000
+    text_rotation = 0.374001
+    text_scale = 2.800000
+    factory = {
+        x = 3140.800049
+        y = 1399.199951
+    }
+
     building_construction = {
         x = 3152.000000
         y = 1400.199951
@@ -34779,11 +34780,6 @@
     military_construction = {
         x = 3147.899902
         y = 1395.000000
-    }
-
-    factory = {
-        x = 3140.800049
-        y = 1399.199951
     }
 
     building_position = {
@@ -34857,47 +34853,53 @@
 } # Myteline
 
 844 = {
-    unit = {
-        x = 3215.000000
-        y = 1422.000000
-    }
-
     text_position = {
-        x = 3205.699951
-        y = 1425.800049
+        x = 3184.150000
+        y = 1443.400000
     }
 
+    text_rotation = 5.704918
     text_scale = 1.800000
-    building_construction = {
-        x = 3216.600098
-        y = 1419.199951
+    unit = {
+        x = 3182.700000
+        y = 1441.950000
     }
 
-    military_construction = {
-        x = 3212.000000
-        y = 1420.000000
+    city = {
+        x = 3184.650000
+        y = 1440.400000
     }
 
     factory = {
-        x = 3198.600098
-        y = 1434.000000
+        x = 3180.100000
+        y = 1442.400000
+    }
+
+    building_construction = {
+        x = 3182.150000
+        y = 1442.300000
+    }
+
+    military_construction = {
+        x = 3183.500000
+        y = 1441.500000
     }
 
     building_position = {
         fort = {
-            x = 3219.300049
-            y = 1417.800049
+            x = 3183.100000
+            y = 1442.350000
         }
 
         naval_base = {
-            x = 3211.100098
-            y = 1423.099976
+            x = 3184.150000
+            y = 1438.100000
         }
 
     }
 
     building_rotation = {
-        naval_base = 0.698132
+        naval_base = 5.668763
     }
 
 } # Cyclades
@@ -107227,15 +107229,15 @@
 
 2577 = {
     text_position = {
-        x = 3116.030556
-        y = 1491.527778
+        x = 3116.400000
+        y = 1492.300000
     }
 
-    text_rotation = 6.283185
-    text_scale = 2.000000
+    text_rotation = 5.898028
+    text_scale = 2.8000000
     factory = {
-        x = 3108.000000
-        y = 1495.000000
+        x = 3113.700000
+        y = 1490.650000
     }
 
     building_construction = {
@@ -107245,8 +107247,8 @@
 
     building_position = {
         fort = {
-            x = 3109.369444
-            y = 1498.097222
+            x = 3123.050000
+            y = 1493.800000
         }
 
         railroad = {
@@ -107478,11 +107480,11 @@
 
 2583 = {
     text_position = {
-        x = 3106.500000
-        y = 1485.900000
+        x = 3104.350000
+        y = 1484.150000
     }
 
-    text_rotation = 0.785398
+    text_rotation = 0.201317
     text_scale = 1.900000
     unit = {
         x = 3106.200000
@@ -107495,8 +107497,8 @@
     }
 
     factory = {
-        x = 3109.250000
-        y = 1491.750000
+        x = 3102.650000
+        y = 1481.700000
     }
 
     building_construction = {
@@ -107511,8 +107513,8 @@
 
     building_position = {
         fort = {
-            x = 3109.600000
-            y = 1489.600000
+            x = 3108.100000
+            y = 1485.750000
         }
 
         railroad = {

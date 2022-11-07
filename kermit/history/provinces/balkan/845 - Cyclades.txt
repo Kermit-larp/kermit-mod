@@ -1,5 +1,6 @@
-owner = TUR
-controller = TUR
+owner = NAX
+controller = NAX
+add_core = NAX
 add_core = GRE
 trade_goods = fish
 life_rating = 30

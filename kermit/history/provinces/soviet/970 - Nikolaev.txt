@@ -1,5 +1,5 @@
-owner = MDV
-controller = MDV
-add_core = MDV
+owner = MOL
+controller = MOL
+add_core = MOL
 trade_goods = fish
 life_rating = 35

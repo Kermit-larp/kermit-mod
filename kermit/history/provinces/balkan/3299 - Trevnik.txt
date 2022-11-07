@@ -1,7 +1,8 @@
-owner = BCR
-controller = BCR
-add_core = BCR
-add_core = HUN
+owner = ALB
+controller = ALB
+add_core = ALB
+add_core = BOS
+add_core = SER
 trade_goods = fruit
 life_rating = 35
 

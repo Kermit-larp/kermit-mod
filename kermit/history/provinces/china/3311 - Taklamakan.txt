@@ -1,5 +1,5 @@
-owner = UYG
-controller = UYG
-add_core = UYG
+owner = XIN
+controller = XIN
+add_core = XIN
 trade_goods = wool
 life_rating = 5

@@ -353,3 +353,33 @@ OSB_prussian_constitutionalism;County of Osnabrück;;;;;;;;;;;;;x
 OSB_hms_government;County of Osnabrück;;;;;;;;;;;;;x
 OSB_ADJ;Osnabrück;;;;;;;;;;;;;x
 POL;Polska;;;;;;;;;;;;;x
+ALB_absolute_monarchy;The Kastriotid Sultanate;;;;;;;;;;;;;x
+ALB_prussian_constitutionalism;The Albanian Sultanante;;;;;;;;;;;;;x
+ALB_hms_government;The Albanian Sultanante;;;;;;;;;;;;;x
+PRU;Pruthenia;;;;;;;;;;;;;x
+PRU_ADJ;Pruthenian;;;;;;;;;;;;;x
+romance_german;Romance-German;x;;;;
+rhaeto_romance;Rhaeto-Romance;x;;;;
+alemannian;Alemannian;x;;;;
+franconian;Franconian;x;;;;
+noriconian;Noriconian;x;;;;
+venetian;Venetian;x;;;;
+lombard;Lombard;x;;;;
+neapolitan;Neapolitan;x;;;;
+tuscan;Tuscan;x;;;;
+sard;Sard;x;;;;
+romagnol;Romagnol;x;;;;
+istriot;Istriot;x;;;;
+ligure;Ligure;x;;;;
+burgundian;Bourguignon;x;;;;
+rochelais;Rochelais;x;;;;
+AOS;Athos;;;;;;;;;;;x;
+AOS_ADJ;Athonite;;;;;;;;;;;x;
+TSL;Thessalonica;;;;;;;;;;;x;
+TSL_absolute_monarchy;Kingdom of Thessalonica;;;;;;;;;;;x;
+TSL_prussian_constitutionalism;Kingdom of Thessalonica;;;;;;;;;;;x;
+TSL_hms_government;Kingdom of Thessalonica;;;;;;;;;;;x;
+NAX;Naxos;;;;;;;;;;;x;
+NAX_absolute_monarchy;Duchy of the Aegean;;;;;;;;;;;x;
+NAX_prussian_constitutionalism;Duchy of the Aegean;;;;;;;;;;;x;
+NAX_hms_government;Duchy of Naxos;;;;;;;;;;;x;

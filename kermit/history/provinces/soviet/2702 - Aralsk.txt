@@ -1,3 +1,6 @@
+owner = TAR
+controller = TAR
+add_core = TAR
 add_core = KAZ
 trade_goods = wool
 life_rating = 30

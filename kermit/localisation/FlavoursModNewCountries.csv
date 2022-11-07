@@ -134,8 +134,11 @@ BEL_colonial_company;Flandern-Wallonien;;;;;;;;;x;;;;;;;;
 BEL_dominion;Flandern-Wallonien;;;;;;;;;x;;;;;;;;
 ION;The Ionian Islands;;;;;;;;;x;;;;;;;;
 ION_democracy;The Septinsular Republic;;;;;;;;;x;;;;;;;;
-HGL_ADJ;German;;;;;;;;;x;;;;;;;;
-HGL;Heligoland;;;;;;;;;x;;;;;;;;
+ATH_ADJ;Athenean;;;;;;;;;x;;;;;;;;
+ATH;Athens;;;;;;;;;x;;;;;;;;
+ATH_absolute_monarchy;Duchy of Athens;;;;;;;;;x;;;;;;;;
+ATH_prussian_constitutionalism;Duchy of Athens;;;;;;;;;x;;;;;;;;
+ATH_hms_government;Duchy of Athens;;;;;;;;;x;;;;;;;;
 MSK_ADJ;Miskito;;;;;;;;;x;;;;;;;;
 MSK;Miskito Coast;;;;;;;;;x;;;;;;;;
 MSK_absolute_monarchy;The Mosquito Kingdom;;;;;;;;;x;;;;;;;;
@@ -426,10 +429,16 @@ SWG;Schwarzburg;;;;;;;;;;;;;x,
 SWG_ADJ;Schwarzburgen;;;;;;;;;;;;;x,
 WLD;Waldeck-Pyrmont;;;;;;;;;;;;;x,
 WLD_ADJ;Waldeck;;;;;;;;;;;;;x,
-RUM;Eastern Rumelia;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-RUM_ADJ;Eastern Rumelian;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-SAM;Samos;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-SAM_ADJ;Greek;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+RUM;Thrace;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+RUM_ADJ;Thracian;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+RUM_absolute_monarchy;The Thracian Kingdom;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+RUM_prussian_constitutionalism;The Thracian Kingdom;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+RUM_hms_government;The Thracian Kingdom;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+SAM;Achaea;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+SAM_ADJ;Achaean;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+SAM_absolute_monarchy;Principality of Achaea;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+SAM_prussian_constitutionalism;Principality of Achaea;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+SAM_hms_government;Principality of Achaea;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
 URP;The United Principalities;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
 URP_ADJ;Romanian;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
 GCF;Germany;;;;;;;;;;;;;x,

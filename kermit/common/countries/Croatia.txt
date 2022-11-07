@@ -1,5 +1,4 @@
-color = { 174  227  95 }
-colonial_company = { 186 168 82 }
+color = { 204  133  75 }
 graphical_culture = EuropeanGC
 
 party = {

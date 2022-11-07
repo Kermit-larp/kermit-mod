@@ -1,5 +1,5 @@
-owner = UZB
-controller = UZB
-add_core = UZB
+owner = KAZ
+controller = KAZ
+add_core = KAZ
 trade_goods = wool
 life_rating = 35

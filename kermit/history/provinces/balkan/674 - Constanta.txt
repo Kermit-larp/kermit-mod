@@ -1,6 +1,5 @@
-owner = TUR
-controller = TUR
-add_core = TUR
+owner = WAL
+controller = WAL
 add_core = WAL
 add_core = ROM
 add_core = BUL 

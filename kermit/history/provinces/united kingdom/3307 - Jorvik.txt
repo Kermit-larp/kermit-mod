@@ -1,6 +1,5 @@
-owner = NRD
-controller = NRD
-add_core = NRD
+owner = ENG
+controller = ENG
 add_core = ENG
 trade_goods = coal
 life_rating = 45

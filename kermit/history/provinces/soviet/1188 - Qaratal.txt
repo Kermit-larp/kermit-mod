@@ -1,3 +1,5 @@
-add_core = KAZ
+owner = XIN
+controller = XIN
+add_core = XIN
 trade_goods = grain
 life_rating = 30

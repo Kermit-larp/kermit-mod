@@ -1,6 +1,6 @@
-owner = TUR
-controller = TUR
-add_core = TUR
+owner = AOS
+controller = AOS
+add_core = AOS
 add_core = GRE
 trade_goods = grain
 life_rating = 35

@@ -126,10 +126,22 @@ BRE = {
 	influence_value = 35
 	military_access = yes
 }
+WLD = {
+	value = 28
+	level = 4
+	influence_value = 35
+	military_access = yes
+}
 LIP = {
 	value = 30
 	level = 4
 	influence_value = 30
+	military_access = yes
+}
+SCL = {
+	value = 28
+	level = 4
+	influence_value = 35
 	military_access = yes
 }
 BRA = {

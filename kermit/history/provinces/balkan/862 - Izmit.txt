@@ -1,5 +1,5 @@
-owner = TUR
-controller = TUR
-add_core = TUR
+owner = RUM
+controller = RUM
+add_core = RUM
 trade_goods = fruit
 life_rating = 35

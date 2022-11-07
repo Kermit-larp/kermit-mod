@@ -1,5 +1,5 @@
-owner = TUR
-controller = TUR
+owner = MOL
+controller = MOL
 add_core = MOL
 add_core = ROM
 trade_goods = fish

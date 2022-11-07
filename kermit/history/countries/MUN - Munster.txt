@@ -5,7 +5,7 @@ government = theocracy
 plurality = 0
 nationalvalue = nv_order
 literacy = 0.678665
-prestige 5
+prestige = 5
 
 civilized = yes
 

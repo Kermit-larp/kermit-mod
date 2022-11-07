@@ -1,6 +1,6 @@
-owner = FIN
-controller = FIN
-add_core = FIN
+owner = NOR
+controller = NOR
+add_core = NOR
 add_core = SWE
 trade_goods = iron
 terrain = montane_tundra

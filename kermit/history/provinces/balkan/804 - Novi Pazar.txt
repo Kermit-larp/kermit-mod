@@ -1,7 +1,5 @@
-owner = TUR
-controller = TUR
-add_core = TUR
-add_core = BOS
+owner = SER
+controller = SER
 add_core = SER
 trade_goods = iron
 life_rating = 35

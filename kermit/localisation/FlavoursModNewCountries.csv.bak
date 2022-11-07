@@ -32,8 +32,6 @@ MIG_ADJ;Imereti;;;;;;;;;;;;x
 MIG;Imereti;;;;;;;;;;;;x
 SVA_ADJ;Svan;;;;;;;;;;;;x
 SVA;Svaneti;;;;;;;;;;;;x
-PML_colonial_company;Westpreuﬂen;;;;;;;;;;;;;x,
-PML_dominion;Westpreuﬂen;;;;;;;;;;;;;x,
 PZN_colonial_company;Posen;;;;;;;;;;;;;x,
 PZN_dominion;Posen;;;;;;;;;;;;;x,
 POL_colonial_company;Generalgouvernement;;;;;;;;;;;;;x,
@@ -136,8 +134,11 @@ BEL_colonial_company;Flandern-Wallonien;;;;;;;;;x;;;;;;;;
 BEL_dominion;Flandern-Wallonien;;;;;;;;;x;;;;;;;;
 ION;The Ionian Islands;;;;;;;;;x;;;;;;;;
 ION_democracy;The Septinsular Republic;;;;;;;;;x;;;;;;;;
-HGL_ADJ;German;;;;;;;;;x;;;;;;;;
-HGL;Heligoland;;;;;;;;;x;;;;;;;;
+ATH_ADJ;Athenean;;;;;;;;;x;;;;;;;;
+ATH;Athens;;;;;;;;;x;;;;;;;;
+ATH_absolute_monarchy;Duchy of Athens;;;;;;;;;x;;;;;;;;
+ATH_prussian_constitutionalism;Duchy of Athens;;;;;;;;;x;;;;;;;;
+ATH_hms_government;Duchy of Athens;;;;;;;;;x;;;;;;;;
 MSK_ADJ;Miskito;;;;;;;;;x;;;;;;;;
 MSK;Miskito Coast;;;;;;;;;x;;;;;;;;
 MSK_absolute_monarchy;The Mosquito Kingdom;;;;;;;;;x;;;;;;;;
@@ -430,8 +431,11 @@ WLD;Waldeck-Pyrmont;;;;;;;;;;;;;x,
 WLD_ADJ;Waldeck;;;;;;;;;;;;;x,
 RUM;Eastern Rumelia;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
 RUM_ADJ;Eastern Rumelian;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-SAM;Samos;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-SAM_ADJ;Greek;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+SAM;Achaea;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+SAM_ADJ;Achaean;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+SAM_absolute_monarchy;Principality of Achaea;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+SAM_prussian_constitutionalism;Principality of Achaea;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+SAM_hms_government;Principality of Achaea;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
 URP;The United Principalities;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
 URP_ADJ;Romanian;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
 GCF;Germany;;;;;;;;;;;;;x,
