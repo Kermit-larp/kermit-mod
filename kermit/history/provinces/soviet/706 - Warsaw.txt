@@ -1,6 +1,7 @@
 owner = CPL
 controller = CPL
 add_core = CPL
+add_core = PZN
 trade_goods = cattle
 life_rating = 40
 terrain = warsaw

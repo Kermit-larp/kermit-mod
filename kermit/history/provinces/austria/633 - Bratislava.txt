@@ -1,6 +1,6 @@
-owner = SLV
-controller = SLV
-add_core = SLV
+owner = BOH
+controller = BOH
+add_core = BOH
 add_core = CZH
 trade_goods = cattle
 life_rating = 35

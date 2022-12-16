@@ -1,5 +1,5 @@
-owner = GAZ
-controller = GAZ
+owner = MAD
+controller = MAD
 add_core = GAZ
 add_core = SHO
 add_core = AGC

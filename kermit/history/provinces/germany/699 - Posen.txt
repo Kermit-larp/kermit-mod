@@ -1,7 +1,7 @@
 owner = PZN
 controller = PZN
 add_core = PZN
-add_core = POL
+add_core = POM
 trade_goods = grain
 terrain = pozan
 life_rating = 40

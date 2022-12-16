@@ -1089,8 +1089,8 @@ DUR_prussian_constitutionalism_ADJ;Durrani;;;;;;;;;;;;x
 DUR_hms_government_ADJ;Durrani;;;;;;;;;;;;x
 DUR_fascist_dictatorship;Durrani Republic;;;;;;;;;;;;x
 DUR_fascist_dictatorship_ADJ;Durrani;;;;;;;;;;;;x
-ENL;England;;;;;;;;;;;;;x
-ENL_ADJ;English;;;;;;;;;;;;;x
+ENL;Saxe-Loegria;;;;;;;;;;;;;x
+ENL_ADJ;Loegrian;;;;;;;;;;;;;x
 ENT;Entre Rios;;;;;;;;;;;;;x
 ENT_ADJ;Entrerriano;;;;;;;;;;;;;x
 ENT_conservative;Federalistas;;;;;;;;;;;;;x
@@ -1990,8 +1990,8 @@ PTG_anarcho_liberal;The Radical Faction;;;;;;;;;;;;x
 PTG_socialist;The Socialist Faction;;;;;;;;;;;;x
 PTG_communist;The Communist Faction;;;;;;;;;;;;x
 PTG_fascist;The Fascist Faction;;;;;;;;;;;;x
-PZN;Poznan;Poznan;Poznan;;Poznan;;;;;;;;;;x;;;;;;;;;;;;;;
-PZN_ADJ;Poznan;Poznan;Poznan;;Poznan;;;;;;;;;;x;;;;;;;;;;;;;;
+PZN;Lugiiland;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+PZN_ADJ;Lugii;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 QLD;Queensland;Queensland;Queensland;;;;;;;;;;;x
 QLD_ADJ;Queenslander;Queenslander;Queenslander;;;;;;;;;;;x
 QLD_conservative;Conservative Faction;Conservative Faction;Conservative Faction;;;;;;;;;;;x

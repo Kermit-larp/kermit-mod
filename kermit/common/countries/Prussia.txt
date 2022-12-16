@@ -1,6 +1,5 @@
-color = { 0 49 83 } #244  232  109
-dominion = { 171 70 70 }
-colonial_company = { 171 70 70 }
+color = { 47 62 81 } #244  232  109
+dominion = { 148 72 58 }
 graphical_culture = PrussianGC
 
 party = {

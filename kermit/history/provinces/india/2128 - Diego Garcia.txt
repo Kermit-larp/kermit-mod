@@ -1,5 +1,6 @@
-owner = ENG
-controller = ENG
+owner = MLD
+controller = MLD
+add_core = MLD
 add_core = IOT
 trade_goods = fish
 life_rating = 32

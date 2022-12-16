@@ -1,5 +1,5 @@
-owner = FRA
-controller = FRA
+owner = ATR
+controller = ATR
 add_core = WOL
 trade_goods = grain
 terrain = semidesert

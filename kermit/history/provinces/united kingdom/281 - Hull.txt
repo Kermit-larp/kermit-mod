@@ -1,6 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = ENG
+owner = NBL
+controller = NBL
+add_core = NBL
 trade_goods = coal
 life_rating = 35
 naval_base = 2

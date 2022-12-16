@@ -1,5 +1,5 @@
-owner = POL
-controller = POL
-add_core = POL
+owner = PZN
+controller = PZN
+add_core = PZN
 trade_goods = coal
 life_rating = 35
