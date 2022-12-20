@@ -1,6 +1,5 @@
-owner = ALB
-controller = ALB
-add_core = ALB
+owner = MCD
+controller = MCD
 add_core = TSL
 add_core = MCD
 add_core = GRE

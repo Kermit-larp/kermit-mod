@@ -1,8 +1,6 @@
-owner = FRA
-
-controller = FRA
-
-add_core = FRA
+owner = NRM
+controller = NRM
+add_core = NRM
 add_core = BRT
 
 trade_goods = grain

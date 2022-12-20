@@ -1,6 +1,5 @@
-owner = MCD
-controller = MCD
-add_core = MCD
+owner = ALB
+controller = ALB
 add_core = TSL
 add_core = GRE
 trade_goods = silk

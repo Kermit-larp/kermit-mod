@@ -2767,20 +2767,20 @@
 #Palermo
 762 = {
     aristocrats = {
-        culture = norman
-        religion = catholic
+        culture = siqilli
+        religion = sunni
         size = 5200
     }
 
     bureaucrats = {
-        culture = norman
-        religion = catholic
+        culture = siqilli
+        religion = sunni
         size = 825
     }
 
     officers = {
-        culture = norman
-        religion = catholic
+        culture = siqilli
+        religion = sunni
         size = 500
     }
 
@@ -2791,14 +2791,14 @@
     }
 
     artisans = {
-        culture = griko
-        religion = orthodox
+        culture = siqilli
+        religion = sunni
         size = 10000
     }
 
     artisans = {
-        culture = griko
-        religion = orthodox
+        culture = maghrebi
+        religion = sunni
         size = 10000
     }
 
@@ -2809,14 +2809,14 @@
     }
 
     soldiers = {
-        culture = norman
-        religion = catholic
-        size = 6000
+        culture = griko
+        religion = sunni
+        size = 3000
     }
 
     farmers = {
-        culture = norman
-        religion = catholic
+        culture = maghrebi
+        religion = sunni
         size = 11737
     }
 
@@ -2877,8 +2877,8 @@
 #Catania
 764 = {
     aristocrats = {
-        culture = norman
-        religion = catholic
+        culture = siqilli
+        religion = sunni
         size = 5000
     }
 
@@ -2891,13 +2891,13 @@
     artisans = {
         culture = griko
         religion = orthodox
-        size = 10000
+        size = 5000
     }
 
     artisans = {
         culture = griko
         religion = orthodox
-        size = 10000
+        size = 5000
     }
 
     artisans = {
@@ -2907,8 +2907,8 @@
     }
 
     soldiers = {
-        culture = norman
-        religion = catholic
+        culture = siqilli
+        religion = sunni
         size = 3000
     }
 
@@ -2922,6 +2922,12 @@
         culture = siqilli
         religion = sunni
         size = 80940
+    }
+
+    artisans = {
+        culture = siqilli
+        religion = sunni
+        size = 5000
     }
 
 }

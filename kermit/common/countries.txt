@@ -169,6 +169,7 @@ ATR		= "countries/Asturias.txt"
 BAN		= "countries/Banat.txt"
 BKV		= "countries/Bukovina.txt"  #Transtheissia
 BRT		= "countries/Brittany.txt"
+NRM		= "countries/Normandy.txt"
 BSQ		= "countries/Basqueland.txt"
 CRS		= "countries/Corsica.txt"
 DLM		= "countries/Dalmatia.txt"
