@@ -1,6 +1,6 @@
-owner = SWI
-controller = SWI
-add_core = SWI
+owner = VLS
+controller = VLS
+add_core = VLS
 trade_goods = coal
 life_rating = 31
 party_loyalty = {

@@ -1,7 +1,8 @@
-owner = BRG
-controller = BRG
-add_core = BRG
+owner = NCT
+controller = NCT
+add_core = NCT
 add_core = SWI
+add_core = BRG
 trade_goods = cattle
 life_rating = 32
 1861.1.1 = { railroad = 3 }

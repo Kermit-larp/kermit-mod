@@ -1,6 +1,6 @@
 capital = 609
-primary_culture = swiss_german
-culture = swiss_french
+primary_culture = swiss_french
+culture = swiss_german
 religion = catholic
 government = colonial_company
 plurality = 30.0

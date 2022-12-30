@@ -1,6 +1,7 @@
 owner = RAE
 controller = RAE
 add_core = RAE
+add_core = SWI
 trade_goods = iron
 life_rating = 35
 1861.1.1 = {

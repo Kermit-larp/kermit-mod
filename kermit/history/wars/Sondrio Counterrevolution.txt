@@ -1,0 +1,29 @@
+name = "The Sondrio Counterrevolution"
+
+1835.10.2 = {
+	add_attacker = LOM
+	add_defender = PAR
+	
+	# actor
+	# receiver
+	# casus_belli - cb type
+	# country - 3rd party
+	# state_province_id - target state capital
+	war_goal = {
+		casus_belli = conquest_any
+		actor = LOM
+		receiver = PAR
+	}
+	
+	war_goal = {
+		casus_belli = conquest_any
+		actor = PAR
+		receiver = LOM
+	}
+
+}
+
+1836.6.6 = {
+	rem_attacker = PAR
+	rem_attacker = LOM
+}

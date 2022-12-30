@@ -1,8 +1,8 @@
 capital = 608
-primary_culture = north_german
-culture = swiss_french
+primary_culture = swiss_french
+culture = romansh
 religion = protestant
-government = hms_government
+government = presidential_dictatorship
 plurality = 25.0
 nationalvalue = nv_order
 literacy = 0.8
