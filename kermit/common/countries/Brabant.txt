@@ -1,4 +1,5 @@
 color = { 117 111 62 }
+dominion = { 173 35 82 }
 colonial_company = { 173 35 82 }
 graphical_culture = EuropeanGC
 

@@ -1,5 +1,6 @@
 color = { 47 62 81 } #244  232  109
 dominion = { 148 72 58 }
+colonial_company = { 148 72 58 }
 graphical_culture = PrussianGC
 
 party = {
