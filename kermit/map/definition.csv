@@ -3413,7 +3413,7 @@
 3412;150;250;150;Nafusa;x
 3413;160;250;160;Zalla;x
 3414;170;250;170;Selima;x
-3415;180;250;180;Nukheila;x	
+3415;180;250;180;Nukheila;"x	"
 3416;190;250;190;Ma'an;x
 3417;200;250;200;Afrin;x
 3418;255;42;33;Mantua;x
@@ -3552,7 +3552,7 @@
 3551;55;82;42;Chontal;x
 3552;55;182;42;Zaculeu;x
 3553;55;182;142;Huitiupan;x 
-3554;155;182;142;Qumarkaj;x	
+3554;155;182;142;Qumarkaj;"x	"
 3555;155;182;242;Jilotepeque;x
 3556;175;182;222;Chorotega;x
 3557;175;102;222;Potonchan;x
@@ -3679,4 +3679,7 @@
 3678;100;11;83;Fulda;x
 3679;255;234;243;Pisino;x
 3680;249;229;238;Braunau;x
-;111;17;248;Lake Winnebago; x
+3681;105;165;209;Port Normand;x
+3682;143;143;254;Guirnaux;x
+3683;143;207;127;Tucacas;x
+;111;17;248;Lake Winnebago;x

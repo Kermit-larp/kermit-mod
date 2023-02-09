@@ -1,7 +1,7 @@
 capital = 2264
-primary_culture = north_andean
+primary_culture = basque
 religion = catholic
-government = democracy
+government = colonial_company
 plurality = 25.0
 nationalvalue = nv_order
 literacy = 0.05
@@ -12,7 +12,7 @@ prestige = 3
 # Political reforms
 slavery = yes_slavery
 upper_house_composition = state_equal_weight
-vote_franschise = landed_voting
+vote_franschise = none_voting
 public_meetings = yes_meeting
 press_rights = state_press
 trade_unions = no_trade_unions

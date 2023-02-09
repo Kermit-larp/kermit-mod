@@ -1335,15 +1335,15 @@ PEU_2297 = { 2301 2278 2319 2320 2407 2401 } #Ica - now Sach'aqsuyu
 
 ENG_1979 = { 2239 2240 2241 2245 2246 } #Guyana - now Quyana
 
-VNZ_2234 = { 2268 2270 2272 2273 } #Zulia 
+VNZ_2234 = { 2268 2270 2272 2273 3683 } #Zulia 
 
 VNZ_2265 = { 2264 2265 2266 2267 2274 } #Miranda - now Françiana
 
-VNZ_2278 = { 2275 2277 2403 } #Bolivar - now Terre de Sauvage
+VNZ_2278 = { 2275 2277 2243 } #Bolivar - now Terre de Sauvage
 
-CLM_2276 = { 2276 2269 2243 } #Warao - now Sanha de Warao
+CLM_2276 = { 2276 2269 3682 } #Warao - now Sanha de Warao
 
-CLM_2251 = { 2255 2252 2253 2254 2285 } #Antioquia - now Nou Gasconha 
+CLM_2251 = { 2255 2252 2253 2254 2285 3681 } #Antioquia - now Nou Gasconha 
 
 CLM_2262 = { 2262 2261 2260 2242 } #Guaviare - Terre de Aroüagues
  
@@ -1351,7 +1351,7 @@ CLM_2247 = { 2247 2249 2251 2271 } #Cundinamarca - now Muiscas de Nord
 
 CLM_2259 = { 2256 2257 2250 2248 } #Cauca - now Muiscas de Sud
 
-BOL_2317 = { 2317 2316 2318 } #Santa Cruz - now Tarapacusi Pampaniku
+BOL_2317 = { 2317 2316 2318 2403 } #Santa Cruz - now Tarapacusi Pampaniku
 
 
 ### al-Humr, al-Tufunawa, Amazon Basin

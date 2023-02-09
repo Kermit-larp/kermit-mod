@@ -1,4 +1,4 @@
-;;;;;;;;;;;;x,,,,,,,,,,,,,
+;;;;;;;;;;;;x,,,,,,,,,,,,,;
 gtfo_on_title;Enable 'Release Vassal' decisions;;;;;;;;;;;;x,,
 gtfo_on_desc;The Release Vassal decisions allow you to release vassals, and are otherwise kept hidden from view to avoid having them clutter up your decision list.;;;;;;;;;;;;x
 gtfo_off_title;Disable 'Release Vassal' decisions;;;;;;;;;;;;x,,
@@ -923,8 +923,8 @@ gtfo_PRG_title;Grant Paraguay Independence;;;;;;;;;;;;x,,
 gtfo_PRG_desc;We've had a good run, but it's time to end our rulership of Paraguay: if you love something, let it go!;;;;;;;;;;;;x
 gtfo_URU_title;Grant Uruguay Independence;;;;;;;;;;;;x,,
 gtfo_URU_desc;We've had a good run, but it's time to end our rulership of Uruguay: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_VNZ_title;Grant Venezuela Independence;;;;;;;;;;;;x,,
-gtfo_VNZ_desc;We've had a good run, but it's time to end our rulership of Venezuela: if you love something, let it go!;;;;;;;;;;;;x
+gtfo_VNZ_title;Grant New Viscay Independence;;;;;;;;;;;;x,,
+gtfo_VNZ_desc;We've had a good run, but it's time to end our rulership of New Viscay: if you love something, let it go!;;;;;;;;;;;;x
 gtfo_AST_title;Grant Australia Independence;;;;;;;;;;;;x,,
 gtfo_AST_desc;We've had a good run, but it's time to end our rulership of Australia: if you love something, let it go!;;;;;;;;;;;;x
 gtfo_NZL_title;Grant New Zealand Independence;;;;;;;;;;;;x,,

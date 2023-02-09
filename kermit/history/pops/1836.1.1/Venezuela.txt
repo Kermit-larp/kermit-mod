@@ -1140,5 +1140,130 @@
 		religion = inti
 		size = 220
 	}
+}
 
+#Guirnaux (60000/15000 POPS)
+3682 = {
+	aristocrats = {
+		culture = basque
+		religion = catholic
+		size = 325
+	}
+
+	clergymen = {
+		culture = basque
+		religion = catholic
+		size = 75
+	}
+
+	artisans = {
+		culture = basque
+		religion = catholic
+		size = 450
+	}
+
+	soldiers = {
+		culture = basque
+		religion = catholic
+		size = 150
+	}
+
+	farmers = {
+		culture = basque
+		religion = catholic
+		size = 8100
+	}
+	
+	farmers = {
+		culture = basque
+		religion = catholic
+		size = 17000
+	}
+
+	clergymen = {
+		culture = basque
+		religion = catholic
+		size = 25
+	}
+
+	artisans = {
+		culture = basque
+		religion = catholic
+		size = 900
+	}
+
+	soldiers = {
+		culture = basque
+		religion = catholic
+		size = 75
+	}
+
+	farmers = {
+		culture = basque
+		religion = catholic
+		size = 8800
+	}
+}
+
+#Tucacas (60000/15000 POPS)
+3683 = {
+	aristocrats = {
+		culture = basque
+		religion = catholic
+		size = 325
+	}
+
+	clergymen = {
+		culture = basque
+		religion = catholic
+		size = 75
+	}
+
+	artisans = {
+		culture = basque
+		religion = catholic
+		size = 450
+	}
+
+	soldiers = {
+		culture = basque
+		religion = catholic
+		size = 150
+	}
+
+	farmers = {
+		culture = basque
+		religion = catholic
+		size = 8100
+	}
+	
+	farmers = {
+		culture = basque
+		religion = catholic
+		size = 17000
+	}
+
+	clergymen = {
+		culture = basque
+		religion = catholic
+		size = 25
+	}
+
+	artisans = {
+		culture = basque
+		religion = catholic
+		size = 900
+	}
+
+	soldiers = {
+		culture = basque
+		religion = catholic
+		size = 75
+	}
+
+	farmers = {
+		culture = basque
+		religion = catholic
+		size = 8800
+	}
 }
