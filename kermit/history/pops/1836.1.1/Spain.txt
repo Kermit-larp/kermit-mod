@@ -3,19 +3,19 @@
     aristocrats = {
         culture = galician
         religion = catholic
-        size = 2200
+        size = 1000
     }
 
     officers = {
-        culture = galician
+        culture = asturian
         religion = catholic
-        size = 450
+        size = 250
     }
 
     bureaucrats = {
-        culture = galician
+        culture = asturian
         religion = catholic
-        size = 650
+        size = 500
     }
 
     clergymen = {
@@ -25,13 +25,13 @@
     }
 
     clergymen = {
-        culture = galician
+        culture = asturian
         religion = catholic
         size = 1000
     }
 
     artisans = {
-        culture = galician
+        culture = asturian
         religion = catholic
         size = 2350
     }
@@ -51,13 +51,19 @@
     farmers = {
         culture = galician
         religion = catholic
-        size = 104350
+        size = 94350
     }
 
     farmers = {
-        culture = galician
+        culture = asturian
         religion = catholic
-        size = 40350
+        size = 50350
+    }
+
+    aristocrats = {
+        culture = asturian
+        religion = catholic
+        size = 1200
     }
 
 }
@@ -65,31 +71,31 @@
 #Oviedo
 475 = {
     aristocrats = {
-        culture = galician
+        culture = asturian
         religion = catholic
         size = 1100
     }
 
     clergymen = {
-        culture = galician
+        culture = asturian
         religion = catholic
         size = 1050
     }
 
     artisans = {
-        culture = galician
+        culture = asturian
         religion = catholic
         size = 5000
     }
 
     soldiers = {
-        culture = galician
+        culture = asturian
         religion = catholic
         size = 3100
     }
 
     farmers = {
-        culture = galician
+        culture = asturian
         religion = catholic
         size = 10850
     }
@@ -112,6 +118,18 @@
         size = 3900
     }
 
+    officers = {
+        culture = asturian
+        religion = catholic
+        size = 600
+    }
+
+    bureaucrats = {
+        culture = asturian
+        religion = catholic
+        size = 800
+    }
+
 }
 
 #Vigo
@@ -119,19 +137,19 @@
     aristocrats = {
         culture = galician
         religion = catholic
-        size = 700
+        size = 300
     }
 
     clergymen = {
         culture = galician
         religion = catholic
-        size = 800
+        size = 400
     }
 
     artisans = {
         culture = galician
         religion = catholic
-        size = 4000
+        size = 3000
     }
 
     soldiers = {
@@ -147,9 +165,27 @@
     }
 
     farmers = {
-        culture = galician
+        culture = asturian
         religion = catholic
         size = 30500
+    }
+
+    aristocrats = {
+        culture = basque
+        religion = catholic
+        size = 400
+    }
+
+    clergymen = {
+        culture = basque
+        religion = catholic
+        size = 400
+    }
+
+    artisans = {
+        culture = basque
+        religion = catholic
+        size = 1000
     }
 
 }
@@ -157,43 +193,43 @@
 #Leon
 477 = {
     aristocrats = {
-        culture = galician
+        culture = asturian
         religion = catholic
         size = 800
     }
 
     officers = {
-        culture = galician
+        culture = asturian
         religion = catholic
         size = 300
     }
 
     bureaucrats = {
-        culture = galician
+        culture = asturian
         religion = catholic
         size = 400
     }
 
     clergymen = {
-        culture = galician
+        culture = asturian
         religion = catholic
         size = 700
     }
 
     artisans = {
-        culture = galician
+        culture = asturian
         religion = catholic
         size = 3500
     }
 
     soldiers = {
-        culture = galician
+        culture = asturian
         religion = catholic
         size = 700
     }
 
     farmers = {
-        culture = galician
+        culture = asturian
         religion = catholic
         size = 63600
     }
@@ -203,7 +239,7 @@
 #Santander
 478 = {
     aristocrats = {
-        culture = galician
+        culture = asturian
         religion = catholic
         size = 500
     }
@@ -215,31 +251,31 @@
     }
 
     artisans = {
-        culture = galician
+        culture = asturian
         religion = catholic
         size = 3500
     }
 
     soldiers = {
-        culture = galician
+        culture = asturian
         religion = catholic
         size = 3400
     }
 
     farmers = {
-        culture = galician
+        culture = asturian
         religion = catholic
         size = 13700
     }
 
     clergymen = {
-        culture = galician
+        culture = asturian
         religion = catholic
         size = 50
     }
 
     soldiers = {
-        culture = galician
+        culture = asturian
         religion = catholic
         size = 50
     }
@@ -307,7 +343,7 @@
 #Valladolid
 480 = {
     aristocrats = {
-        culture = galician
+        culture = asturian
         religion = catholic
         size = 600
     }
@@ -343,13 +379,13 @@
     }
 
     clergymen = {
-        culture = galician
+        culture = asturian
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = galician
+        culture = asturian
         religion = catholic
         size = 10075
     }
@@ -425,23 +461,23 @@
     aristocrats = {
         culture = basque
         religion = catholic
-        size = 1100
+        size = 300
     }
 
     clergymen = {
-        culture = basque
+        culture = spanish
         religion = catholic
         size = 550
     }
 
     artisans = {
-        culture = basque
+        culture = spanish
         religion = catholic
-        size = 2600
+        size = 1600
     }
 
     soldiers = {
-        culture = basque
+        culture = spanish
         religion = catholic
         size = 1100
     }
@@ -453,9 +489,45 @@
     }
 
     farmers = {
-        culture = basque
+        culture = asturian
         religion = catholic
         size = 18750
+    }
+
+    aristocrats = {
+        culture = spanish
+        religion = catholic
+        size = 500
+    }
+
+    aristocrats = {
+        culture = asturian
+        religion = catholic
+        size = 300
+    }
+
+    clergymen = {
+        culture = asturian
+        religion = catholic
+        size = 250
+    }
+
+    clergymen = {
+        culture = basque
+        religion = catholic
+        size = 250
+    }
+
+    artisans = {
+        culture = asturian
+        religion = catholic
+        size = 500
+    }
+
+    artisans = {
+        culture = basque
+        religion = catholic
+        size = 1000
     }
 
 }

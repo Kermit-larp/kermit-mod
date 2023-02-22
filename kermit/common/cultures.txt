@@ -577,10 +577,10 @@ iberian = {
 	unit = SpanishGC
 	basque = {
 		color = {220 170 30}
-		first_names = { Agustín Aitor Alberto Ander Andoni Andrés Ángel Antonio Arturo Carlos
-		Ceferino Cosme Cristobal Damián Endika "Francisco Javier" Ignacio Imanol Iñaki Jesús
-		Jon "José Antonio" "José María" Joseba Josu Juan Julen Koldobika Luis Manuel
-		Marino Miguel Paulino Pedro Rafael Ramiro Ramón Sabino Tomás Vicente }
+		first_names = { Agustín Aitor Alberto Ander Andoni Andrés Ángel Antonio Arturo
+		Ceferino Damián Endika "Francisco Javier" Ignacio Imanol Iñaki Jesús
+		Jon "José Antonio" "José María" Joseba Josu Juan Julen Karlos Kristobal Koldobika Kosme Luis 
+		Manuel Marino Miguel Paulino Pedro Rafael Ramiro Ramón Sabino Tomás Vicente }
 		
 		last_names = { Aguirre Ajuriaguerra Aldecoa Arana Aranzadi Arizmendiarrieta Armendáriz Aznar Balenciaga Berasategui 
 		Bilbao Campión Churruca "de Amésquita" "de Azpilicueta" "de Erauso" "de Rentería" "de Ubisztongo" Echagüe Echave
@@ -590,40 +590,56 @@ iberian = {
 	}
 	spanish = {
 		color = {220 220 30}
-		first_names = { Agustín Alberto Alejandro Alfonso Álvaro Antonio "Antonio María" Arsenio Augusto Baldomero
-		Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal Dámaso
-		Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Félix Fernando Francisco
-		"Francisco Javier" Gabino Gabriel Gaspar Genaro Gonzalo Ignacio Isidro Jacobo Jaime
-		Joaquín José "José Antonio" "José Manuel" "José María" Juan "Juan Bautista" Julio Leopoldo Lorenzo 
-		Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicolás Pablo Pascual
-		Pedro Rafael Raimundo Ramón Ricardo Santiago Sebastián Segismundo Valeriano Vicente }
+		first_names = { Agustín Aitor Alberto Alejandro Alfonso Álvaro Ander Andoni Andrés Antonio "Antonio María" 
+		Arsenio Augusto Baldomero Baltasar Benito Bernardo Calixto Carlos Ceferino Celestino Claudio 
+		Cristobal Cosme Dámaso Damián Diego Dionisio Eduardo Emilio Endica Federico Felipe Félix Fernando Francisco
+		"Francisco Javier" Gabino Gabriel Gaspar Genaro Gonzalo Ignacio Imanol Iñaki Isidro Jesús Jacobo Jaime
+		Joakín Jon José "José Antonio" "José Manuel" "José María" Joseba Josu Juan Julen Leopoldo Lorenzo 
+		Luis Manuel Mariano Mateo Melchor Miguel Nicolás Paulino Pascual Pedro Rafael Raimundo Ramiro Ramón 
+		Ricardo Sabino Sebastián Segismundo Tomás Valeriano Vicente }
 		
-	last_names = { Acuña Aguirre Alcalá-Zamora Allendesalazar Alonso Álvarez "Álvarez de Toledo" Aranda Argüelles-Meres Asensio
-		Aznar Barradas Bugallal Cabrera "Cagigal de la Vega" Cano Cervera "de Albornoz" "de Borbón"
-		"de Carvajal" "de la Fuente" "de Orleans" Díaz Espartero Fernández "Fernández de Córdoba" "Fitz-James Stuart" Franco 
-		García "García de la Noceda" González Heredia Hernández Herrera Hevia "Hidalgo de Cisneros" Linares López 
-		Maroto Márquez Martínez-Campos Maura Menéndez Miaja Millán-Astray Mina Mola Muñoz 
-		Narváez O'Donnell Ortega Pavía Pérez "Primo de Rivera" "Queipo de Llano" Rodríguez Rojo Ruiz 
-		Sanjurjo Serrano Silvestre Topete Valdés Varela Villapol Villar Weyler Yagüe }
+	last_names = { Aguirre Ajuriaguerra Aldecoa Arana Aranzadi Arizmendiarrieta Armendáriz Aznar Balenciaga Berasategui 
+		Bilbao Campión Churruca "de Amésquita" "de Azpilicueta" "de Erauso" "de Rentería" "de Ubisztongo" Echagüe Echave
+	 	Echegaray Echevarría Elorza Gaztañeta Ibarrola Ibárruri Irujo Lazcano Mendizabal Moneo 
+		Nárdiz Olano Olave Oyarzábal Rotaeche Uzcudun Zamárraga Zárate Zavala Zumalacárregui }
+	}
+	asturian = {
+		color = {200 220 100}
+		first_names = { Adrianu Antón Arximiro Ayán Barte Belardo Belarmo Beneitu Benino Bertu
+		Bras Cachero Canor Céfero Chuis Cloyo Colás Daviz Dolfo Enol Fael Fano Farrucu Fonso Foro
+		Fredo Goyo Inaciu Ladio Lías Llisardo Llorián Maísimo Maxín Mayo Mero Milio Mino Miyán Nardo
+		Nayo Nel Norino Olay Oreyo Pelayu Roxélio Selmo Sendo Sidro Silverio Silvino Sindo Sisto
+		Tano Vítor Xamín Xandru Xelu Xerardo Xervás Xerman Xicu Xinés Xinio Xosé Xosepu Xuacu
+		Xuan Xurde Xusto Yayo }
+		
+	last_names = { Abad Abascal Abella Abreu Acebedo Acero Aguilera Aguirre Albuerne Alegre Allende 
+		Almeida Álvarez "Álvarez de Uviéu" Ampudia Aparicio Arango Arboleya Armayor Asensio Baizán 
+		Balbuena Baselga Bayón Bercial Bermúdez Bobes Bouza Carbajal Carreño Cartuxo Caxigal "Caxigal de la Vega"
+		Cifuentes Cosío Cueli Delgado "de Albornoz" "de Borbón" "de la Fuente" Durán Escanlar Estrada 
+		Evia Faes Falcón Fernández Ferrero Franco Fonseca Fuello Galende Garrido Gayo Huerces "Hidalgo de Cisneros" 
+		Inclán  Jove Junco Lamadriz Legazpi Linares Llamuño Luengo Magadán Mayora Melendi Migoyo Nava 
+		Norniella Obaya Ortea Pastur Peláez "Primo de Rivera" Ponce "Ponce de León" Quirós Recio Ribaya
+		"de la Roza" Samaniego Sanjurjo Soto Tobar Toribiu Tuya Urdiales Valdés Varela Vixil Yagüe Zapico }
 	}
 	galician = {
 		color = {170 200 40}
-		first_names = { Agustín Alberto Alejandro Alfonso Álvaro Antonio "Antonio María" Arsenio Augusto Baldomero
-		Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal Dámaso
-		Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Félix Fernando Francisco
-		"Francisco Javier" Gabino Gabriel Gaspar Genaro Gonzalo Ignacio Isidro Jacobo Jaime
-		Joaquín José "José Antonio" "José Manuel" "José María" Juan "Juan Bautista" Julio Leopoldo Lorenzo 
-		Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicolás Pablo Pascual
-		Pedro Rafael Raimundo Ramón Ricardo Santiago Sebastián Segismundo Valeriano Vicente }
+		first_names = { Abel Adriano Afonso Alberto Alexandro Alfredo Álvaro André António Aquilino 
+		Artur Augusto Bartolomeu Bernardo Bruno Caetano Cándido Carlos Christováo Cláudio
+		Damiao Daniel David Dinis Diogo Duarte Ernesto Estevao Eugénio Fernando 
+		Filipe Francisco "Francisco Xavier" Gustao Hermenegildo Ignácio Jerónimo Joao Joaquim Jorge
+		José Julio Leopoldo Luís Manuel Mário Miguel Nicolau Nuño Orlando 
+		Oscar Pascoal Paulo Pedro Rafael Raul Roberto Rodrigo Rui Santiago 
+		Sebastiao Teodoro Teófilo Tiago Tomé Urbano Vasco Vicente Vitorino Vitório }
 		
-	last_names = { Acuña Aguirre Alcalá-Zamora Allendesalazar Alonso Álvarez "Álvarez de Toledo" Aranda Argüelles-Meres Asensio
-		Aznar Barradas Bugallal Cabrera "Cagigal de la Vega" Cano Cervera "de Albornoz" "de Borbón"
-		"de Carvajal" "de la Fuente" "de Orleans" Díaz Espartero Fernández "Fernández de Córdoba" "Fitz-James Stuart" Franco 
-		García "García de la Noceda" González Heredia Hernández Herrera Hevia "Hidalgo de Cisneros" Linares López 
-		Maroto Márquez Martínez-Campos Maura Menéndez Miaja Millán-Astray Mina Mola Muñoz 
-		Narváez O'Donnell Ortega Pavía Pérez "Primo de Rivera" "Queipo de Llano" Rodríguez Rojo Ruiz 
-		Sanjurjo Serrano Silvestre Topete Valdés Varela Villapol Villar Weyler Yagüe }
+		last_names = { Amaral Barreto Braga Cabral Capelo Carmona Coello Correia Coutiño
+		"da Costa" "da Cuña" "da Silva" "de Albuquerque" "de Almeida" "de Arriaga" "de Bragansa" "de Bragansa-Coburgo" "de Carvallo" 
+		"de Castro" "de Gusmao" "de Lacerda" "de Mesquita" "de Moura" "de Noroña" "da Oliveira" "de Paiva" "de Sousa" "de Vasconcelos"
+		Dias "dos Reis" "dos Santos" Fernandes Ferreira Figueira "Freire de Andrade" Gago Gil Gomes
+		Herculano Ivens Lopes Machado Magallaes Mendes Moniz Mouziño Nogueira 
+		Nuñes Ortigao Pereira Piñeiro Pinto Pires Pomar Pulido Queiroz Quintanilla
+		Ribeiro Rodrigues Salazar Sampaio Sérgio Silveira Tavares Teixeira Vidigal Vieira }
 	}
+	
 	catalan = {
 		color = {220 110 30}
 		first_names = { Albert Alexandre Alfons Alfonso Andrés Andreu Antoni Carles Cassià Dalmau 
@@ -2483,21 +2499,31 @@ latin_american_cultures = {
 		radicalism = 15
 	}
 	caribeno = {
-		color = {122 11 74}
-		first_names = { Alberto Alejandro Alfredo Ambrosio Anselmo Antonio Arturo Benigno Buenaventura Calixto
-		Carlos Ceferino Cesáreo Demetrio Desiderio Dionisio Domingo Eugenio Federico Felipe
-		Fernando Fidel Fulgencio Gerardo Gregorio Guillermo Horacio Ignacio Jacinto Jacobo
-		Jesús Joaquín José "José Miguel" Juan "Juan Bautista" Manuel Mariano Mario Máximo
-		Osvaldo Pablo Pedro Rafael Ramón Raúl Salvador Romás Ulises Wenceslao
-		}
-
-		last_names = { Acosta Alfau Báez Batista Bayo Cabral Carmona Castillo Castro Cisneros
-		"de Céspedes" "de la Rosa" "de Meriño" "de Rojas" Espaillat Estrada Estrella Fernández Figuereo García
-		Gil Gómez Gonzáles González Grau Guillermo Henríquez Herrera Hevia Laredo
-		Luperón Maceo Machado Márquez Mella Méndez Mendieta Moncada Morales Mota
-		Pelletier Pimentel Puello Santana Sosa Trujillo Valverde Vásquez Vázquez Zayas
-		}
-		radicalism = 10
+		color = {160 155 45}
+		first_names = { Adrianu Antón Ayán Belardo Belarmo Beneitu Benino Bertu Bras Cachero 
+		Canor Cloyo Colás Daviz Dolfo Eustorxiu Fael Fano Farrucu Fonso Foro Fredo Goyo 
+		Inaciu Ladio Lías Llisardo Llorián Maísimo Maxín Mayo Mino Miyán Nardo Nel Norino 
+		Oreyo Roxélio Selmo Sendo Sidro Silvino Sisto Tano Vítor Xamín Xandru Xelu Xerardo 
+		Xervás Xerman Xosé "Xosé María" Xosepu Xuacu Xuan "Xuan Xosé" Xurde Xusto Yayo }
+		
+	last_names = { Abascal Abella Abreu Acebedo Acero Aguilera Aguirre Albuerne Allende 
+		Almeida Álvarez Ampudia Aparicio Arango Armayor Asensio Balbuena Baselga Bayón 
+		Bercial Bermúdez Bobes Bouza Carbajal Carreño Cartuxo Caxigal Cifuentes Cosío Delgado 
+		"de la Fonte" Durán Escanlar Estrada Evia Fernández Ferrero Franco Fonseca Fuello Galende 
+		Garrido Gayo Huerces Hidalgo Inclán Jove Junco Lamadriz Legazpi Linares Llamuño Luengo 
+		Magadán Mayora Melendi Migoyo Nava Norniella Obaya Ortea Pastur Peláez Ponce Quirós Ribaya
+		"de la Roza" Samaniego Soto Tobar Toribiu Urdiales Valdés Varela Vixil Yagüe Zapico }
+	}
+	urreanokan = {
+		color = {180 135 30}
+		first_names = { Agustín Aitor Alberto Ander Andoni Andrés Ángel Antonio Arturo Carlos
+		Ceferino Cosme Cristobal Damián Endika "Francisco Javier" Ignacio Imanol Iñaki Jesús
+		Jon "José Antonio" "José María" Joseba Josu Juan Julen Koldobika Luis Manuel
+		Marino Miguel Paulino Pedro Rafael Ramiro Ramón Sabino Tomás Vicente }
+		
+		last_names = { Aguirre Ajuriaguerra Aldecoa Arana Aranzadi Arizmendiarrieta Armendáriz Aznar Balenciaga Berasategui 
+		Bilbao Campión Churruca Echagüe Echave Echegaray Echevarría Elorza Gaztañeta Ibarrola Ibárruri Irujo Lazcano 
+		Mendizabal Moneo Nárdiz Olano Olave Oyarzábal Rotaeche Uzcudun Zamárraga Zárate Zavala Zumalacárregui }
 	}
 	north_andean = {
 		color = {146 156 116}
@@ -2591,13 +2617,24 @@ african_diaspora_cultures = {
 	}
 	afro_caribeno = { 
 		color = {12 83 12}
-		first_names = { Antonio Armando Arsenio Arturo Bartolomé Carlos Dámaso Enrique Francisco Generoso
-		Guillermo Gumersindo Ignacio Israel Jacinto Jaime "José Celso" Juan Luciano Mario
-		Máximo Nelson Nicolás Orestes Orlando Pedro Pío Ramón Rubén Wifredo }
+		first_names = { Antonio Armando Arrogante Arseniu Arturo Bartolomeu Carlos Dámaso Enrique Francisco
+		Guillermo Gumersindo Ignacio Israel Luciano Mario Maxín Nelson Nicoláu Orestes Orlando Pedro Píu 
+		Ramón Rubén Xacinto Xaime Xosé "Xosé Celsu" Xuan Xilfredo }
 	
 		last_names = { Albizu Barbosa Barreto Bauzá Díaz Egües Estupiñán Garay González Guillén
-		Gutiérrez Hurtado Jiménez Jorrín Lam Leyva López Maceo Moré Morel
-		Peraza Pérez Piñeiro Pozo Repilado Rodríguez Santamaría Schomburg Valdés Villa }
+		Gutiérrez Hurtado Lam Leyva López Maceu Moreyo Morel Perazo Pérez Piñeru Pozo Repilado 
+		Rodríguez Santamaría Valdés Villa Ximénez Xorrín }
+	}
+	afro_basque = { 
+		color = {75 65 15}
+		first_names = { Agustín Aitor Alberto Ander Andrés Ángel Antonio Arturo Azoka Carlos
+		Cosme Cristobal Damián Endika Eskuzabala "Francisco Javier" Ignacio Imanol Iñaki Jesús
+		Jon "José Antonio" Joseba Josu Juan Julen Koldobika Luis Manuel Marino Miguel Palmiro 
+		Paulino Pedro Rafael Ramiro Ramón Sabino Tomás Vicente }
+		
+		last_names = { Aguirre Ajuriaguerra Aldecoa Arana Aranzadi Arizmendiarrieta Armendáriz Aznar Balenciaga Berasategui 
+		Campión Churruca Echagüe Echave Echegaray Echevarría Elorza Gaztañeta Ibarrola Ibárruri Irujo Lazcano Mendizabal Moneo 
+		Nárdiz Olano Olave Oyarzábal Rotaeche Uzcudun Zamárraga Zárate Zavala Zumalacárregui }
 	}
 	afro_brazilian = {
 		color = {87 164 95}
