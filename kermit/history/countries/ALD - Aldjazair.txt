@@ -1,9 +1,9 @@
-capital = 1707
+capital = 1705
 primary_culture = maghrebi
 culture = berber
 culture = tuareg
 religion = sunni
-government = absolute_monarchy
+government = dominion
 plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.01

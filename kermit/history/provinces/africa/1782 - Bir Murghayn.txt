@@ -1,4 +1,6 @@
-add_core = TRZ
+owner = MOR
+controller = MOR
+add_core = MOR
 trade_goods = grain
 life_rating = 5
 colonial = 1

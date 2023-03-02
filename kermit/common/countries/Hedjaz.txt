@@ -1,4 +1,5 @@
 color = { 201  107  119 }
+dominion = { 128 74 74 }
 graphical_culture = MiddleEasternGC
 party = {
 	name = "HEJ_conservative"

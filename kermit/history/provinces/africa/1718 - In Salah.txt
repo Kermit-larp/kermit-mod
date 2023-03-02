@@ -1,2 +1,5 @@
+owner = KJJ
+controller = KJJ
+add_core = KJJ
 trade_goods = grain
 life_rating = 10

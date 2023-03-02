@@ -522,7 +522,13 @@ WAL		="countries/Wallachia.txt"
 YUG		="countries/Yugoslavia.txt"
 
 # Africa
+ABA     ="countries/Ait Abbas.txt"
 ALD		="countries/Aldjazair.txt"
+TUG     ="countries/Tuggurt.txt"
+KJJ		="countries/Kel Ajjer.txt"
+KDG		="countries/Kel Adagh.txt"
+KIR		="countries/Kel Air.txt"
+TUA     ="countries/Kel Ahaggar.txt"
 CNG		="countries/Congo Free State.txt"
 EGY		="countries/Egypt.txt"
 ETH		="countries/Ethiopia.txt"

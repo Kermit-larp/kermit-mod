@@ -1,6 +1,6 @@
-owner = AZH
-controller = AZH
-add_core = AZH
+owner = EGY
+controller = EGY
+add_core = EGY
 add_core = SYR
 add_core = JOR
 trade_goods = grain

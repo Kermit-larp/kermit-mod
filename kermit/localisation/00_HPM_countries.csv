@@ -151,8 +151,11 @@ UKR_socialist;Ukrainian Social Democratic Labour Party;;;;;;;;;;;;;x;;;;
 UKR_communist;Ukrainian Communist Party;;;;;;;;;;;;;x;;;;
 UKR_fascist;Organization of Ukrainian Nationalists;;;;;;;;;;;;;x;;;;
 TUN;Tunisia;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
-TUN_absolute_monarchy;Tunis;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
-TUN_prussian_constitutionalism;Tunis;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+TUN_absolute_monarchy;Muradid Sultanate;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+TUN_prussian_constitutionalism;Muradid Sultanate;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+TUN_absolute_monarchy_ADJ;Muradid;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+TUN_prussian_constitutionalism_ADJ;Muradid;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+TUN_hms_government;Kingdom of Tunis;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
 ALB_communist;Partia e Punës e Shqipërisë;;;;;;;;;;;;x
 ALB_fascist;Partia Fashiste e Shqipërisë;;;;;;;;;;;;x
 ALB_conservative;Lëvizja Legalitetit;;;;;;;;;;;;x

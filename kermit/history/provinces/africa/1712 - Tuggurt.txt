@@ -1,6 +1,6 @@
-owner = ALD
-controller = ALD
-add_core = ALD
+owner = TUG
+controller = TUG
+add_core = TUG
 trade_goods = wool
 life_rating = 10
 1861.1.1 = {

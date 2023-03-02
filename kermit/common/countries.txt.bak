@@ -169,6 +169,7 @@ ATR		= "countries/Asturias.txt"
 BAN		= "countries/Banat.txt"
 BKV		= "countries/Bukovina.txt"  #Transtheissia
 BRT		= "countries/Brittany.txt"
+NRM		= "countries/Normandy.txt"
 BSQ		= "countries/Basqueland.txt"
 CRS		= "countries/Corsica.txt"
 DLM		= "countries/Dalmatia.txt"
@@ -521,7 +522,13 @@ WAL		="countries/Wallachia.txt"
 YUG		="countries/Yugoslavia.txt"
 
 # Africa
+ABA     ="countries/Ait Abbas.txt"
 ALD		="countries/Aldjazair.txt"
+TUG     ="countries/Tuggurt.txt"
+KJJ		= "countries/Kel Ajjer.txt"
+KDG		= "countries/Kel Adagh.txt"
+KIR		= "countries/Kel Air.txt"
+
 CNG		="countries/Congo Free State.txt"
 EGY		="countries/Egypt.txt"
 ETH		="countries/Ethiopia.txt"

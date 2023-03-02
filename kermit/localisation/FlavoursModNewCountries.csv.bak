@@ -179,9 +179,9 @@ BOR_absolute_monarchy;The Kingdom of France;;;;;;;;;x;;;;;;;;
 BOR_prussian_constitutionalism;The Kingdom of France;;;;;;;;;x;;;;;;;;
 BOR_hms_government;The Kingdom of France;;;;;;;;;x;;;;;;;;
 BOR_ADJ;French;French;French;;French;;;;;;;;;x;;;;
-EGY_absolute_monarchy;The Mamluk Caliphate;;;;;;;;;;;;;;x
-EGY_prussian_constitutionalism;The Mamluk Caliphate;;;;;;;;;;;;;x
-EGY_hms_government;The Egyptian Kingdom;;;;;;;;;;;;;x
+EGY_absolute_monarchy;The Sajjadid Caliphate;;;;;;;;;;;;;;x
+EGY_prussian_constitutionalism;The Sajjadid Caliphate;;;;;;;;;;;;;x
+EGY_hms_government;The Egyptian Caliphate;;;;;;;;;;;;;x
 EGY_colonial_company;The Khedivate of Egypt;;;;;;;;;;;;;;x
 KWT;The Sheikhdom of Kuwait;;;;;;;;;;;x
 KWT_ADJ;Kuwaiti;;;;;;;;;;;x
@@ -429,8 +429,11 @@ SWG;Schwarzburg;;;;;;;;;;;;;x,
 SWG_ADJ;Schwarzburgen;;;;;;;;;;;;;x,
 WLD;Waldeck-Pyrmont;;;;;;;;;;;;;x,
 WLD_ADJ;Waldeck;;;;;;;;;;;;;x,
-RUM;Eastern Rumelia;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-RUM_ADJ;Eastern Rumelian;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+RUM;Thrace;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+RUM_ADJ;Thracian;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+RUM_absolute_monarchy;The Thracian Kingdom;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+RUM_prussian_constitutionalism;The Thracian Kingdom;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+RUM_hms_government;The Thracian Kingdom;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
 SAM;Achaea;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
 SAM_ADJ;Achaean;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
 SAM_absolute_monarchy;Principality of Achaea;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
@@ -447,10 +450,10 @@ GCF_hms_government;The German Confederation;;;;;;;;;;;;;x,
 NUB;Nubia;;;;;;;;;;;;;;x
 NUB_colonial_company;Khedivate of Nubia;;;;;;;;;;;;;;x
 NUB_ADJ;Nubian;;;;;;;;;;;;;;x
-IRQ_absolute_monarchy;Iraqi Emirate;;;;;;;;;;;;;;x
-IRQ_prussian_constitutionalism;Iraqi Emirate;;;;;;;;;;;;;x
-IRQ_hms_government;Iraqi Kingdom;;;;;;;;;;;;;x
-IRQ_colonial_company;Imamate of Baghdad;;;;;;;;;;;;;;x
+IRQ_absolute_monarchy;Mamluk Emirate of Baghdad;;;;;;;;;;;;;;x
+IRQ_prussian_constitutionalism;Mamluk Emirate of Baghdad;;;;;;;;;;;;;x
+IRQ_hms_government;Kingdom of Iraq;;;;;;;;;;;;;x
+IRQ_colonial_company;Mamluk Emirate of Baghdad;;;;;;;;;;;;;;x
 ADL;Adal;;;;;;;;;;;;;;x
 ADL_absolute_monarchy;Adal Sultanate;;;;;;;;;;;;;;x
 ADL_prussian_constitutionalism;Adal Sultanate;;;;;;;;;;;;;;x

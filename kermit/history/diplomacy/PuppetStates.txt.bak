@@ -485,14 +485,6 @@ vassal = {
 	end_date = 1936.1.1
 }
 
-# Egypt - Iraq
-vassal = {
-	first = EGY
-	second = IRQ
-	start_date = 1820.1.1
-	end_date = 1936.1.1
-}	
-
 # Adal - Buganda
 vassal = {
 	first = ADL
@@ -816,25 +808,18 @@ vassal = {
 	end_date = 1936.1.1
 }
 
-# Poland - Kashubia
+# Lugiiland - Kashubia
 vassal = {
-	first = POL
+	first = PZN
 	second = PML
 	start_date = 1818.1.1
 	end_date = 1949.1.1
 }
 
-# Poland - Poznan
-vassal = {
-	first = POL
-	second = PZN
-	start_date = 1818.1.1
-	end_date = 1949.1.1
-}
 
-# Poland - Prussia
+# Lugiiland - Prussia
 vassal = {
-	first = POL
+	first = PZN
 	second = PRU
 	start_date = 1818.1.1
 	end_date = 1949.1.1
@@ -844,6 +829,23 @@ vassal = {
 vassal = {
 	first = ALB
 	second = MCD
+	start_date = 1818.1.1
+	end_date = 1949.1.1
+}
+
+
+# Tunis - Abbas
+vassal = {
+	first = TUN
+	second = ABA
+	start_date = 1818.1.1
+	end_date = 1949.1.1
+}
+
+# Tunis - Tlemcen
+vassal = {
+	first = TUN
+	second = ALD
 	start_date = 1818.1.1
 	end_date = 1949.1.1
 }
