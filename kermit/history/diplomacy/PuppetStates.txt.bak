@@ -849,3 +849,11 @@ vassal = {
 	start_date = 1818.1.1
 	end_date = 1949.1.1
 }
+
+# Tunis - Tuggurt
+vassal = {
+	first = TUN
+	second = TUG
+	start_date = 1818.1.1
+	end_date = 1949.1.1
+}

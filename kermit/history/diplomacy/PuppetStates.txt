@@ -857,3 +857,11 @@ vassal = {
 	start_date = 1818.1.1
 	end_date = 1949.1.1
 }
+
+# Navarre - Urreanoko
+vassal = {
+	first = BSQ
+	second = VNZ
+	start_date = 1818.1.1
+	end_date = 1949.1.1
+}
