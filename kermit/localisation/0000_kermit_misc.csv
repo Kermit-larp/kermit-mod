@@ -1,4 +1,4 @@
-N;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
 PROV1740;Zillah;x;;;;;;;;;;;;;;;;;;;;;;;
 PROV1834;Dungunab;x;;;;;;;;;;;;;;;;;;;;;;;
 PROV1833;Doleh;x;;;;;;;;;;;;;;;;;;;;;;;
@@ -47,6 +47,11 @@ LGE_democracy;Republic of Liège;;;;;;;;;;;;;;;;;;;;;;;x;
 LGE_presidential_dictatorship;Republic of Liège;;;;;;;;;;;;;;;;;;;;;;;x;
 LGE;Liège;;;;;;;;;;;;;;;;;;;;;;;x;
 LGE_ADJ;Liège;;;;;;;;;;;;;;;;;;;;;;;x;
+QAJ;Qajars;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+QAJ_absolute_monarchy;Qajar Dynasty;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+QAJ_hms_government;Qajar Dynasty;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+QAJ_prussian_constitutionalism;Qajar Dynasty;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+QAJ_ADJ;Qajar;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 OVJ;Overijssel;;;;;;;;;;;;;;;;;;;;;;;x;
 OVJ_absolute_monarchy;Lordship of Overijssel;;;;;;;;;;;;;;;;;;;;;;;x;
 OVJ_prussian_constitutionalism;Lordship of Overijssel;;;;;;;;;;;;;;;;;;;;;;;x;
@@ -189,7 +194,7 @@ ULM_ADJ;Sisakerod;;;;;;;;;;;;;x;;;;;;;;;;;
 BAM;Bamberg;;;;;;;;;;;;;x;;;;;;;;;;;
 BAM_absolute_monarchy_ADJ;Babenberg;;;;;;;;;;;;;x;;;;;;;;;;;
 BAM_prussian_constitutionalism_ADJ;Babenberg;;;;;;;;;;;;;x;;;;;;;;;;;
-"BAM_hms_government_	ADJ";Babenberg;;;;;;;;;;;;;x;;;;;;;;;;;
+BAM_hms_government_ADJ"Babenberg;;;;;;;;;;;;;x;;;;;;;;;;;
 BAM_ADJ;Bambergian;;;;;;;;;;;;;x;;;;;;;;;;;
 BAV_theocracy;Prince-Bishopric of Passau;;;;;;;;;;;;;x;;;;;;;;;;;
 BAV_absolute_monarchy;Duchy of Passau;;;;;;;;;;;;;x;;;;;;;;;;;
@@ -306,8 +311,8 @@ SIC_ADJ;Bari;;;;;;;;;;;;;x;;;;;;;;;;;
 SIC_absolute_monarchy;Emirate of Bari;;;;;;;;;;;;;x;;;;;;;;;;;
 SIC_prussian_constitutionalism;Emirate of Bari;;;;;;;;;;;;;x;;;;;;;;;;;
 SIC_hms_government;Emirate of Bari;;;;;;;;;;;;;x;;;;;;;;;;;
-SYC;Bari;;;;;;;;;;;;;x;;;;;;;;;;;
-SYC_ADJ;Bari;;;;;;;;;;;;;x;;;;;;;;;;;
+SYC;Sicily;;;;;;;;;;;;;x;;;;;;;;;;;
+SYC_ADJ;Sicilian;;;;;;;;;;;;;x;;;;;;;;;;;
 SYC_absolute_monarchy;Emirate of Sicily;;;;;;;;;;;;;x;;;;;;;;;;;
 SYC_prussian_constitutionalism;Emirate of Sicily;;;;;;;;;;;;;x;;;;;;;;;;;
 SYC_hms_government;Emirate of Sicily;;;;;;;;;;;;;x;;;;;;;;;;;
@@ -352,10 +357,9 @@ OSB_absolute_monarchy;County of Osnabrück;;;;;;;;;;;;;x;;;;;;;;;;;
 OSB_prussian_constitutionalism;County of Osnabrück;;;;;;;;;;;;;x;;;;;;;;;;;
 OSB_hms_government;County of Osnabrück;;;;;;;;;;;;;x;;;;;;;;;;;
 OSB_ADJ;Osnabrück;;;;;;;;;;;;;x;;;;;;;;;;;
-POL;Polska;;;;;;;;;;;;;x;;;;;;;;;;;
-ALB_absolute_monarchy;The Kastriotid Sultanate;;;;;;;;;;;;;x;;;;;;;;;;;
-ALB_prussian_constitutionalism;The Albanian Sultanante;;;;;;;;;;;;;x;;;;;;;;;;;
-ALB_hms_government;The Albanian Sultanante;;;;;;;;;;;;;x;;;;;;;;;;;
+ALB_absolute_monarchy;The Kastriotid Empire;;;;;;;;;;;;;x;;;;;;;;;;;
+ALB_prussian_constitutionalism;The Albanian Empire;;;;;;;;;;;;;x;;;;;;;;;;;
+ALB_hms_government;The Albanian Empire;;;;;;;;;;;;;x;;;;;;;;;;;
 PRU;Pruthenia;;;;;;;;;;;;;x;;;;;;;;;;;
 PRU_ADJ;Pruthenian;;;;;;;;;;;;;x;;;;;;;;;;;
 romance_german;Romance-German;x;;;;;;;;;;;;;;;;;;;;;;;
@@ -429,3 +433,25 @@ MOR_prussian_constitutionalism;Sultanate of Kel Atlas;;;;;;;;;;;;;
 MOR_hms_government;Kingdom of Magrib;;;;;;;;;;;;;
 MOR;Magrib;;;;;;;;;;;;;
 MOT_ADJ;Magribi;;;;;;;;;;;;;
+SML;Smolensk;;;;;;;;;;;;;
+SML_ADJ;Smolenskian;;;;;;;;;;;;;
+TVR;Tver;;;;;;;;;;;;;
+TVR_ADJ;Tverite;;;;;;;;;;;;;
+NOV;Novgorod;;;;;;;;;;;;;
+NOV_ADJ;Novgorodian;;;;;;;;;;;;;
+PSK;Pleskov;;;;;;;;;;;;;
+PSK_ADJ;Pleskovite;;;;;;;;;;;;;
+POL;Ryazan;;;;;;;;;;;;;
+POL_ADJ;Ryazanite;;;;;;;;;;;;;
+VEP;Vepsänma;;;;;;;;;;;;;
+VEP_ADJ;Vepsian;;;;;;;;;;;;;
+PRU;Pruthenia;;;;;;;;;;;;;x
+PRU_ADJ;Pruthenian;;;;;;;;;;;;;x
+ALD;Tlemcen;;;;;;;;;;;;;x
+ALD_absolute_monarchy;Zayyanids;;;;;;;;;;;;;x
+ALD_prussian_constitutionalism;Zayyanids;;;;;;;;;;;;;x
+ALD_dominion;Zayyanids;;;;;;;;;;;;;x
+ALD_absolute_monarchy_ADJ;Zayyanid;;;;;;;;;;;;;x
+ALD_prussian_constitutionalism_ADJ;Zayyanid;;;;;;;;;;;;;x
+ALD_dominion_ADJ;Zayyanid;;;;;;;;;;;;;x
+ALD_ADJ;Tlemceni;;;;;;;;;;;;;x

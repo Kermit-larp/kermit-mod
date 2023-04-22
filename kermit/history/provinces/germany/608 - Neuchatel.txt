@@ -2,7 +2,7 @@ owner = NCT
 controller = NCT
 add_core = NCT
 add_core = SWI
-add_core = BRG
+add_core = BRN
 trade_goods = coal
 life_rating = 32
 

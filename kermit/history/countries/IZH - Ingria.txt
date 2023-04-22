@@ -2,7 +2,7 @@ capital = 996
 primary_culture = finnish #izhorian
 culture = estonian
 culture = ugrian
-religion = orthodox
+religion = catholic
 government = democracy
 plurality = 0.5
 nationalvalue = nv_equality
@@ -38,7 +38,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies 
 
-set_country_flag = orthodox_country
+set_country_flag = catholic_country
 
 ruling_party = RUS_liberal
 upper_house = {

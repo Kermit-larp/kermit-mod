@@ -1,8 +1,7 @@
-owner = LOM
-controller = LOM
-add_core = LOM
+owner = PAR
+controller = PAR
 add_core = PAR
-add_core = ITA
+add_core = HUN
 trade_goods = cattle
 life_rating = 35
 1861.1.1 = {

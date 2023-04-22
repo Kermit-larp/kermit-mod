@@ -1,7 +1,8 @@
-owner = PAR
-controller = PAR
+owner = LOM
+controller = LOM
 add_core = PAR
-add_core = ITA
+add_core = LOM
+add_core = HUN
 trade_goods = silk
 life_rating = 35
 1861.1.1 = {

@@ -221,6 +221,17 @@ TNT		= "countries/Tannu Tuva.txt"
 URA 	= "countries/Ural Republic.txt"
 YAK 	= "countries/Yakutia.txt"
 
+######RUS STATES#####
+
+#Russian States
+SML		= "countries/Smolensk.txt"
+TVR		= "countries/Tver.txt"
+NOV		= "countries/Novgorod.txt"
+PSK		= "countries/Pskov.txt"
+
+#Finno-Ugric States
+VEP		= "countries/Veps.txt"
+
 #Middle East
 AZH		= "countries/Anazzah.txt"
 ARU		= "countries/Arab Union.txt"

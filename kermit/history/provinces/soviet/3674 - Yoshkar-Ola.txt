@@ -1,5 +1,6 @@
-owner = TAR
-controller = TAR
-add_core = TAR
+owner = VEP
+controller = VEP
+add_core = VEP
+add_core = RUS
 trade_goods = grain
 life_rating = 35
