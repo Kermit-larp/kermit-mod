@@ -1,5 +1,0 @@
-owner = TUR
-controller = TUR
-add_core = DON
-trade_goods = fish
-life_rating = 35

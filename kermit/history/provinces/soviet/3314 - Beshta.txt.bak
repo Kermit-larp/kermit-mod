@@ -1,7 +1,0 @@
-owner = LKA
-controller = LKA
-add_core = LKA
-add_core = DAG
-trade_goods = wool
-life_rating = 35
-terrain = mountain

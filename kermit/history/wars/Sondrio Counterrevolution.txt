@@ -1,7 +1,7 @@
 name = "The Sondrio Counterrevolution"
 
 1835.10.2 = {
-	add_attacker = LOM
+	add_attacker = HUN
 	add_defender = PAR
 	
 	# actor
@@ -11,19 +11,19 @@ name = "The Sondrio Counterrevolution"
 	# state_province_id - target state capital
 	war_goal = {
 		casus_belli = conquest_any
-		actor = LOM
+		actor = HUN
 		receiver = PAR
 	}
 	
 	war_goal = {
 		casus_belli = conquest_any
 		actor = PAR
-		receiver = LOM
+		receiver = HUN
 	}
 
 }
 
 1836.6.6 = {
 	rem_attacker = PAR
-	rem_attacker = LOM
+	rem_attacker = HUN
 }

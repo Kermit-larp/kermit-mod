@@ -1,8 +1,0 @@
-owner = SHK
-controller = SHK
-add_core = EGY
-add_core = SUD
-add_core = SHK
-trade_goods = wool
-terrain = semidesert
-life_rating = 32

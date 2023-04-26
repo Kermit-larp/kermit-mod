@@ -1,7 +1,0 @@
-owner = KTG
-controller = KTG
-add_core = KTG
-add_core = DAG
-trade_goods = grain
-life_rating = 35
-terrain = mountain

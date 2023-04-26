@@ -1,8 +1,0 @@
-owner = GUT
-controller = GUR
-add_core = GUR
-add_core = MIG
-add_core = SMK
-add_core = GEO
-trade_goods = fish
-life_rating = 35

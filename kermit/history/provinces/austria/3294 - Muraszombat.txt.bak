@@ -1,7 +1,0 @@
-owner = PAN
-controller = PAN
-add_core = SLO
-add_core = PAN
-trade_goods = timber
-life_rating = 35
-
