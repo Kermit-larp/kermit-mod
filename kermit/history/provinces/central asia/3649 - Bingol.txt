@@ -1,6 +1,6 @@
-owner = DUL
-controller = DUL
-add_core = DUL
+owner = KRM
+controller = KRM
+add_core = KRM
 add_core = ARM
 trade_goods = wool
 life_rating = 35

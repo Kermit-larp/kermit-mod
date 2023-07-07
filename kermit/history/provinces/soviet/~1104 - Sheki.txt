@@ -1,0 +1,6 @@
+owner = SHE
+controller = SHE
+add_core = SHE
+add_core = AZB
+trade_goods = grain
+life_rating = 35

@@ -1,6 +1,6 @@
-owner = MIG
-controller = MIG
+owner = KKH
+controller = KKH
+add_core = KKH
 add_core = GEO
-add_core = MIG
 trade_goods = fruit
 life_rating = 35

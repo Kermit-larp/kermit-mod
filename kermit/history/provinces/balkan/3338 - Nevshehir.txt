@@ -1,6 +1,6 @@
-owner = PNT
-controller = PNT
-add_core = PNT
+owner = DUL
+controller = DUL
+add_core = DUL
 add_core = ARM
 trade_goods = grain
 life_rating = 35

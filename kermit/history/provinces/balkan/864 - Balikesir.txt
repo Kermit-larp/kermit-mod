@@ -1,5 +1,5 @@
-owner = RUM
-controller = RUM
-add_core = RUM
+owner = DUL
+controller = DUL
+add_core = DUL
 trade_goods = grain
 life_rating = 35

@@ -1,4 +1,4 @@
-color = { 150 173 235 }
+color = { 237 212 50 }
 graphical_culture = MiddleEasternGC
 party = {
 	name = "KRM_conservative"

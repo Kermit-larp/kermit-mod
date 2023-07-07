@@ -1,6 +1,6 @@
-owner = BUL
-controller = BUL
-add_core = BUL
+owner = RUM
+controller = RUM
+add_core = RUM
 add_core = TSL
 add_core = GRE
 trade_goods = tobacco

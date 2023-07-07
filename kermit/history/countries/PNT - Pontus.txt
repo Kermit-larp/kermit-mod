@@ -1,7 +1,7 @@
 capital = 882
-primary_culture = greek
+primary_culture = kurdish
 religion = orthodox
-government = absolute_monarchy
+government = dominion
 plurality = 0.0
 nationalvalue = nv_order
 literacy = 0.22

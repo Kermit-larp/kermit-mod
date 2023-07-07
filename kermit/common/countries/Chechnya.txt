@@ -1,4 +1,4 @@
-color = { 136 153 139 }
+color = { 107 143 83 }
 graphical_culture = RussianGC
 
 party = {

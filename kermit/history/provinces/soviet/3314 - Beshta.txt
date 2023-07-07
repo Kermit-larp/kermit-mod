@@ -1,7 +1,8 @@
-owner = KUR
-controller = KUR
-add_core = KUR
+owner = SHV
+controller = SHV
+add_core = SHV
 add_core = DAG
+add_core = AZB
 trade_goods = wool
 life_rating = 35
 terrain = mountain

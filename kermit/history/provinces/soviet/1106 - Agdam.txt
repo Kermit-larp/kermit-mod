@@ -1,7 +1,7 @@
-owner = SHE
-controller = SHE
+owner = KKH
+controller = KKH
 add_core = ARM
 add_core = AZB
-add_core = SHE
+add_core = KKH
 trade_goods = wool
 life_rating = 35

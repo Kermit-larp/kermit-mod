@@ -480,26 +480,32 @@ NEJ_absolute_monarchy;Imamate of Diriyah;;;;;;;;;;;;;;x
 NEJ_prussian_constitutionalism;Imamate of Diriyah;;;;;;;;;;;;;;x
 NEJ_hms_government;Imamate of Diriyah;;;;;;;;;;;;;;x
 ZAN_colonial_company;Sultanate of Zanzibar;;;;;;;;;;;;;;x
-KRM_liberal;The Reformers;;;;;;;;;;;;;;x
-KRM_reactionary;Traditionalist Society;;;;;;;;;;;;;;x
-KRM_liberal_2;Young Karamanids;;;;;;;;;;;;;;x
-KRM_anarcho_liberal;Radical Karamanid Society;;;;;;;;;;;;;;x
-KRM_conservative;The Bey's Faction;;;;;;;;;;;;;;x
-KRM_socialist;Karamanid Workers' Party;;;;;;;;;;;;;;x
-KRM_communist;Karamanid People's Union;;;;;;;;;;;;;;x
-KRM_fascist;Karaman National Party;;;;;;;;;;;;;;x
-KRM;Karaman;;;;;;;;;;;;;;x
-KRM_ADJ;Karamanid;;;;;;;;;;;;;;x
-DUL_liberal;The Reformers;;;;;;;;;;;;;;x
-DUL_reactionary;Traditionalist Society;;;;;;;;;;;;;;x
-DUL_liberal_2;Anatolian Unification Party;;;;;;;;;;;;;;x
-DUL_anarcho_liberal;Radical Dulkadirid Society;;;;;;;;;;;;;;x
-DUL_conservative;The Bey's Faction;;;;;;;;;;;;;;x
-DUL_socialist;Dulkadirid Workers' Party;;;;;;;;;;;;;;x
-DUL_communist;Dulkadirid People's Union;;;;;;;;;;;;;;x
-DUL_fascist;Dulkadir National Party;;;;;;;;;;;;;;x
-DUL;Dulkadir;;;;;;;;;;;;;;x
-DUL_ADJ;Dulkadirid;;;;;;;;;;;;;;x
+KRM_liberal;Ittihat ve Terakki Firkasi;;;;;;;;;;;;;x
+TUR_reactionary;Nizam-i Alem;;;;;;;;;;;;;x
+KRM_liberal_2;Jön Türk Toplulugu;;;;;;;;;;;;;;x
+KRM_anarcho_liberal;Özgürlük için Türk Ligi;;;;;;;;;;;;;;x
+TUR_conservative;Hükumet-i Hümayun;;;;;;;;;;;;;x
+KRM_socialist;Anadolu Sosyalist Partisi;;;;;;;;;;;;;;x
+KRM_communist;Genel Emek Konfederasyonu;;;;;;;;;;;;;;x
+KRM_fascist;Türk Birligi Partisi;;;;;;;;;;;;;;x
+KRM;Artuqids;;;;;;;;;;;;;;x
+KRM_ADJ;Artuqid;;;;;;;;;;;;;;x
+DUL_liberal;Rouman Constitutionalist Party;;;;;;;;;;;;;;x
+DUL_reactionary;Shahist Faction;;;;;;;;;;;;;;x
+DUL_liberal_2;Road to Democracy Party;;;;;;;;;;;;;;x
+DUL_anarcho_liberal;The Young Rouman Society;;;;;;;;;;;;;;x
+DUL_conservative;League for Rouman Unity;;;;;;;;;;;;;;x
+DUL_socialist;Socialist Party of Roumania;;;;;;;;;;;;;;x
+DUL_communist;General Confederation of Rouman Workers;;;;;;;;;;;;;;x
+DUL_fascist;Rouman National Party;;;;;;;;;;;;;;x
+DUL_absolute_monarchy;The Borzanid Shahdom;;;;;;;;;;;;;;;x
+DUL_prussian_constitutionalism;The Borzanid Shahdom;;;;;;;;;;;;;;;x
+DUL_hms_government;The Borzanid Shahdom;;;;;;;;;;;;;;;x
+DUL_democracy;The Rouman Republic
+DUL_presidential_dictatorship;The Rouman Republic
+DUL_proletarian_dictatorship;Rouman People's Confederation;;;;;;;;;;;;;;;x
+DUL_fasicst_dictatorship;Rouman National Union;;;;;;;;;;;;;;;x
+DUL_ADJ;Rouman;;;;;;;;;;;;;;x
 BZD;Bayazid;;;;;;;;;;;;;
 BZD_ADJ;Bayazidi;;;;;;;;;;;;;
 MKU;Jelali;;;;;;;;;;;;;
@@ -508,7 +514,7 @@ SMK;Samtskhe;;;;;;;;;;;;;;x
 SMK_ADJ;Samtskhe;;;;;;;;;;;;;;x
 KKH;Kartli-Kakheti;;;;;;;;;;;;;;x
 KKH_ADJ;Kartli-Kakheti;;;;;;;;;;;;;;x
-ARM_colonial_company;Gavar;;;;;;;;;;;;;;x
+ARM_dominion;Erevan Khanate;;;;;;;;;;;;;;x
 GUR;Guria;;;;;;;;;;;;;;x
 GUR_ADJ;Gurian;;;;;;;;;;;;;;x
 TBZ;Tabriz Khanate;;;;;;;;;;;;;;x

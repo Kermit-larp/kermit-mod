@@ -1,4 +1,4 @@
-color = { 81 107 40 }
+color = { 222 147 58 }
 graphical_culture = MiddleEasternGC
 party = {
 	name = "DUL_conservative"

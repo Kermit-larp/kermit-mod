@@ -348,8 +348,16 @@ CIR_reactionary;Nationalist Party;;;;;;;;;;;;;x
 CIR_anarcho_liberal;Radical Party;;;;;;;;;;;;;x
 CIR_communist;Communist Party;;;;;;;;;;;;;x
 CIR_fascist;Fascist Party;;;;;;;;;;;;;x
+CLC_absolute_monarchy;Ramazanids;;;;;;;;;;;;;x
+CLC_prussian_constitutionalism;Ramazanids;;;;;;;;;;;;;x
+CLC_hms_government;Ramazanids;;;;;;;;;;;;;x
+CLC_dominion;Ramazanids;;;;;;;;;;;;;x
 CLC;Cilicia;;;;;;;;;;;;;x
 CLC_ADJ;Cilician;;;;;;;;;;;;;x
+CLC_absolute_monarchy_ADJ;Ramazanid;;;;;;;;;;;;;x
+CLC_prussian_constitutionalism_ADJ;Ramazanid;;;;;;;;;;;;;x
+CLC_hms_government_ADJ;Ramazanid;;;;;;;;;;;;;x
+CLC_dominion_ADJ;Ramazanid;;;;;;;;;;;;;x
 CLM_fascist_dictatorship;Gran Colombia;;;;;;;;;;;;;x
 CLM_absolute_monarchy;New Granada;;;;;;;;;;;;;x
 CLM_prussian_constitutionalism;New Granada;;;;;;;;;;;;;x

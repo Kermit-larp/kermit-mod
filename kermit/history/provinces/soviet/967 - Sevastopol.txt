@@ -1,5 +1,5 @@
-owner = TUR
-controller = TUR
+owner = TAR
+controller = TAR
 add_core = CRI
 trade_goods = fish
 life_rating = 35

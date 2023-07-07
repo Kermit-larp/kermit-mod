@@ -1,7 +1,6 @@
-owner = GUR
-controller = GUR
-add_core = GUR
-add_core = MIG
+owner = KKH
+controller = KKH
+add_core = KKH
 add_core = SMK
 add_core = GEO
 trade_goods = fish

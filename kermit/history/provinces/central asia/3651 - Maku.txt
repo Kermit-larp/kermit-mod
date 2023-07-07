@@ -1,6 +1,6 @@
-owner = MKU
-controller = MKU
-add_core = MKU
+owner = TBZ
+controller = TBZ
+add_core = TBZ
 add_core = ARM
 trade_goods = wool
 life_rating = 35

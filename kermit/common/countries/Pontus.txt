@@ -1,8 +1,9 @@
-color = { 123  244  199 }
-graphical_culture = EuropeanGC
+color = { 112 122 173 }
+dominion = { 219 133 63 }
+graphical_culture = MiddleEasternGC
 
 party = {
-	name = "GRE_conservative"
+	name = "KDS_conservative"
 	start_date = 1830.1.1
 	end_date = 1875.1.1
 
@@ -17,7 +18,7 @@ party = {
 }
 
 party = {
-	name = "GRE_reactionary"
+	name = "KDS_reactionary"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -32,7 +33,7 @@ party = {
 }
 
 party = {
-	name = "GRE_liberal"
+	name = "KDS_liberal"
 	start_date = 1830.1.1
 	end_date = 1875.1.1
 
@@ -47,7 +48,7 @@ party = {
 }
 
 party = {
-	name = "GRE_liberal_2"
+	name = "KDS_liberal_2"
 	start_date = 1875.1.1
 	end_date = 2000.1.1
 
@@ -62,7 +63,7 @@ party = {
 }
 
 party = {
-	name = "GRE_conservative_2"
+	name = "KDS_conservative_2"
 	start_date = 1875.1.1
 	end_date = 2000.1.1
 
@@ -77,7 +78,7 @@ party = {
 }
 
 party = {
-	name = "GRE_anarcho_liberal"
+	name = "KDS_anarcho_liberal"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -92,7 +93,7 @@ party = {
 }
 
 party = {
-	name = "GRE_socialist"
+	name = "KDS_socialist"
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
@@ -107,7 +108,7 @@ party = {
 }
 
 party = {
-	name = "GRE_communist"
+	name = "KDS_communist"
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
@@ -122,7 +123,7 @@ party = {
 }
 
 party = {
-	name = "GRE_fascist"
+	name = "KDS_fascist"
 	start_date = 1900.1.1
 	end_date = 2000.1.1
 
@@ -137,33 +138,39 @@ party = {
 }
 
 unit_names = {
-	dreadnought = {
-		Kilkis Aspis "Vasilefs Konstantinos" Salamis Athina Constantinopolis Sparta Leonidas "Mégas Aléxandros" Pericles Olympias 
-	}
-	ironclad = {
-		Karteria Panopi Pliksavra Afroessa Sfendoni Hydra Spetsai Psara Limnos "Vasilissa Olga" 
-	}
-	manowar = {
-		"Nikolis Apostolis" Tombazis Poros "Andreas Vokos" "Laskarina Bouboulina" "Constantine Kanaris" Plixavra Averof 
-	}
-	cruiser = {
-		"Navarhos Miaoulis" "Georgios Averof" Elli "Antinaurkos Condoriotis" "Lambros Katsonis" Árgos Agamemnon Gyáros Tilemachos Delfoí
-	}
-	frigate = {
-		Hellas Navarino Psara "Prinkips Maximilianos" Maxamillianos "Mount Othrys" Thíva Skirka Heratos Aeolus
-	}
-	monitor = {
-		Sfendoni Thessalía Apeiros Attikí Pelopónnisos Circe Eurýkleia Aiolia Kriti Ródos
-	}
-	clipper_transport = { 
-		 
+    dreadnought = {
+         "Donanma-yi Rojhalat" "Rustem" "Dicle" "Firat" "Geylani" "Donanma-yi Rojawa" "Kurdiye" "Sherefhan"
 
-	}
-	steam_transport = { 
-		
+    }
+    ironclad = {
+         "Donanma-yi Rojhalat" "Rustem" "Ahmed-i Xani" "Dicle" "Firat" "Geylani" "Donanma-yi Rojawa" "Kurdiye" "Sherefhan"
 
-	}
-	commerce_raider = {
-		Aetos Ierax Leon Panthir Ifestos Makedonía Naxos Évia Limnos Zakynthos
-	}
+    }
+    manowar = {
+         "Donanma-yi Rojhalat" "Rustem" "Ahmed-i Xani" "Dicle" "Firat" "Geylani" "Donanma-yi Rojawa" "Kurdiye" "Sherefhan"
+
+    }
+    cruiser = {
+         "Donanma-yi Rojhalat" "Rustem" "Ahmed-i Xani" "Dicle" "Firat" "Geylani" "Donanma-yi Rojawa" "Kurdiye" "Sherefhan"
+
+    }
+    frigate = {
+         "Donanma-yi Rojhalat" "Rustem" "Ahmed-i Xani" "Dicle" "Firat" "Geylani" "Donanma-yi Rojawa" "Kurdiye" "Sherefhan"
+
+    }
+    monitor = {
+         "Donanma-yi Rojhalat" "Rustem" "Ahmed-i Xani" "Dicle" "Firat" "Geylani" "Donanma-yi Rojawa" "Kurdiye" "Sherefhan"
+
+    }
+    clipper_transport = {
+
+    }
+    steam_transport = {
+
+    }
+    commerce_raider = {
+
+         "Donanma-yi Rojhalat" "Rustem" "Ahmed-i Xani" "Dicle" "Firat" "Geylani" "Donanma-yi Rojawa" "Kurdiye" "Sherefhan"
+
+    }
 }

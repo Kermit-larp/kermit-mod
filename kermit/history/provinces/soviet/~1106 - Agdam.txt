@@ -1,0 +1,7 @@
+owner = SHE
+controller = SHE
+add_core = ARM
+add_core = AZB
+add_core = SHE
+trade_goods = wool
+life_rating = 35

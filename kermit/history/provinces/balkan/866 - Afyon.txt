@@ -1,6 +1,5 @@
-owner = KRM
-controller = KRM
-add_core = KRM
-add_core = TUR
+owner = DUL
+controller = DUL
+add_core = DUL
 trade_goods = opium
 life_rating = 35

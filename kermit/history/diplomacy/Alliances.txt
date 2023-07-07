@@ -88,19 +88,3 @@ alliance = {
 	start_date = 1835.1.1
 	end_date = 1911.1.1
 }
-
-#Egypt/Karaman
-alliance = {
-	first = EGY
-	second = KRM
-	start_date = 1520.8.8
-	end_date = 1936.1.1
-}
-
-#Egypt/Dulkabir
-alliance = {
-	first = EGY
-	second = DUL
-	start_date = 1520.8.8
-	end_date = 1936.1.1
-}
