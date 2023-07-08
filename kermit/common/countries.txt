@@ -592,7 +592,7 @@ KHZ	    ="countries/Khuzestan.txt"
 LUR     ="countries/Luristan.txt"
 YEM		="countries/Yemen.txt"
 KRM		="countries/Karaman.txt"
-DUL		="countries/Dulkadir.txt"
+ROU		="countries/Roumania.txt"
 
 # India
 HND 	="countries/India.txt"

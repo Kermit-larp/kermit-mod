@@ -1,5 +1,5 @@
-owner = DUL
-controller = DUL
-add_core = DUL
+owner = ROU
+controller = ROU
+add_core = ROU
 trade_goods = fish
 life_rating = 35

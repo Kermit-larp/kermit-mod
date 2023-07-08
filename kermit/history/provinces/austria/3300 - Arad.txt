@@ -1,7 +1,6 @@
 owner = BKV
 controller = BKV
 add_core = BKV
-add_core = ROM
 add_core = BAN
 trade_goods = grain
 life_rating = 35

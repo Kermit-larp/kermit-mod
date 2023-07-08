@@ -840,7 +840,7 @@ vassal = {
 
 #Borzanids - Ramazanids
 vassal = {
-	first = DUL
+	first = ROU
 	second = CLC
 	start_date = 1645.5.2
 	end_date = 1949.1.1
@@ -848,7 +848,7 @@ vassal = {
 
 #Borzanids - Kilis
 vassal = {
-	first = DUL
+	first = ROU
 	second = PNT
 	start_date = 1645.5.2
 	end_date = 1949.1.1

@@ -1,0 +1,67 @@
+EGY = {
+	value = 20
+}
+
+KKH = {
+	value = 100
+}	
+
+RUM = {
+	value = -30
+}
+
+TSL = {
+	value = -50
+}
+
+NAX = {
+	value = -20
+}
+
+ATH = {
+	value = -20
+}
+	
+army = {
+	name = "Army of the Shah"
+	location = 893
+	
+	regiment = {
+			name = "The Shah's Guards"
+		type = infantry
+		home = 893
+	}
+	regiment = {
+			name = "1. Infantry Brigade"
+		type = infantry
+		home = 893
+	}
+	regiment = {
+			name = "2. Infantry Brigade"
+		type = infantry
+		home = 888
+	}
+	regiment = {
+			name = "3. Infantry Brigade"
+		type = infantry
+		home = 888
+	}
+	regiment = {
+			name = "1. Cavalry Brigade"
+		type = cavalry
+		home = 893
+	}
+	regiment = {
+			name = "2. Cavalry Brigade"
+		type = cavalry
+		home = 888
+	}
+	regiment = {
+			name = "1. Cavalry Brigade"
+		type = artillery
+		home = 888
+	}
+}
+	
+	
+	

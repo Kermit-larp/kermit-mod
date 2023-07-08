@@ -1,6 +1,6 @@
-owner = DUL
-controller = DUL
-add_core = DUL
+owner = ROU
+controller = ROU
+add_core = ROU
 trade_goods = grain
 life_rating = 35
 terrain = dryhills

@@ -1,6 +1,5 @@
 owner = BKV
 controller = BKV
-add_core = ROM
 add_core = BAN
 add_core = BKV
 trade_goods = fruit

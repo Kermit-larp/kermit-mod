@@ -490,22 +490,22 @@ KRM_communist;Genel Emek Konfederasyonu;;;;;;;;;;;;;;x
 KRM_fascist;Türk Birligi Partisi;;;;;;;;;;;;;;x
 KRM;Artuqids;;;;;;;;;;;;;;x
 KRM_ADJ;Artuqid;;;;;;;;;;;;;;x
-DUL_liberal;Rouman Constitutionalist Party;;;;;;;;;;;;;;x
-DUL_reactionary;Shahist Faction;;;;;;;;;;;;;;x
-DUL_liberal_2;Road to Democracy Party;;;;;;;;;;;;;;x
-DUL_anarcho_liberal;The Young Rouman Society;;;;;;;;;;;;;;x
-DUL_conservative;League for Rouman Unity;;;;;;;;;;;;;;x
-DUL_socialist;Socialist Party of Roumania;;;;;;;;;;;;;;x
-DUL_communist;General Confederation of Rouman Workers;;;;;;;;;;;;;;x
-DUL_fascist;Rouman National Party;;;;;;;;;;;;;;x
-DUL_absolute_monarchy;The Borzanid Shahdom;;;;;;;;;;;;;;;x
-DUL_prussian_constitutionalism;The Borzanid Shahdom;;;;;;;;;;;;;;;x
-DUL_hms_government;The Borzanid Shahdom;;;;;;;;;;;;;;;x
-DUL_democracy;The Rouman Republic
-DUL_presidential_dictatorship;The Rouman Republic
-DUL_proletarian_dictatorship;Rouman People's Confederation;;;;;;;;;;;;;;;x
-DUL_fasicst_dictatorship;Rouman National Union;;;;;;;;;;;;;;;x
-DUL_ADJ;Rouman;;;;;;;;;;;;;;x
+ROU_liberal;Rouman Constitutionalist Party;;;;;;;;;;;;;;x
+ROU_reactionary;Shahist Faction;;;;;;;;;;;;;;x
+ROU_liberal_2;Road to Democracy Party;;;;;;;;;;;;;;x
+ROU_anarcho_liberal;The Young Rouman Society;;;;;;;;;;;;;;x
+ROU_conservative;League for Rouman Unity;;;;;;;;;;;;;;x
+ROU_socialist;Socialist Party of Roumania;;;;;;;;;;;;;;x
+ROU_communist;General Confederation of Rouman Workers;;;;;;;;;;;;;;x
+ROU_fascist;Rouman National Party;;;;;;;;;;;;;;x
+ROU_absolute_monarchy;The Borzanid Shahdom;;;;;;;;;;;;;;;x
+ROU_prussian_constitutionalism;The Borzanid Shahdom;;;;;;;;;;;;;;;x
+ROU_hms_government;The Borzanid Shahdom;;;;;;;;;;;;;;;x
+ROU_democracy;The Rouman Republic
+ROU_presidential_dictatorship;The Rouman Republic
+ROU_proletarian_dictatorship;Rouman People's Confederation;;;;;;;;;;;;;;;x
+ROU_fasicst_dictatorship;Rouman National Union;;;;;;;;;;;;;;;x
+ROU_ADJ;Rouman;;;;;;;;;;;;;;x
 BZD;Bayazid;;;;;;;;;;;;;
 BZD_ADJ;Bayazidi;;;;;;;;;;;;;
 MKU;Jelali;;;;;;;;;;;;;

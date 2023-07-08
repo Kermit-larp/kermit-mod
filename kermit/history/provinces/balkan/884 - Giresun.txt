@@ -1,6 +1,6 @@
-owner = DUL
-controller = DUL
-add_core = DUL
+owner = ROU
+controller = ROU
+add_core = ROU
 add_core = ARM
 trade_goods = fruit
 life_rating = 35
