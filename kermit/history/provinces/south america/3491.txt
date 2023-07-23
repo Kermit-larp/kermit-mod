@@ -1,6 +1,6 @@
-owner = INC
-controller = INC
-add_core = INC
+owner = PEU
+controller = PEU
+add_core = PEU
 trade_goods = sulphur
 life_rating = 32
 terrain = dryhills

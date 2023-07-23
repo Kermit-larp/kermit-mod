@@ -1,0 +1,8 @@
+owner = RMG
+controller = RMG
+add_core = RMG
+add_core = CRO
+add_core = DLM
+terrain = zadar
+trade_goods = fish
+life_rating = 35

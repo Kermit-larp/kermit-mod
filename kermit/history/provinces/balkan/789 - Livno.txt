@@ -1,6 +1,6 @@
 owner = ALB
 controller = ALB
-add_core = ALB
 add_core = BOS
+add_core = CRO
 trade_goods = grain
 life_rating = 35

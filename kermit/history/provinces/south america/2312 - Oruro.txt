@@ -1,6 +1,6 @@
-owner = PBC
-controller = PBC
-add_core = BOL
+owner = PEU
+controller = PEU
+add_core = PEU
 trade_goods = iron
 life_rating = 10
 terrain = new_world_semidesert

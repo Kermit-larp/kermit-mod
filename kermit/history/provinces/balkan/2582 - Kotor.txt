@@ -2,5 +2,6 @@ owner = MON
 controller = MON
 add_core = DLM
 add_core = MON
+add_core = ALB
 trade_goods = fish
 life_rating = 35

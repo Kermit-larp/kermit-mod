@@ -1,5 +1,5 @@
-owner = CLM
-controller = CLM
-add_core = CLM
+owner = PEU
+controller = PEU
+add_core = PEU
 trade_goods = fish
 life_rating = 31

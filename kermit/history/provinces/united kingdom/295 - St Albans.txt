@@ -1,5 +1,6 @@
-owner = ENL
-controller = ENL
+owner = SAX
+controller = SAX
+add_core = SAX
 add_core = ENL
 trade_goods = grain
 life_rating = 35

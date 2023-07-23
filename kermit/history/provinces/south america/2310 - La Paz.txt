@@ -1,6 +1,6 @@
-owner = PBC
-controller = PBC
-add_core = BOL
+owner = PEU
+controller = PEU
+add_core = PEU
 trade_goods = cattle
 life_rating = 35
 terrain = lapaz

@@ -1,6 +1,6 @@
 owner = KMK
 controller = KMK
-add_core = KHK
+add_core = KMK
 trade_goods = grain
 life_rating = 35
 terrain = steppe

@@ -1,7 +1,6 @@
-owner = CHM
-controller = CHM
-add_core = CHM
-add_core = INC
+owner = SPU
+controller = SPU
+add_core = SPU
 trade_goods = cotton
 terrain = farmlands
 life_rating = 40

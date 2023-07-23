@@ -2,6 +2,5 @@ owner = SLO
 controller = SLO
 add_core = SLO
 add_core = TRE
-add_core = CRO
 trade_goods = grain
 life_rating = 35
