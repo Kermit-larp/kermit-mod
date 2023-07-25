@@ -609,7 +609,7 @@ vassal = {
 }	
 
 #Sevilla - Murcia
-vassal = {
+substate = {
 	first = SEV
 	second = MUR
 	start_date = 1071.1.3
@@ -617,7 +617,7 @@ vassal = {
 }	
 
 #Sevilla - Almeria
-vassal = {
+substate = {
 	first = SEV
 	second = ALM
 	start_date = 1081.1.3

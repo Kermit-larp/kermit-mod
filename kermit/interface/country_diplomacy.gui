@@ -107,8 +107,8 @@ guiTypes = {
 		
 		guiButtonType = {
 			name = "gp_info"
-			position = { x=25 y = 13 }
-			quadTextureSprite ="GFX_prod_tab_button"
+			position = { x = 25 y = 13 }
+			quadTextureSprite = "GFX_prod_tab_button"
 		}
 		
 		instantTextBoxType = { 
