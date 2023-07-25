@@ -1,2 +1,0 @@
-owner = ENG
-controller = ENG
