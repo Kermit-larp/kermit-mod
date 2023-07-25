@@ -12,7 +12,7 @@ literacy = 0.6
 civilized = yes
 
 #GreaterPowers = prestige
-prestige = 100
+#prestige = 100
 
 
 # Political reforms
@@ -106,21 +106,12 @@ upper_house = {
 
 schools = naval_tech_school
 
-decision = literacy_ENG
-
 govt_flag = {
 	government = presidential_dictatorship
 	flag = theocracy
 }
 
-foreign_investment = {
-	BEL = 20000
-	POR = 40000
-	DEN = 2000
-	EIC = 20000
-}
-
-oob = "ENG_oob.txt"
+#oob = "ENG_oob.txt"
 
 1861.1.1 = {
 	oob = "/1861/ENG_oob.txt"
