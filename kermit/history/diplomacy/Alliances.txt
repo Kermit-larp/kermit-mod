@@ -1,18 +1,3 @@
-#Anglo-Portuguese Alliance
-alliance = {
-	first = ENG
-	second = POR
-	start_date = 1386.9.5
-	end_date = 1936.1.1
-}
-
-alliance = {
-	first = ENG
-	second = PNJ
-	start_date = 1386.9.5
-	end_date = 1840.1.1
-}
-
 #Treaty of Hunkar Iskelesi - Russian-Ottoman Alliance
 alliance = {
 	first = TUR
@@ -37,28 +22,8 @@ alliance = {
 		second = ALD 
 		start_date =  1835.1.1
 		end_date = 1838.1.1
-	}
-#########UK and Puppets
-alliance = {
-		first = ENG 
-		second = ABU 
-		start_date =  1835.1.1
-		end_date = 1936.1.1
 }
 
-alliance = {
-		first = ENG 
-		second = RPL 
-		start_date =  1835.1.1
-		end_date = 1936.1.1
-}
-
-alliance = {
-		first = ENG 
-		second = BHP 
-		start_date =  1835.1.1
-		end_date = 1936.1.1	
-}
 #China/Lanfang
 alliance = {
 	first = QNG

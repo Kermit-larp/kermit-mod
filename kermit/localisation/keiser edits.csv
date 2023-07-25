@@ -16,10 +16,10 @@ burgundian;Bourguignon;x;;;;
 rochelais;Rochelais;x;;;;
 PAR;Ambrószia;;;;;;;;;;;;;x
 PAR_ADJ;Ambrósziai;;;;;;;;;;;;;x
-PAR_democracy;Ambrósziai  Republic;;;;;;;;;;;;;x
-PAR_presidential_dictatorship;Ambrósziai  Republic;;;;;;;;;;;;;x
-PAR_democracy_ADJ;Ambrósziai ;;;;;;;;;;;;;x
-PAR_presidential_dictatorship_ADJ;Ambrósziai ;;;;;;;;;;;;;x
+PAR_democracy;Ambrósziai Republic;;;;;;;;;;;;;x
+PAR_presidential_dictatorship;Ambrósziai Republic;;;;;;;;;;;;;x
+PAR_democracy_ADJ;Ambrósziai;;;;;;;;;;;;;x
+PAR_presidential_dictatorship_ADJ;Ambrósziai;;;;;;;;;;;;;x
 LOM;Milà;;;;;;;;;;;;;x
 LOM_ADJ;Milànè;;;;;;;;;;;;;x
 LOM_absolute_monarchy;Grand Duchy of Milà;;;;;;;;;;;;;x

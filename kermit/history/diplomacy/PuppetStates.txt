@@ -14,72 +14,6 @@ substate = {
 	end_date = 1936.1.1
 }
 
-#Rajputana Agency
-substate = {
-	first = ENG
-	second = RAJ
-	start_date = 1815.1.1
-	end_date = 1936.1.1
-}
-
-#Central India Agency
-substate = {
-	first = ENG
-	second = BUN
-	start_date = 1815.1.1
-	end_date = 1936.1.1
-}
-
-substate = {
-	first = ENG
-	second = BLC
-	start_date = 1815.1.1
-	end_date = 1936.1.1
-}
-
-#CAN / NZL / AST / MRU / NEW / RHO
-substate = {
-	first = ENG
-	second = CAN
-	start_date = 1815.1.1
-	end_date = 1936.1.1
-}
-
-substate = {
-	first = ENG
-	second = AST
-	start_date = 1815.1.1
-	end_date = 1936.1.1
-}
-
-substate = {
-	first = ENG
-	second = NZL
-	start_date = 1815.1.1
-	end_date = 1936.1.1
-}
-
-substate = {
-	first = ENG
-	second = MRU
-	start_date = 1815.1.1
-	end_date = 1936.1.1
-}
-
-substate = {
-	first = ENG
-	second = NEW
-	start_date = 1815.1.1
-	end_date = 1936.1.1
-}
-
-substate = {
-	first = ENG
-	second = RHO
-	start_date = 1815.1.1
-	end_date = 1936.1.1
-}
-
 #
 #Monaco
 vassal = {
@@ -204,30 +138,6 @@ vassal = {
 	second = SWH
 	start_date = 1773.1.1
 	end_date = 1864.10.30
-}
-
-#Hudson Bay Company
-substate = {
-	first = ENG
-	second = RPL
-	start_date = 1805.1.1
-	end_date = 1936.1.1
-}
-
-# United Kingdom-Ionian Islands
-vassal = {
-	first = ENG
-	second = ION
-	start_date = 1815.11.9
-	end_date = 1864.1.1
-}
-
-# United Kingdom-Mosquito Kingdom
-vassal = {
-	first = ENG
-	second = MSK
-	start_date = 1815.11.9
-	end_date = 1936.1.1
 }
 
 #Suomi - Baltic Governorate
@@ -451,14 +361,6 @@ vassal = {
 	second = CHK
 	start_date = 1826.1.1
 	end_date = 1975.1.1
-}
-
-# UK - KAS
-vassal = {
-	first = ENG
-	second = KAS
-	start_date = 1861.1.1
-	end_date = 1936.1.1
 }
 
 # OE - Romania 
