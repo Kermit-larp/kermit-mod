@@ -1,5 +1,5 @@
-owner = EIC
-controller = EIC
+owner = HND
+controller = HND
 add_core = BAS
 add_core = ORI
 add_core = HND
