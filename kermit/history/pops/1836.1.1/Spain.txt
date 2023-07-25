@@ -825,13 +825,13 @@
     }
 
     soldiers = {
-        culture = basque
-        religion = sunni
+        culture = catalan
+        religion = catholic
         size = 2000
     }
 
     farmers = {
-        culture = basque
+        culture = catalan
         religion = catholic
         size = 19800
     }
@@ -843,9 +843,15 @@
     }
 
     farmers = {
+        culture = catalan
+        religion = sunni
+        size = 5000
+    }
+
+    farmers = {
         culture = basque
         religion = sunni
-        size = 7000
+        size = 2000
     }
 
 }

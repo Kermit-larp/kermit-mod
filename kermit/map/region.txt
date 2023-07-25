@@ -249,13 +249,13 @@ SPA_479 = { 479 480 481 494 } #Castilla
 
 SPA_484 = { 484 485 486 } #Extremadura
 
-SPA_487 = { 487 488 489 490 491 } #Toledo
+SPA_487 = { 487 489 490 491 } #Toledo
 
 SPA_492 = { 492 493 } #Vasconia 
 
-SPA_495 = { 495 496 497 3252 } #Aragón
+SPA_495 = { 495 496 497 488 } #Aragón
 
-SPA_498 = { 498 499 500 501 } #Catalonia
+SPA_498 = { 498 499 500 501 3252 } #Catalonia
 
 SPA_503 = { 503 504 505 502 } #Valencia
 
