@@ -1,5 +1,6 @@
-owner = RUS
-controller = RUS
+owner = MRM
+controller = MRM
+add_core = MRM
 add_core = RUS
 trade_goods = grain
 life_rating = 35

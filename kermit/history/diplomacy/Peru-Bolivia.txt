@@ -1,13 +1,30 @@
-# PBC
+# Jach'atinaqäpax - Mojos
 vassal = {
-	first = PBC
-	second = PEU
+	first = PEU
+	second = PBC
 	start_date = 1836.1.1
-	end_date = 1838.1.1
+	end_date = 1939.1.1
 }
+# Jach'atinaqäpax - Chimu
 vassal = {
-	first = PBC
+	first = PEU
 	second = SPU
 	start_date = 1836.1.1
-	end_date = 1838.1.1
+	end_date = 1938.1.1
+} 
+
+# Jach'atinaqäpax - Diaguita
+vassal = {
+	first = PEU
+	second = BOL
+	start_date = 1836.1.1
+	end_date = 1938.1.1
+}
+
+# Jach'atinaqäpax- wankawillka
+vassal = {
+	first = PEU
+	second = ECU
+	start_date = 1836.1.1
+	end_date = 1938.1.1
 }

@@ -231,6 +231,8 @@ PSK		= "countries/Pskov.txt"
 
 #Finno-Ugric States
 VEP		= "countries/Veps.txt"
+MRM		= "countries/Murom.txt"
+KOM		= "countries/Komi.txt"
 
 #Middle East
 AZH		= "countries/Anazzah.txt"

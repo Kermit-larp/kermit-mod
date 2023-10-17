@@ -5,7 +5,7 @@ PROV3687;Pisku;;;;;;;;;;;;;;;;;;x;;;;
 PROV3688;Takaraka;;;;;;;;;;;;;;;;;;x;;;;
 PROV2297;Uthurunkapu;;;;;;;;;;;;;;;;;;x;;;;
 PORV3495;AÃ±athuyaraqi;;;;;;;;;;;;;;;;;;x;;;;
-PROV3496;Pachapu;;;;;;;;;;;;;;;;;;x;;;;
+PROV3496;Ichma;;;;;;;;;;;;;;;;;;x;;;;
 PROV3497;Paramunqa;;;;;;;;;;;;;;;;;;x;;;;
 PROV3689;Kulli;;;;;;;;;;;;;;;;;;x;;;;
 PROV3690;Sipitaraqi;;;;;;;;;;;;;;;;;;x;;;;
@@ -30,6 +30,17 @@ PROV2291;Catacaos;;;;;;;;;;;;;;;;;;x;;;; #Katakawus if chincha annex
 PROV2292;Cupejep;;;;;;;;;;;;;;;;;;x;;;; #Kupijip if chincha annex
 PROV2282;Ayawaka;;;;;;;;;;;;;;;;;;x;;;; #change to Ayawaca if guayacundo ind.
 PROV3506;Chuqirikuway;;;;;;;;;;;;;;;;;;x;;;;
-INC_2578;Chiribayas;;;;;;;;;;;;;;;;;;x;;;;
-INC_2297;Uthurunkuraqi;;;;;;;;;;;;;;;;;;x;;;;
+INC_2578;Chiribaya;;;;;;;;;;;;;;;;;;x;;;;
+INC_2297;Jach'atikuraqi;;;;;;;;;;;;;;;;;;x;;;;
 INC_3694;Waylas;;;;;;;;;;;;;;;;;;x;;;;
+PEU;Jach'atikuraqi;;;;;;;;;;;;;;;;;;x;;;;
+PEU_absolute_monarchy;Jach'atinaqäpax;;;;;;;;;;;;;;;;;;x;;;;
+PEU_prussian_constitutionalism;Jach'atinaqäpax;;;;;;;;;;;;;;;;;;x;;;;
+PEU_hms_governnment;Jach'atinaqäpax;;;;;;;;;;;;;;;;;;x;;;;
+PEU_ADJ;Jach'ati;;;;;;;;;;;;;;;;;;x;;;;
+SPU_dominion;Kingdom of Chimu;;;;;;;;;;;;;;;;;;x;;;;
+SPU_ADJ;Chimu;;;;;;;;;;;;;;;;;;x;;;;
+ECU_dominion;Wankawillka Lordship;;;;;;;;;;;;;;;;;;x;;;;
+ECU_ADJ;Wankawillka;;;;;;;;;;;;;;;;;;x;;;;
+PBC_dominion;Mojos;;;;;;;;;;;;;;;;;;x;;;;
+PBC_ADJ;Mojan;;;;;;;;;;;;;;;;;;x;;;;
