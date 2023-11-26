@@ -1,6 +1,6 @@
-owner = CLM
-controller = CLM
-add_core = CLM
+owner = GCO
+controller = GCO
+add_core = GCO
 trade_goods = wool
 terrain = montane_forest
 life_rating = 32

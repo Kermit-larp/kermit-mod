@@ -1,5 +1,6 @@
-owner = HUN
+owner = PAR
 controller = PAR
+add_core = PAR
 add_core = VEN
 add_core = HUN
 trade_goods = cattle

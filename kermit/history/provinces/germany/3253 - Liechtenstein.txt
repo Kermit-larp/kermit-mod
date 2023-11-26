@@ -1,5 +1,5 @@
 owner = LIE
-controller = LIE
+controller = PAR
 add_core = LIE
 trade_goods = cattle
 life_rating = 30

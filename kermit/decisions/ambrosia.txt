@@ -1,0 +1,85 @@
+political_decisions = {
+	ambrosian_victory = {
+		picture = kongresszus
+		
+		potential = {
+			tag = PAR
+			war = no
+			NOT = {
+				has_global_flag = ambrosian_w
+				has_global_flag = royalist_w
+			}	
+			HUN = { 
+				is_disarmed = yes
+				truce_with = THIS
+			}
+			BRN = {
+				truce_with = THIS
+				truce_with = NCT
+			}	
+		}
+		
+		allow = {
+		}
+		
+		effect = {
+			HUN = { any_owned = { limit = { is_core = HUN } secede_province = THIS } }
+			STY = { all_core = { add_core = PAR } }
+			STY = { any_owned = { limit = { is_core = STY } secede_province = THIS } }
+			ULM = { all_core = { add_core = PAR } }
+			ULM = { any_owned = { limit = { is_core = ULM } secede_province = THIS } }
+			SGM = { all_core = { add_core = PAR } }
+			SGM = { any_owned = { limit = { is_core = SGM } secede_province = THIS } }
+			WUR = { all_core = { add_core = PAR } }
+			WUR = { any_owned = { limit = { is_core = WUR } secede_province = THIS } }
+			LIE = { any_owned = { limit = { is_core = LIE } secede_province = THIS } }
+			PAR = { 
+				create_vassal = SLO 
+				prestige = 25
+			}
+			NCT = { country_event = 42002 }
+			VEN = { prestige = 10 }
+			TRE = { prestige = 10 }
+			VLS = { government = presidential_dictatorship }
+			SLO = { government = presidential_dictatorship }
+			RAE = { government = presidential_dictatorship }
+			set_global_flag = ambrosian_w
+						
+		}
+		ai_will_do = { factor = 1 }
+	}
+	
+	royalist_victory = {
+		picture = saintstephen
+		
+		potential = {
+			tag = HUN
+			war = no
+			NOT = {
+				has_global_flag = ambrosian_w
+				has_global_flag = royalist_w
+			}	
+			PAR = { 
+				is_disarmed = yes
+				truce_with = THIS
+			}
+			NCT = {
+				truce_with = THIS
+				truce_with = BRN
+			}
+		}	
+		
+		allow = {
+		}
+		
+		effect = {
+			PAR = {any_owned = { limit = { is_core = PAR }  secede_province = THIS } }
+			VEN = { any_owned = { limit = { is_core = VEN }secede_province = THIS } }
+			TRE = { government = absolute_monarchy }
+			HUN = { create_vassal = TRE }
+			BRN = { country_event = 42003}
+			set_global_flag = royalist_w
+		}
+		ai_will_do = { factor = 1 }
+	}	
+}	

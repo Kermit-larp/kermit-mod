@@ -1,6 +1,7 @@
-owner = HUN
-controller = HUN
-add_core = VEN
+owner = PAR
+controller = PAR
+add_core = PAR
 add_core = HUN
+add_core = VEN
 trade_goods = iron
 life_rating = 35

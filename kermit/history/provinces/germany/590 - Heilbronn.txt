@@ -1,6 +1,7 @@
 owner = HUN
 controller = HUN
 add_core = HUN
+add_core = PAR
 trade_goods = fruit
 life_rating = 40
 1861.1.1 = { railroad = 3 }

@@ -10,12 +10,7 @@ BAD = {
 	influence_value = 100
 	military_access = yes
 }
-SWI = {
-	value = 60
-	level = 5
-	influence_value = 100
-	military_access = yes
-}
+
 WUR = {
 	value = 60
 	level = 5
@@ -126,12 +121,7 @@ HEK = {
 	influence_value = 30
 	military_access = yes
 }
-VEN = {
-	value = 45
-	level = 5
-	influence_value = 70
-	military_access = yes
-}
+
 MAI = {
 	value = 28
 	level = 3

@@ -1,9 +1,9 @@
 capital = 736
 primary_culture = north_italian
 religion = catholic
-government = absolute_monarchy
+government = presidential_dictatorship
 plurality = 0.0
-nationalvalue = nv_order
+nationalvalue = nv_liberty
 literacy = 0.25
 civilized = yes
 

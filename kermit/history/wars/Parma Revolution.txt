@@ -1,0 +1,69 @@
+name = "The Ágostvár Revolution"
+
+1835.10.2 = {
+	add_attacker = PAR
+	add_attacker = VEN
+	add_attacker = NCT
+	add_attacker = TRE
+	add_defender = HUN
+	add_defender = BRN
+	add_defender = VLS
+	add_defender = RAE
+	add_defender = SLO
+	add_defender = SGM
+	add_defender = ULM
+	add_defender = WUR
+	add_defender = SLZ
+	add_defender = BAV
+	add_defender = STY
+	
+	# actor
+	# receiver
+	# casus_belli - cb type
+	# country - 3rd party
+	# state_province_id - target state capital
+	war_goal = {
+		casus_belli = cut_down_to_size
+		actor = PAR
+		receiver = HUN
+	}
+	
+	war_goal = {
+		casus_belli = cut_down_to_size
+		actor = HUN
+		receiver = PAR
+	}
+		war_goal = {
+		casus_belli = humiliate
+		actor = NCT
+		receiver = BRN
+	}
+	
+	war_goal = {
+		casus_belli = humiliate
+		actor = BRN
+		receiver = NCT
+	}
+
+}
+
+}
+
+1838.6.6 = {
+	rem_attacker = PAR
+	rem_attacker = VEN
+	rem_attacker = NCT
+	rem_attacker = TRE
+	rem_attacker = HUN
+	rem_attacker = BRN
+	rem_attacker = VLS
+	rem_attacker = RAE
+	rem_attacker = SLO
+	rem_attacker = SGM
+	rem_attacker = ULM
+	rem_attacker = WUR
+	rem_attacker = SLZ
+	rem_attacker = BAV
+	rem_attacker = STY
+	
+}

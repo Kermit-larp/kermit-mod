@@ -1,5 +1,5 @@
 owner = RAE
-controller = RAE
+controller = PAR
 add_core = RAE
 add_core = SWI
 trade_goods = iron

@@ -1,6 +1,7 @@
 owner = BRN
-controller = BRN
+controller = NCT
 add_core = BRN
+add_core = NCT
 add_core = SWI
 trade_goods = fruit
 life_rating = 32

@@ -1,12 +1,15 @@
 capital = 738
-primary_culture = north_italian
+primary_culture = hungarian
+culture = lombard
+culture = alemannian
+culture = romansh
 religion = catholic
 government = presidential_dictatorship
 plurality = 25.0
-nationalvalue = nv_order
+nationalvalue = nv_liberty
 literacy = 0.40
 civilized = yes
-prestige = 5
+prestige = 20
 
 
 # Political reforms

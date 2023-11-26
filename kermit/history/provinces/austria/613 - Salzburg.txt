@@ -1,5 +1,5 @@
 owner = SLZ
-controller = SLZ
+controller = PAR
 add_core = SLZ
 trade_goods = grain
 life_rating = 35
