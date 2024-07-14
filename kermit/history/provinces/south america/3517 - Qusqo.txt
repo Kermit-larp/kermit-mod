@@ -2,5 +2,5 @@ owner = PEU
 controller = PEU
 add_core = PEU
 trade_goods = wool
-life_rating = 45
+life_rating = 40
 terrain = high_plateau

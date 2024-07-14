@@ -1,7 +1,6 @@
-owner = ARC
-controller = ARC
-add_core = SBA
-add_core = ARC
+owner = URU
+controller = URU
+add_core = URU
 trade_goods = cattle
 life_rating = 35
 terrain = buenosaires

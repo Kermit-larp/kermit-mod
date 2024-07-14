@@ -1,5 +1,8 @@
-owner = BRZ
-controller = BRZ
-add_core = BRZtrade_goods = fruit
+owner = PRG
+
+controller = PRG
+
+add_core = PRG
+trade_goods = fruit
 terrain = savanna
 life_rating = 25

@@ -1,6 +1,5 @@
-owner = ZCT
-controller = ZCT
-add_core = ZCT
-add_core = MEX
+owner = SON
+controller = SON
+add_core = SON
 trade_goods = fish
 life_rating = 35

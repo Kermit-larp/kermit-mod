@@ -1,8 +1,6 @@
-owner = UCA
-controller = UCA
-add_core = UCA
-add_core = GUA
-add_core = LOS
+owner = CHP
+controller = CHP
+add_core = CHP
 trade_goods = iron
 life_rating = 31
 1861.1.1 = {

@@ -1,6 +1,8 @@
 name = "Kermit Mod"
 path = "mod/kermit"
 user_dir = "kermit"
+replace_path = "music"
 replace_path = "history/provinces"
+replace_path = "wars"
 replace_path = "events"
 replace_path = "decisions"

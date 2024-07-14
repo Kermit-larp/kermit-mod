@@ -1,6 +1,6 @@
-owner = BRZ
-controller = BRZ
-add_core = BRZ
+owner = RGR
+controller = RGR
+add_core = RGR
 trade_goods = wool
 life_rating = 30
 terrain = savanna

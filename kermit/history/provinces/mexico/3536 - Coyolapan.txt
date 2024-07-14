@@ -1,5 +1,5 @@
-owner = FDA
-controller = FDA
-add_core = FDA
+owner = CHP
+controller = CHP
+add_core = CHP
 trade_goods = fish
 life_rating = 35

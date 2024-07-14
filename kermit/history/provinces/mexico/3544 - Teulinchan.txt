@@ -1,6 +1,5 @@
-owner = TNL
-controller = TNL
-add_core = TNL
-add_core = MEX
+owner = SON
+controller = SON
+add_core = SON
 trade_goods = fish
 life_rating = 35

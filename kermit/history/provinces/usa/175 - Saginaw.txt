@@ -1,6 +1,5 @@
-owner = USA
-controller = USA
-add_core = USA
+owner = FIN
+controller = FIN
 trade_goods = timber
 life_rating = 35
 colonial = 2

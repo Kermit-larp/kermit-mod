@@ -1,5 +1,5 @@
-owner = TRS
-controller = TRS
-add_core = TRS
+owner = MEX
+controller = MEX
+add_core = MEX
 trade_goods = fish
 life_rating = 35

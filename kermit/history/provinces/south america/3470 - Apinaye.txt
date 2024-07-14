@@ -1,6 +1,6 @@
-owner = BRZ
-controller = BRZ
-add_core = BRZ
+owner = LOS
+controller = LOS
+add_core = LOS
 trade_goods = cattle
 life_rating = 20
 terrain = new_world_jungle

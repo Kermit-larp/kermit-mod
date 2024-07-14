@@ -4,7 +4,7 @@ PROV3686;Wayuri;;;;;;;;;;;;;;;;;;x;;;;
 PROV3687;Pisku;;;;;;;;;;;;;;;;;;x;;;;
 PROV3688;Takaraka;;;;;;;;;;;;;;;;;;x;;;;
 PROV2297;Uthurunkapu;;;;;;;;;;;;;;;;;;x;;;;
-PORV3495;AÃ±athuyaraqi;;;;;;;;;;;;;;;;;;x;;;;
+PORV3495;Añathuyaraqi;;;;;;;;;;;;;;;;;;x;;;;
 PROV3496;Ichma;;;;;;;;;;;;;;;;;;x;;;;
 PROV3497;Paramunqa;;;;;;;;;;;;;;;;;;x;;;;
 PROV3689;Kulli;;;;;;;;;;;;;;;;;;x;;;;
@@ -17,29 +17,43 @@ PROV3694;Waylas;;;;;;;;;;;;;;;;;;x;;;;
 PROV3695;Waras;;;;;;;;;;;;;;;;;;x;;;;
 PROV3696;Kunchuqu;;;;;;;;;;;;;;;;;;x;;;; #change to Conchuqo if culli ind.
 PROV3503;Wamachuqu;;;;;;;;;;;;;;;;;;x;;;; #change to Wamachuqo if culli ind.
-PROV3502;Kashamalka;;;;;;;;;;;;;;;;;;x;;;; #change to Kashamalca if culli/cajamarca ind.
+PROV3502;Kashamalka;;;;;;;;;;;;;;;;;;x;;;; #change to Cashamalca if culli/cajamarca ind.
 PROV2298;Kasma;;;;;;;;;;;;;;;;;;x;;;;
 PROV3697;Kopis;;;;;;;;;;;;;;;;;;x;;;;
 PROV3698;Wampu;;;;;;;;;;;;;;;;;;x;;;;
 PROV3699;Koyayka;;;;;;;;;;;;;;;;;;x;;;; #change to Coyayca if guayacundo ind.
-PROV3700;Sechura;;;;;;;;;;;;;;;;;;x;;;; #Sichura if chincha annex.
+PROV3700;Sechura;;;;;;;;;;;;;;;;;;x;;;; #change to Sichura if chincha annex.
 PROV3701;Mamra;;;;;;;;;;;;;;;;;;x;;;; 
 PROV3702;Chincha;;;;;;;;;;;;;;;;;;x;;;; 
 PROV3703;Kaskayunka;;;;;;;;;;;;;;;;;;x;;;;
+PROV3704;Tinqil;;;;;;;;;;;;;;;;;;x;;;;  #Tenguel
+PROV3705;Wankawillka;;;;;;;;;;;;;;;;;;x;;;;
+PROV3706;Yaqwachi;;;;;;;;;;;;;;;;;;x;;;;
+PROV3707;Papaullu;;;;;;;;;;;;;;;;;;x;;;; #Babahoyo
+PROV3708;Dawli;;;;;;;;;;;;;;;;;;x;;;;  #Daule
+PROV3709;Mukachi;;;;;;;;;;;;;;;;;;x;;;; #Mocache
+PROV3710;Jama;;;;;;;;;;;;;;;;;;x;;;;
+PROV3711;Atakami;;;;;;;;;;;;;;;;;;x;;;; #Atacames
+PROV3712;Kukaniqwa;;;;;;;;;;;;;;;;;;x;;;; #Cocaniguas
+PROV3713;Yumpu;;;;;;;;;;;;;;;;;;x;;;;
 PROV2291;Catacaos;;;;;;;;;;;;;;;;;;x;;;; #Katakawus if chincha annex
 PROV2292;Cupejep;;;;;;;;;;;;;;;;;;x;;;; #Kupijip if chincha annex
-PROV2282;Ayawaka;;;;;;;;;;;;;;;;;;x;;;; #change to Ayawaca if guayacundo ind.
+PROV2282;Palta;;;;;;;;;;;;;;;;;;x;;;; 
+PROV3714;Yarus;;;;;;;;;;;;;;;;;;x;;;; #Yaros if quechua ind.
+PROV3715;Chupachus;;;;;;;;;;;;;;;;;;x;;;; #Chupachos if quechua ind.
 PROV3506;Chuqirikuway;;;;;;;;;;;;;;;;;;x;;;;
+PROV2280;Puna;;;;;;;;;;;;;;;;;;x;;;;
+PROV2281;Salanqumi;;;;;;;;;;;;;;;;;;x;;;;
 INC_2578;Chiribaya;;;;;;;;;;;;;;;;;;x;;;;
-INC_2297;Jach'atikuraqi;;;;;;;;;;;;;;;;;;x;;;;
+INC_2297;Yukäch’atiuraqi;;;;;;;;;;;;;;;;;;x;;;;
 INC_3694;Waylas;;;;;;;;;;;;;;;;;;x;;;;
-PEU;Jach'atikuraqi;;;;;;;;;;;;;;;;;;x;;;;
-PEU_absolute_monarchy;Jach'atinaqäpax;;;;;;;;;;;;;;;;;;x;;;;
-PEU_prussian_constitutionalism;Jach'atinaqäpax;;;;;;;;;;;;;;;;;;x;;;;
-PEU_hms_governnment;Jach'atinaqäpax;;;;;;;;;;;;;;;;;;x;;;;
-PEU_ADJ;Yukkach'ati;;;;;;;;;;;;;;;;;;x;;;;
-SPU_dominion;Kingdom of Chimu;;;;;;;;;;;;;;;;;;x;;;;
-SPU_ADJ;Chimu;;;;;;;;;;;;;;;;;;x;;;;
+PEU;Yukäch’atiuraqi;;;;;;;;;;;;;;;;;;x;;;;
+PEU_absolute_monarchy;Yukäch’ati Empire;;;;;;;;;;;;;;;;;;x;;;;
+PEU_prussian_constitutionalism;Yukäch’ati Empire;;;;;;;;;;;;;;;;;;x;;;;
+PEU_hms_governnment;Yukäch’ati Empire;;;;;;;;;;;;;;;;;;x;;;;
+PEU_ADJ;Yukäch’ati;;;;;;;;;;;;;;;;;;x;;;;
+SPU_dominion;Lordships of the Chimor Valleys;;;;;;;;;;;;;;;;;;x;;;;
+SPU_ADJ;Chimor;;;;;;;;;;;;;;;;;;x;;;;
 ECU_dominion;Wankawillka Lordship;;;;;;;;;;;;;;;;;;x;;;;
 ECU_ADJ;Wankawillka;;;;;;;;;;;;;;;;;;x;;;;
 PBC_dominion;Mojos;;;;;;;;;;;;;;;;;;x;;;;

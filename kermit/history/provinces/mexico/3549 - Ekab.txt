@@ -1,6 +1,5 @@
-owner = YKB
-controller = YKB
-add_core = YKB
-add_core = YUC
+owner = ELS
+controller = ELS
+add_core = ELS
 trade_goods = fish
 life_rating = 35

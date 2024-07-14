@@ -1,5 +1,5 @@
-owner = KQC
-controller = KQC
-add_core = KQC
+owner = GUA
+controller = GUA
+add_core = GUA
 trade_goods = fish
 life_rating = 31

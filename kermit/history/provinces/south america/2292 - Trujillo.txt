@@ -1,5 +1,4 @@
-owner = SPU
-controller = SPU
+
 add_core = SPU
 trade_goods = fish
 terrain = new_world_desert

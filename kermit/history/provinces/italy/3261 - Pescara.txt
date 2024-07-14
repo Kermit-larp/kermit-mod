@@ -1,6 +1,6 @@
-owner = PAP
-controller = PAP
-add_core = PAP
+owner = SIC
+controller = SIC
+add_core = SIC
 add_core = ITA
 trade_goods = timber
 life_rating = 35

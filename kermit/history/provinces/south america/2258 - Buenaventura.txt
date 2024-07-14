@@ -1,4 +1,3 @@
-owner = PEU
-controller = PEU
+
 add_core = PEU
 life_rating = 32

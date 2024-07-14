@@ -1,5 +1,5 @@
-owner = SAX
-controller = SAX
+owner = NBL
+controller = NBL
 add_core = YUC
 trade_goods = fish
 life_rating = 35

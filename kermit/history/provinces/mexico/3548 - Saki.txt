@@ -1,6 +1,5 @@
-owner = YKL
-controller = YKL
-add_core = YKL
-add_core = YUC
+owner = ELS
+controller = ELS
+add_core = ELS
 trade_goods = grain
 life_rating = 35

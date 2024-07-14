@@ -1,3 +1,6 @@
+owner = CEQ
+controller = CEQ
+add_core = CEQ
 trade_goods = cattle
 life_rating = 20
 terrain = new_world_jungle

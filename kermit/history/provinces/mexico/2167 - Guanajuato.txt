@@ -1,5 +1,5 @@
-owner = MEX
-controller = MEX
-add_core = MEX
+owner = NIC
+controller = NIC
+add_core = NIC
 trade_goods = grain
 life_rating = 35

@@ -1,6 +1,6 @@
-owner = MEX
-controller = MEX
-add_core = MEX
+owner = SON
+controller = SON
+add_core = SON
 trade_goods = grain
 terrain = montane_forest
 life_rating = 35

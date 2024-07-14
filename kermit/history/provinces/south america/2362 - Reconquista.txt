@@ -1,2 +1,8 @@
-trade_goods = cattleterrain = savanna
+owner = ENT
+
+controller = ENT
+
+add_core = ENT
+trade_goods = cattle
+terrain = savanna
 life_rating = 15
