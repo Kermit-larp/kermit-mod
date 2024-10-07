@@ -1,10 +1,10 @@
 PROV3684;Khillapampa;;;;;;;;;;;;;;;;;;x;;;;
 PROV3685;Wisapampa;;;;;;;;;;;;;;;;;;x;;;;
-PROV3686;Wayuri;;;;;;;;;;;;;;;;;;x;;;;
-PROV3687;Pisku;;;;;;;;;;;;;;;;;;x;;;;
+PROV3686;Wayuri;;;;;;;;;;;;;;;;;;x;;;; #Huayuri
+PROV3687;Pisku;;;;;;;;;;;;;;;;;;x;;;; #Pisco
 PROV3688;Takaraka;;;;;;;;;;;;;;;;;;x;;;;
 PROV2297;Uthurunkapu;;;;;;;;;;;;;;;;;;x;;;;
-PORV3495;Añathuyaraqi;;;;;;;;;;;;;;;;;;x;;;;
+PORV3495;Añathuyasuyu;;;;;;;;;;;;;;;;;;x;;;;
 PROV3496;Ichma;;;;;;;;;;;;;;;;;;x;;;;
 PROV3497;Paramunqa;;;;;;;;;;;;;;;;;;x;;;;
 PROV3689;Kulli;;;;;;;;;;;;;;;;;;x;;;;
@@ -24,18 +24,18 @@ PROV3698;Wampu;;;;;;;;;;;;;;;;;;x;;;;
 PROV3699;Koyayka;;;;;;;;;;;;;;;;;;x;;;; #change to Coyayca if guayacundo ind.
 PROV3700;Sechura;;;;;;;;;;;;;;;;;;x;;;; #change to Sichura if chincha annex.
 PROV3701;Mamra;;;;;;;;;;;;;;;;;;x;;;; 
-PROV3702;Chincha;;;;;;;;;;;;;;;;;;x;;;; 
-PROV3703;Kaskayunka;;;;;;;;;;;;;;;;;;x;;;;
+PROV3702;Chincha;;;;;;;;;;;;;;;;;;x;;;;  
+PROV3703;Kaskayunka;;;;;;;;;;;;;;;;;;x;;;; #Cascayunga
 PROV3704;Tinqil;;;;;;;;;;;;;;;;;;x;;;;  #Tenguel
-PROV3705;Wankawillka;;;;;;;;;;;;;;;;;;x;;;;
-PROV3706;Yaqwachi;;;;;;;;;;;;;;;;;;x;;;;
+PROV3705;Wankawillka;;;;;;;;;;;;;;;;;;x;;;; #Huancahuilca
+PROV3706;Yaqwachi;;;;;;;;;;;;;;;;;;x;;;; #Yaguachi
 PROV3707;Papaullu;;;;;;;;;;;;;;;;;;x;;;; #Babahoyo
 PROV3708;Dawli;;;;;;;;;;;;;;;;;;x;;;;  #Daule
 PROV3709;Mukachi;;;;;;;;;;;;;;;;;;x;;;; #Mocache
 PROV3710;Jama;;;;;;;;;;;;;;;;;;x;;;;
 PROV3711;Atakami;;;;;;;;;;;;;;;;;;x;;;; #Atacames
 PROV3712;Kukaniqwa;;;;;;;;;;;;;;;;;;x;;;; #Cocaniguas
-PROV3713;Yumpu;;;;;;;;;;;;;;;;;;x;;;;
+PROV3713;Yumpu;;;;;;;;;;;;;;;;;;x;;;; #Yumbos
 PROV2291;Catacaos;;;;;;;;;;;;;;;;;;x;;;; #Katakawus if chincha annex
 PROV2292;Cupejep;;;;;;;;;;;;;;;;;;x;;;; #Kupijip if chincha annex
 PROV2282;Palta;;;;;;;;;;;;;;;;;;x;;;; 
@@ -43,11 +43,55 @@ PROV3714;Yarus;;;;;;;;;;;;;;;;;;x;;;; #Yaros if quechua ind.
 PROV3715;Chupachus;;;;;;;;;;;;;;;;;;x;;;; #Chupachos if quechua ind.
 PROV3506;Chuqirikuway;;;;;;;;;;;;;;;;;;x;;;;
 PROV2280;Puna;;;;;;;;;;;;;;;;;;x;;;;
-PROV2281;Salanqumi;;;;;;;;;;;;;;;;;;x;;;;
-INC_2578;Chiribaya;;;;;;;;;;;;;;;;;;x;;;;
-INC_2297;Yukäch’atiuraqi;;;;;;;;;;;;;;;;;;x;;;;
+PROV2281;Salanqumi;;;;;;;;;;;;;;;;;;x;;;; #Salangome
+PROV3716;Chiqikachi;;;;;;;;;;;;;;;;;;x;;;; #Chiquicache
+PROV3717;Kana;;;;;;;;;;;;;;;;;;x;;;;
+PROV3718;Wankani;;;;;;;;;;;;;;;;;;x;;;;
+PROV3719;Jisk'a Kallawaya;;;;;;;;;;;;;;;;;;x;;;;
+PROV3720;Jach'a Kallawaya;;;;;;;;;;;;;;;;;;x;;;;
+PROV3721;Amuesha;;;;;;;;;;;;;;;;;;x;;;;
+PROV3722;Upina;;;;;;;;;;;;;;;;;;x;;;;
+PROV3723;Yarapaya;;;;;;;;;;;;;;;;;;x;;;;
+PROV3724;Kapana;;;;;;;;;;;;;;;;;;x;;;;
+PROV3488;Qulla;;;;;;;;;;;;;;;;;;x;;;;
+PROV2303;Lupaqa;;;;;;;;;;;;;;;;;;x;;;;
+PROV3490;Karuma;;;;;;;;;;;;;;;;;;x;;;;
+PROV3487;Achakachi;;;;;;;;;;;;;;;;;;x;;;;
+PROV1714;Tarata;;;;;;;;;;;;;;;;;;x;;;;
+PROV3489;Sikuwani;;;;;;;;;;;;;;;;;;x;;;;
+PROV3725;Arunis;;;;;;;;;;;;;;;;;;x;;;;
+PROV3726;Sama;;;;;;;;;;;;;;;;;;x;;;;
+PROV3727;Qarawili;;;;;;;;;;;;;;;;;;x;;;;
+PROV3728;Wanka;;;;;;;;;;;;;;;;;;x;;;;
+PROV3729;Pilkusuniyunka;;;;;;;;;;;;;;;;;;x;;;;
+PROV3730;Iqicha;;;;;;;;;;;;;;;;;;x;;;;
+PROV3731;Willkapampa;;;;;;;;;;;;;;;;;;x;;;;
+PROV3732;Matsiqenkapampa;;;;;;;;;;;;;;;;;;x;;;;
+PROV3733;Manupampa;;;;;;;;;;;;;;;;;;x;;;;
+PROV3734;Chunchusuyu;;;;;;;;;;;;;;;;;;x;;;;
+PROV3511;Shawsha;;;;;;;;;;;;;;;;;;x;;;;
+PROV3512;Anqara;;;;;;;;;;;;;;;;;;x;;;;
+PROV3518;Ayarmaka;;;;;;;;;;;;;;;;;;x;;;;
+PROV3519;Wak'a Qhirwa;;;;;;;;;;;;;;;;;;x;;;;
+PROV2302;Pinaqwa;;;;;;;;;;;;;;;;;;x;;;;
+PROV3517;Akamama;;;;;;;;;;;;;;;;;;x;;;;
+PROV3735;Jach'a Pashatin;;;;;;;;;;;;;;;;;;x;;;;
+INC_2578;Kulisuyu;;;;;;;;;;;;;;;;;;x;;;;
+INC_2297;Yukäch’atisuyu;;;;;;;;;;;;;;;;;;x;;;;
+INC_2299;Kuntisuyu;;;;;;;;;;;;;;;;;;x;;;;
 INC_3694;Waylas;;;;;;;;;;;;;;;;;;x;;;;
-PEU;Yukäch’atiuraqi;;;;;;;;;;;;;;;;;;x;;;;
+INC_3501;Chachapuya;;;;;;;;;;;;;;;;;;x;;;;
+INC_3699;Kaskayunqa;;;;;;;;;;;;;;;;;;x;;;;
+INC_2304;Aymara;;;;;;;;;;;;;;;;;;x;;;;
+ECU_2280;Dawli;;;;;;;;;;;;;;;;;;x;;;;
+ECU_3705;Wankawillka;;;;;;;;;;;;;;;;;;x;;;;
+CHM_2298;Kasma;;;;;;;;;;;;;;;;;;x;;;;
+INC_3732;Antisuyu;;;;;;;;;;;;;;;;;;x;;;;
+INC_3718;Umasuyu;;;;;;;;;;;;;;;;;;x;;;;
+INC_3734;Chunchu;;;;;;;;;;;;;;;;;;x;;;;
+INC_3504;Wallaqasuyu;;;;;;;;;;;;;;;;;;x;;;;
+INC_3488;Urkusuyu;;;;;;;;;;;;;;;;;;x;;;;
+PEU;Yukäch’atisuyu;;;;;;;;;;;;;;;;;;x;;;;
 PEU_absolute_monarchy;Yukäch’ati Empire;;;;;;;;;;;;;;;;;;x;;;;
 PEU_prussian_constitutionalism;Yukäch’ati Empire;;;;;;;;;;;;;;;;;;x;;;;
 PEU_hms_governnment;Yukäch’ati Empire;;;;;;;;;;;;;;;;;;x;;;;
