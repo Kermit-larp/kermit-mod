@@ -88211,10 +88211,6 @@
 
     }
 
-    building_nudge = {
-        naval_base = 0.300000
-    }
-
     building_rotation = {
         naval_base = 3.926991
     }
@@ -127062,15 +127058,6 @@
     building_rotation = {
         naval_base = 4.118846
     }
-
-    building_nudge = {
-        naval_base = {
-            x = 1719.400000
-            y = 704.550000
-        }
-
-    }
-
 }
 
 3489 = {
