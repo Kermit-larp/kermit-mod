@@ -1,0 +1,5 @@
+owner = CRT
+controller = CRT
+add_core = CRT
+trade_goods = fruit
+life_rating = 30

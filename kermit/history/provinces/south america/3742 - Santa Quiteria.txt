@@ -1,0 +1,6 @@
+owner = CRT
+controller = CRT
+add_core = CRT
+trade_goods = fruit
+terrain = farmlands
+life_rating = 30

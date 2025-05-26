@@ -1,7 +1,3 @@
-owner = PNB
-controller = PNB
-add_core = PNB
-
 trade_goods = cattle
 life_rating = 32
 terrain = dry_forest

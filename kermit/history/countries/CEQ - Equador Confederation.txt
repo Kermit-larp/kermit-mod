@@ -1,10 +1,10 @@
 capital = 2432
 primary_culture = brazilian
 culture = afro_brazilian
-religion = catholic
-government = democracy
+religion = sunni
+government = absolute_monarchy
 plurality = 0.0
-nationalvalue = nv_liberty
+nationalvalue = nv_tradition
 literacy = 0.08
 civilized = yes
 
