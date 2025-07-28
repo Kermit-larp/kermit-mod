@@ -1,5 +1,6 @@
 owner = MCD
 controller = MCD
 add_core = MCD
-trade_goods = grain
+add_core = GRE
+trade_goods = fruit
 life_rating = 35

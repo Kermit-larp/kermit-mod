@@ -801,7 +801,7 @@
     farmers = {
         culture = alemannian
         religion = catholic
-        size = 32000
+        size = 22000
     }
 
     aristocrats = {
@@ -811,7 +811,7 @@
     }
 
     clergymen = {
-        culture = burgundian
+        culture = hungarian
         religion = catholic
         size = 300
     }
@@ -832,6 +832,12 @@
         culture = burgundian
         religion = catholic
         size = 2000
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = catholic
+        size = 12000
     }
 
 }
@@ -3305,7 +3311,7 @@
     }
 
     farmers = {
-        culture = lombard
+        culture = occitan
         religion = catholic
         size = 11100
     }
@@ -3375,9 +3381,15 @@
     }
 
     farmers = {
-        culture = lombard
+        culture = arpitan
         religion = catholic
-        size = 20000
+        size = 14000
+    }
+
+    farmers = {
+        culture = occitan
+        religion = catholic
+        size = 6000
     }
 
 }
@@ -3923,49 +3935,49 @@
 #Annency
 465 = {
     aristocrats = {
-        culture = lombard
+        culture = arpitan
         religion = catholic
         size = 600
     }
 
     officers = {
-        culture = lombard
+        culture = arpitan
         religion = catholic
         size = 100
     }
 
     bureaucrats = {
-        culture = lombard
+        culture = arpitan
         religion = catholic
         size = 200
     }
 
     clergymen = {
-        culture = lombard
+        culture = arpitan
         religion = catholic
         size = 350
     }
 
     artisans = {
-        culture = lombard
+        culture = arpitan
         religion = catholic
         size = 3250
     }
 
     soldiers = {
-        culture = lombard
+        culture = arpitan
         religion = catholic
         size = 1000
     }
 
     farmers = {
-        culture = lombard
+        culture = arpitan
         religion = catholic
-        size = 30000
+        size = 28000
     }
 
     farmers = {
-        culture = arpitan
+        culture = noriconian
         religion = catholic
         size = 7000
     }
@@ -3977,7 +3989,7 @@
     }
 
     clergymen = {
-        culture = arpitan
+        culture = noriconian
         religion = catholic
         size = 275
     }
@@ -3988,36 +4000,42 @@
         size = 21000
     }
 
+    artisans = {
+        culture = noriconian
+        religion = catholic
+        size = 1000
+    }
+
 }
 
 #Chambery
 466 = {
     aristocrats = {
-        culture = lombard
+        culture = arpitan
         religion = catholic
         size = 550
     }
 
     clergymen = {
-        culture = lombard
+        culture = arpitan
         religion = catholic
         size = 375
     }
 
     artisans = {
-        culture = lombard
+        culture = noriconian
         religion = catholic
         size = 2800
     }
 
     soldiers = {
-        culture = lombard
+        culture = arpitan
         religion = catholic
         size = 1000
     }
 
     farmers = {
-        culture = lombard
+        culture = arpitan
         religion = catholic
         size = 17000
     }
@@ -4087,7 +4105,7 @@
     }
 
     artisans = {
-        culture = ligure
+        culture = occitan
         religion = catholic
         size = 10000
     }
@@ -4099,7 +4117,7 @@
     }
 
     craftsmen = {
-        culture = ligure
+        culture = occitan
         religion = catholic
         size = 3000
     }
@@ -4129,7 +4147,7 @@
     }
 
     farmers = {
-        culture = ligure
+        culture = occitan
         religion = catholic
         size = 8000
     }
@@ -4139,13 +4157,13 @@
 #Avignon
 468 = {
     aristocrats = {
-        culture = occitan
+        culture = romagnol
         religion = catholic
         size = 650
     }
 
     clergymen = {
-        culture = occitan
+        culture = romagnol
         religion = catholic
         size = 325
     }
@@ -4163,27 +4181,39 @@
     }
 
     farmers = {
-        culture = occitan
-        religion = catholic
-        size = 4000
+        culture = ashkenazi
+        religion = jewish
+        size = 500
     }
 
     farmers = {
-        culture = occitan
+        culture = romagnol
         religion = catholic
-        size = 5625
+        size = 1625
     }
 
     artisans = {
-        culture = lombard
+        culture = occitan
         religion = catholic
         size = 8000
     }
 
     farmers = {
-        culture = lombard
+        culture = occitan
         religion = catholic
         size = 10300
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1000
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = catholic
+        size = 1000
     }
 
 }
@@ -4192,7 +4222,7 @@
 469 = {
     aristocrats = {
         culture = occitan
-        religion = protestant
+        religion = catholic
         size = 250
     }
 
@@ -4227,15 +4257,15 @@
     }
 
     clergymen = {
-        culture = lombard
+        culture = noriconian
         religion = catholic
         size = 300
     }
 
     farmers = {
-        culture = lombard
+        culture = noriconian
         religion = catholic
-        size = 13000
+        size = 7000
     }
 
     farmers = {
@@ -4249,8 +4279,8 @@
 #Toulon
 470 = {
     aristocrats = {
-        culture = ligure
-        religion = protestant
+        culture = occitan
+        religion = catholic
         size = 500
     }
 
@@ -4261,7 +4291,7 @@
     }
 
     artisans = {
-        culture = ligure
+        culture = noriconian
         religion = catholic
         size = 3000
     }
@@ -4291,7 +4321,7 @@
     }
 
     farmers = {
-        culture = ligure
+        culture = noriconian
         religion = catholic
         size = 5300
     }
@@ -4301,39 +4331,45 @@
 #Frejus
 471 = {
     aristocrats = {
-        culture = ligure
-        religion = protestant
+        culture = noriconian
+        religion = catholic
         size = 300
     }
 
     clergymen = {
-        culture = occitan
+        culture = noriconian
         religion = catholic
         size = 150
     }
 
     artisans = {
-        culture = occitan
+        culture = noriconian
         religion = catholic
         size = 4500
     }
 
     soldiers = {
-        culture = occitan
+        culture = noriconian
         religion = catholic
         size = 350
     }
 
     farmers = {
-        culture = occitan
+        culture = noriconian
         religion = catholic
         size = 11000
     }
 
     artisans = {
-        culture = ligure
+        culture = occitan
         religion = catholic
-        size = 3500
+        size = 1500
+    }
+
+    farmers = {
+        culture = noriconian
+        religion = catholic
+        size = 11000
     }
 
     farmers = {
@@ -4342,116 +4378,92 @@
         size = 3000
     }
 
-    farmers = {
-        culture = ligure
-        religion = catholic
-        size = 11000
-    }
-
 }
 
 #Nice
 472 = {
     aristocrats = {
-        culture = ligure
+        culture = noriconian
         religion = catholic
         size = 450
     }
 
     clergymen = {
-        culture = ligure
+        culture = arpitan
         religion = catholic
         size = 225
     }
 
     artisans = {
-        culture = ligure
+        culture = noriconian
         religion = catholic
         size = 6000
     }
 
     soldiers = {
-        culture = ligure
+        culture = noriconian
         religion = catholic
         size = 1000
     }
 
     farmers = {
-        culture = ligure
+        culture = noriconian
         religion = catholic
-        size = 19025
+        size = 2025
     }
 
     farmers = {
-        culture = occitan
+        culture = noriconian
         religion = catholic
-        size = 20825
+        size = 30825
     }
 
     farmers = {
-        culture = occitan
+        culture = noriconian
         religion = catholic
-        size = 8000
+        size = 12000
     }
 
     clergymen = {
-        culture = french
+        culture = noriconian
         religion = catholic
         size = 225
     }
 
     farmers = {
-        culture = lombard
+        culture = noriconian
         religion = catholic
         size = 825
     }
 
     aristocrats = {
-        culture = lombard
+        culture = noriconian
         religion = catholic
         size = 250
     }
 
     clergymen = {
-        culture = lombard
+        culture = noriconian
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = lombard
+        culture = noriconian
         religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = occitan
+        culture = arpitan
         religion = catholic
         size = 100
     }
 
-    farmers = {
-        culture = lombard
-        religion = catholic
-        size = 1225
-    }
-
     artisans = {
-        culture = lombard
+        culture = arpitan
         religion = catholic
         size = 250
-    }
-
-    farmers = {
-        culture = occitan
-        religion = catholic
-        size = 2850
-    }
-
-    bureaucrats = {
-        culture = occitan
-        religion = catholic
-        size = 10
     }
 
 }

@@ -1,5 +1,6 @@
-owner = LIE
-controller = PAR
-add_core = LIE
+owner = SVN
+controller = SVN
+add_core = SVN
+add_core = SVY
 trade_goods = cattle
 life_rating = 30

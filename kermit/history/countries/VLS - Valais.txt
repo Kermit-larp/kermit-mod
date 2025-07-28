@@ -1,13 +1,11 @@
 capital = 609
-primary_culture = swiss_french
-culture = swiss_italian
+primary_culture = arpitan
 religion = catholic
-government = colonial_company
+government = theocracy
 plurality = 30.0
 nationalvalue = nv_order
 literacy = 0.8
 civilized = yes
-prestige = 10
 
 # Political reforms
 slavery = no_slavery

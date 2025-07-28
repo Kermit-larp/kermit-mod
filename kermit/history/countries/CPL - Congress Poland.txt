@@ -1,10 +1,10 @@
 capital = 706
-primary_culture = polish
-religion = catholic
-government = colonial_company
+primary_culture = russian
+religion = orthodox
+government = absolute_monarchy
 plurality = 0.2
-nationalvalue = nv_liberty
-literacy = 0.6
+nationalvalue = nv_order
+literacy = 0.4
 civilized = yes
 
 # Political reforms

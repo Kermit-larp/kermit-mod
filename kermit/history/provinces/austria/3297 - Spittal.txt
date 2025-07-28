@@ -1,5 +1,5 @@
-owner = PAR
-controller = PAR
+owner = HUN
+controller = HUN
 add_core = PAR
 add_core = HUN
 trade_goods = fruit

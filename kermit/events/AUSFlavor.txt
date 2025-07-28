@@ -153,7 +153,7 @@ country_event = {
 			limit = {		
 				OR = {
 					has_pop_culture = slovak
-					has_pop_culture = croat
+					has_pop_culture = carniolan
 					has_pop_culture = romanian
 				}
 			}
@@ -210,13 +210,13 @@ country_event = {
 		set_country_flag = IlyaGarashinin
 		any_pop = {
 			limit = {
-				has_pop_culture = serb
+				has_pop_culture = morejan
 			}
 			militancy = 4
 			consciousness = 2
 		}
 		any_owned = {
-			limit = { culture = serb }
+			limit = { culture = morejan }
 			add_province_modifier = {
 				name = nationalist_agitation
 				duration = 365
@@ -225,7 +225,7 @@ country_event = {
 		any_pop = {
 			limit = {
 				OR = {
-					has_pop_culture = croat
+					has_pop_culture = carniolan
 					has_pop_culture = slovene
 				}
 			}
@@ -235,7 +235,7 @@ country_event = {
 		any_owned = {
 			limit = {
 				OR = {
-					culture = croat
+					culture = carniolan
 					culture = slovene
 				}
 			}
@@ -678,7 +678,7 @@ country_event = {
 	option = {
 		name = "EVT90016OPTA"
 		any_owned = {
-			limit = { culture = serb }
+			limit = { culture = morejan }
 			add_province_modifier = {
 				name = nationalist_agitation
 				duration = 365
@@ -687,7 +687,7 @@ country_event = {
 		any_pop = {
 			limit = {
 				location = { is_core = SER }
-				has_pop_culture = serb
+				has_pop_culture = morejan
 			}
 			militancy = 6
 		}
@@ -723,7 +723,7 @@ country_event = {
 		name = "EVT90016OPTB"
 		prestige = -25
 		any_owned = {
-			limit = { culture = serb }
+			limit = { culture = morejan }
 			add_province_modifier = {
 				name = nationalist_agitation
 				duration = 365
@@ -732,7 +732,7 @@ country_event = {
 		any_pop = {
 			limit = {
 				location = { is_core = SER }
-				has_pop_culture = serb
+				has_pop_culture = morejan
 			}
 			militancy = 6
 		}
@@ -1201,7 +1201,7 @@ country_event = {
 	option = {
 		name = "EVT60055558OPTA"
 		CRO = { all_core = { remove_core = HUN } }
-		any_pop = { limit = { has_pop_culture = croat }
+		any_pop = { limit = { has_pop_culture = carniolan }
 			militancy = -2
 		}
 	}

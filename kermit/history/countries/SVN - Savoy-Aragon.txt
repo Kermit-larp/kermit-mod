@@ -1,6 +1,7 @@
 capital = 498
 primary_culture = catalan
-culture = north_italian
+culture = arpitan
+culture = noriconian
 religion = catholic
 government = absolute_monarchy
 plurality = 0.05

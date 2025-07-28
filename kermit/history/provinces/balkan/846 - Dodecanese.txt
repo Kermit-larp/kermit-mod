@@ -1,6 +1,6 @@
-owner = MLT
-controller = MLT
-add_core = MLT
+owner = ROU
+controller = ROU
+add_core = ROU
 add_core = GRE
 trade_goods = grain
 life_rating = 35

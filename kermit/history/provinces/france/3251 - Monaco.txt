@@ -1,6 +1,6 @@
-owner = MNC
-controller = MNC
-add_core = MNC
+owner = PRO
+controller = PRO
+add_core = PRO
 #terrain = urban
 trade_goods = fruit
 life_rating = 35

@@ -1,706 +1,716 @@
-#Bosnia Region (864000)
-#under the rule of Ottoman Empire in 1836
-#Sarajevo (148000/37000 POPS)
+#Sarajevo
 783 = {
-	artisans = {
-		culture = shtokavian
-		religion = orthodox
-		size = 500
-	}
+    artisans = {
+        culture = albanian
+        religion = orthodox
+        size = 1000
+    }
 
-	aristocrats = {
-		culture = shtokavian
-		religion = orthodox
-		size = 650
-	}
+    aristocrats = {
+        culture = slovene
+        religion = orthodox
+        size = 650
+    }
 
-	bureaucrats = {
-		culture = shtokavian
-		religion = orthodox
-		size = 275
-	}
+    bureaucrats = {
+        culture = slovene
+        religion = orthodox
+        size = 275
+    }
 
-	officers = {
-		culture = shtokavian
-		religion = orthodox
-		size = 225
-	}
-	
-	soldiers = {
-		culture = shtokavian
-		religion = orthodox
-		size = 1200
-	}
+    officers = {
+        culture = slovene
+        religion = orthodox
+        size = 225
+    }
 
-	clergymen = {
-		culture = shtokavian
-		religion = orthodox
-		size = 100
-	}
+    soldiers = {
+        culture = slovene
+        religion = orthodox
+        size = 1200
+    }
 
-	artisans = {
-		culture = shtokavian
-		religion = orthodox
-		size = 4000
-	}
+    clergymen = {
+        culture = slovene
+        religion = orthodox
+        size = 100
+    }
 
-	farmers = {
-		culture = shtokavian
-		religion = orthodox
-		size = 34775
-	}
-	
-	aristocrats = {
-		culture = shtokavian
-		religion = orthodox
-		size = 100
-	}
-	
-	officers = {
-		culture = shtokavian
-		religion = orthodox
-		size = 100
-	}
-		
-	soldiers = {
-		culture = shtokavian
-		religion = orthodox
-		size = 250
-	}
+    farmers = {
+        culture = slovene
+        religion = orthodox
+        size = 34775
+    }
 
-	clergymen = {
-		culture = shtokavian
-		religion = orthodox
-		size = 100
-	}
+    aristocrats = {
+        culture = albanian
+        religion = orthodox
+        size = 100
+    }
 
-	artisans = {
-		culture = shtokavian
-		religion = orthodox
-		size = 4750
-	}
+    officers = {
+        culture = slovene
+        religion = orthodox
+        size = 100
+    }
 
-	farmers = {
-		culture = shtokavian
-		religion = orthodox
-		size = 24000
-	}
-	
-	aristocrats = {
-		culture = shtokavian
-		religion = catholic
-		size = 100
-	}
-	
-	officers = {
-		culture = shtokavian
-		religion = catholic
-		size = 100
-	}
-	
-	soldiers = {
-		culture = shtokavian
-		religion = catholic
-		size = 200
-	}
+    soldiers = {
+        culture = morejan
+        religion = orthodox
+        size = 2000
+    }
 
-	clergymen = {
-		culture = shtokavian
-		religion = catholic
-		size = 100
-	}
+    clergymen = {
+        culture = slovene
+        religion = orthodox
+        size = 100
+    }
 
-	artisans = {
-		culture = shtokavian
-		religion = catholic
-		size = 4750
-	}
+    artisans = {
+        culture = morejan
+        religion = orthodox
+        size = 4750
+    }
 
-	farmers = {
-		culture = shtokavian
-		religion = catholic
-		size = 11450
-	}
-	
-	soldiers = {
-		culture = shtokavian
-		religion = catholic
-		size = 1250
-	}
-	
-	clergymen = {
-		culture = sephardic
-		religion = jewish
-		size = 25
-	}
+    farmers = {
+        culture = slovene
+        religion = orthodox
+        size = 20000
+    }
 
-	artisans = {
-		culture = sephardic
-		religion = jewish
-		size = 2000
-	}
+    aristocrats = {
+        culture = slovene
+        religion = catholic
+        size = 100
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = catholic
+        size = 200
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = slovene
+        religion = catholic
+        size = 4750
+    }
+
+    farmers = {
+        culture = morejan
+        religion = orthodox
+        size = 11450
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = catholic
+        size = 1250
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 25
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 2000
+    }
+
+    farmers = {
+        culture = albanian
+        religion = orthodox
+        size = 4000
+    }
+
 }
 
-#Trevnik (148000/37000 POPS)
+#Trevnik
 3299 = {
-	
-	aristocrats = {
-		culture = shtokavian
-		religion = orthodox
-		size = 100
-	}
-	
-	officers = {
-		culture = shtokavian
-		religion = orthodox
-		size = 100
-	}
-		
-	soldiers = {
-		culture = shtokavian
-		religion = orthodox
-		size = 250
-	}
+    aristocrats = {
+        culture = slovene
+        religion = orthodox
+        size = 100
+    }
 
-	clergymen = {
-		culture = shtokavian
-		religion = orthodox
-		size = 100
-	}
+    officers = {
+        culture = albanian
+        religion = orthodox
+        size = 100
+    }
 
-	artisans = {
-		culture = shtokavian
-		religion = orthodox
-		size = 4750
-	}
+    soldiers = {
+        culture = slovene
+        religion = orthodox
+        size = 250
+    }
 
-	farmers = {
-		culture = shtokavian
-		religion = orthodox
-		size = 24000
-	}
-	
-	aristocrats = {
-		culture = shtokavian
-		religion = catholic
-		size = 100
-	}
-	
-	officers = {
-		culture = shtokavian
-		religion = catholic
-		size = 100
-	}
-	
-	soldiers = {
-		culture = shtokavian
-		religion = catholic
-		size = 200
-	}
+    clergymen = {
+        culture = albanian
+        religion = orthodox
+        size = 200
+    }
 
-	clergymen = {
-		culture = shtokavian
-		religion = catholic
-		size = 100
-	}
+    artisans = {
+        culture = slovene
+        religion = orthodox
+        size = 4750
+    }
 
-	artisans = {
-		culture = shtokavian
-		religion = catholic
-		size = 4750
-	}
+    farmers = {
+        culture = slovene
+        religion = orthodox
+        size = 24000
+    }
 
-	farmers = {
-		culture = shtokavian
-		religion = catholic
-		size = 11450
-	}
-	
-	soldiers = {
-		culture = shtokavian
-		religion = catholic
-		size = 1250
-	}
-	
-	clergymen = {
-		culture = sephardic
-		religion = jewish
-		size = 25
-	}
+    aristocrats = {
+        culture = albanian
+        religion = catholic
+        size = 100
+    }
 
-	artisans = {
-		culture = sephardic
-		religion = jewish
-		size = 2000
-	}
+    officers = {
+        culture = slovene
+        religion = catholic
+        size = 100
+    }
+
+    soldiers = {
+        culture = albanian
+        religion = catholic
+        size = 200
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = slovene
+        religion = catholic
+        size = 4750
+    }
+
+    farmers = {
+        culture = slovene
+        religion = catholic
+        size = 11450
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = catholic
+        size = 1250
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 25
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 2000
+    }
+
 }
 
-#Bihac (100000/25000 POPS)
+#Bihac
 784 = {
-	aristocrats = {
-		culture = chakavian
-		religion = catholic
-		size = 400
-	}
-	
-	soldiers = {
-		culture = chakavian
-		religion = catholic
-		size = 100
-	}
+    aristocrats = {
+        culture = slovene
+        religion = catholic
+        size = 400
+    }
 
-	clergymen = {
-		culture = chakavian
-		religion = catholic
-		size = 100
-	}
+    soldiers = {
+        culture = slovene
+        religion = catholic
+        size = 100
+    }
 
-	artisans = {
-		culture = chakavian
-		religion = catholic
-		size = 750
-	}
+    clergymen = {
+        culture = slovene
+        religion = catholic
+        size = 100
+    }
 
-	farmers = {
-		culture = chakavian
-		religion = catholic
-		size = 8675
-	}
-	
-	soldiers = {
-		culture = chakavian
-		religion = orthodox
-		size = 100
-	}
+    artisans = {
+        culture = slovene
+        religion = catholic
+        size = 750
+    }
 
-	clergymen = {
-		culture = chakavian
-		religion = orthodox
-		size = 100
-	}
+    farmers = {
+        culture = slovene
+        religion = catholic
+        size = 8675
+    }
 
-	artisans = {
-		culture = chakavian
-		religion = orthodox
-		size = 300
-	}
+    soldiers = {
+        culture = slovene
+        religion = orthodox
+        size = 100
+    }
 
-	farmers = {
-		culture = chakavian
-		religion = orthodox
-		size = 8625
-	}
-	
-	soldiers = {
-		culture = shtokavian
-		religion = catholic
-		size = 100
-	}
+    clergymen = {
+        culture = slovene
+        religion = orthodox
+        size = 100
+    }
 
-	clergymen = {
-		culture = shtokavian
-		religion = catholic
-		size = 100
-	}
+    artisans = {
+        culture = slovene
+        religion = orthodox
+        size = 300
+    }
 
-	artisans = {
-		culture = shtokavian
-		religion = catholic
-		size = 200
-	}
+    farmers = {
+        culture = slovene
+        religion = orthodox
+        size = 8625
+    }
 
-	farmers = {
-		culture = shtokavian
-		religion = catholic
-		size = 6650
-	}
+    soldiers = {
+        culture = slovene
+        religion = catholic
+        size = 100
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = slovene
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = slovene
+        religion = catholic
+        size = 6650
+    }
+
 }
-#Banja Luka (116000/29000 POPS)
+
+#Banja Luka
 785 = {
-	aristocrats = {
-		culture = kaykavian
-		religion = catholic
-		size = 500
-	}
-	
-	soldiers = {
-		culture = kaykavian
-		religion = catholic
-		size = 100
-	}
+    aristocrats = {
+        culture = slovene
+        religion = catholic
+        size = 500
+    }
 
-	clergymen = {
-		culture = kaykavian
-		religion = catholic
-		size = 100
-	}
+    soldiers = {
+        culture = slovene
+        religion = catholic
+        size = 100
+    }
 
-	artisans = {
-		culture = kaykavian
-		religion = catholic
-		size = 800
-	}
+    clergymen = {
+        culture = slovene
+        religion = catholic
+        size = 100
+    }
 
-	farmers = {
-		culture = kaykavian
-		religion = catholic
-		size = 4500
-	}
-	
-	soldiers = {
-		culture = shtokavian
-		religion = orthodox
-		size = 100
-	}
+    artisans = {
+        culture = slovene
+        religion = catholic
+        size = 800
+    }
 
-	clergymen = {
-		culture = shtokavian
-		religion = orthodox
-		size = 100
-	}
+    farmers = {
+        culture = slovene
+        religion = catholic
+        size = 4500
+    }
 
-	artisans = {
-		culture = shtokavian
-		religion = orthodox
-		size = 500
-	}
+    soldiers = {
+        culture = slovene
+        religion = orthodox
+        size = 100
+    }
 
-	farmers = {
-		culture = shtokavian
-		religion = orthodox
-		size = 18300
-	}
-	
-	soldiers = {
-		culture = shtokavian
-		religion = catholic
-		size = 100
-	}
+    clergymen = {
+        culture = slovene
+        religion = orthodox
+        size = 100
+    }
 
-	clergymen = {
-		culture = shtokavian
-		religion = catholic
-		size = 100
-	}
+    artisans = {
+        culture = slovene
+        religion = orthodox
+        size = 500
+    }
 
-	artisans = {
-		culture = shtokavian
-		religion = catholic
-		size = 150
-	}
+    farmers = {
+        culture = slovene
+        religion = orthodox
+        size = 18300
+    }
 
-	farmers = {
-		culture = shtokavian
-		religion = catholic
-		size = 3675
-	}
+    soldiers = {
+        culture = slovene
+        religion = catholic
+        size = 100
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = slovene
+        religion = catholic
+        size = 150
+    }
+
+    farmers = {
+        culture = slovene
+        religion = catholic
+        size = 3675
+    }
+
 }
-#Tuzla (168000/42000 POPS)
+
+#Tuzla
 786 = {
-	aristocrats = {
-		culture = shtokavian
-		religion = orthodox
-		size = 700
-	}
-	
-	soldiers = {
-		culture = shtokavian
-		religion = orthodox
-		size = 100
-	}
+    aristocrats = {
+        culture = slovene
+        religion = orthodox
+        size = 700
+    }
 
-	clergymen = {
-		culture = shtokavian
-		religion = orthodox
-		size = 100
-	}
+    soldiers = {
+        culture = slovene
+        religion = orthodox
+        size = 100
+    }
 
-	artisans = {
-		culture = shtokavian
-		religion = orthodox
-		size = 1150
-	}
+    clergymen = {
+        culture = slovene
+        religion = orthodox
+        size = 100
+    }
 
-	farmers = {
-		culture = shtokavian
-		religion = orthodox
-		size = 16975
-	}
-	
-	soldiers = {
-		culture = shtokavian
-		religion = orthodox
-		size = 100
-	}
+    artisans = {
+        culture = slovene
+        religion = orthodox
+        size = 1150
+    }
 
-	clergymen = {
-		culture = shtokavian
-		religion = orthodox
-		size = 100
-	}
+    farmers = {
+        culture = morejan
+        religion = orthodox
+        size = 8975
+    }
 
-	artisans = {
-		culture = shtokavian
-		religion = orthodox
-		size = 700
-	}
+    soldiers = {
+        culture = morejan
+        religion = orthodox
+        size = 400
+    }
 
-	farmers = {
-		culture = shtokavian
-		religion = orthodox
-		size = 19125
-	}
-	
-	soldiers = {
-		culture = shtokavian
-		religion = catholic
-		size = 100
-	}
+    clergymen = {
+        culture = slovene
+        religion = orthodox
+        size = 100
+    }
 
-	clergymen = {
-		culture = shtokavian
-		religion = catholic
-		size = 100
-	}
+    artisans = {
+        culture = morejan
+        religion = orthodox
+        size = 700
+    }
 
-	artisans = {
-		culture = shtokavian
-		religion = catholic
-		size = 250
-	}
+    farmers = {
+        culture = slovene
+        religion = orthodox
+        size = 27125
+    }
 
-	farmers = {
-		culture = shtokavian
-		religion = catholic
-		size = 5675
-	}
-	
-	clergymen = {
-		culture = sephardic
-		religion = jewish
-		size = 5
-	}
+    soldiers = {
+        culture = slovene
+        religion = catholic
+        size = 100
+    }
 
-	artisans = {
-		culture = sephardic
-		religion = jewish
-		size = 175
-	}
+    clergymen = {
+        culture = slovene
+        religion = catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = slovene
+        religion = catholic
+        size = 250
+    }
+
+    farmers = {
+        culture = slovene
+        religion = catholic
+        size = 5675
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 5
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 175
+    }
+
 }
-#Foca (92000/23000 POPS)
+
+#Foca
 787 = {
-	aristocrats = {
-		culture = shtokavian
-		religion = orthodox
-		size = 400
-	}
-	
-	soldiers = {
-		culture = shtokavian
-		religion = orthodox
-		size = 100
-	}
+    aristocrats = {
+        culture = albanian
+        religion = orthodox
+        size = 400
+    }
 
-	clergymen = {
-		culture = shtokavian
-		religion = orthodox
-		size = 100
-	}
+    soldiers = {
+        culture = albanian
+        religion = orthodox
+        size = 100
+    }
 
-	artisans = {
-		culture = shtokavian
-		religion = orthodox
-		size = 600
-	}
+    clergymen = {
+        culture = slovene
+        religion = orthodox
+        size = 100
+    }
 
-	farmers = {
-		culture = shtokavian
-		religion = orthodox
-		size = 18925
-	}
+    artisans = {
+        culture = slovene
+        religion = orthodox
+        size = 600
+    }
 
-	soldiers = {
-		culture = shtokavian
-		religion = orthodox
-		size = 100
-	}
-	
-	clergymen = {
-		culture = shtokavian
-		religion = orthodox
-		size = 100
-	}
+    farmers = {
+        culture = slovene
+        religion = orthodox
+        size = 14900
+    }
 
-	artisans = {
-		culture = shtokavian
-		religion = orthodox
-		size = 500
-	}
+    soldiers = {
+        culture = slovene
+        religion = orthodox
+        size = 100
+    }
 
-	farmers = {
-		culture = shtokavian
-		religion = orthodox
-		size = 15300
-	}
+    clergymen = {
+        culture = slovene
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = slovene
+        religion = orthodox
+        size = 500
+    }
+
+    farmers = {
+        culture = morejan
+        religion = orthodox
+        size = 9300
+    }
+
+    farmers = {
+        culture = albanian
+        religion = orthodox
+        size = 5000
+    }
+
 }
-#Mostar (104000/26000 POPS)
+
+#Mostar
 788 = {
-	aristocrats = {
-		culture = shtokavian
-		religion = catholic
-		size = 450
-	}
-	
-	soldiers = {
-		culture = shtokavian
-		religion = catholic
-		size = 100
-	}
+    aristocrats = {
+        culture = slovene
+        religion = catholic
+        size = 450
+    }
 
-	clergymen = {
-		culture = shtokavian
-		religion = catholic
-		size = 100
-	}
+    soldiers = {
+        culture = albanian
+        religion = orthodox
+        size = 100
+    }
 
-	artisans = {
-		culture = shtokavian
-		religion = catholic
-		size = 600
-	}
+    clergymen = {
+        culture = dalmatian
+        religion = catholic
+        size = 100
+    }
 
-	farmers = {
-		culture = shtokavian
-		religion = catholic
-		size = 9900
-	}
-	
-	soldiers = {
-		culture = shtokavian
-		religion = catholic
-		size = 100
-	}
+    artisans = {
+        culture = dalmatian
+        religion = catholic
+        size = 600
+    }
 
-	clergymen = {
-		culture = shtokavian
-		religion = catholic
-		size = 100
-	}
+    farmers = {
+        culture = dalmatian
+        religion = catholic
+        size = 9900
+    }
 
-	artisans = {
-		culture = shtokavian
-		religion = catholic
-		size = 500
-	}
+    soldiers = {
+        culture = slovene
+        religion = catholic
+        size = 100
+    }
 
-	farmers = {
-		culture = shtokavian
-		religion = catholic
-		size = 11375
-	}
-	
-	soldiers = {
-		culture = shtokavian
-		religion = orthodox
-		size = 100
-	}
+    clergymen = {
+        culture = albanian
+        religion = orthodox
+        size = 100
+    }
 
-	clergymen = {
-		culture = shtokavian
-		religion = orthodox
-		size = 100
-	}
+    artisans = {
+        culture = slovene
+        religion = catholic
+        size = 500
+    }
 
-	artisans = {
-		culture = shtokavian
-		religion = orthodox
-		size = 200
-	}
+    farmers = {
+        culture = albanian
+        religion = orthodox
+        size = 10375
+    }
 
-	farmers = {
-		culture = shtokavian
-		religion = orthodox
-		size = 12750
-	}
+    soldiers = {
+        culture = slovene
+        religion = orthodox
+        size = 100
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = albanian
+        religion = orthodox
+        size = 200
+    }
+
+    farmers = {
+        culture = slovene
+        religion = orthodox
+        size = 13750
+    }
+
 }
-#Livno (136000/34000 POPS)
+
+#Livno
 789 = {
-	aristocrats = {
-		culture = shtokavian
-		religion = orthodox
-		size = 350
-	}
-	
-	soldiers = {
-		culture = shtokavian
-		religion = orthodox
-		size = 100
-	}
+    aristocrats = {
+        culture = slovene
+        religion = orthodox
+        size = 350
+    }
 
-	clergymen = {
-		culture = shtokavian
-		religion = orthodox
-		size = 100
-	}
+    soldiers = {
+        culture = slovene
+        religion = orthodox
+        size = 100
+    }
 
-	artisans = {
-		culture = shtokavian
-		religion = orthodox
-		size = 250
-	}
+    clergymen = {
+        culture = slovene
+        religion = orthodox
+        size = 100
+    }
 
-	farmers = {
-		culture = shtokavian
-		religion = orthodox
-		size = 8900
-	}
+    artisans = {
+        culture = slovene
+        religion = orthodox
+        size = 250
+    }
 
-	soldiers = {
-		culture = shtokavian
-		religion = catholic
-		size = 100
-	}
-	
-	clergymen = {
-		culture = shtokavian
-		religion = catholic
-		size = 100
-	}
+    farmers = {
+        culture = slovene
+        religion = catholic
+        size = 18900
+    }
 
-	artisans = {
-		culture = shtokavian
-		religion = catholic
-		size = 800
-	}
+    soldiers = {
+        culture = slovene
+        religion = catholic
+        size = 100
+    }
 
-	farmers = {
-		culture = shtokavian
-		religion = catholic
-		size = 10000
-	}
-	
-	soldiers = {
-		culture = chakavian
-		religion = orthodox
-		size = 100
-	}
+    clergymen = {
+        culture = slovene
+        religion = catholic
+        size = 100
+    }
 
-	clergymen = {
-		culture = chakavian
-		religion = orthodox
-		size = 100
-	}
+    artisans = {
+        culture = slovene
+        religion = catholic
+        size = 800
+    }
 
-	artisans = {
-		culture = chakavian
-		religion = orthodox
-		size = 600
-	}
+    farmers = {
+        culture = slovene
+        religion = catholic
+        size = 12000
+    }
 
-	farmers = {
-		culture = chakavian
-		religion = orthodox
-		size = 14300
-	}
+    soldiers = {
+        culture = albanian
+        religion = orthodox
+        size = 100
+    }
+
+    clergymen = {
+        culture = albanian
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = albanian
+        religion = orthodox
+        size = 600
+    }
+
+    farmers = {
+        culture = albanian
+        religion = orthodox
+        size = 1300
+    }
 
 }
+

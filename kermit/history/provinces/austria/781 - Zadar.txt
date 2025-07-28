@@ -2,6 +2,7 @@ owner = RMG
 controller = RMG
 add_core = RMG
 add_core = DLM
+add_core = ITA
 terrain = zadar
 trade_goods = fish
 life_rating = 35

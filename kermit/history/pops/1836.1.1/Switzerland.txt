@@ -1,13 +1,13 @@
 #Zurich
 603 = {
     aristocrats = {
-        culture = romansh
+        culture = hungarian
         religion = catholic
         size = 1800
     }
 
     clergymen = {
-        culture = romansh
+        culture = hungarian
         religion = catholic
         size = 1300
     }
@@ -49,7 +49,7 @@
     }
 
     farmers = {
-        culture = romansh
+        culture = hungarian
         religion = catholic
         size = 80000
     }
@@ -61,7 +61,7 @@
     }
 
     clergymen = {
-        culture = hungarian
+        culture = alemannian
         religion = catholic
         size = 500
     }
@@ -103,13 +103,13 @@
     }
 
     aristocrats = {
-        culture = alemannian
+        culture = romansh
         religion = catholic
         size = 300
     }
 
     clergymen = {
-        culture = alemannian
+        culture = hungarian
         religion = catholic
         size = 500
     }
@@ -120,16 +120,16 @@
         size = 8000
     }
 
-    soldiers = {
-        culture = alemannian
-        religion = catholic
-        size = 300
-    }
-
     farmers = {
         culture = alemannian
         religion = catholic
-        size = 18000
+        size = 4000
+    }
+
+    farmers = {
+        culture = romansh
+        religion = catholic
+        size = 3000
     }
 
 }
@@ -137,19 +137,19 @@
 #Basel
 604 = {
     aristocrats = {
-        culture = alemannian
+        culture = hungarian
         religion = catholic
         size = 1300
     }
 
     clergymen = {
-        culture = alemannian
+        culture = hungarian
         religion = catholic
         size = 600
     }
 
     clerks = {
-        culture = alemannian
+        culture = hungarian
         religion = catholic
         size = 100
     }
@@ -175,25 +175,31 @@
     farmers = {
         culture = alemannian
         religion = catholic
-        size = 32000
+        size = 9000
     }
 
     clergymen = {
-        culture = romansh
+        culture = hungarian
         religion = catholic
         size = 200
     }
 
     artisans = {
-        culture = romansh
+        culture = hungarian
         religion = catholic
         size = 1500
     }
 
     farmers = {
-        culture = romansh
+        culture = hungarian
         religion = catholic
         size = 4000
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = catholic
+        size = 23000
     }
 
 }
@@ -201,73 +207,73 @@
 #Bern
 605 = {
     aristocrats = {
-        culture = romansh
+        culture = hungarian
         religion = catholic
         size = 2000
     }
 
     capitalists = {
-        culture = romansh
+        culture = hungarian
         religion = catholic
         size = 100
     }
 
     officers = {
-        culture = romansh
+        culture = hungarian
         religion = catholic
         size = 350
     }
 
     bureaucrats = {
-        culture = romansh
+        culture = hungarian
         religion = catholic
         size = 800
     }
 
     clergymen = {
-        culture = romansh
+        culture = hungarian
         religion = catholic
         size = 700
     }
 
     clerks = {
-        culture = romansh
+        culture = hungarian
         religion = catholic
         size = 100
     }
 
     craftsmen = {
-        culture = romansh
+        culture = hungarian
         religion = catholic
         size = 3000
     }
 
     artisans = {
-        culture = romansh
+        culture = hungarian
         religion = catholic
         size = 10000
     }
 
     soldiers = {
-        culture = romansh
+        culture = hungarian
         religion = catholic
         size = 3000
     }
 
     farmers = {
-        culture = romansh
+        culture = hungarian
         religion = catholic
         size = 60000
     }
 
     artisans = {
-        culture = romansh
+        culture = hungarian
         religion = catholic
         size = 6000
     }
 
     soldiers = {
-        culture = romansh
+        culture = hungarian
         religion = catholic
         size = 3000
     }
@@ -307,37 +313,37 @@
 #Lucern
 606 = {
     aristocrats = {
-        culture = romansh
+        culture = hungarian
         religion = catholic
         size = 1000
     }
 
     clergymen = {
-        culture = romansh
+        culture = hungarian
         religion = catholic
         size = 500
     }
 
     artisans = {
-        culture = romansh
+        culture = hungarian
         religion = catholic
         size = 9000
     }
 
     soldiers = {
-        culture = romansh
+        culture = hungarian
         religion = catholic
         size = 2000
     }
 
     farmers = {
-        culture = romansh
+        culture = hungarian
         religion = catholic
         size = 32000
     }
 
     aristocrats = {
-        culture = alemannian
+        culture = romansh
         religion = catholic
         size = 200
     }
@@ -367,13 +373,19 @@
     }
 
     soldiers = {
-        culture = hungarian
+        culture = romansh
         religion = catholic
         size = 500
     }
 
     artisans = {
-        culture = hungarian
+        culture = romansh
+        religion = catholic
+        size = 500
+    }
+
+    farmers = {
+        culture = romansh
         religion = catholic
         size = 1000
     }
@@ -409,7 +421,7 @@
     artisans = {
         culture = burgundian
         religion = catholic
-        size = 4000
+        size = 2000
     }
 
     soldiers = {
@@ -421,11 +433,11 @@
     farmers = {
         culture = burgundian
         religion = catholic
-        size = 26000
+        size = 16000
     }
 
     aristocrats = {
-        culture = lombard
+        culture = arpitan
         religion = catholic
         size = 300
     }
@@ -463,17 +475,23 @@
     farmers = {
         culture = arpitan
         religion = catholic
-        size = 24000
+        size = 34000
     }
 
     farmers = {
-        culture = lombard
+        culture = arpitan
         religion = catholic
         size = 5000
     }
 
     farmers = {
-        culture = romansh
+        culture = arpitan
+        religion = catholic
+        size = 2000
+    }
+
+    artisans = {
+        culture = noriconian
         religion = catholic
         size = 2000
     }
@@ -523,7 +541,7 @@
 #Sitten
 609 = {
     aristocrats = {
-        culture = lombard
+        culture = arpitan
         religion = catholic
         size = 500
     }
@@ -535,25 +553,25 @@
     }
 
     artisans = {
-        culture = lombard
+        culture = arpitan
         religion = catholic
         size = 3000
     }
 
     farmers = {
-        culture = lombard
+        culture = arpitan
         religion = catholic
         size = 12000
     }
 
     clergymen = {
-        culture = lombard
+        culture = arpitan
         religion = catholic
         size = 300
     }
 
     soldiers = {
-        culture = lombard
+        culture = arpitan
         religion = catholic
         size = 1000
     }
@@ -605,31 +623,31 @@
     }
 
     clergymen = {
-        culture = lombard
+        culture = hungarian
         religion = catholic
         size = 500
     }
 
     artisans = {
-        culture = lombard
+        culture = hungarian
         religion = catholic
         size = 1250
     }
 
     soldiers = {
-        culture = lombard
+        culture = hungarian
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = lombard
+        culture = hungarian
         religion = catholic
-        size = 30000
+        size = 25000
     }
 
     aristocrats = {
-        culture = lombard
+        culture = hungarian
         religion = catholic
         size = 400
     }
@@ -656,6 +674,12 @@
         culture = romansh
         religion = catholic
         size = 2500
+    }
+
+    farmers = {
+        culture = romansh
+        religion = catholic
+        size = 5000
     }
 
 }
@@ -733,81 +757,105 @@
 #Fribourg
 3250 = {
     aristocrats = {
-        culture = burgundian
+        culture = romansh
         religion = catholic
         size = 200
     }
 
     bureaucrats = {
-        culture = burgundian
+        culture = romansh
         religion = catholic
         size = 120
     }
 
     officers = {
-        culture = burgundian
+        culture = hungarian
         religion = catholic
-        size = 60
+        size = 100
     }
 
     clergymen = {
-        culture = burgundian
+        culture = hungarian
         religion = catholic
         size = 300
     }
 
     aristocrats = {
-        culture = burgundian
+        culture = hungarian
         religion = catholic
         size = 300
     }
 
     bureaucrats = {
-        culture = burgundian
+        culture = hungarian
         religion = catholic
         size = 80
     }
 
     officers = {
-        culture = burgundian
+        culture = romansh
         religion = catholic
         size = 50
     }
 
     clergymen = {
-        culture = burgundian
+        culture = romansh
         religion = catholic
         size = 350
     }
 
     artisans = {
-        culture = burgundian
+        culture = romansh
         religion = catholic
-        size = 3000
+        size = 2000
     }
 
     soldiers = {
-        culture = burgundian
+        culture = hungarian
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = burgundian
+        culture = hungarian
         religion = catholic
         size = 8000
     }
 
     clergymen = {
         culture = romansh
-        religion = protestant
+        religion = catholic
         size = 530
     }
 
     farmers = {
         culture = romansh
         religion = catholic
-        size = 8000
+        size = 16000
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = catholic
+        size = 1200
+    }
+
+    soldiers = {
+        culture = romansh
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = alemannian
+        religion = catholic
+        size = 2000
+    }
+
+    artisans = {
+        culture = alemannian
+        religion = catholic
+        size = 500
     }
 
 }
@@ -816,62 +864,92 @@
 3271 = {
     aristocrats = {
         culture = burgundian
-        religion = protestant
+        religion = catholic
         size = 75
     }
 
     clergymen = {
         culture = burgundian
-        religion = protestant
+        religion = catholic
         size = 135
     }
 
     craftsmen = {
         culture = burgundian
-        religion = protestant
+        religion = catholic
         size = 375
     }
 
     artisans = {
-        culture = burgundian
-        religion = protestant
-        size = 1100
+        culture = arpitan
+        religion = catholic
+        size = 800
     }
 
     farmers = {
         culture = burgundian
-        religion = protestant
-        size = 18420
+        religion = catholic
+        size = 12000
     }
 
     aristocrats = {
-        culture = burgundian
+        culture = hungarian
         religion = catholic
         size = 75
     }
 
     clergymen = {
-        culture = burgundian
+        culture = hungarian
         religion = catholic
         size = 125
     }
 
     craftsmen = {
-        culture = burgundian
+        culture = hungarian
         religion = catholic
         size = 300
     }
 
     artisans = {
-        culture = burgundian
+        culture = hungarian
         religion = catholic
-        size = 925
+        size = 1400
     }
 
     farmers = {
+        culture = hungarian
+        religion = catholic
+        size = 16550
+    }
+
+    artisans = {
         culture = burgundian
         religion = catholic
-        size = 14550
+        size = 1100
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = catholic
+        size = 1100
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = catholic
+        size = 1100
+    }
+
+    artisans = {
+        culture = burgundian
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = arpitan
+        religion = catholic
+        size = 2000
     }
 
 }
@@ -879,31 +957,31 @@
 #Brig
 3272 = {
     aristocrats = {
-        culture = lombard
+        culture = romansh
         religion = catholic
         size = 400
     }
 
     clergymen = {
-        culture = lombard
+        culture = romansh
         religion = catholic
         size = 400
     }
 
     artisans = {
-        culture = lombard
+        culture = romansh
         religion = catholic
         size = 4500
     }
 
     soldiers = {
-        culture = lombard
+        culture = romansh
         religion = catholic
         size = 1200
     }
 
     farmers = {
-        culture = lombard
+        culture = romansh
         religion = catholic
         size = 14000
     }

@@ -1,5 +1,5 @@
-owner = WAL
-controller = WAL
-add_core = WAL
+owner = SIE
+controller = SIE
+add_core = SIE
 trade_goods = cattle
 life_rating = 35

@@ -420,7 +420,7 @@ country_event = {
 			any_owned = {
 				limit = { is_core = SER }
 				any_pop = {
-					limit = { has_pop_culture = serb }
+					limit = { has_pop_culture = morejan }
 					militancy = 6
 				}
 				add_province_modifier = {

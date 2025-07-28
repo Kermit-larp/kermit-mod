@@ -1,16 +1,14 @@
-capital = 703
-primary_culture = polish
+capital = 661
+primary_culture = malomazovian
 religion = catholic
-government = democracy
-plurality = 25.0
-nationalvalue = nv_productivity
-literacy = 0.6
-non_state_culture_literacy = 0.4
+government = colonial_company
+plurality = 6.0
+nationalvalue = nv_order
+literacy = 0.1
 civilized = yes
-prestige = 5
 
 # Political reforms
-slavery = no_slavery
+slavery = yes_slavery
 upper_house_composition = appointed
 vote_franschise = wealth_voting
 public_meetings = yes_meeting

@@ -28,7 +28,7 @@ political_decisions = {
 		picture = gtfo
 		potential = {
 			AND= {
-				primary_culture = serb
+				primary_culture = morejan
 				NOT = { tag  = YUG }
 			}
 			owns = 767
@@ -56,7 +56,7 @@ political_decisions = {
 		picture = greater_serbia
 		potential = {
 			OR = {
-				primary_culture = serb
+				primary_culture = morejan
 				tag = SER
 				tag = YUG
 			}
@@ -120,7 +120,7 @@ political_decisions = {
 		picture = greater_serbia
 		potential = {
 			OR = {
-				primary_culture = serb
+				primary_culture = morejan
 				tag = SER
 				tag = YUG
 			}
@@ -968,7 +968,7 @@ political_decisions = {
 		picture = gtfo
 		potential = {
 			OR = {
-				primary_culture = croat
+				primary_culture = carniolan
 				tag = YUG
 			}
 			owns = 771
@@ -1002,7 +1002,7 @@ political_decisions = {
 		picture = greater_serbia
 		potential = {
 			AND= {
-				primary_culture = serb
+				primary_culture = morejan
 				NOT = { TAG = YUG }
 			}
 			NOT = { owns = 771 }
@@ -1031,7 +1031,7 @@ political_decisions = {
 		picture = greater_serbia
 		potential = {
 			AND= {
-				primary_culture = serb
+				primary_culture = morejan
 				NOT = { TAG = YUG }
 			}
 			owns = 771
@@ -1097,7 +1097,7 @@ political_decisions = {
 		picture = gtfo
 		potential = {
 			OR = {
-				primary_culture = croat
+				primary_culture = carniolan
 				tag = YUG
 			}
 			owns = 777
@@ -1128,7 +1128,7 @@ political_decisions = {
 		picture = greater_serbia
 		potential = {
 			AND= {
-				primary_culture = serb
+				primary_culture = morejan
 				NOT = { TAG = YUG }
 			}
 			owns = 777
@@ -1190,7 +1190,7 @@ political_decisions = {
 		picture = italian_dalmatia
 		potential = {
 			OR = {
-				primary_culture = croat
+				primary_culture = carniolan
 				tag = YUG
 			}
 			owns = 780
@@ -1223,7 +1223,7 @@ political_decisions = {
 		picture = greater_serbia
 		potential = {
 			AND = {
-				primary_culture = serb
+				primary_culture = morejan
 				NOT = { tag = YUG }
 			}
 			owns = 780

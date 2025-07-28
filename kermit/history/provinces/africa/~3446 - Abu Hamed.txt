@@ -1,5 +1,3 @@
-owner = NUB
-controller = NUB
 add_core = NUB
 trade_goods = wool
 life_rating = 10

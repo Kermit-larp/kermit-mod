@@ -1,6 +1,6 @@
-owner = XBI
-controller = XBI
-add_core = CHI
-add_core = XBI
+owner = LAD
+controller = LAD
+add_core = LAD
+add_core = TIB
 trade_goods = grain
 life_rating = 32

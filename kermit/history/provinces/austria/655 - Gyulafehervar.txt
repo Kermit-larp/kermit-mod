@@ -1,5 +1,5 @@
-owner = SIE
-controller = SIE
-add_core = SIE
+owner = BKV
+controller = BKV
+add_core = BKV
 trade_goods = grain
 life_rating = 35

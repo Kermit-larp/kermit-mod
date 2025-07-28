@@ -1,10 +1,9 @@
 capital = 652
-primary_culture = south_german
-culture = hungarian
+primary_culture = pecheneg
 religion = catholic
-government = democracy
+government = colonial_company
 plurality = 0.0
-nationalvalue = nv_order
+nationalvalue = nv_autocracy
 literacy = 0.1
 civilized = yes
 

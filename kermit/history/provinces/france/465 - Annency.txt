@@ -2,7 +2,6 @@ owner = SVN
 controller = SVN
 add_core = SVN
 add_core = SVY
-add_core = ITA
 trade_goods = coal
 terrain = annecy
 life_rating = 30

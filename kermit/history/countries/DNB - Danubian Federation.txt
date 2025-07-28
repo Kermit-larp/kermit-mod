@@ -4,7 +4,6 @@ culture = hungarian
 culture = slovak
 culture = czech
 culture = romanian
-culture = croat
 culture = slovene
 religion = catholic
 government = absolute_monarchy

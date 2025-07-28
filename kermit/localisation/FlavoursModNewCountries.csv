@@ -1,9 +1,8 @@
- ;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
-;;;;;;x;;;;
+;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
 YEM_colonial_company;The Aden Protectorate;;;;;;;;;;;;;x,
 YEM_dominion;The Aden Protectorate;;;;;;;;;;;;;x,
-GEN_ADJ;Genoese;;;;;;;;;;;;x
-GEN;Genoa;;;;;;;;;;;;x
+GEN_ADJ;Székely;;;;;;;;;;;;;x,
+GEN;Székelyszek;;;;;;;;;;;;;x,
 MRU_colonial_company;The Maritime Dominion;;;;;;;;;;;;;x,
 MRU_dominion;The Maritime Dominion;;;;;;;;;;;;;x,
 BOS_colonial_company;Bosnien-Herzegowina;;;;;;;;;;;;;x,
@@ -24,8 +23,6 @@ REW_ADJ;Rewah;;;;;;;;;;;;x
 REW;Rewah;;;;;;;;;;;;x
 BUN_colonial_company;The Central India Agency;;;;;;;;;;;;;x,
 BUN_dominion;The Central India Agency;;;;;;;;;;;;;x,
-BLC_colonial_company;The Baluchistan Agency;;;;;;;;;;;;;x,
-BLC_dominion;The Baluchistan Agency;;;;;;;;;;;;;x,
 RAJ_colonial_company;The Rajputana Agency;;;;;;;;;;;;;x,
 RAJ_dominion;The Rajputana Agency;;;;;;;;;;;;;x,
 MIG_ADJ;Imereti;;;;;;;;;;;;x
@@ -192,13 +189,13 @@ HDJ_absolute_monarchy;Hejaz;;;;;;;;;;;;;;x
 HDJ_prussian_constitutionalism;Hejaz;;;;;;;;;;;;;x,
 HDJ_hms_government;Hejaz;;;;;;;;;;;;;x,
 CAL;The California Republic;;;;;;;;;;;;;x
-BAN_colonial_company;Freistaat Banat;;;;;;;;;;;;;x
-BAN_dominion;Freistaat Banat;;;;;;;;;;;;;x
-SIE_colonial_company;Siebenburgen;;;;;;;;;;;;;x
-SIE_dominion;Siebenburgen;;;;;;;;;;;;;x
-SIE_colonial_company_ADJ;Siebenbürger;;;;;;;;;;;;;x
-SIE_dominion_ADJ;Siebenbürger;;;;;;;;;;;;;x
-SIE_reactionary;Sachsen Landtag;;;;;;;;;;;;;x,
+BAN_colonial_company;March of Peczenegia;;;;;;;;;;;;;x
+BAN_ADJ;Peczeneg;;;;;;;;;;;;;x
+BAN;Peczenegia;;;;;;;;;;;;;x
+SIE;Siweberjen ;;;;;;;;;;;;;x
+SIE_ADJ;Siweberjer;;;;;;;;;;;;;x
+SIE_colonial_company;March of Siweberjen;;;;;;;;;;;;;x
+SIE_reactionary;Soxen Landtag;;;;;;;;;;;;;x,
 SIE_conservative;Unio Trium Nationum;;;;;;;;;;;;;x,
 LBY_colonial_company;Libia;;;;;;;;;;;;;x,
 ETH_absolute_monarchy;Abyssinia;;;;;;;;;;;;;x,
@@ -393,6 +390,7 @@ MIT_prussian_constitutionalism;Freistaat Mittelafrika;;;;;;;;;;;;;;x
 MIT_hms_government;Freistaat Mittelafrika;;;;;;;;;;;;;;x
 GUI;Guizhou;;;;;;;;;;;;;x
 GUI_ADJ;Guizhou;;;;;;;;;;;;;x
+GUI_colonial_company;Feudatory of Guiguang;;;;;;;;;;;;x
 LEG;Tientsin;;;;;;;;;;;;;;x
 LEG_ADJ;Chinese;;;;;;;;;;;;;;x
 LEG_colonial_company;The Tientsin Concessions;;;;;;;;;;;;;;x
@@ -429,9 +427,9 @@ WLD;Waldeck-Pyrmont;;;;;;;;;;;;;x,
 WLD_ADJ;Waldeck;;;;;;;;;;;;;x,
 RUM;Thrace;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
 RUM_ADJ;Thracian;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-RUM_absolute_monarchy;The Thracian Kingdom;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-RUM_prussian_constitutionalism;The Thracian Kingdom;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-RUM_hms_government;The Thracian Kingdom;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+RUM_absolute_monarchy;The Thracian Empire;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+RUM_prussian_constitutionalism;The Thracian Empire;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+RUM_hms_government;The Thracian Empire;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
 SAM;Achaea;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
 SAM_ADJ;Achaean;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
 SAM_absolute_monarchy;Principality of Achaea;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
@@ -448,10 +446,14 @@ GCF_hms_government;The German Confederation;;;;;;;;;;;;;x,
 NUB;Nubia;;;;;;;;;;;;;;x
 NUB_dominion;Khedivate of Nubia;;;;;;;;;;;;;;x
 NUB_ADJ;Nubian;;;;;;;;;;;;;;x
-IRQ_absolute_monarchy;Mamluk Emirate of Baghdad;;;;;;;;;;;;;;x
-IRQ_prussian_constitutionalism;Mamluk Emirate of Baghdad;;;;;;;;;;;;;x
-IRQ_hms_government;Kingdom of Iraq;;;;;;;;;;;;;x
-IRQ_colonial_company;Mamluk Emirate of Baghdad;;;;;;;;;;;;;;x
+IRQ_absolute_monarchy;The Mamluk Sultanate;;;;;;;;;;;;;;x
+IRQ_prussian_constitutionalism;The Mamluk Sultanate;;;;;;;;;;;;;x
+IRQ_hms_government;The Kingdom of Iraq;;;;;;;;;;;;;x
+IRQ_absolute_monarchy_ADJ;Mamluk;;;;;;;;;;;;;x
+IRQ_prussian_constitutionalism_ADJ;Mamluk;;;;;;;;;;;;;x
+IRQ_hms_government_ADJ;Mamluk;;;;;;;;;;;;;x
+IRQ_colonial_company_ADJ;Mamluk;;;;;;;;;;;;;x
+IRQ_ADJ;Iraqi;;;;;;;;;;;;;x
 ADL;Adal;;;;;;;;;;;;;;x
 ADL_absolute_monarchy;Adal Sultanate;;;;;;;;;;;;;;x
 ADL_prussian_constitutionalism;Adal Sultanate;;;;;;;;;;;;;;x

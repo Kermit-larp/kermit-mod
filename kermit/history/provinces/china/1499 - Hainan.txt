@@ -1,7 +1,7 @@
-owner = QNG
-controller = QNG
+owner = GUI
+controller = GUI
 add_core = CHI
-add_core = GNG
+add_core = GUI
 trade_goods = fish
 life_rating = 32
 terrain = hainan

@@ -433,7 +433,7 @@
     farmers = {
         culture = basque
         religion = catholic
-        size = 47025
+        size = 57025
     }
 
     clergymen = {
@@ -451,7 +451,7 @@
     farmers = {
         culture = spanish
         religion = catholic
-        size = 35740
+        size = 15740
     }
 
 }

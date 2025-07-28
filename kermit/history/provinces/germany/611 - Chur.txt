@@ -1,7 +1,6 @@
 owner = RAE
-controller = PAR
+controller = RAE
 add_core = RAE
-add_core = SWI
 trade_goods = cattle
 life_rating = 32
 party_loyalty = {

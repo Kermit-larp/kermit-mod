@@ -1,6 +1,5 @@
 capital = 794
-primary_culture = serb
-culture = croat
+primary_culture = morejan
 culture = slovene
 religion = orthodox
 government = hms_government

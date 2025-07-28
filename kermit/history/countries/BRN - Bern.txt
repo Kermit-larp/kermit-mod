@@ -1,5 +1,5 @@
 capital = 605
-primary_culture = romansh
+primary_culture = hungarian
 religion = catholic
 government = colonial_company
 plurality = 30.0

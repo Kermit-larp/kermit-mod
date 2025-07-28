@@ -237,7 +237,7 @@ political_decisions = {
 			}
 			prestige = 2
 		}
-		ai_will_do = { factor = 1 }
+		ai_will_do = { factor = 0 }
 	}
 	
 	turkish_rename_epirus = {
@@ -321,13 +321,13 @@ political_decisions = {
 			820 = { change_province_name = "Gerebena" }
 			821 = { change_province_name = "Vodina" }
 		}
-		ai_will_do = { factor = 1 }
+		ai_will_do = { factor = 0 }
 	}
 	
 	serbian_rename_s_macedonia = {
 		picture = greater_serbia
 		potential = {
-			primary_culture = serb
+			primary_culture = morejan
 			owns = 821
 			NOT = { has_global_flag = serbian_rename_s_macedonia }
 		}
@@ -500,7 +500,7 @@ political_decisions = {
 	serbian_rename_n_macedonia = {
 		picture = greater_serbia
 		potential = {
-			primary_culture = serb
+			primary_culture = morejan
 			owns = 806
 			NOT = { has_global_flag = serbian_rename_n_macedonia }
 		}
@@ -587,7 +587,7 @@ political_decisions = {
 	muslim_rename_albania = {
 		picture = gtfo
 		potential = {
-			NOT = { primary_culture = serb }
+			NOT = { primary_culture = morejan }
 			owns = 850
 			has_global_flag = serbian_rename_albania
 		}

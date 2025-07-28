@@ -1,7 +1,6 @@
-owner = HUN
-controller = PAR
-add_core = PAR
-add_core = HUN
+owner = BRN
+controller = BRN
+add_core = BRN
 trade_goods = iron
 life_rating = 34
 terrain = zurich

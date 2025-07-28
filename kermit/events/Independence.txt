@@ -543,28 +543,28 @@ country_event = {
 		NOT = {
 			exists = CRO
 			has_country_flag = no_croatia_independence
-			primary_culture = croat
+			primary_culture = carniolan
 		}
 		is_possible_vassal = CRO
 		revolution_n_counterrevolution = 1
 		OR = {
 			AND = {
-				NOT = { accepted_culture = croat }
+				NOT = { accepted_culture = carniolan }
 				any_state = {
 					any_owned_province = {
 						is_core = CRO
-						culture = croat
+						culture = carniolan
 						literacy = 0.25
 					}
 					average_militancy = 3
 				}
 			}
 			AND = {
-				accepted_culture = croat
+				accepted_culture = carniolan
 				any_state = {
 					any_owned_province = {
 						is_core = CRO
-						culture = croat
+						culture = carniolan
 						literacy = 0.5
 					}
 					average_militancy = 7
@@ -579,7 +579,7 @@ country_event = {
 		modifier = {
 			factor = 1.5
 			any_pop = {
-				has_pop_culture = croat
+				has_pop_culture = carniolan
 				is_accepted_culture = yes
 			}
 		}	
@@ -614,19 +614,19 @@ country_event = {
 		}
 	}
 	
-	immediate = { random_owned = { limit = { owner = { accepted_culture = croat } } owner = { remove_accepted_culture = croat } } }
+	immediate = { random_owned = { limit = { owner = { accepted_culture = carniolan } } owner = { remove_accepted_culture = carniolan } } }
 
 	option = {
 		name = "EVT90017OPTA"
 		any_pop = {
 			limit = {
 				location = { is_core = CRO }
-				has_pop_culture = croat
+				has_pop_culture = carniolan
 			}
 			militancy = 3
 		}
 		any_owned = {
-			limit = { culture = croat }
+			limit = { culture = carniolan }
 			add_province_modifier = {
 				name = nationalist_agitation
 				duration = 365
@@ -683,17 +683,17 @@ country_event = {
 		release_vassal = CRO
 		CRO = {
 			any_pop = {
-				limit = { has_pop_culture = croat }
+				limit = { has_pop_culture = carniolan }
 				militancy = -8
 			}
 		}
 		any_pop = {
-			limit = { has_pop_culture = croat }
+			limit = { has_pop_culture = carniolan }
 			militancy = -3
 		}
 		any_pop = {
 			limit = {
-				NOT = { has_pop_culture = croat }
+				NOT = { has_pop_culture = carniolan }
 				is_primary_culture = no
 			}
 			militancy = 1
@@ -762,12 +762,12 @@ country_event = {
 		any_pop = {
 			limit = {
 				location = { is_core = CRO }
-				has_pop_culture = croat
+				has_pop_culture = carniolan
 			}
 			militancy = 8
 		}
 		any_owned = {
-			limit = { culture = croat }
+			limit = { culture = carniolan }
 			add_province_modifier = {
 				name = nationalist_agitation
 				duration = 730

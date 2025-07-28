@@ -1,3823 +1,3728 @@
-#Pomerania Region (804000) #see Germany.txt for balance of region
-#under the rule of Prussia 1836
-#Stettin (484000/121000 POPS) #Part of Poland since 1945
+#Stettin
 546 = {
-	aristocrats = {
-		culture = veleti
-		religion = protestant
-		size = 1250 
-	}
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 1250
+    }
 
-	bureaucrats = {
-		culture = veleti
-		religion = protestant
-		size = 1300
-	}
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 1300
+    }
 
-	officers = {
-		culture = veleti
-		religion = protestant
-		size = 350 
-	}
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 350
+    }
 
-	clergymen = {
-		culture = veleti
-		religion = protestant
-		size = 1125
-	}
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 1125
+    }
 
-	artisans = {
-		culture = veleti
-		religion = protestant
-		size = 8250
-	}
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 8250
+    }
 
-	soldiers = {
-		culture = veleti
-		religion = protestant
-		size = 3300 
-	}
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 3300
+    }
 
-	farmers = {
-		culture = veleti
-		religion = protestant
-		size = 117125
-	}
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 117125
+    }
 
-	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 25 
-	}
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 25
+    }
 
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 975
-	}
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 975
+    }
 
-	clergymen = {
-		culture = veleti
-		religion = catholic
-		size = 20   
-	}
+    clergymen = {
+        culture = north_german
+        religion = catholic
+        size = 20
+    }
 
-	artisans = {
-		culture = veleti
-		religion = catholic
-		size = 50
-	}
+    artisans = {
+        culture = north_german
+        religion = catholic
+        size = 50
+    }
 
-	soldiers = {
-		culture = veleti
-		religion = catholic
-		size = 10    
-	}
+    soldiers = {
+        culture = north_german
+        religion = catholic
+        size = 10
+    }
 
-	farmers = {
-		culture = veleti
-		religion = catholic
-		size = 920   
-	}
+    farmers = {
+        culture = north_german
+        religion = catholic
+        size = 920
+    }
+
 }
-#Kolberg (160000/40000 POPS) #Part of Poland since 1945
+
+#Kolberg
 679 = {
-	aristocrats = {
-		culture = kashubian
-		religion = protestant
-		size = 350 
-	}
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 350
+    }
 
-	clergymen = {
-		culture = kashubian
-		religion = protestant
-		size = 375
-	}
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 375
+    }
 
-	artisans = {
-		culture = kashubian
-		religion = protestant
-		size = 1900
-	}
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1900
+    }
 
-	soldiers = {
-		culture = kashubian
-		religion = protestant
-		size = 1000
-	}
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 1000
+    }
 
-	farmers = {
-		culture = kashubian
-		religion = protestant
-		size = 20375
-	}
-	
-	aristocrats = {
-		culture = veleti
-		religion = protestant
-		size = 50 
-	}
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 19375
+    }
 
-	clergymen = {
-		culture = veleti
-		religion = protestant
-		size = 550   
-	}
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 50
+    }
 
-	artisans = {
-		culture = veleti
-		religion = protestant
-		size = 2100
-	}
+    clergymen = {
+        culture = kashubian
+        religion = protestant
+        size = 550
+    }
 
-	soldiers = {
-		culture = veleti
-		religion = protestant
-		size = 525     
-	}
+    artisans = {
+        culture = kashubian
+        religion = protestant
+        size = 2100
+    }
 
-	farmers = {
-		culture = veleti
-		religion = protestant
-		size = 11825    
-	}
+    soldiers = {
+        culture = kashubian
+        religion = protestant
+        size = 525
+    }
+
+    farmers = {
+        culture = kashubian
+        religion = protestant
+        size = 7825
+    }
+
 }
-#Koslin (160000/40000 POPS) #Part of Poland since 1945
+
+#Koslin
 680 = {
-	aristocrats = {
-		culture = kashubian
-		religion = protestant
-		size = 250 
-	}
+    aristocrats = {
+        culture = kashubian
+        religion = protestant
+        size = 250
+    }
 
-	clergymen = {
-		culture = kashubian
-		religion = protestant
-		size = 250 
-	}
+    clergymen = {
+        culture = kashubian
+        religion = protestant
+        size = 250
+    }
 
-	artisans = {
-		culture = kashubian
-		religion = protestant
-		size = 1350
-	}
+    artisans = {
+        culture = kashubian
+        religion = protestant
+        size = 1350
+    }
 
-	soldiers = {
-		culture = kashubian
-		religion = protestant
-		size = 1000
-	}
+    soldiers = {
+        culture = kashubian
+        religion = protestant
+        size = 1000
+    }
 
-	farmers = {
-		culture = kashubian
-		religion = protestant
-		size = 24150
-	}
+    farmers = {
+        culture = kashubian
+        religion = protestant
+        size = 24150
+    }
 
-	clergymen = {
-		culture = veleti
-		religion = protestant
-		size = 100    
-	}
+    clergymen = {
+        culture = kashubian
+        religion = protestant
+        size = 100
+    }
 
-	artisans = {
-		culture = veleti
-		religion = protestant
-		size = 550
-	}
+    artisans = {
+        culture = kashubian
+        religion = protestant
+        size = 550
+    }
 
-	soldiers = {
-		culture = veleti
-		religion = protestant
-		size = 100     
-	}
+    soldiers = {
+        culture = kashubian
+        religion = protestant
+        size = 100
+    }
 
-	farmers = {
-		culture = veleti
-		religion = protestant
-		size = 10250     
-	}
+    farmers = {
+        culture = kashubian
+        religion = protestant
+        size = 10250
+    }
 
-	clergymen = {
-		culture = north_german
-		religion = protestant
-		size = 50   
-	}
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 50
+    }
 
-	artisans = {
-		culture = north_german
-		religion = protestant
-		size = 100
-	}
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 100
+    }
 
-	soldiers = {
-		culture = north_german
-		religion = protestant
-		size = 25     
-	}
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 25
+    }
 
-	farmers = {
-		culture = north_german
-		religion = protestant
-		size = 3825   
-	}
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 3825
+    }
+
 }
-#Brandenburg Region (208000) #see Poland.txt for balance of region
-#under the rule of Prussia 1836
-#Kustrin (208000/52000 POPS) #Part of Poland since 1945
+
+#Kustrin
 681 = {
-	aristocrats = {
-		culture = veleti
-		religion = protestant
-		size = 525 
-	}
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 525
+    }
 
-	clergymen = {
-		culture = veleti
-		religion = protestant
-		size = 450 
-	}
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 450
+    }
 
-	artisans = {
-		culture = veleti
-		religion = protestant
-		size = 2400
-	}
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 2400
+    }
 
-	soldiers = {
-		culture = veleti
-		religion = protestant
-		size = 2000
-	}
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 2000
+    }
 
-	farmers = {
-		culture = veleti
-		religion = protestant
-		size = 24000
-	}
-	
-	farmers = {
-		culture = sorbian
-		religion = protestant
-		size = 12425
-	}
+    farmers = {
+        culture = lygian
+        religion = catholic
+        size = 16000
+    }
 
-	farmers = {
-		culture = polish
-		religion = protestant
-		size = 5000
-	}
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 24425
+    }
 
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 200
-	}
+    artisans = {
+        culture = lygian
+        religion = catholic
+        size = 5000
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 200
+    }
+
 }
-#Silesia Region (2568000) #see Czechia.txt and Germany.txt for balance of region
-#under the rule of Prussia in 1836  
-#Breslau (936000/234000 POPS) 
+
+#Breslau
 682 = {
-	aristocrats = {
-		culture = czech
-		religion = protestant
-		size = 2750
-	}
+    aristocrats = {
+        culture = czech
+        religion = catholic
+        size = 2750
+    }
 
-	bureaucrats = {
-		culture = czech
-		religion = protestant
-		size = 3200
-	}
+    bureaucrats = {
+        culture = czech
+        religion = catholic
+        size = 3200
+    }
 
-	officers = {
-		culture = czech
-		religion = protestant
-		size = 750 
-	}
+    officers = {
+        culture = czech
+        religion = catholic
+        size = 750
+    }
 
-	capitalists = {
-		culture = czech
-		religion = protestant
-		size = 20
-	}
+    capitalists = {
+        culture = czech
+        religion = catholic
+        size = 20
+    }
 
-	clergymen = {
-		culture = czech
-		religion = protestant
-		size = 1050 
-	}
+    clergymen = {
+        culture = czech
+        religion = catholic
+        size = 1050
+    }
 
-	clerks = {
-		culture = czech
-		religion = protestant
-		size = 125
-	}
+    clerks = {
+        culture = czech
+        religion = catholic
+        size = 125
+    }
 
-	craftsmen = {
-		culture = czech
-		religion = protestant
-		size = 4000
-	}
+    craftsmen = {
+        culture = czech
+        religion = catholic
+        size = 4000
+    }
 
-	artisans = {
-		culture = czech
-		religion = protestant
-		size = 8785
-	}
+    artisans = {
+        culture = czech
+        religion = catholic
+        size = 7785
+    }
 
-	soldiers = {
-		culture = czech
-		religion = protestant
-		size = 7500 
-	}
+    soldiers = {
+        culture = silesian
+        religion = catholic
+        size = 7500
+    }
 
-	farmers = {
-		culture = czech
-		religion = protestant
-		size = 57280
-	}
+    farmers = {
+        culture = czech
+        religion = catholic
+        size = 7280
+    }
 
-	clergymen = {
-		culture = silesian
-		religion = catholic
-		size = 875
-	}
-	
-	craftsmen = {
-		culture = silesian
-		religion = catholic
-		size = 3500
-	}
+    clergymen = {
+        culture = silesian
+        religion = catholic
+        size = 875
+    }
 
-	artisans = {
-		culture = silesian
-		religion = catholic
-		size = 3900
-	}
+    craftsmen = {
+        culture = silesian
+        religion = catholic
+        size = 3500
+    }
 
-	soldiers = {
-		culture = silesian
-		religion = catholic
-		size = 1000
-	}
+    artisans = {
+        culture = silesian
+        religion = catholic
+        size = 5900
+    }
 
-	farmers = {
-		culture = silesian
-		religion = catholic
-		size = 40925
-	}
+    soldiers = {
+        culture = silesian
+        religion = catholic
+        size = 1000
+    }
 
-	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 25  
-	}
+    farmers = {
+        culture = silesian
+        religion = catholic
+        size = 70925
+    }
 
-	clerks = {
-		culture = ashkenazi
-		religion = jewish
-		size = 25
-	}
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 25
+    }
 
-	craftsmen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 150
-	}
+    clerks = {
+        culture = ashkenazi
+        religion = jewish
+        size = 25
+    }
 
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 1325
-	}
+    craftsmen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 150
+    }
 
-	soldiers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 25 
-	}
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1325
+    }
 
-	farmers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 450  
-	}
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 25
+    }
 
-	clergymen = {
-		culture = silesian
-		religion = protestant
-		size = 350
-	}
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 450
+    }
 
-	artisans = {
-		culture = silesian
-		religion = protestant
-		size = 1750
-	}
+    clergymen = {
+        culture = silesian
+        religion = catholic
+        size = 350
+    }
 
-	soldiers = {
-		culture = silesian
-		religion = protestant
-		size = 1000
-	}
+    artisans = {
+        culture = silesian
+        religion = catholic
+        size = 1750
+    }
 
-	farmers = {
-		culture = silesian
-		religion = protestant
-		size = 41900 
-	}
+    soldiers = {
+        culture = silesian
+        religion = catholic
+        size = 1000
+    }
+
+    farmers = {
+        culture = silesian
+        religion = catholic
+        size = 61900
+    }
+
 }
-#Liegnitz (484000/121000 POPS) 
+
+#Liegnitz
 683 = {
-	aristocrats = {
-		culture = czech
-		religion = protestant
-		size = 2000
-	}
+    aristocrats = {
+        culture = czech
+        religion = catholic
+        size = 2000
+    }
 
-	clergymen = {
-		culture = czech
-		religion = protestant
-		size = 925
-	}
+    clergymen = {
+        culture = czech
+        religion = catholic
+        size = 925
+    }
 
-	artisans = {
-		culture = czech
-		religion = protestant
-		size = 5550
-	}
+    artisans = {
+        culture = czech
+        religion = catholic
+        size = 5550
+    }
 
-	soldiers = {
-		culture = czech
-		religion = protestant
-		size = 1125
-	}
+    soldiers = {
+        culture = czech
+        religion = catholic
+        size = 1125
+    }
 
-	farmers = {
-		culture = czech
-		religion = protestant
-		size = 50900
-	}
+    farmers = {
+        culture = czech
+        religion = catholic
+        size = 20900
+    }
 
-	craftsmen = {
-		culture = czech
-		religion = protestant
-		size = 1400
-	}	
-	
-	clergymen = {
-		culture = silesian
-		religion = catholic
-		size = 75 
-	}
+    craftsmen = {
+        culture = czech
+        religion = catholic
+        size = 1400
+    }
 
-	artisans = {
-		culture = silesian
-		religion = catholic
-		size = 200
-	}
+    clergymen = {
+        culture = silesian
+        religion = catholic
+        size = 75
+    }
 
-	soldiers = {
-		culture = silesian
-		religion = catholic
-		size = 50
-	}
+    artisans = {
+        culture = silesian
+        religion = catholic
+        size = 200
+    }
 
-	farmers = {
-		culture = silesian
-		religion = catholic
-		size = 32675 
-	}
+    soldiers = {
+        culture = silesian
+        religion = catholic
+        size = 50
+    }
 
-	clergymen = {
-		culture = silesian
-		religion = protestant
-		size = 85
-	}
+    farmers = {
+        culture = silesian
+        religion = catholic
+        size = 57300
+    }
 
-	artisans = {
-		culture = silesian
-		religion = protestant
-		size = 250
-	}
+    clergymen = {
+        culture = silesian
+        religion = catholic
+        size = 85
+    }
 
-	soldiers = {
-		culture = silesian
-		religion = protestant
-		size = 50 
-	}
+    artisans = {
+        culture = silesian
+        religion = catholic
+        size = 250
+    }
 
-	farmers = {
-		culture = silesian
-		religion = protestant
-		size = 4615 
-	}
+    soldiers = {
+        culture = silesian
+        religion = catholic
+        size = 50
+    }
 
-	clergymen = {
-		culture = swiss_german
-		religion = protestant
-		size = 15 
-	}
+    clergymen = {
+        culture = swiss_german
+        religion = protestant
+        size = 15
+    }
 
-	artisans = {
-		culture = swiss_german
-		religion = protestant
-		size = 50
-	}
+    farmers = {
+        culture = swiss_german
+        religion = protestant
+        size = 925
+    }
 
-	soldiers = {
-		culture = swiss_german
-		religion = protestant
-		size = 10 
-	}
-
-	farmers = {
-		culture = swiss_german
-		religion = protestant
-		size = 925 
-	}
 }
-#Oppeln (492000/123000 POPS) 
+
+#Oppeln
 684 = {
-	aristocrats = {
-		culture = czech
-		religion = protestant
-		size = 2000
-	}
+    aristocrats = {
+        culture = czech
+        religion = catholic
+        size = 2000
+    }
 
-	clergymen = {
-		culture = czech
-		religion = protestant
-		size = 325 
-	}
+    clergymen = {
+        culture = czech
+        religion = catholic
+        size = 325
+    }
 
-	artisans = {
-		culture = czech
-		religion = protestant
-		size = 1900
-	}
+    artisans = {
+        culture = czech
+        religion = catholic
+        size = 1900
+    }
 
-	soldiers = {
-		culture = czech
-		religion = protestant
-		size = 1000
-	}
+    soldiers = {
+        culture = czech
+        religion = catholic
+        size = 1000
+    }
 
-	farmers = {
-		culture = czech
-		religion = protestant
-		size = 40775  
-	}
+    farmers = {
+        culture = czech
+        religion = catholic
+        size = 27775
+    }
 
-	clergymen = {
-		culture = silesian
-		religion = catholic
-		size = 125
-	}
+    clergymen = {
+        culture = silesian
+        religion = catholic
+        size = 125
+    }
 
-	artisans = {
-		culture = silesian
-		religion = catholic
-		size = 750
-	}
+    artisans = {
+        culture = silesian
+        religion = catholic
+        size = 750
+    }
 
-	soldiers = {
-		culture = silesian
-		religion = catholic
-		size = 1000
-	}
+    soldiers = {
+        culture = silesian
+        religion = catholic
+        size = 1000
+    }
 
-	farmers = {
-		culture = silesian
-		religion = catholic
-		size = 5125
-	}
+    farmers = {
+        culture = silesian
+        religion = catholic
+        size = 5125
+    }
 
-	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 25  
-	}
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 25
+    }
 
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 1100
-	}
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1100
+    }
 
-	soldiers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 25 
-	}
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 25
+    }
 
-	farmers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 850  
-	}
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 850
+    }
 
-	clergymen = {
-		culture = silesian
-		religion = catholic
-		size = 625
-	}
+    clergymen = {
+        culture = silesian
+        religion = catholic
+        size = 625
+    }
 
-	artisans = {
-		culture = silesian
-		religion = catholic
-		size = 3200
-	}
+    artisans = {
+        culture = silesian
+        religion = catholic
+        size = 3200
+    }
 
-	soldiers = {
-		culture = silesian
-		religion = catholic
-		size = 2000
-	}
+    soldiers = {
+        culture = silesian
+        religion = catholic
+        size = 2000
+    }
 
-	farmers = {
-		culture = silesian
-		religion = catholic
-		size = 58375 
-	}
+    farmers = {
+        culture = silesian
+        religion = catholic
+        size = 78375
+    }
 
-	clergymen = {
-		culture = silesian
-		religion = catholic
-		size = 50 
-	}
+    clergymen = {
+        culture = silesian
+        religion = catholic
+        size = 50
+    }
 
-	artisans = {
-		culture = silesian
-		religion = catholic
-		size = 200
-	}
+    artisans = {
+        culture = silesian
+        religion = catholic
+        size = 200
+    }
 
-	soldiers = {
-		culture = silesian
-		religion = catholic
-		size = 25 
-	}
+    soldiers = {
+        culture = silesian
+        religion = catholic
+        size = 25
+    }
 
-	farmers = {
-		culture = silesian
-		religion = catholic
-		size = 3725 
-	}
+    farmers = {
+        culture = silesian
+        religion = catholic
+        size = 13725
+    }
+
 }
-#Kattowitz (452000/113000 POPS) 
+
+#Kattowitz
 685 = {
-	aristocrats = {
-		culture = czech
-		religion = protestant
-		size = 1750
-	}
+    aristocrats = {
+        culture = czech
+        religion = catholic
+        size = 1750
+    }
 
-	clergymen = {
-		culture = czech
-		religion = protestant
-		size = 75 
-	}
+    clergymen = {
+        culture = czech
+        religion = catholic
+        size = 75
+    }
 
-	artisans = {
-		culture = czech
-		religion = protestant
-		size = 500
-	}
+    artisans = {
+        culture = czech
+        religion = catholic
+        size = 500
+    }
 
-	soldiers = {
-		culture = czech
-		religion = protestant
-		size = 100 
-	}
+    soldiers = {
+        culture = czech
+        religion = catholic
+        size = 100
+    }
 
-	farmers = {
-		culture = czech
-		religion = protestant
-		size = 7575  
-	}
+    farmers = {
+        culture = czech
+        religion = catholic
+        size = 7575
+    }
 
-	clergymen = {
-		culture = silesian
-		religion = catholic
-		size = 175
-	}
+    clergymen = {
+        culture = silesian
+        religion = catholic
+        size = 175
+    }
 
-	artisans = {
-		culture = silesian
-		religion = catholic
-		size = 1100 
-	}
+    artisans = {
+        culture = silesian
+        religion = catholic
+        size = 1100
+    }
 
-	soldiers = {
-		culture = silesian
-		religion = catholic
-		size = 1000
-	}
+    soldiers = {
+        culture = silesian
+        religion = catholic
+        size = 1000
+    }
 
-	farmers = {
-		culture = silesian
-		religion = catholic
-		size = 17825 
-	}
+    farmers = {
+        culture = silesian
+        religion = catholic
+        size = 17825
+    }
 
-	clergymen = {
-		culture = silesian
-		religion = catholic
-		size = 675
-	}
+    clergymen = {
+        culture = silesian
+        religion = catholic
+        size = 675
+    }
 
-	artisans = {
-		culture = silesian
-		religion = catholic
-		size = 3650
-	}
+    artisans = {
+        culture = silesian
+        religion = catholic
+        size = 3650
+    }
 
-	soldiers = {
-		culture = silesian
-		religion = catholic
-		size = 2000 
-	}
+    soldiers = {
+        culture = silesian
+        religion = catholic
+        size = 2000
+    }
 
-	farmers = {
-		culture = silesian
-		religion = catholic
-		size = 67675
-	}
+    farmers = {
+        culture = silesian
+        religion = catholic
+        size = 67675
+    }
 
-	clergymen = {
-		culture = silesian
-		religion = catholic
-		size = 50 
-	}
+    clergymen = {
+        culture = silesian
+        religion = catholic
+        size = 50
+    }
 
-	artisans = {
-		culture = silesian
-		religion = catholic
-		size = 500
-	}
+    artisans = {
+        culture = silesian
+        religion = catholic
+        size = 500
+    }
 
-	soldiers = {
-		culture = silesian
-		religion = catholic
-		size = 100 
-	}
+    soldiers = {
+        culture = silesian
+        religion = catholic
+        size = 100
+    }
 
-	farmers = {
-		culture = silesian
-		religion = catholic
-		size = 9350
-	}
+    farmers = {
+        culture = silesian
+        religion = catholic
+        size = 9350
+    }
+
 }
-#under the rule of Austria in 1836  
-#Bielsko (204000/52000 POPS) #now part of Poland
+
+#Bielsko
 2584 = {
-	aristocrats = {
-		culture = silesian
-		religion = catholic
-		size = 750  
-	}
+    aristocrats = {
+        culture = pannonian
+        religion = orthodox
+        size = 750
+    }
 
-	officers = {
-		culture = silesian
-		religion = catholic
-		size = 35 
-	}
+    officers = {
+        culture = pannonian
+        religion = catholic
+        size = 35
+    }
 
-	clergymen = {
-		culture = silesian
-		religion = catholic
-		size = 500 
-	}
+    clergymen = {
+        culture = pannonian
+        religion = orthodox
+        size = 500
+    }
 
-	artisans = {
-		culture = silesian
-		religion = catholic
-		size = 2500
-	}
+    artisans = {
+        culture = pannonian
+        religion = catholic
+        size = 2500
+    }
 
-	soldiers = {
-		culture = silesian
-		religion = catholic
-		size = 500 
-	}
+    soldiers = {
+        culture = pannonian
+        religion = catholic
+        size = 500
+    }
 
-	farmers = {
-		culture = silesian
-		religion = catholic
-		size = 35715 
-	}
-	
-	serfs = {
-		culture = polish
-		religion = catholic
-		size = 10000 
-	}
+    farmers = {
+        culture = pannonian
+        religion = orthodox
+        size = 25715
+    }
 
-	clergymen = {
-		culture = czech
-		religion = catholic
-		size = 50  
-	}
+    serfs = {
+        culture = pannonian
+        religion = orthodox
+        size = 5000
+    }
 
-	artisans = {
-		culture = czech
-		religion = catholic
-		size = 250
-	}
+    clergymen = {
+        culture = pannonian
+        religion = catholic
+        size = 50
+    }
 
-	soldiers = {
-		culture = czech
-		religion = catholic
-		size = 25  
-	}
+    artisans = {
+        culture = pannonian
+        religion = orthodox
+        size = 250
+    }
 
-	farmers = {
-		culture = czech
-		religion = catholic
-		size = 1675   
-	}
+    soldiers = {
+        culture = pannonian
+        religion = catholic
+        size = 500
+    }
+
+    farmers = {
+        culture = pannonian
+        religion = catholic
+        size = 11675
+    }
+
+    serfs = {
+        culture = pannonian
+        religion = orthodox
+        size = 5000
+    }
+
 }
-#West Prussia Region (688000) 
-#under the rule of Prussia in 1836  
-#Danzig (76000/19000 POPS) 
+
+#Danzig
 690 = {
-	aristocrats = {
-		culture = kashubian
-		religion = protestant
-		size = 50
-	}
+    aristocrats = {
+        culture = lygian
+        religion = protestant
+        size = 50
+    }
 
-	bureaucrats = {
-		culture = kashubian
-		religion = protestant
-		size = 375
-	}
+    bureaucrats = {
+        culture = lygian
+        religion = protestant
+        size = 375
+    }
 
-	officers = {
-		culture = kashubian
-		religion = protestant
-		size = 200 
-	}
+    officers = {
+        culture = lygian
+        religion = protestant
+        size = 200
+    }
 
-	clergymen = {
-		culture = kashubian
-		religion = protestant
-		size = 75  
-	}
+    clergymen = {
+        culture = lygian
+        religion = protestant
+        size = 75
+    }
 
-	artisans = {
-		culture = kashubian
-		religion = protestant
-		size = 9500
-	}
+    artisans = {
+        culture = lygian
+        religion = protestant
+        size = 14500
+    }
 
-	soldiers = {
-		culture = kashubian
-		religion = protestant
-		size = 125  
-	}
+    soldiers = {
+        culture = kashubian
+        religion = protestant
+        size = 125
+    }
 
-	farmers = {
-		culture = kashubian
-		religion = protestant
-		size = 1100
-	}
-	
-	farmers = {
-		culture = north_german
-		religion = protestant
-		size = 275
-	}
+    farmers = {
+        culture = lygian
+        religion = protestant
+        size = 1100
+    }
 
-	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 5  
-	}
+    farmers = {
+        culture = kashubian
+        religion = protestant
+        size = 1000
+    }
 
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 395
-	}
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 5
+    }
 
-	clergymen = {
-		culture = polish
-		religion = catholic
-		size = 50 
-	}
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 395
+    }
 
-	artisans = {
-		culture = polish
-		religion = catholic
-		size = 5000
-	}
+    clergymen = {
+        culture = polish
+        religion = catholic
+        size = 50
+    }
 
-	soldiers = {
-		culture = polish
-		religion = catholic
-		size = 75 
-	}
+    artisans = {
+        culture = polish
+        religion = catholic
+        size = 1000
+    }
 
-	farmers = {
-		culture = polish
-		religion = catholic
-		size = 1875 
-	}
+    soldiers = {
+        culture = polish
+        religion = catholic
+        size = 75
+    }
+
+    farmers = {
+        culture = kashubian
+        religion = catholic
+        size = 1875
+    }
+
 }
-#Tuchel (180000/45000 POPS) 
+
+#Tuchel
 691 = {
-	aristocrats = {
-		culture = kashubian
-		religion = protestant
-		size = 800
-	}
+    aristocrats = {
+        culture = kashubian
+        religion = protestant
+        size = 800
+    }
 
-	clergymen = {
-		culture = kashubian
-		religion = protestant
-		size = 250  
-	}
+    clergymen = {
+        culture = kashubian
+        religion = protestant
+        size = 250
+    }
 
-	soldiers = {
-		culture = kashubian
-		religion = protestant
-		size = 375
-	}
+    soldiers = {
+        culture = kashubian
+        religion = protestant
+        size = 375
+    }
 
-	farmers = {
-		culture = kashubian
-		religion = protestant
-		size = 23825
-	}
+    farmers = {
+        culture = kashubian
+        religion = protestant
+        size = 23825
+    }
 
-		clergymen = {
-		culture = kashubian
-		religion = protestant
-		size = 50  
-	}
+    clergymen = {
+        culture = kashubian
+        religion = protestant
+        size = 50
+    }
 
-	farmers = {
-		culture = kashubian
-		religion = protestant
-		size = 3200
-	}
+    farmers = {
+        culture = kashubian
+        religion = protestant
+        size = 11200
+    }
 
-	clergymen = {
-		culture = polish
-		religion = catholic
-		size = 15  
-	}
+    clergymen = {
+        culture = lygian
+        religion = catholic
+        size = 15
+    }
 
-	artisans = {
-		culture = polish
-		religion = catholic
-		size = 50
-	}
+    artisans = {
+        culture = lygian
+        religion = catholic
+        size = 50
+    }
 
-	soldiers = {
-		culture = polish
-		religion = catholic
-		size = 10   
-	}
+    soldiers = {
+        culture = lygian
+        religion = catholic
+        size = 10
+    }
 
-	farmers = {
-		culture = polish
-		religion = catholic
-		size = 925  
-	}
+    farmers = {
+        culture = lygian
+        religion = catholic
+        size = 925
+    }
 
-	clergymen = {
-		culture = polish
-		religion = catholic
-		size = 100 
-	}
+    clergymen = {
+        culture = lygian
+        religion = catholic
+        size = 100
+    }
 
-	artisans = {
-		culture = polish
-		religion = catholic
-		size = 2200
-	}
+    artisans = {
+        culture = lygian
+        religion = catholic
+        size = 2200
+    }
 
-	soldiers = {
-		culture = polish
-		religion = catholic
-		size = 75 
-	}
+    soldiers = {
+        culture = lygian
+        religion = catholic
+        size = 75
+    }
 
-	farmers = {
-		culture = polish
-		religion = catholic
-		size = 13425
-	}
+    farmers = {
+        culture = lygian
+        religion = catholic
+        size = 2425
+    }
+
 }
-#Deutsche Krone (128000/32000 POPS) 
+
+#Deutsch Krone
 692 = {
-	aristocrats = {
-		culture = kashubian
-		religion = protestant
-		size = 625
-	}
+    aristocrats = {
+        culture = lygian
+        religion = protestant
+        size = 625
+    }
 
-	clergymen = {
-		culture = kashubian
-		religion = protestant
-		size = 175  
-	}
+    clergymen = {
+        culture = lygian
+        religion = protestant
+        size = 175
+    }
 
-	artisans = {
-		culture = kashubian
-		religion = protestant
-		size = 1250
-	}
+    artisans = {
+        culture = lygian
+        religion = protestant
+        size = 1250
+    }
 
-	soldiers = {
-		culture = kashubian
-		religion = protestant
-		size = 1000
-	}
+    soldiers = {
+        culture = lygian
+        religion = protestant
+        size = 1000
+    }
 
-	farmers = {
-		culture = kashubian
-		religion = protestant
-		size = 25950
-	}
+    farmers = {
+        culture = lygian
+        religion = protestant
+        size = 25950
+    }
 
-	clergymen = {
-		culture = polish
-		religion = catholic
-		size = 50
-	}
+    clergymen = {
+        culture = north_german
+        religion = catholic
+        size = 50
+    }
 
-	artisans = {
-		culture = polish
-		religion = catholic
-		size = 350
-	}
+    artisans = {
+        culture = north_german
+        religion = catholic
+        size = 350
+    }
 
-	soldiers = {
-		culture = polish
-		religion = catholic
-		size = 75  
-	}
+    soldiers = {
+        culture = north_german
+        religion = catholic
+        size = 75
+    }
 
-	farmers = {
-		culture = polish
-		religion = catholic
-		size = 2625
-	}
+    farmers = {
+        culture = north_german
+        religion = catholic
+        size = 2625
+    }
+
 }
-#Luka (484000/121000 POPS)
+
+#Luka
 3433 = {
-	aristocrats = {
-		culture = yotvingian
-		religion = protestant
-		size = 1250 
-	}
+    aristocrats = {
+        culture = yotvingian
+        religion = protestant
+        size = 1250
+    }
 
-	clergymen = {
-		culture = yotvingian
-		religion = protestant
-		size = 175   
-	}
+    clergymen = {
+        culture = yotvingian
+        religion = protestant
+        size = 175
+    }
 
-	artisans = {
-		culture = yotvingian
-		religion = protestant
-		size = 1100
-	}
+    artisans = {
+        culture = yotvingian
+        religion = protestant
+        size = 1100
+    }
 
-	soldiers = {
-		culture = yotvingian
-		religion = protestant
-		size = 1000
-	}
+    soldiers = {
+        culture = yotvingian
+        religion = protestant
+        size = 1000
+    }
 
-	farmers = {
-		culture = yotvingian
-		religion = protestant
-		size = 20025
-	}
-	
-	farmers = {
-		culture = pruthenian
-		religion = protestant
-		size = 5025
-	}
-	
-	farmers = {
-		culture = galindian
-		religion = protestant
-		size = 3025
-	}
+    farmers = {
+        culture = yotvingian
+        religion = protestant
+        size = 20025
+    }
 
-	clergymen = {
-		culture = polish
-		religion = protestant
-		size = 75  
-	}
+    farmers = {
+        culture = pruthenian
+        religion = protestant
+        size = 5025
+    }
 
-	artisans = {
-		culture = polish
-		religion = protestant
-		size = 250
-	}
+    farmers = {
+        culture = galindian
+        religion = protestant
+        size = 3025
+    }
 
-	soldiers = {
-		culture = polish
-		religion = protestant
-		size = 50 
-	}
+    clergymen = {
+        culture = polish
+        religion = protestant
+        size = 75
+    }
 
-	farmers = {
-		culture = polish
-		religion = protestant
-		size = 2625 
-	}
+    artisans = {
+        culture = polish
+        religion = protestant
+        size = 250
+    }
+
+    soldiers = {
+        culture = polish
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = polish
+        religion = protestant
+        size = 2625
+    }
+
 }
-#Darkehmen (484000/121000 POPS)
+
+#Darkaims
 3432 = {
-	aristocrats = {
-		culture = yotvingian
-		religion = protestant
-		size = 250 
-	}
+    aristocrats = {
+        culture = yotvingian
+        religion = protestant
+        size = 250
+    }
 
-	clergymen = {
-		culture = yotvingian
-		religion = protestant
-		size = 175   
-	}
+    clergymen = {
+        culture = yotvingian
+        religion = protestant
+        size = 175
+    }
 
-	artisans = {
-		culture = yotvingian
-		religion = protestant
-		size = 100
-	}
+    artisans = {
+        culture = yotvingian
+        religion = protestant
+        size = 100
+    }
 
-	soldiers = {
-		culture = yotvingian
-		religion = protestant
-		size = 200
-	}
+    soldiers = {
+        culture = yotvingian
+        religion = protestant
+        size = 200
+    }
 
-	farmers = {
-		culture = yotvingian
-		religion = protestant
-		size = 10025
-	}
-	
-	farmers = {
-		culture = pruthenian
-		religion = protestant
-		size = 2025
-	}
+    farmers = {
+        culture = yotvingian
+        religion = protestant
+        size = 10025
+    }
 
-	clergymen = {
-		culture = lithuanian
-		religion = protestant
-		size = 5  
-	}
+    farmers = {
+        culture = pruthenian
+        religion = protestant
+        size = 2025
+    }
 
-	artisans = {
-		culture = lithuanian
-		religion = protestant
-		size = 50
-	}
+    clergymen = {
+        culture = lithuanian
+        religion = protestant
+        size = 5
+    }
 
-	soldiers = {
-		culture = lithuanian
-		religion = protestant
-		size = 50 
-	}
+    artisans = {
+        culture = lithuanian
+        religion = protestant
+        size = 50
+    }
 
-	farmers = {
-		culture = lithuanian
-		religion = protestant
-		size = 625 
-	}
+    soldiers = {
+        culture = lithuanian
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = protestant
+        size = 625
+    }
+
 }
-#Elbing (148000/37000 POPS) 
+
+#Elbing
 693 = {
-	aristocrats = {
-		culture = pruthenian
-		religion = protestant
-		size = 700
-	}
+    aristocrats = {
+        culture = pruthenian
+        religion = protestant
+        size = 700
+    }
 
-	clergymen = {
-		culture = pruthenian
-		religion = protestant
-		size = 125  
-	}
+    clergymen = {
+        culture = lygian
+        religion = protestant
+        size = 125
+    }
 
-	artisans = {
-		culture = pruthenian
-		religion = protestant
-		size = 1400
-	}
+    artisans = {
+        culture = pruthenian
+        religion = protestant
+        size = 1400
+    }
 
-	soldiers = {
-		culture = pruthenian
-		religion = protestant
-		size = 1000
-	}
+    soldiers = {
+        culture = lygian
+        religion = protestant
+        size = 1000
+    }
 
-	farmers = {
-		culture = pruthenian
-		religion = protestant
-		size = 24425 
-	}
+    farmers = {
+        culture = pruthenian
+        religion = protestant
+        size = 24425
+    }
 
-	clergymen = {
-		culture = pruthenian
-		religion = catholic
-		size = 75 
-	}
+    clergymen = {
+        culture = pruthenian
+        religion = catholic
+        size = 75
+    }
 
-	artisans = {
-		culture = pruthenian
-		religion = catholic
-		size = 450
-	}
+    artisans = {
+        culture = pruthenian
+        religion = catholic
+        size = 450
+    }
 
-	soldiers = {
-		culture = pruthenian
-		religion = catholic
-		size = 1000
-	}
+    soldiers = {
+        culture = lygian
+        religion = catholic
+        size = 1000
+    }
 
-	farmers = {
-		culture = polish
-		religion = catholic
-		size = 7475
-	}
+    farmers = {
+        culture = pruthenian
+        religion = catholic
+        size = 6475
+    }
+
+    farmers = {
+        culture = lygian
+        religion = catholic
+        size = 1000
+    }
+
 }
-#Torun (156000/44000 POPS) 
+
+#Torun
 694 = {
-	aristocrats = {
-		culture = pruthenian
-		religion = protestant
-		size = 850
-	}
+    aristocrats = {
+        culture = lygian
+        religion = catholic
+        size = 850
+    }
 
-	clergymen = {
-		culture = pruthenian
-		religion = protestant
-		size = 125  
-	}
+    clergymen = {
+        culture = lygian
+        religion = catholic
+        size = 125
+    }
 
-	artisans = {
-		culture = pruthenian
-		religion = protestant
-		size = 800
-	}
+    artisans = {
+        culture = lygian
+        religion = catholic
+        size = 800
+    }
 
-	soldiers = {
-		culture = pruthenian
-		religion = protestant
-		size = 175  
-	}
+    soldiers = {
+        culture = lygian
+        religion = catholic
+        size = 175
+    }
 
-	farmers = {
-		culture = pruthenian
-		religion = protestant
-		size = 3900 
-	}
+    farmers = {
+        culture = lygian
+        religion = catholic
+        size = 3900
+    }
 
-	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 5  
-	}
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 5
+    }
 
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 145
-	}
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 145
+    }
 
-	clergymen = {
-		culture = polish
-		religion = catholic
-		size = 25  
-	}
+    artisans = {
+        culture = lygian
+        religion = catholic
+        size = 100
+    }
 
-	artisans = {
-		culture = polish
-		religion = catholic
-		size = 100
-	}
+    farmers = {
+        culture = lygian
+        religion = catholic
+        size = 1850
+    }
 
-	soldiers = {
-		culture = polish
-		religion = catholic
-		size = 25   
-	}
+    clergymen = {
+        culture = lygian
+        religion = catholic
+        size = 225
+    }
 
-	farmers = {
-		culture = polish
-		religion = catholic
-		size = 1850  
-	}
+    artisans = {
+        culture = lygian
+        religion = catholic
+        size = 1300
+    }
 
-	clergymen = {
-		culture = polish
-		religion = catholic
-		size = 225 
-	}
+    soldiers = {
+        culture = lygian
+        religion = catholic
+        size = 250
+    }
 
-	artisans = {
-		culture = polish
-		religion = catholic
-		size = 1300
-	}
+    farmers = {
+        culture = lygian
+        religion = catholic
+        size = 34225
+    }
 
-	soldiers = {
-		culture = polish
-		religion = catholic
-		size = 250 
-	}
-
-	farmers = {
-		culture = polish
-		religion = catholic
-		size = 34225 
-	}
 }
-#East Prussia Region (396000) #see Russia.txt and Lithuania.txt for balance of region
-#under the rule of Prussia in 1836  
-#Allenstein (396000/99000 POPS) 
+
+#Allenstein
 696 = {
-	aristocrats = {
-		culture = pruthenian
-		religion = protestant
-		size = 2000 
-	}
+    aristocrats = {
+        culture = pruthenian
+        religion = protestant
+        size = 2000
+    }
 
-	clergymen = {
-		culture = pruthenian
-		religion = protestant
-		size = 550   
-	}
+    clergymen = {
+        culture = pruthenian
+        religion = protestant
+        size = 550
+    }
 
-	artisans = {
-		culture = pruthenian
-		religion = protestant
-		size = 2900
-	}
+    artisans = {
+        culture = pruthenian
+        religion = protestant
+        size = 2900
+    }
 
-	soldiers = {
-		culture = pruthenian
-		religion = protestant
-		size = 2000
-	}
+    soldiers = {
+        culture = pruthenian
+        religion = protestant
+        size = 2000
+    }
 
-	farmers = {
-		culture = pruthenian
-		religion = protestant
-		size = 30550
-	}
+    farmers = {
+        culture = pruthenian
+        religion = protestant
+        size = 30550
+    }
 
-	clergymen = {
-		culture = north_german
-		religion = protestant
-		size = 325 
-	}
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 325
+    }
 
-	artisans = {
-		culture = north_german
-		religion = protestant
-		size = 1800
-	}
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1800
+    }
 
-	soldiers = {
-		culture = galindian
-		religion = protestant
-		size = 1000
-	}
+    soldiers = {
+        culture = galindian
+        religion = protestant
+        size = 1000
+    }
 
-	farmers = {
-		culture = galindian
-		religion = protestant
-		size = 4875  
-	}
+    farmers = {
+        culture = galindian
+        religion = protestant
+        size = 4875
+    }
 
-	clergymen = {
-		culture = polish
-		religion = catholic
-		size = 75 
-	}
+    clergymen = {
+        culture = polish
+        religion = catholic
+        size = 75
+    }
 
-	artisans = {
-		culture = polish
-		religion = catholic
-		size = 250
-	}
+    artisans = {
+        culture = polish
+        religion = catholic
+        size = 250
+    }
 
-	soldiers = {
-		culture = polish
-		religion = catholic
-		size = 50 
-	}
+    soldiers = {
+        culture = polish
+        religion = catholic
+        size = 50
+    }
 
-	farmers = {
-		culture = polish
-		religion = catholic
-		size = 2625 
-	}
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 2625
+    }
+
 }
-#Allenstein2 (396000/99000 POPS) 
+
+#Lynediws
 3431 = {
-	aristocrats = {
-		culture = galindian
-		religion = protestant
-		size = 2000 
-	}
+    aristocrats = {
+        culture = galindian
+        religion = protestant
+        size = 2000
+    }
 
-	clergymen = {
-		culture = galindian
-		religion = protestant
-		size = 550   
-	}
+    clergymen = {
+        culture = galindian
+        religion = protestant
+        size = 550
+    }
 
-	artisans = {
-		culture = galindian
-		religion = protestant
-		size = 2900
-	}
+    artisans = {
+        culture = galindian
+        religion = protestant
+        size = 2900
+    }
 
-	soldiers = {
-		culture = galindian
-		religion = protestant
-		size = 2000
-	}
+    soldiers = {
+        culture = galindian
+        religion = protestant
+        size = 2000
+    }
 
-	farmers = {
-		culture = galindian
-		religion = protestant
-		size = 30000
-	}
+    farmers = {
+        culture = galindian
+        religion = protestant
+        size = 30000
+    }
 
-	soldiers = {
-		culture = pruthenian
-		religion = protestant
-		size = 1000
-	}
+    soldiers = {
+        culture = pruthenian
+        religion = protestant
+        size = 1000
+    }
 
-	farmers = {
-		culture = pruthenian
-		religion = protestant
-		size = 15875  
-	}
+    farmers = {
+        culture = pruthenian
+        religion = protestant
+        size = 15875
+    }
 
-	clergymen = {
-		culture = polish
-		religion = catholic
-		size = 75 
-	}
+    clergymen = {
+        culture = polish
+        religion = catholic
+        size = 75
+    }
 
-	artisans = {
-		culture = polish
-		religion = catholic
-		size = 250
-	}
+    artisans = {
+        culture = polish
+        religion = catholic
+        size = 250
+    }
 
-	soldiers = {
-		culture = polish
-		religion = catholic
-		size = 50 
-	}
+    soldiers = {
+        culture = polish
+        religion = catholic
+        size = 50
+    }
 
-	farmers = {
-		culture = polish
-		religion = catholic
-		size = 13625 
-	}
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 13625
+    }
+
 }
-#Posen-Wielkopolska Region (1704000)  
-#under the rule of Prussia in 1836  
-#Posen (540000/135000 POPS) 
+
+#Posen
 699 = {
-	aristocrats = {
-		culture = polish
-		religion = protestant
-		size = 2000 
-	}
- 
-	bureaucrats = {
-		culture = polish
-		religion = protestant
-		size = 700 
-	}
+    aristocrats = {
+        culture = lygian
+        religion = protestant
+        size = 2000
+    }
 
-	officers = {
-		culture = polish
-		religion = protestant
-		size = 350   
-	}
+    bureaucrats = {
+        culture = lygian
+        religion = protestant
+        size = 700
+    }
 
-	clergymen = {
-		culture = polish
-		religion = protestant
-		size = 325  
-	}
+    officers = {
+        culture = lygian
+        religion = protestant
+        size = 350
+    }
 
-	artisans = {
-		culture = polish
-		religion = protestant
-		size = 2650
-	}
+    clergymen = {
+        culture = lygian
+        religion = protestant
+        size = 325
+    }
 
-	soldiers = {
-		culture = polish
-		religion = protestant
-		size = 1000
-	}
+    artisans = {
+        culture = lygian
+        religion = protestant
+        size = 2650
+    }
 
-	farmers = {
-		culture = polish
-		religion = protestant
-		size = 26825
-	}
+    soldiers = {
+        culture = lygian
+        religion = protestant
+        size = 1000
+    }
 
-	clergymen = {
-		culture = polish
-		religion = catholic
-		size = 175   
-	}
+    farmers = {
+        culture = lygian
+        religion = protestant
+        size = 26825
+    }
 
-	artisans = {
-		culture = polish
-		religion = catholic
-		size = 1750
-	}
+    clergymen = {
+        culture = lygian
+        religion = catholic
+        size = 175
+    }
 
-	soldiers = {
-		culture = polish
-		religion = catholic
-		size = 175    
-	}
+    artisans = {
+        culture = lygian
+        religion = catholic
+        size = 1750
+    }
 
-	farmers = {
-		culture = polish
-		religion = catholic
-		size = 15190  
-	}
+    soldiers = {
+        culture = lygian
+        religion = catholic
+        size = 175
+    }
 
-	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 25   
-	}
+    farmers = {
+        culture = lygian
+        religion = catholic
+        size = 15190
+    }
 
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 1475
-	}
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 25
+    }
 
-	aristocrats = {
-		culture = polish
-		religion = catholic
-		size = 500 
-	}
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1475
+    }
 
-	clergymen = {
-		culture = polish
-		religion = catholic
-		size = 700 
-	}
+    aristocrats = {
+        culture = lygian
+        religion = catholic
+        size = 500
+    }
 
-	artisans = {
-		culture = polish
-		religion = catholic
-		size = 4000
-	}
+    clergymen = {
+        culture = lygian
+        religion = catholic
+        size = 700
+    }
 
-	soldiers = {
-		culture = polish
-		religion = catholic
-		size = 2000
-	}
+    artisans = {
+        culture = lygian
+        religion = catholic
+        size = 4000
+    }
 
-	farmers = {
-		culture = polish
-		religion = catholic
-		size = 74800
-	}
+    soldiers = {
+        culture = lygian
+        religion = catholic
+        size = 2000
+    }
+
+    farmers = {
+        culture = lygian
+        religion = catholic
+        size = 74800
+    }
+
 }
-#Bromberg (212000/53000 POPS) 
+
+#Bromberg
 700 = {
-	aristocrats = {
-		culture = polish
-		religion = protestant
-		size = 800 
-	}
+    aristocrats = {
+        culture = lygian
+        religion = protestant
+        size = 800
+    }
 
-	clergymen = {
-		culture = polish
-		religion = protestant
-		size = 200   
-	}
+    clergymen = {
+        culture = lygian
+        religion = protestant
+        size = 200
+    }
 
-	artisans = {
-		culture = polish
-		religion = protestant
-		size = 1050
-	}
+    artisans = {
+        culture = lygian
+        religion = protestant
+        size = 1050
+    }
 
-	soldiers = {
-		culture = polish
-		religion = protestant
-		size = 1150   
-	}
+    soldiers = {
+        culture = lygian
+        religion = protestant
+        size = 1150
+    }
 
-	farmers = {
-		culture = polish
-		religion = protestant
-		size = 20150
-	}
+    farmers = {
+        culture = lygian
+        religion = protestant
+        size = 20150
+    }
 
-	clergymen = {
-		culture = polish
-		religion = catholic
-		size = 50  
-	}
+    clergymen = {
+        culture = lygian
+        religion = catholic
+        size = 50
+    }
 
-	artisans = {
-		culture = polish
-		religion = catholic
-		size = 350
-	}
+    artisans = {
+        culture = lygian
+        religion = catholic
+        size = 350
+    }
 
-	soldiers = {
-		culture = polish
-		religion = catholic
-		size = 75    
-	}
+    soldiers = {
+        culture = lygian
+        religion = catholic
+        size = 75
+    }
 
-	farmers = {
-		culture = polish
-		religion = catholic
-		size = 6525  
-	}
+    farmers = {
+        culture = lygian
+        religion = catholic
+        size = 6525
+    }
 
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 20
+    }
 
-	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 20   
-	}
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1230
+    }
 
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 1230
-	}
+    aristocrats = {
+        culture = lygian
+        religion = catholic
+        size = 250
+    }
 
-	aristocrats = {
-		culture = polish
-		religion = catholic
-		size = 250 
-	}
+    clergymen = {
+        culture = lygian
+        religion = catholic
+        size = 225
+    }
 
-	clergymen = {
-		culture = polish
-		religion = catholic
-		size = 225 
-	}
+    artisans = {
+        culture = lygian
+        religion = catholic
+        size = 1200
+    }
 
-	artisans = {
-		culture = polish
-		religion = catholic
-		size = 1200
-	}
+    soldiers = {
+        culture = lygian
+        religion = catholic
+        size = 200
+    }
 
-	soldiers = {
-		culture = polish
-		religion = catholic
-		size = 200 
-	}
+    farmers = {
+        culture = lygian
+        religion = catholic
+        size = 22375
+    }
 
-	farmers = {
-		culture = polish
-		religion = catholic
-		size = 22375
-	}
 }
-#Gniezno (456000/116000 POPS) 
+
+#Gniezno
 701 = {
-	aristocrats = {
-		culture = polish
-		religion = protestant
-		size = 1750 
-	}
+    aristocrats = {
+        culture = lygian
+        religion = protestant
+        size = 1750
+    }
 
-	clergymen = {
-		culture = polish
-		religion = protestant
-		size = 125   
-	}
+    clergymen = {
+        culture = lygian
+        religion = protestant
+        size = 125
+    }
 
-	artisans = {
-		culture = polish
-		religion = protestant
-		size = 750
-	}
+    artisans = {
+        culture = lygian
+        religion = protestant
+        size = 750
+    }
 
-	soldiers = {
-		culture = polish
-		religion = protestant
-		size = 1000
-	}
+    soldiers = {
+        culture = lygian
+        religion = protestant
+        size = 1000
+    }
 
-	farmers = {
-		culture = polish
-		religion = protestant
-		size = 12125
-	}
+    farmers = {
+        culture = lygian
+        religion = protestant
+        size = 12125
+    }
 
-	clergymen = {
-		culture = polish
-		religion = catholic
-		size = 100 
-	}
+    clergymen = {
+        culture = lygian
+        religion = catholic
+        size = 100
+    }
 
-	artisans = {
-		culture = polish
-		religion = catholic
-		size = 500
-	}
+    artisans = {
+        culture = lygian
+        religion = catholic
+        size = 500
+    }
 
-	soldiers = {
-		culture = polish
-		religion = catholic
-		size = 100    
-	}
+    soldiers = {
+        culture = lygian
+        religion = catholic
+        size = 100
+    }
 
-	farmers = {
-		culture = polish
-		religion = catholic
-		size = 9300   
-	}
+    farmers = {
+        culture = lygian
+        religion = catholic
+        size = 9300
+    }
 
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 25
+    }
 
-	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 25   
-	}
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1225
+    }
 
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 1225
-	}
+    aristocrats = {
+        culture = lygian
+        religion = catholic
+        size = 500
+    }
 
-	aristocrats = {
-		culture = polish
-		religion = catholic
-		size = 500 
-	}
+    clergymen = {
+        culture = lygian
+        religion = catholic
+        size = 825
+    }
 
-	clergymen = {
-		culture = polish
-		religion = catholic
-		size = 825
-	}
+    artisans = {
+        culture = lygian
+        religion = catholic
+        size = 4500
+    }
 
-	artisans = {
-		culture = polish
-		religion = catholic
-		size = 4500
-	}
+    soldiers = {
+        culture = lygian
+        religion = catholic
+        size = 2000
+    }
 
-	soldiers = {
-		culture = polish
-		religion = catholic
-		size = 2000
-	}
+    farmers = {
+        culture = lygian
+        religion = catholic
+        size = 89625
+    }
 
-	farmers = {
-		culture = polish
-		religion = catholic
-		size = 89625
-	}
 }
-#under the rule of Russia in 1836 (496000) 
-#Lodz (244000/61000 POPS) 
+
+#Lodz
 712 = {
-	aristocrats = {
-		culture = polish
-		religion = catholic
-		size = 1500 
-	}
+    aristocrats = {
+        culture = lygian
+        religion = catholic
+        size = 1500
+    }
 
-	bureaucrats = {
-		culture = polish
-		religion = catholic
-		size = 225  
-	}
-	
-	soldiers = {
-		culture = polish
-		religion = catholic
-		size = 100
-	}
+    bureaucrats = {
+        culture = lygian
+        religion = catholic
+        size = 225
+    }
 
-	clergymen = {
-		culture = polish
-		religion = catholic
-		size = 425 
-	}
+    soldiers = {
+        culture = lygian
+        religion = catholic
+        size = 100
+    }
 
-	artisans = {
-		culture = polish
-		religion = catholic
-		size = 2000
-	}
+    clergymen = {
+        culture = lygian
+        religion = catholic
+        size = 425
+    }
 
-	farmers = {
-		culture = polish
-		religion = catholic
-		size = 47850
-	}
-	
-	serfs = {
-		culture = polish
-		religion = catholic
-		size = 5000
-	}
+    artisans = {
+        culture = lygian
+        religion = catholic
+        size = 2000
+    }
 
-	clergymen = {
-		culture = polish
-		religion = protestant
-		size = 100
-	}
-	
-	soldiers = {
-		culture = polish
-		religion = protestant
-		size = 100
-	}
+    farmers = {
+        culture = lygian
+        religion = catholic
+        size = 47850
+    }
 
-	artisans = {
-		culture = polish
-		religion = protestant
-		size = 500
-	}
+    serfs = {
+        culture = lygian
+        religion = catholic
+        size = 5000
+    }
 
-	farmers = {
-		culture = polish
-		religion = protestant
-		size = 9425 
-	}
+    clergymen = {
+        culture = lygian
+        religion = catholic
+        size = 100
+    }
 
-	clergymen = {
-		culture = czech
-		religion = protestant
-		size = 100
-	}
-	
-	soldiers = {
-		culture = czech
-		religion = protestant
-		size = 100
-	}
+    soldiers = {
+        culture = lygian
+        religion = catholic
+        size = 100
+    }
 
-	artisans = {
-		culture = czech
-		religion = protestant
-		size = 225
-	}
+    artisans = {
+        culture = lygian
+        religion = catholic
+        size = 500
+    }
 
-	farmers = {
-		culture = czech
-		religion = protestant
-		size = 3700
-	}
+    farmers = {
+        culture = lygian
+        religion = catholic
+        size = 9425
+    }
 
-	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 100
-	}
-	
-	soldiers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 100
-	}
+    clergymen = {
+        culture = lygian
+        religion = catholic
+        size = 100
+    }
 
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 2050  
-	}
+    soldiers = {
+        culture = polish
+        religion = catholic
+        size = 100
+    }
 
-	farmers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 3000 
-	}
+    artisans = {
+        culture = polish
+        religion = catholic
+        size = 225
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 3700
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 2050
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 3000
+    }
+
 }
-#Kalicz (252000/63000 POPS) 
+
+#Kalisz
 717 = {
-	aristocrats = {
-		culture = polish
-		religion = catholic
-		size = 1450 
-	}
+    aristocrats = {
+        culture = lygian
+        religion = catholic
+        size = 1450
+    }
 
-	clergymen = {
-		culture = polish
-		religion = catholic
-		size = 500 
-	}
-	
-	soldiers = {
-		culture = polish
-		religion = catholic
-		size = 100
-	}
+    clergymen = {
+        culture = lygian
+        religion = catholic
+        size = 500
+    }
 
-	artisans = {
-		culture = polish
-		religion = catholic
-		size = 2600
-	}
+    soldiers = {
+        culture = lygian
+        religion = catholic
+        size = 100
+    }
 
-	farmers = {
-		culture = polish
-		religion = catholic
-		size = 50000 
-	}
-	
-	serfs = {
-		culture = polish
-		religion = catholic
-		size = 5000 
-	}
+    artisans = {
+        culture = polish
+        religion = catholic
+        size = 2600
+    }
 
-	clergymen = {
-		culture = polish
-		religion = protestant
-		size = 100
-	}
-	
-	soldiers = {
-		culture = polish
-		religion = protestant
-		size = 100
-	}
+    farmers = {
+        culture = lygian
+        religion = catholic
+        size = 50000
+    }
 
-	artisans = {
-		culture = polish
-		religion = protestant
-		size = 150
-	}
+    serfs = {
+        culture = lygian
+        religion = catholic
+        size = 5000
+    }
 
-	farmers = {
-		culture = polish
-		religion = protestant
-		size = 2800
-	}
+    clergymen = {
+        culture = lygian
+        religion = catholic
+        size = 100
+    }
 
-	clergymen = {
-		culture = czech
-		religion = protestant
-		size = 100
-	}
-	
-	soldiers = {
-		culture = czech
-		religion = protestant
-		size = 100
-	}
+    soldiers = {
+        culture = lygian
+        religion = catholic
+        size = 100
+    }
 
-	artisans = {
-		culture = czech
-		religion = protestant
-		size = 200
-	}
+    artisans = {
+        culture = lygian
+        religion = catholic
+        size = 150
+    }
 
-	farmers = {
-		culture = czech
-		religion = protestant
-		size = 3750  
-	}
+    farmers = {
+        culture = lygian
+        religion = catholic
+        size = 2800
+    }
 
-	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 100
-	}
-	
-	soldiers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 100
-	}
+    clergymen = {
+        culture = lygian
+        religion = catholic
+        size = 100
+    }
 
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 1600
-	}
+    soldiers = {
+        culture = lygian
+        religion = catholic
+        size = 100
+    }
 
-	farmers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 2325  
-	}
+    artisans = {
+        culture = lygian
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = lygian
+        religion = catholic
+        size = 3750
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1600
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 2325
+    }
 
 }
 
-#Czenstochova (252000/63000 POPS) 
+#Czenstochova
 3359 = {
-	aristocrats = {
-		culture = polish
-		religion = catholic
-		size = 250 
-	}
+    aristocrats = {
+        culture = lygian
+        religion = catholic
+        size = 250
+    }
 
-	clergymen = {
-		culture = polish
-		religion = catholic
-		size = 100 
-	}
-	
-	soldiers = {
-		culture = polish
-		religion = catholic
-		size = 50
-	}
+    clergymen = {
+        culture = lygian
+        religion = catholic
+        size = 100
+    }
 
-	artisans = {
-		culture = polish
-		religion = catholic
-		size = 300
-	}
+    soldiers = {
+        culture = lygian
+        religion = catholic
+        size = 50
+    }
 
-	farmers = {
-		culture = polish
-		religion = catholic
-		size = 10000 
-	}
-	
-	serfs = {
-		culture = polish
-		religion = catholic
-		size = 3000 
-	}
+    artisans = {
+        culture = lygian
+        religion = catholic
+        size = 300
+    }
 
-	clergymen = {
-		culture = polish
-		religion = protestant
-		size = 50
-	}
-	
-	soldiers = {
-		culture = polish
-		religion = protestant
-		size = 50
-	}
+    farmers = {
+        culture = lygian
+        religion = catholic
+        size = 12000
+    }
 
-	artisans = {
-		culture = polish
-		religion = protestant
-		size = 1150
-	}
+    serfs = {
+        culture = lygian
+        religion = catholic
+        size = 3000
+    }
 
-	farmers = {
-		culture = polish
-		religion = protestant
-		size = 8800
-	}
+    clergymen = {
+        culture = lygian
+        religion = catholic
+        size = 50
+    }
 
-	clergymen = {
-		culture = czech
-		religion = protestant
-		size = 100
-	}
-	
-	soldiers = {
-		culture = czech
-		religion = protestant
-		size = 100
-	}
+    soldiers = {
+        culture = lygian
+        religion = catholic
+        size = 50
+    }
 
-	artisans = {
-		culture = czech
-		religion = protestant
-		size = 1200
-	}
+    artisans = {
+        culture = lygian
+        religion = catholic
+        size = 1150
+    }
 
-	farmers = {
-		culture = czech
-		religion = protestant
-		size = 6750  
-	}
+    farmers = {
+        culture = lygian
+        religion = catholic
+        size = 8800
+    }
 
-	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 100
-	}
-	
-	artisans = {
-		culture = north_german
-		religion = protestant
-		size = 1200
-	}
-	
-	soldiers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 100
-	}
+    artisans = {
+        culture = lygian
+        religion = catholic
+        size = 1200
+    }
 
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 1600
-	}
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 4750
+    }
 
-	farmers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 2325  
-	}
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1200
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1600
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 2325
+    }
+
 }
 
-#Malopolska Region (3004000)
-#under the rule of Krakow in 1836
-#Krakow (424000/106000 POPS)
+#Krakow
 703 = {
-	aristocrats = {
-		culture = polish
-		religion = catholic
-		size = 1575
-	}
+    aristocrats = {
+        culture = lygian
+        religion = catholic
+        size = 1575
+    }
 
-	bureaucrats = {
-		culture = polish
-		religion = catholic
-		size = 225
-	}
+    bureaucrats = {
+        culture = lygian
+        religion = catholic
+        size = 225
+    }
 
-	officers = {
-		culture = polish
-		religion = catholic
-		size = 100
-	}
+    officers = {
+        culture = lygian
+        religion = catholic
+        size = 100
+    }
 
-	clergymen = {
-		culture = polish
-		religion = catholic
-		size = 925
-	}
+    clergymen = {
+        culture = lygian
+        religion = catholic
+        size = 925
+    }
 
-	artisans = {
-		culture = polish
-		religion = catholic
-		size = 4650
-	}
+    artisans = {
+        culture = lygian
+        religion = catholic
+        size = 4650
+    }
 
-	soldiers = {
-		culture = polish
-		religion = catholic
-		size = 1000
-	}
+    soldiers = {
+        culture = polish
+        religion = catholic
+        size = 1000
+    }
 
-	farmers = {
-		culture = polish
-		religion = catholic
-		size = 84525
-	}
+    farmers = {
+        culture = lygian
+        religion = catholic
+        size = 40525
+    }
 
-	clergymen = {
-		culture = ukrainian
-		religion = orthodox
-		size = 100
-	}
+    artisans = {
+        culture = silesian
+        religion = catholic
+        size = 200
+    }
 
-	artisans = {
-		culture = ukrainian
-		religion = orthodox
-		size = 200
-	}
+    soldiers = {
+        culture = silesian
+        religion = catholic
+        size = 100
+    }
 
-	soldiers = {
-		culture = ukrainian
-		religion = orthodox
-		size = 100
-	}
+    farmers = {
+        culture = silesian
+        religion = catholic
+        size = 3700
+    }
 
-	farmers = {
-		culture = ukrainian
-		religion = orthodox
-		size = 3700
-	}
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
 
-	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 100
-	}
-	
-	aristocrats = {
-		culture = ashkenazi
-		religion = jewish
-		size = 100
-	}
-	
-	officers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 100
-	}
+    aristocrats = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
 
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 3600
-	}
+    officers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
 
-	soldiers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 100
-	}
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 3600
+    }
 
-	farmers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 4250
-	}
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
 
-	aristocrats = {
-		culture = czech
-		religion = catholic
-		size = 100
-	}
-	
-	officers = {
-		culture = czech
-		religion = catholic
-		size = 100
-	}
-	
-	clergymen = {
-		culture = czech
-		religion = catholic
-		size = 100
-	}
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 4250
+    }
 
-	artisans = {
-		culture = czech
-		religion = catholic
-		size = 100
-	}
+    clergymen = {
+        culture = czech
+        religion = catholic
+        size = 100
+    }
 
-	soldiers = {
-		culture = czech
-		religion = catholic
-		size = 100
-	}
+    artisans = {
+        culture = czech
+        religion = catholic
+        size = 1500
+    }
 
-	farmers = {
-		culture = czech
-		religion = catholic
-		size = 920
-	}
+    farmers = {
+        culture = czech
+        religion = catholic
+        size = 4200
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 12000
+    }
+
 }
-#under the rule of Austria in 1836
-#Novy Sacz (596000/149000 POPS)
+
+#Novy Sacz
 704 = {
-	aristocrats = {
-		culture = polish
-		religion = catholic
-		size = 3450
-	}
+    aristocrats = {
+        culture = lygian
+        religion = catholic
+        size = 3450
+    }
 
-	bureaucrats = {
-		culture = polish
-		religion = catholic
-		size = 275
-	}
+    bureaucrats = {
+        culture = lygian
+        religion = catholic
+        size = 275
+    }
 
-	officers = {
-		culture = polish
-		religion = catholic
-		size = 300
-	}
+    officers = {
+        culture = lygian
+        religion = catholic
+        size = 300
+    }
 
-	clergymen = {
-		culture = polish
-		religion = catholic
-		size = 1150
-	}
+    clergymen = {
+        culture = lygian
+        religion = catholic
+        size = 1150
+    }
 
-	artisans = {
-		culture = polish
-		religion = catholic
-		size = 5750
-	}
+    artisans = {
+        culture = lygian
+        religion = catholic
+        size = 5750
+    }
 
-	soldiers = {
-		culture = polish
-		religion = catholic
-		size = 1150
-	}
+    soldiers = {
+        culture = lygian
+        religion = catholic
+        size = 1150
+    }
 
-	farmers = {
-		culture = polish
-		religion = catholic
-		size = 50000
-	}
-	
-	serfs = {
-		culture = gypsy
-		religion = catholic
-		size = 2925
-	}
-	
-	serfs = {
-		culture = polish
-		religion = catholic
-		size = 40000
-	}
+    farmers = {
+        culture = lygian
+        religion = catholic
+        size = 60000
+    }
 
-	clergymen = {
-		culture = rusyn
-		religion = orthodox
-		size = 175
-	}
+    serfs = {
+        culture = gypsy
+        religion = catholic
+        size = 2925
+    }
 
-	artisans = {
-		culture = rusyn
-		religion = orthodox
-		size = 450
-	}
+    serfs = {
+        culture = polish
+        religion = catholic
+        size = 10000
+    }
 
-	soldiers = {
-		culture = rusyn
-		religion = orthodox
-		size = 175
-	}
+    clergymen = {
+        culture = rusyn
+        religion = orthodox
+        size = 175
+    }
 
-	farmers = {
-		culture = rusyn
-		religion = orthodox
-		size = 18200
-	}
+    artisans = {
+        culture = rusyn
+        religion = orthodox
+        size = 450
+    }
 
-	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 125
-	}
+    soldiers = {
+        culture = rusyn
+        religion = orthodox
+        size = 175
+    }
 
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 4550
-	}
+    farmers = {
+        culture = rusyn
+        religion = orthodox
+        size = 18200
+    }
 
-	soldiers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 125
-	}
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 125
+    }
 
-	farmers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 8200
-	}
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 4550
+    }
 
-	clergymen = {
-		culture = czech
-		religion = catholic
-		size = 50
-	}
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 125
+    }
 
-	artisans = {
-		culture = czech
-		religion = catholic
-		size = 100
-	}
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 8200
+    }
 
-	soldiers = {
-		culture = czech
-		religion = catholic
-		size = 25
-	}
+    artisans = {
+        culture = czech
+        religion = catholic
+        size = 100
+    }
 
-	farmers = {
-		culture = czech
-		religion = catholic
-		size = 1825
-	}
-	
-	aristocrats = {
-		culture = romanian
-		religion = orthodox
-		size = 50
-	}
+    farmers = {
+        culture = slovak
+        religion = catholic
+        size = 3825
+    }
 
-	clergymen = {
-		culture = romanian
-		religion = orthodox
-		size = 70 
-	}
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 5000
+    }
 
-	artisans = {
-		culture = romanian
-		religion = orthodox
-		size = 400
-	}
-
-	soldiers = {
-		culture = romanian
-		religion = orthodox
-		size = 200
-	}
-
-	farmers = {
-		culture = romanian
-		religion = orthodox
-		size = 10000
-	}
 }
-#Tarnow (616000/154000 POPS)
+
+#Tarnow
 714 = {
-	aristocrats = {
-		culture = polish
-		religion = catholic
-		size = 3500
-	}
+    aristocrats = {
+        culture = lygian
+        religion = catholic
+        size = 3500
+    }
 
-	clergymen = {
-		culture = polish
-		religion = catholic
-		size = 1425
-	}
+    clergymen = {
+        culture = lygian
+        religion = catholic
+        size = 1425
+    }
 
-	artisans = {
-		culture = polish
-		religion = catholic
-		size = 7250
-	}
+    artisans = {
+        culture = lygian
+        religion = catholic
+        size = 7250
+    }
 
-	soldiers = {
-		culture = polish
-		religion = catholic
-		size = 1450
-	}
+    soldiers = {
+        culture = lygian
+        religion = catholic
+        size = 1450
+    }
 
-	farmers = {
-		culture = polish
-		religion = catholic
-		size = 60000
-	}
+    farmers = {
+        culture = lygian
+        religion = catholic
+        size = 60000
+    }
 
-	serfs = {
-		culture = gypsy
-		religion = catholic
-		size = 1375
-	}
-	
-	serfs = {
-		culture = polish
-		religion = catholic
-		size = 70000
-	}
-	
-	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 75
-	}
+    serfs = {
+        culture = gypsy
+        religion = catholic
+        size = 1375
+    }
 
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 3600
-	}
+    serfs = {
+        culture = polish
+        religion = catholic
+        size = 10000
+    }
 
-	soldiers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 75
-	}
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 75
+    }
 
-	farmers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 4250
-	}
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 3600
+    }
 
-	clergymen = {
-		culture = czech
-		religion = catholic
-		size = 20
-	}
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 75
+    }
 
-	artisans = {
-		culture = czech
-		religion = catholic
-		size = 50
-	}
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 4250
+    }
 
-	soldiers = {
-		culture = czech
-		religion = catholic
-		size = 10
-	}
-
-	farmers = {
-		culture = czech
-		religion = catholic
-		size = 920
-	}
 }
-#under the rule of Russia in 1836 (1368000)
-#Radom (444000/111000 POPS)
+
+#Radom
 713 = {
-	aristocrats = {
-		culture = polish
-		religion = catholic
-		size = 2525
-	}
+    aristocrats = {
+        culture = lygian
+        religion = catholic
+        size = 2525
+    }
 
-	bureaucrats = {
-		culture = polish
-		religion = catholic
-		size = 825
-	}
-	
-	soldiers = {
-		culture = polish
-		religion = catholic
-		size = 100
-	}
+    bureaucrats = {
+        culture = lygian
+        religion = catholic
+        size = 825
+    }
 
-	clergymen = {
-		culture = polish
-		religion = catholic
-		size = 950
-	}
+    soldiers = {
+        culture = lygian
+        religion = catholic
+        size = 100
+    }
 
-	artisans = {
-		culture = polish
-		religion = catholic
-		size = 4900
-	}
+    clergymen = {
+        culture = lygian
+        religion = catholic
+        size = 950
+    }
 
-	farmers = {
-		culture = polish
-		religion = catholic
-		size = 68600
-	}
-	
-	serfs = {
-		culture = polish
-		religion = catholic
-		size = 20000
-	}
-	
-	soldiers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 100
-	}
+    artisans = {
+        culture = lygian
+        religion = catholic
+        size = 3900
+    }
 
-	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 125
-	}
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 19600
+    }
 
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 4550
-	}
+    serfs = {
+        culture = polish
+        religion = catholic
+        size = 5000
+    }
 
-	farmers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 8325
-	}
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 125
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 4550
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 2325
+    }
+
+    farmers = {
+        culture = lygian
+        religion = catholic
+        size = 32500
+    }
+
 }
-#Lublin (476000/119000 POPS)
+
+#Lublin
 715 = {
-	aristocrats = {
-		culture = polish
-		religion = catholic
-		size = 2700
-	}
-	
-	officers = {
-		culture = polish
-		religion = catholic
-		size = 100
-	}
-	
-	soldiers = {
-		culture = polish
-		religion = catholic
-		size = 100
-	}
+    aristocrats = {
+        culture = polish
+        religion = catholic
+        size = 2700
+    }
 
-	clergymen = {
-		culture = polish
-		religion = catholic
-		size = 825
-	}
+    officers = {
+        culture = polish
+        religion = catholic
+        size = 100
+    }
 
-	artisans = {
-		culture = polish
-		religion = catholic
-		size = 4200
-	}
+    soldiers = {
+        culture = polish
+        religion = catholic
+        size = 100
+    }
 
-	farmers = {
-		culture = polish
-		religion = catholic
-		size = 56275
-	}
-	
-	aristocrats = {
-		culture = ukrainian
-		religion = orthodox
-		size = 10
-	}
-	
-	officers = {
-		culture = ukrainian
-		religion = orthodox
-		size = 10
-	}
-	
-	clergymen = {
-		culture = ukrainian
-		religion = orthodox
-		size = 20
-	}
-	
-	soldiers = {
-		culture = ukrainian
-		religion = orthodox
-		size = 10
-	}
+    clergymen = {
+        culture = polish
+        religion = catholic
+        size = 825
+    }
 
-	artisans = {
-		culture = ukrainian
-		religion = orthodox
-		size = 300
-	}
+    artisans = {
+        culture = polish
+        religion = catholic
+        size = 4200
+    }
 
-	farmers = {
-		culture = ukrainian
-		religion = orthodox
-		size = 5700
-	}
-	
-	aristocrats = {
-		culture = ashkenazi
-		religion = jewish
-		size = 100
-	}
-	
-	officers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 100
-	}
-	
-	soldiers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 100
-	}
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 56275
+    }
 
-	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 125
-	}
+    aristocrats = {
+        culture = ukrainian
+        religion = orthodox
+        size = 10
+    }
 
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 4550
-	}
+    officers = {
+        culture = ukrainian
+        religion = orthodox
+        size = 10
+    }
 
-	farmers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 8325
-	}
+    clergymen = {
+        culture = ukrainian
+        religion = orthodox
+        size = 20
+    }
+
+    soldiers = {
+        culture = ukrainian
+        religion = orthodox
+        size = 10
+    }
+
+    artisans = {
+        culture = ukrainian
+        religion = orthodox
+        size = 300
+    }
+
+    farmers = {
+        culture = ukrainian
+        religion = orthodox
+        size = 5700
+    }
+
+    aristocrats = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    officers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 125
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 4550
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 8325
+    }
+
 }
 
-#Cholm (476000/119000 POPS)
+#Cholm
 3353 = {
-	aristocrats = {
-		culture = polish
-		religion = catholic
-		size = 100
-	}
-	
-	officers = {
-		culture = polish
-		religion = catholic
-		size = 50
-	}
-	
-	soldiers = {
-		culture = polish
-		religion = catholic
-		size = 100
-	}
+    aristocrats = {
+        culture = polish
+        religion = catholic
+        size = 100
+    }
 
-	clergymen = {
-		culture = polish
-		religion = catholic
-		size = 125
-	}
+    officers = {
+        culture = polish
+        religion = catholic
+        size = 50
+    }
 
-	artisans = {
-		culture = polish
-		religion = catholic
-		size = 1200
-	}
-	
-	serfs = {
-		culture = polish
-		religion = catholic
-		size = 15000
-	}
-	
-	aristocrats = {
-		culture = ukrainian
-		religion = orthodox
-		size = 100
-	}
-	
-	officers = {
-		culture = ukrainian
-		religion = orthodox
-		size = 100
-	}
-	
-	clergymen = {
-		culture = ukrainian
-		religion = orthodox
-		size = 200
-	}
-	
-	soldiers = {
-		culture = ukrainian
-		religion = orthodox
-		size = 100
-	}
+    soldiers = {
+        culture = polish
+        religion = catholic
+        size = 100
+    }
 
-	artisans = {
-		culture = ukrainian
-		religion = orthodox
-		size = 1100
-	}
+    clergymen = {
+        culture = polish
+        religion = catholic
+        size = 125
+    }
 
-	farmers = {
-		culture = ukrainian
-		religion = orthodox
-		size = 20700
-	}
+    artisans = {
+        culture = polish
+        religion = catholic
+        size = 1200
+    }
 
-	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 25
-	}
+    serfs = {
+        culture = polish
+        religion = catholic
+        size = 15000
+    }
 
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 1550
-	}
+    aristocrats = {
+        culture = ukrainian
+        religion = orthodox
+        size = 100
+    }
 
-	farmers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 625
-	}
+    officers = {
+        culture = ukrainian
+        religion = orthodox
+        size = 100
+    }
+
+    clergymen = {
+        culture = ukrainian
+        religion = orthodox
+        size = 200
+    }
+
+    soldiers = {
+        culture = ukrainian
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = ukrainian
+        religion = orthodox
+        size = 1100
+    }
+
+    farmers = {
+        culture = ukrainian
+        religion = orthodox
+        size = 20700
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 25
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1550
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 625
+    }
+
 }
 
-#Kielce (448000/112000 POPS)
+#Kielce
 716 = {
-	aristocrats = {
-		culture = polish
-		religion = catholic
-		size = 2550
-	}
+    aristocrats = {
+        culture = lygian
+        religion = catholic
+        size = 2550
+    }
 
-	clergymen = {
-		culture = polish
-		religion = catholic
-		size = 950
-	}
-	
-	soldiers = {
-		culture = polish
-		religion = catholic
-		size = 125
-	}
+    clergymen = {
+        culture = lygian
+        religion = catholic
+        size = 950
+    }
 
-	artisans = {
-		culture = polish
-		religion = catholic
-		size = 4900
-	}
+    soldiers = {
+        culture = lygian
+        religion = catholic
+        size = 125
+    }
 
-	farmers = {
-		culture = polish
-		religion = catholic
-		size = 49600
-	}
-	
-	serfs = {
-		culture = polish
-		religion = catholic
-		size = 40000
-	}
-	
-	soldiers = {
-		culture = polish
-		religion = protestant
-		size = 125
-	}
+    artisans = {
+        culture = lygian
+        religion = catholic
+        size = 4900
+    }
 
-	clergymen = {
-		culture = polish
-		religion = protestant
-		size = 100
-	}
+    farmers = {
+        culture = lygian
+        religion = catholic
+        size = 49600
+    }
 
-	artisans = {
-		culture = polish
-		religion = protestant
-		size = 400
-	}
+    serfs = {
+        culture = polish
+        religion = catholic
+        size = 30000
+    }
 
-	farmers = {
-		culture = polish
-		religion = protestant
-		size = 585
-	}
-	
-	soldiers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 125
-	}
+    soldiers = {
+        culture = polish
+        religion = protestant
+        size = 125
+    }
 
-	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 125
-	}
+    clergymen = {
+        culture = polish
+        religion = protestant
+        size = 100
+    }
 
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 4550
-	}
+    artisans = {
+        culture = polish
+        religion = protestant
+        size = 400
+    }
 
-	farmers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 8325
-	}
+    farmers = {
+        culture = polish
+        religion = protestant
+        size = 585
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 125
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 125
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 4550
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 8325
+    }
+
 }
-#Galicia Region (596000) #see Ukraine.txt for balance of region 
-#under the rule of Austria in 1836
-#Przemysl (596000/149000 POPS)
+
+#Przemysl
 705 = {
-	clergymen = {
-		culture = rusyn
-		religion = orthodox
-		size = 175
-	}
+    clergymen = {
+        culture = rusyn
+        religion = orthodox
+        size = 175
+    }
 
-	artisans = {
-		culture = rusyn
-		religion = orthodox
-		size = 950
-	}
+    artisans = {
+        culture = rusyn
+        religion = orthodox
+        size = 950
+    }
 
-	soldiers = {
-		culture = rusyn
-		religion = orthodox
-		size = 175
-	}
+    soldiers = {
+        culture = rusyn
+        religion = orthodox
+        size = 175
+    }
 
-	serfs = {
-		culture = rusyn
-		religion = orthodox
-		size = 17700
-	}
+    serfs = {
+        culture = rusyn
+        religion = orthodox
+        size = 17700
+    }
 
-	aristocrats = {
-		culture = polish
-		religion = catholic
-		size = 3400
-	}
+    aristocrats = {
+        culture = lygian
+        religion = catholic
+        size = 3400
+    }
 
-	clergymen = {
-		culture = polish
-		religion = catholic
-		size = 1175
-	}
+    clergymen = {
+        culture = lygian
+        religion = catholic
+        size = 1175
+    }
 
-	artisans = {
-		culture = polish
-		religion = catholic
-		size = 5750
-	}
+    artisans = {
+        culture = lygian
+        religion = catholic
+        size = 5750
+    }
 
-	soldiers = {
-		culture = polish
-		religion = catholic
-		size = 1150
-	}
+    soldiers = {
+        culture = lygian
+        religion = catholic
+        size = 1150
+    }
 
-	farmers = {
-		culture = polish
-		religion = catholic
-		size = 60000
-	}
-	
-	serfs = {
-		culture = gypsy
-		religion = catholic
-		size = 3525
-	}
-	
-	serfs = {
-		culture = polish
-		religion = catholic
-		size = 50000
-	}
+    farmers = {
+        culture = lygian
+        religion = catholic
+        size = 60000
+    }
 
-	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 125
-	}
+    serfs = {
+        culture = gypsy
+        religion = catholic
+        size = 3525
+    }
 
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 4550
-	}
+    serfs = {
+        culture = polish
+        religion = catholic
+        size = 30000
+    }
 
-	soldiers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 100
-	}
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 125
+    }
 
-	farmers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 8225
-	}
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 4550
+    }
 
-	clergymen = {
-		culture = czech
-		religion = catholic
-		size = 50
-	}
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
 
-	artisans = {
-		culture = czech
-		religion = catholic
-		size = 100
-	}
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 8225
+    }
 
-	soldiers = {
-		culture = czech
-		religion = catholic
-		size = 25
-	}
-
-	farmers = {
-		culture = czech
-		religion = catholic
-		size = 1825
-	}
 }
 
-#Jaroslaw (596000/149000 POPS)
+#Jaroslaw
 3278 = {
-	clergymen = {
-		culture = ukrainian
-		religion = orthodox
-		size = 175
-	}
+    clergymen = {
+        culture = lygian
+        religion = catholic
+        size = 175
+    }
 
-	artisans = {
-		culture = ukrainian
-		religion = orthodox
-		size = 950
-	}
+    artisans = {
+        culture = lygian
+        religion = catholic
+        size = 950
+    }
 
-	soldiers = {
-		culture = ukrainian
-		religion = orthodox
-		size = 175
-	}
+    soldiers = {
+        culture = lygian
+        religion = catholic
+        size = 175
+    }
 
-	farmers = {
-		culture = ukrainian
-		religion = orthodox
-		size = 17700
-	}
+    farmers = {
+        culture = lygian
+        religion = catholic
+        size = 24700
+    }
 
-	aristocrats = {
-		culture = polish
-		religion = catholic
-		size = 400
-	}
+    aristocrats = {
+        culture = ukrainian
+        religion = orthodox
+        size = 400
+    }
 
-	clergymen = {
-		culture = polish
-		religion = catholic
-		size = 175
-	}
+    clergymen = {
+        culture = ukrainian
+        religion = orthodox
+        size = 175
+    }
 
-	artisans = {
-		culture = polish
-		religion = catholic
-		size = 550
-	}
+    artisans = {
+        culture = ukrainian
+        religion = orthodox
+        size = 550
+    }
 
-	soldiers = {
-		culture = polish
-		religion = catholic
-		size = 1150
-	}
-	
-	serfs = {
-		culture = polish
-		religion = catholic
-		size = 10000
-	}
+    soldiers = {
+        culture = polish
+        religion = catholic
+        size = 1150
+    }
 
-	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 25
-	}
+    serfs = {
+        culture = polish
+        religion = catholic
+        size = 10000
+    }
 
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 550
-	}
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 25
+    }
 
-	farmers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 2225
-	}
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 550
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 2225
+    }
+
+    farmers = {
+        culture = rusyn
+        religion = orthodox
+        size = 4000
+    }
+
 }
-#Mazovia Region (2224000)
-#under the rule of Russia in 1836
-#Warsaw (720000/180000 POPS)
+
+#Warsaw
 706 = {
-	aristocrats = {
-		culture = polish
-		religion = catholic
-		size = 4250
-	}
+    aristocrats = {
+        culture = polish
+        religion = catholic
+        size = 4250
+    }
 
-	bureaucrats = {
-		culture = polish
-		religion = catholic
-		size = 500
-	}
+    bureaucrats = {
+        culture = polish
+        religion = catholic
+        size = 500
+    }
 
-	officers = {
-		culture = polish
-		religion = catholic
-		size = 550
-	}
+    officers = {
+        culture = polish
+        religion = catholic
+        size = 550
+    }
 
-	clergymen = {
-		culture = polish
-		religion = catholic
-		size = 1500
-	}
+    clergymen = {
+        culture = polish
+        religion = catholic
+        size = 1500
+    }
 
-	artisans = {
-		culture = polish
-		religion = catholic
-		size = 10000
-	}
+    artisans = {
+        culture = polish
+        religion = catholic
+        size = 10000
+    }
 
-	artisans = {
-		culture = polish
-		religion = catholic
-		size = 11100
-	}
+    artisans = {
+        culture = polish
+        religion = catholic
+        size = 11100
+    }
 
-	farmers = {
-		culture = polish
-		religion = catholic
-		size = 71950
-	}
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 71950
+    }
 
-	soldiers = {
-		culture = polish
-		religion = catholic
-		size = 1500
-	}
+    soldiers = {
+        culture = polish
+        religion = catholic
+        size = 1500
+    }
 
-	serfs = {
-		culture = polish
-		religion = catholic
-		size = 80000
-	}
-	
-	officers = {
-		culture = polish
-		religion = protestant
-		size = 100
-	}
+    serfs = {
+        culture = polish
+        religion = catholic
+        size = 80000
+    }
 
-	clergymen = {
-		culture = polish
-		religion = protestant
-		size = 100
-	}
+    officers = {
+        culture = polish
+        religion = catholic
+        size = 100
+    }
 
-	artisans = {
-		culture = polish
-		religion = protestant
-		size = 1500
-	}
+    clergymen = {
+        culture = polish
+        religion = orthodox
+        size = 100
+    }
 
-	soldiers = {
-		culture = polish
-		religion = protestant
-		size = 100
-	}
+    artisans = {
+        culture = polish
+        religion = orthodox
+        size = 1500
+    }
 
-	farmers = {
-		culture = polish
-		religion = protestant
-		size = 2400
-	}
-	
-	aristocrats = {
-		culture = ashkenazi
-		religion = jewish
-		size = 100
-	}
+    soldiers = {
+        culture = polish
+        religion = orthodox
+        size = 100
+    }
 
-	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 200
-	}
-	
-	officers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 100
-	}
+    farmers = {
+        culture = polish
+        religion = orthodox
+        size = 2400
+    }
 
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 10000
-	}
+    aristocrats = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
 
-	soldiers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 200
-	}
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 200
+    }
 
-	farmers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 10600
-	}
-	
-	aristocrats = {
-		culture = czech
-		religion = protestant
-		size = 100
-	}
+    officers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
 
-	clergymen = {
-		culture = czech
-		religion = protestant
-		size = 100
-	}
-	
-	officers = {
-		culture = czech
-		religion = protestant
-		size = 100
-	}
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 10000
+    }
 
-	artisans = {
-		culture = czech
-		religion = protestant
-		size = 2500
-	}
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 200
+    }
 
-	soldiers = {
-		culture = czech
-		religion = protestant
-		size = 100
-	}
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 10600
+    }
 
-	farmers = {
-		culture = czech
-		religion = protestant
-		size = 3400
-	}
+    aristocrats = {
+        culture = ukrainian
+        religion = orthodox
+        size = 100
+    }
+
+    clergymen = {
+        culture = ukrainian
+        religion = orthodox
+        size = 100
+    }
+
+    officers = {
+        culture = ukrainian
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = ukrainian
+        religion = orthodox
+        size = 2500
+    }
+
+    soldiers = {
+        culture = ukrainian
+        religion = orthodox
+        size = 300
+    }
+
+    farmers = {
+        culture = ukrainian
+        religion = orthodox
+        size = 4200
+    }
+
 }
-#Suwalki (196000/49000 POPS)
+
+#Suwalki
 707 = {
-	aristocrats = {
-		culture = yotvingian
-		religion = protestant
-		size = 1000
-	}
+    aristocrats = {
+        culture = yotvingian
+        religion = protestant
+        size = 1000
+    }
 
-	clergymen = {
-		culture = yotvingian
-		religion = protestant
-		size = 300
-	}
+    clergymen = {
+        culture = yotvingian
+        religion = protestant
+        size = 300
+    }
 
-	artisans = {
-		culture = yotvingian
-		religion = protestant
-		size = 1900
-	}
+    artisans = {
+        culture = yotvingian
+        religion = protestant
+        size = 1900
+    }
 
-	soldiers = {
-		culture = yotvingian
-		religion = protestant
-		size = 375
-	}
+    soldiers = {
+        culture = yotvingian
+        religion = protestant
+        size = 375
+    }
 
-	farmers = {
-		culture = yotvingian
-		religion = protestant
-		size = 30000
-	}
-	
-	aristocrats = {
-		culture = polish
-		religion = catholic
-		size = 150
-	}
+    farmers = {
+        culture = yotvingian
+        religion = protestant
+        size = 30000
+    }
 
-	clergymen = {
-		culture = polish
-		religion = catholic
-		size = 75
-	}
+    aristocrats = {
+        culture = polish
+        religion = catholic
+        size = 150
+    }
 
-	farmers = {
-		culture = polish
-		religion = catholic
-		size = 5625
-	}
-	
-	serfs = {
-		culture = polish
-		religion = catholic
-		size = 5000
-	}
+    clergymen = {
+        culture = polish
+        religion = catholic
+        size = 75
+    }
 
-	clergymen = {
-		culture = lithuanian
-		religion = catholic
-		size = 100
-	}
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 5625
+    }
 
-	artisans = {
-		culture = lithuanian
-		religion = catholic
-		size = 250
-	}
+    serfs = {
+        culture = polish
+        religion = catholic
+        size = 5000
+    }
 
-	soldiers = {
-		culture = lithuanian
-		religion = catholic
-		size = 100
-	}
+    clergymen = {
+        culture = lithuanian
+        religion = catholic
+        size = 100
+    }
 
-	farmers = {
-		culture = lithuanian
-		religion = catholic
-		size = 24625
-	}
+    artisans = {
+        culture = lithuanian
+        religion = catholic
+        size = 250
+    }
 
-	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 100
-	}
+    soldiers = {
+        culture = lithuanian
+        religion = catholic
+        size = 100
+    }
 
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 2000
-	}
+    farmers = {
+        culture = lithuanian
+        religion = catholic
+        size = 24625
+    }
 
-	soldiers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 100
-	}
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
 
-	farmers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 2900
-	}
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 2000
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 2900
+    }
+
 }
-#Plock (396000/99000 POPS)
+
+#Plock
 708 = {
-	aristocrats = {
-		culture = polish
-		religion = catholic
-		size = 2050
-	}
+    aristocrats = {
+        culture = polish
+        religion = catholic
+        size = 2050
+    }
 
-	clergymen = {
-		culture = polish
-		religion = catholic
-		size = 875
-	}
+    clergymen = {
+        culture = polish
+        religion = catholic
+        size = 875
+    }
 
-	artisans = {
-		culture = polish
-		religion = catholic
-		size = 4400
-	}
+    artisans = {
+        culture = polish
+        religion = catholic
+        size = 4400
+    }
 
-	soldiers = {
-		culture = polish
-		religion = catholic
-		size = 900
-	}
+    soldiers = {
+        culture = polish
+        religion = catholic
+        size = 900
+    }
 
-	farmers = {
-		culture = polish
-		religion = catholic
-		size = 40675
-	}
-	
-	serfs = {
-		culture = polish
-		religion = catholic
-		size = 40000
-	}
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 10675
+    }
 
-	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 100
-	}
+    serfs = {
+        culture = polish
+        religion = catholic
+        size = 30000
+    }
 
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 3500
-	}
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
 
-	soldiers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 100
-	}
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 3500
+    }
 
-	farmers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 4425
-	}
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
 
-	clergymen = {
-		culture = czech
-		religion = protestant
-		size = 100
-	}
-	
-	soldiers = {
-		culture = czech
-		religion = protestant
-		size = 100
-	}
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 4425
+    }
 
-	artisans = {
-		culture = czech
-		religion = protestant
-		size = 275
-	}
+    farmers = {
+        culture = lygian
+        religion = catholic
+        size = 30000
+    }
 
-	farmers = {
-		culture = czech
-		religion = protestant
-		size = 2690
-	}
 }
-#Plock (396000/99000 POPS)
+
+#Dobrzyn
 3422 = {
-	aristocrats = {
-		culture = polish
-		religion = catholic
-		size = 50
-	}
+    aristocrats = {
+        culture = lygian
+        religion = catholic
+        size = 50
+    }
 
-	clergymen = {
-		culture = polish
-		religion = catholic
-		size = 75
-	}
+    clergymen = {
+        culture = lygian
+        religion = catholic
+        size = 75
+    }
 
-	artisans = {
-		culture = polish
-		religion = catholic
-		size = 400
-	}
+    artisans = {
+        culture = lygian
+        religion = catholic
+        size = 400
+    }
 
-	soldiers = {
-		culture = polish
-		religion = catholic
-		size = 900
-	}
+    soldiers = {
+        culture = lygian
+        religion = catholic
+        size = 900
+    }
 
-	farmers = {
-		culture = polish
-		religion = catholic
-		size = 10675
-	}
-	
-	serfs = {
-		culture = polish
-		religion = catholic
-		size = 10000
-	}
+    farmers = {
+        culture = lygian
+        religion = catholic
+        size = 10675
+    }
+
+    serfs = {
+        culture = lygian
+        religion = catholic
+        size = 10000
+    }
+
 }
-#Lomza (200000/50000 POPS)
+
+#Lomza
 709 = {
-	aristocrats = {
-		culture = polish
-		religion = catholic
-		size = 1150
-	}
-	
-	soldiers = {
-		culture = polish
-		religion = catholic
-		size = 100
-	}
+    aristocrats = {
+        culture = polish
+        religion = catholic
+        size = 1150
+    }
 
-	clergymen = {
-		culture = polish
-		religion = catholic
-		size = 425
-	}
+    soldiers = {
+        culture = polish
+        religion = catholic
+        size = 100
+    }
 
-	artisans = {
-		culture = polish
-		religion = catholic
-		size = 2150
-	}
+    clergymen = {
+        culture = polish
+        religion = catholic
+        size = 425
+    }
 
-	farmers = {
-		culture = polish
-		religion = catholic
-		size = 50275
-	}
-	
-	serfs = {
-		culture = polish
-		religion = catholic
-		size = 5000
-	}
-	
-	soldiers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 100
-	}
+    artisans = {
+        culture = polish
+        religion = catholic
+        size = 2150
+    }
 
-	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 100
-	}
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 50275
+    }
 
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 2250
-	}
+    serfs = {
+        culture = polish
+        religion = catholic
+        size = 5000
+    }
 
-	farmers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 5700
-	}
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 2250
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 5700
+    }
+
 }
-#Skierniewicz (436000/109000 POPS)
+
+#Skierniewicz
 710 = {
-	aristocrats = {
-		culture = polish
-		religion = catholic
-		size = 2500
-	}
-	
-	soldiers = {
-		culture = polish
-		religion = catholic
-		size = 100
-	}
+    aristocrats = {
+        culture = lygian
+        religion = catholic
+        size = 2500
+    }
 
-	clergymen = {
-		culture = polish
-		religion = catholic
-		size = 925
-	}
+    soldiers = {
+        culture = lygian
+        religion = catholic
+        size = 100
+    }
 
-	artisans = {
-		culture = polish
-		religion = catholic
-		size = 4750
-	}
+    clergymen = {
+        culture = lygian
+        religion = catholic
+        size = 925
+    }
 
-	farmers = {
-		culture = polish
-		religion = catholic
-		size = 46825
-	}
-	
-	serfs = {
-		culture = polish
-		religion = catholic
-		size = 40000
-	}
+    artisans = {
+        culture = lygian
+        religion = catholic
+        size = 4750
+    }
 
-	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 100
-	}
-	
-	soldiers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 100
-	}
+    farmers = {
+        culture = lygian
+        religion = catholic
+        size = 46825
+    }
 
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 5000
-	}
+    serfs = {
+        culture = lygian
+        religion = catholic
+        size = 17000
+    }
 
-	farmers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 6900
-	}
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
 
-	clergymen = {
-		culture = czech
-		religion = protestant
-		size = 100
-	}
-	
-	soldiers = {
-		culture = czech
-		religion = protestant
-		size = 100
-	}
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
 
-	artisans = {
-		culture = czech
-		religion = protestant
-		size = 250
-	}
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 5000
+    }
 
-	farmers = {
-		culture = czech
-		religion = protestant
-		size = 1725
-	}
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 6900
+    }
+
+    clergymen = {
+        culture = lygian
+        religion = catholic
+        size = 100
+    }
+
+    soldiers = {
+        culture = lygian
+        religion = catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = polish
+        religion = catholic
+        size = 250
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 3050
+    }
+
 }
-#Siedlice (472000/118000 POPS)
+
+#Siedlice
 711 = {
-	aristocrats = {
-		culture = polish
-		religion = catholic
-		size = 2700
-	}
-	
-	soldiers = {
-		culture = polish
-		religion = catholic
-		size = 100
-	}
+    aristocrats = {
+        culture = polish
+        religion = catholic
+        size = 2700
+    }
 
-	clergymen = {
-		culture = polish
-		religion = catholic
-		size = 1100
-	}
+    soldiers = {
+        culture = polish
+        religion = catholic
+        size = 100
+    }
 
-	artisans = {
-		culture = polish
-		religion = catholic
-		size = 5250
-	}
+    clergymen = {
+        culture = polish
+        religion = catholic
+        size = 1100
+    }
 
-	farmers = {
-		culture = polish
-		religion = catholic
-		size = 46050
-	}
-	
-	serfs = {
-		culture = polish
-		religion = catholic
-		size = 50000
-	}
+    artisans = {
+        culture = polish
+        religion = catholic
+        size = 5250
+    }
 
-	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 125
-	}
-	
-	soldiers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 100
-	}
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 46050
+    }
 
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 4675
-	}
+    serfs = {
+        culture = polish
+        religion = catholic
+        size = 50000
+    }
 
-	farmers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 8200
-	}
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 125
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 4675
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 8200
+    }
+
 }
-#Podlachia Region (320000)  #see Belarus.txt for balance of region
-#under the rule of Russia in 1836
-#Bialystok (320000/80000 POPS)
+
+#Bialystock
 719 = {
-	clergymen = {
-		culture = ukrainian
-		religion = orthodox
-		size = 325
-	}
+    clergymen = {
+        culture = ukrainian
+        religion = orthodox
+        size = 325
+    }
 
-	artisans = {
-		culture = ukrainian
-		religion = orthodox
-		size = 250
-	}
-	
-	soldiers = {
-		culture = ukrainian
-		religion = orthodox
-		size = 100
-	}
+    artisans = {
+        culture = ukrainian
+        religion = orthodox
+        size = 250
+    }
 
-	farmers = {
-		culture = ukrainian
-		religion = orthodox
-		size = 19275
-	}
+    soldiers = {
+        culture = ukrainian
+        religion = orthodox
+        size = 100
+    }
 
-	aristocrats = {
-		culture = polish
-		religion = catholic
-		size = 1900
-	}
+    farmers = {
+        culture = ukrainian
+        religion = orthodox
+        size = 19275
+    }
 
-	clergymen = {
-		culture = polish
-		religion = catholic
-		size = 250
-	}
-	
-	soldiers = {
-		culture = polish
-		religion = catholic
-		size = 100
-	}
+    aristocrats = {
+        culture = polish
+        religion = catholic
+        size = 1900
+    }
 
-	artisans = {
-		culture = polish
-		religion = catholic
-		size = 1500
-	}
+    clergymen = {
+        culture = polish
+        religion = catholic
+        size = 250
+    }
 
-	serfs = {
-		culture = polish
-		religion = catholic
-		size = 25500
-	}
+    soldiers = {
+        culture = polish
+        religion = catholic
+        size = 100
+    }
 
-	clergymen = {
-		culture = ukrainian
-		religion = catholic
-		size = 100
-	}
-	
-	soldiers = {
-		culture = ukrainian
-		religion = catholic
-		size = 100
-	}
+    artisans = {
+        culture = polish
+        religion = catholic
+        size = 1500
+    }
 
-	artisans = {
-		culture = ukrainian
-		religion = catholic
-		size = 750
-	}
+    serfs = {
+        culture = polish
+        religion = catholic
+        size = 25500
+    }
 
-	farmers = {
-		culture = ukrainian
-		religion = catholic
-		size = 12350
-	}
+    clergymen = {
+        culture = ukrainian
+        religion = catholic
+        size = 100
+    }
 
-	farmers = {
-		culture = polish
-		religion = orthodox
-		size = 4525
-	}
+    soldiers = {
+        culture = ukrainian
+        religion = catholic
+        size = 100
+    }
 
-	artisans = {
-		culture = polish
-		religion = orthodox
-		size = 250
-	}
+    artisans = {
+        culture = ukrainian
+        religion = catholic
+        size = 750
+    }
 
-	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 100
-	}
+    farmers = {
+        culture = ukrainian
+        religion = catholic
+        size = 12350
+    }
 
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 1250
-	}
-	
-	soldiers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 100
-	}
+    farmers = {
+        culture = polish
+        religion = orthodox
+        size = 4525
+    }
 
-	farmers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 8575
-	}
+    artisans = {
+        culture = polish
+        religion = orthodox
+        size = 250
+    }
 
-	farmers = {
-		culture = crimean_tatar
-		religion = sunni
-		size = 3400
-	}
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1250
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 8575
+    }
 
 }
+

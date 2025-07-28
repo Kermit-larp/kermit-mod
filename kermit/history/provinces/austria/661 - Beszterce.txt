@@ -1,5 +1,5 @@
-owner = SIE
-controller = SIE
-add_core = SIE
+owner = KRA
+controller = KRA
+add_core = KRA
 trade_goods = grain
 life_rating = 35

@@ -1,0 +1,15 @@
+owner = SVN
+controller = SVN
+add_core = SVN
+add_core = SVY
+add_core = ITA
+trade_goods = grain
+life_rating = 34
+terrain = nice
+1861.1.1 = {
+	remove_core = ITA
+	remove_core = SAR
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+}

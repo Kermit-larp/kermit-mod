@@ -826,7 +826,7 @@ political_decisions = {
 				limit = {
 					NOT = { has_pop_religion = sunni }
 					OR = {
-						has_pop_culture = serb
+						has_pop_culture = morejan
 						has_pop_culture = romanian
 						has_pop_culture = albanian
 						has_pop_culture = georgian
@@ -843,7 +843,7 @@ political_decisions = {
 				limit = { 
 					NOT = { has_pop_religion = sunni } 
 					OR = {
-						has_pop_culture = croat
+						has_pop_culture = carniolan
 						has_pop_culture = bulgarian
 					}
 				}
@@ -1099,7 +1099,7 @@ political_decisions = {
 			}
 			
 			any_pop = { limit = { OR = { has_pop_culture = polish has_pop_culture = lithuanian } } literacy = 0.19 }
-			any_pop = { limit = { OR = { has_pop_culture = romanian has_pop_culture = serb has_pop_culture = bulgarian } } literacy = 0.03 }
+			any_pop = { limit = { OR = { has_pop_culture = romanian has_pop_culture = morejan has_pop_culture = bulgarian } } literacy = 0.03 }
 			any_pop = { limit = { OR = { has_pop_culture = greek has_pop_culture = south_italian has_pop_culture = armenian } } literacy = 0.07 }
 			any_pop = { limit = { has_pop_culture = swedish } literacy = 0.79 }
 			any_pop = {

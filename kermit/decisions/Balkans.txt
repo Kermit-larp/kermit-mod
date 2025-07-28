@@ -643,8 +643,8 @@ political_decisions = {
 			random_owned = {
 				limit = { owner = { NOT = { government = theocracy } } }
 				owner = {
-					add_accepted_culture = serb
-					add_accepted_culture = croat
+					add_accepted_culture = morejan
+					add_accepted_culture = carniolan
 					add_accepted_culture = slovene
 					add_accepted_culture = montenegrin
 				}
@@ -1566,8 +1566,8 @@ political_decisions = {
 				owner = { capital = 794 }
 			}
 			prestige = 5
-			primary_culture = serb
-			remove_accepted_culture = croat
+			primary_culture = morejan
+			remove_accepted_culture = carniolan
 			remove_accepted_culture = slovene
 			remove_accepted_culture = bosniak
 			remove_accepted_culture = albanian
@@ -1575,7 +1575,7 @@ political_decisions = {
 			all_core = { remove_core = YUG }
 			change_tag = SER
 			any_pop = {
-				limit = { has_pop_culture = serb }
+				limit = { has_pop_culture = morejan }
 				militancy = -4
 			}
 		}
@@ -1616,16 +1616,16 @@ political_decisions = {
 				owner = { capital = 771 }
 			}
 			prestige = 5
-			primary_culture = croat
-			remove_accepted_culture = serb
-			remove_accepted_culture = slovene
+			primary_culture = slovene
+			remove_accepted_culture = morejan
+			remove_accepted_culture = carniolan
 			remove_accepted_culture = bosniak
 			remove_accepted_culture = albanian
 			remove_accepted_culture = bulgarian
 			all_core = { remove_core = YUG }
 			change_tag = CRO
 			any_pop = {
-				limit = { has_pop_culture = croat }
+				limit = { has_pop_culture = carniolan }
 				militancy = -4
 			}
 		}
@@ -1666,9 +1666,9 @@ political_decisions = {
 				owner = { capital = 768 }
 			}
 			prestige = 5
-			primary_culture = slovene
-			remove_accepted_culture = croat
-			remove_accepted_culture = serb
+			primary_culture = carniolan
+			remove_accepted_culture = slovene
+			remove_accepted_culture = morejan
 			remove_accepted_culture = bosniak
 			remove_accepted_culture = albanian
 			remove_accepted_culture = bulgarian
@@ -1717,9 +1717,9 @@ political_decisions = {
 			}
 			prestige = 5
 			primary_culture = bosniak
-			remove_accepted_culture = croat
+			remove_accepted_culture = carniolan
 			remove_accepted_culture = slovene
-			remove_accepted_culture = serb
+			remove_accepted_culture = morejan
 			remove_accepted_culture = albanian
 			remove_accepted_culture = bulgarian
 			all_core = { remove_core = YUG }
@@ -1767,10 +1767,10 @@ political_decisions = {
 			}
 			prestige = 5
 			primary_culture = albanian
-			remove_accepted_culture = croat
+			remove_accepted_culture = carniolan
 			remove_accepted_culture = slovene
 			remove_accepted_culture = bosniak
-			remove_accepted_culture = serb
+			remove_accepted_culture = morejan
 			remove_accepted_culture = bulgarian
 			all_core = { remove_core = YUG }
 			change_tag = ALB
@@ -1816,8 +1816,8 @@ political_decisions = {
 				owner = { capital = 2593 }
 			}
 			prestige = 5
-			primary_culture = serb
-			remove_accepted_culture = croat
+			primary_culture = morejan
+			remove_accepted_culture = carniolan
 			remove_accepted_culture = slovene
 			remove_accepted_culture = bosniak
 			remove_accepted_culture = albanian
@@ -1825,7 +1825,7 @@ political_decisions = {
 			all_core = { remove_core = YUG }
 			change_tag = MON
 			any_pop = {
-				limit = { has_pop_culture = serb }
+				limit = { has_pop_culture = morejan }
 				militancy = -4
 			}
 		}
@@ -1867,11 +1867,11 @@ political_decisions = {
 			}
 			prestige = 5
 			primary_culture = bulgarian
-			remove_accepted_culture = croat
+			remove_accepted_culture = carniolan
 			remove_accepted_culture = slovene
 			remove_accepted_culture = bosniak
 			remove_accepted_culture = albanian
-			remove_accepted_culture = serb
+			remove_accepted_culture = morejan
 			all_core = { remove_core = YUG }
 			change_tag = BUL
 			any_pop = {
@@ -1904,11 +1904,11 @@ political_decisions = {
 			#}
 			#prestige = 5
 			#primary_culture = greek
-			#remove_accepted_culture = croat
+			#remove_accepted_culture = carniolan
 			#remove_accepted_culture = slovene
 			#remove_accepted_culture = bosniak
 			#remove_accepted_culture = albanian
-			#remove_accepted_culture = serb
+			#remove_accepted_culture = morejan
 			#remove_accepted_culture = bulgarian
 			#all_core = { remove_core = YUG }
 			#change_tag = BUL

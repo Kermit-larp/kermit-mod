@@ -1,8 +1,8 @@
-color = { 233 250 172 }
+color = { 39 116 101 }
 graphical_culture = SouthAmericanGC
 
 party = {
-	name = "BAH_liberal"
+	name = "CEQ_liberal"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -17,7 +17,7 @@ party = {
 }
 
 party = {
-	name = "BAH_conservative"
+	name = "CEQ_conservative"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -32,7 +32,7 @@ party = {
 }
 
 party = {
-	name = "BAH_reactionary"
+	name = "CEQ_reactionary"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -47,7 +47,7 @@ party = {
 }
 
 party = {
-	name = "BAH_conservative_2"
+	name = "CEQ_conservative_2"
 	start_date = 1873.1.1
 	end_date = 2000.1.1
 
@@ -62,7 +62,7 @@ party = {
 }
 
 party = {
-	name = "BAH_liberal_2"
+	name = "CEQ_liberal_2"
 	start_date = 1870.1.1
 	end_date = 2000.1.1
 
@@ -77,7 +77,7 @@ party = {
 }
 
 party = {
-	name = "BAH_anarcho_liberal"
+	name = "CEQ_anarcho_liberal"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -92,7 +92,7 @@ party = {
 }
 
 party = {
-	name = "BAH_socialist"
+	name = "CEQ_socialist"
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
@@ -107,7 +107,7 @@ party = {
 }
 
 party = {
-	name = "BAH_communist"
+	name = "CEQ_communist"
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
@@ -122,7 +122,7 @@ party = {
 }
 
 party = {
-	name = "BAH_fascist"
+	name = "CEQ_fascist"
 	start_date = 1900.1.1
 	end_date = 2000.1.1
 

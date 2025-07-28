@@ -3,6 +3,7 @@ controller = PAR
 add_core = PAR
 add_core = HUN
 add_core = VEN
+add_core = ITA
 trade_goods = fruit
 life_rating = 40
 1861.1.1 = { railroad = 3 }

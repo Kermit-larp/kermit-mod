@@ -1,6 +1,4 @@
-owner = NBI
-controller = NBI
-add_core = NBI
+add_core = NUB
 trade_goods = wool
 life_rating = 10
 terrain = desert

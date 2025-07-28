@@ -3278,7 +3278,7 @@ country_event = {
 		
 		any_owned = {
 			limit = { is_core = TUR NOT = { is_core = SER is_core = MON } }
-			any_pop = { limit = { has_pop_culture = serb NOT = { has_pop_religion = sunni } } move_pop = 798 }
+			any_pop = { limit = { has_pop_culture = morejan NOT = { has_pop_religion = sunni } } move_pop = 798 }
 		}
 				
 		random_owned = { limit = { province_id = 860 NOT = { has_province_modifier = repatriation } }
@@ -3353,7 +3353,7 @@ country_event = {
 		
 		any_owned = {
 			limit = { is_core = TUR NOT = { is_core = SER is_core = MON } }
-			any_pop = { limit = { has_pop_culture = serb NOT = { has_pop_religion = sunni } } move_pop = 2569 }
+			any_pop = { limit = { has_pop_culture = morejan NOT = { has_pop_religion = sunni } } move_pop = 2569 }
 		}
 		
 		random_owned = { limit = { province_id = 860 NOT = { has_province_modifier = repatriation } }

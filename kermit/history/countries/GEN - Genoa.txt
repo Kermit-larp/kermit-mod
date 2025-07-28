@@ -1,12 +1,12 @@
 capital = 724
-primary_culture = north_italian
+primary_culture = szekely
 religion = catholic
-government = democracy
+government = absolute_monarchy
 plurality = 0.0
-nationalvalue = nv_liberty
-literacy = 0.4
+nationalvalue = nv_order
+literacy = 0.3
 civilized = yes
-is_releasable_vassal = no
+is_releasable_vassal = yes
 
 # Political reforms
 slavery = no_slavery

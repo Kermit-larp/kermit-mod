@@ -1,6 +1,5 @@
-owner = PAR
+owner = STY
 controller = STY
-add_core = PAR
-add_core = HUN
+add_core = STY
 trade_goods = coal
 life_rating = 35

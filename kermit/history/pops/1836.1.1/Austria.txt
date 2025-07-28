@@ -37,7 +37,7 @@
     }
 
     soldiers = {
-        culture = noriconian
+        culture = romansh
         religion = catholic
         size = 100
     }
@@ -49,19 +49,19 @@
     }
 
     artisans = {
-        culture = noriconian
+        culture = romansh
         religion = catholic
         size = 2000
     }
 
     clergymen = {
-        culture = noriconian
+        culture = romansh
         religion = catholic
         size = 200
     }
 
     farmers = {
-        culture = noriconian
+        culture = romansh
         religion = catholic
         size = 2800
     }
@@ -95,31 +95,31 @@
 #Salzburg
 613 = {
     aristocrats = {
-        culture = noriconian
+        culture = hungarian
         religion = catholic
         size = 600
     }
 
     clergymen = {
-        culture = noriconian
+        culture = hungarian
         religion = catholic
         size = 400
     }
 
     artisans = {
-        culture = noriconian
+        culture = hungarian
         religion = catholic
         size = 10000
     }
 
     soldiers = {
-        culture = noriconian
+        culture = hungarian
         religion = catholic
         size = 2100
     }
 
     farmers = {
-        culture = noriconian
+        culture = hungarian
         religion = catholic
         size = 39000
     }
@@ -159,31 +159,31 @@
 #Liezen
 3279 = {
     aristocrats = {
-        culture = noriconian
+        culture = hungarian
         religion = catholic
         size = 700
     }
 
     clergymen = {
-        culture = noriconian
+        culture = hungarian
         religion = catholic
         size = 450
     }
 
     artisans = {
-        culture = noriconian
+        culture = hungarian
         religion = catholic
         size = 4500
     }
 
     soldiers = {
-        culture = noriconian
+        culture = hungarian
         religion = catholic
         size = 1800
     }
 
     farmers = {
-        culture = noriconian
+        culture = hungarian
         religion = catholic
         size = 20000
     }
@@ -207,14 +207,14 @@
     }
 
     soldiers = {
-        culture = hungarian
-        religion = catholic
+        culture = czech
+        religion = protestant
         size = 200
     }
 
     farmers = {
-        culture = hungarian
-        religion = catholic
+        culture = czech
+        religion = protestant
         size = 1100
     }
 
@@ -223,31 +223,31 @@
 #Steyr
 3298 = {
     aristocrats = {
-        culture = noriconian
+        culture = franconian
         religion = catholic
         size = 850
     }
 
     clergymen = {
-        culture = noriconian
-        religion = catholic
+        culture = ashkenazi
+        religion = jewish
         size = 650
     }
 
     artisans = {
-        culture = noriconian
-        religion = catholic
-        size = 3250
+        culture = ashkenazi
+        religion = jewish
+        size = 1250
     }
 
     soldiers = {
-        culture = noriconian
+        culture = franconian
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = noriconian
+        culture = hungarian
         religion = catholic
         size = 25000
     }
@@ -255,7 +255,7 @@
     artisans = {
         culture = hungarian
         religion = catholic
-        size = 2000
+        size = 3000
     }
 
     farmers = {
@@ -268,6 +268,12 @@
         culture = hungarian
         religion = catholic
         size = 500
+    }
+
+    artisans = {
+        culture = czech
+        religion = catholic
+        size = 200
     }
 
 }
@@ -369,7 +375,7 @@
     }
 
     farmers = {
-        culture = noriconian
+        culture = hungarian
         religion = catholic
         size = 4000
     }
@@ -391,45 +397,45 @@
 #Graz
 616 = {
     aristocrats = {
-        culture = noriconian
+        culture = hungarian
         religion = catholic
         size = 1200
     }
 
     bureaucrats = {
-        culture = noriconian
+        culture = hungarian
         religion = catholic
         size = 500
     }
 
     officers = {
-        culture = noriconian
+        culture = hungarian
         religion = catholic
         size = 300
     }
 
     clergymen = {
-        culture = noriconian
+        culture = hungarian
         religion = catholic
         size = 600
     }
 
     artisans = {
-        culture = noriconian
+        culture = hungarian
         religion = catholic
         size = 10000
     }
 
     soldiers = {
-        culture = noriconian
+        culture = hungarian
         religion = catholic
         size = 2800
     }
 
     farmers = {
-        culture = noriconian
+        culture = hungarian
         religion = catholic
-        size = 45000
+        size = 25000
     }
 
     artisans = {
@@ -463,9 +469,9 @@
     }
 
     farmers = {
-        culture = slovene
+        culture = carniolan
         religion = catholic
-        size = 2500
+        size = 20000
     }
 
     aristocrats = {
@@ -475,7 +481,7 @@
     }
 
     artisans = {
-        culture = noriconian
+        culture = carniolan
         religion = catholic
         size = 5000
     }
@@ -485,31 +491,31 @@
 #Judenburg
 617 = {
     aristocrats = {
-        culture = noriconian
+        culture = hungarian
         religion = catholic
         size = 700
     }
 
     clergymen = {
-        culture = noriconian
+        culture = hungarian
         religion = catholic
         size = 450
     }
 
     artisans = {
-        culture = noriconian
-        religion = catholic
+        culture = czech
+        religion = protestant
         size = 8500
     }
 
     soldiers = {
-        culture = noriconian
+        culture = hungarian
         religion = catholic
         size = 2000
     }
 
     farmers = {
-        culture = noriconian
+        culture = hungarian
         religion = catholic
         size = 32000
     }
@@ -536,12 +542,6 @@
         culture = hungarian
         religion = catholic
         size = 1000
-    }
-
-    aristocrats = {
-        culture = hungarian
-        religion = catholic
-        size = 400
     }
 
 }
@@ -579,49 +579,49 @@
     }
 
     clergymen = {
-        culture = slovene
+        culture = carniolan
         religion = catholic
         size = 300
     }
 
     artisans = {
-        culture = slovene
+        culture = carniolan
         religion = catholic
         size = 4000
     }
 
     soldiers = {
-        culture = slovene
+        culture = carniolan
         religion = catholic
         size = 1500
     }
 
     farmers = {
-        culture = slovene
+        culture = carniolan
         religion = catholic
         size = 14000
     }
 
     artisans = {
-        culture = noriconian
+        culture = hungarian
         religion = catholic
         size = 3500
     }
 
     clergymen = {
-        culture = noriconian
+        culture = hungarian
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = noriconian
+        culture = hungarian
         religion = catholic
         size = 800
     }
 
     farmers = {
-        culture = noriconian
+        culture = hungarian
         religion = catholic
         size = 12000
     }
@@ -661,13 +661,13 @@
     }
 
     farmers = {
-        culture = noriconian
+        culture = hungarian
         religion = catholic
         size = 9000
     }
 
     farmers = {
-        culture = slovene
+        culture = carniolan
         religion = catholic
         size = 4500
     }
@@ -689,75 +689,75 @@
 #Vienna
 619 = {
     clergymen = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 2750
     }
 
     artisans = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 7500
     }
 
     soldiers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 2750
     }
 
     soldiers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 3000
     }
 
     soldiers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 3000
     }
 
     soldiers = {
-        culture = slovak
+        culture = hungarian
         religion = catholic
         size = 3000
     }
 
     farmers = {
-        culture = slovak
-        religion = catholic
-        size = 11000
+        culture = pannonian
+        religion = orthodox
+        size = 10000
     }
 
     bureaucrats = {
-        culture = cuman
+        culture = czech
         religion = catholic
         size = 2000
     }
 
     officers = {
-        culture = cuman
+        culture = pannonian
         religion = catholic
         size = 500
     }
 
     clergymen = {
-        culture = cuman
-        religion = catholic
+        culture = pannonian
+        religion = orthodox
         size = 450
     }
 
     artisans = {
-        culture = cuman
-        religion = catholic
+        culture = pannonian
+        religion = orthodox
         size = 8000
     }
 
     farmers = {
-        culture = cuman
+        culture = czech
         religion = catholic
-        size = 45250
+        size = 36250
     }
 
     aristocrats = {
@@ -793,23 +793,23 @@
     farmers = {
         culture = hungarian
         religion = catholic
-        size = 25000
+        size = 34000
     }
 
     clergymen = {
-        culture = noriconian
+        culture = czech
         religion = catholic
         size = 2020
     }
 
     artisans = {
-        culture = noriconian
+        culture = czech
         religion = catholic
         size = 8980
     }
 
     farmers = {
-        culture = noriconian
+        culture = franconian
         religion = catholic
         size = 5000
     }
@@ -831,33 +831,33 @@
 #Sankt Polten
 620 = {
     aristocrats = {
-        culture = noriconian
-        religion = catholic
+        culture = czech
+        religion = protestant
         size = 800
     }
 
     bureaucrats = {
-        culture = noriconian
+        culture = czech
         religion = catholic
         size = 200
     }
 
     clergymen = {
-        culture = noriconian
+        culture = czech
         religion = catholic
         size = 450
     }
 
     artisans = {
-        culture = noriconian
+        culture = czech
         religion = catholic
         size = 6000
     }
 
     farmers = {
-        culture = noriconian
+        culture = hungarian
         religion = catholic
-        size = 39000
+        size = 28000
     }
 
     aristocrats = {
@@ -887,17 +887,17 @@
     farmers = {
         culture = czech
         religion = catholic
-        size = 1000
+        size = 8000
     }
 
     bureaucrats = {
-        culture = czech
+        culture = hungarian
         religion = catholic
         size = 300
     }
 
     soldiers = {
-        culture = noriconian
+        culture = pannonian
         religion = catholic
         size = 2500
     }
@@ -920,14 +920,14 @@
 
     artisans = {
         culture = czech
-        religion = catholic
+        religion = hussite
         size = 6100
     }
 
     farmers = {
-        culture = czech
+        culture = hungarian
         religion = catholic
-        size = 14000
+        size = 17000
     }
 
     soldiers = {
@@ -937,33 +937,39 @@
     }
 
     aristocrats = {
-        culture = noriconian
+        culture = hungarian
         religion = catholic
         size = 500
     }
 
     clergymen = {
-        culture = noriconian
+        culture = hungarian
         religion = catholic
         size = 600
     }
 
     soldiers = {
-        culture = noriconian
+        culture = hungarian
         religion = catholic
         size = 1500
     }
 
     artisans = {
-        culture = noriconian
+        culture = hungarian
         religion = catholic
         size = 8000
     }
 
     farmers = {
-        culture = noriconian
+        culture = czech
+        religion = hussite
+        size = 11000
+    }
+
+    farmers = {
+        culture = czech
         religion = catholic
-        size = 22000
+        size = 10000
     }
 
 }
@@ -971,45 +977,33 @@
 #Linz
 622 = {
     aristocrats = {
-        culture = noriconian
-        religion = catholic
+        culture = czech
+        religion = protestant
         size = 2300
     }
 
     clergymen = {
-        culture = noriconian
-        religion = catholic
+        culture = czech
+        religion = protestant
         size = 3200
     }
 
     artisans = {
-        culture = noriconian
+        culture = franconian
         religion = catholic
         size = 7650
     }
 
     soldiers = {
-        culture = noriconian
+        culture = hungarian
         religion = catholic
         size = 1550
     }
 
     soldiers = {
-        culture = noriconian
+        culture = hungarian
         religion = catholic
         size = 3000
-    }
-
-    soldiers = {
-        culture = noriconian
-        religion = catholic
-        size = 3000
-    }
-
-    farmers = {
-        culture = noriconian
-        religion = catholic
-        size = 100000
     }
 
     soldiers = {
@@ -1019,15 +1013,33 @@
     }
 
     farmers = {
-        culture = noriconian
+        culture = hungarian
+        religion = catholic
+        size = 80000
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = protestant
+        size = 3000
+    }
+
+    farmers = {
+        culture = hungarian
         religion = catholic
         size = 5900
     }
 
     farmers = {
-        culture = slovak
+        culture = czech
+        religion = protestant
+        size = 20000
+    }
+
+    farmers = {
+        culture = czech
         religion = catholic
-        size = 10000
+        size = 5000
     }
 
 }
@@ -1035,61 +1047,55 @@
 #Eisenstadt
 624 = {
     aristocrats = {
-        culture = hungarian
-        religion = catholic
+        culture = pannonian
+        religion = orthodox
         size = 700
     }
 
     clergymen = {
-        culture = hungarian
-        religion = catholic
+        culture = pannonian
+        religion = orthodox
         size = 475
     }
 
     artisans = {
-        culture = hungarian
-        religion = catholic
+        culture = pannonian
+        religion = orthodox
         size = 4450
     }
 
     soldiers = {
-        culture = hungarian
-        religion = catholic
+        culture = pannonian
+        religion = orthodox
         size = 2100
     }
 
     farmers = {
-        culture = hungarian
-        religion = catholic
-        size = 17075
-    }
-
-    farmers = {
-        culture = cuman
-        religion = catholic
-        size = 10000
+        culture = pannonian
+        religion = orthodox
+        size = 28075
     }
 
     clergymen = {
-        culture = south_german
+        culture = czech
         religion = catholic
         size = 60
     }
 
     artisans = {
-        culture = south_german
+        culture = czech
         religion = catholic
         size = 5150
     }
 
     soldiers = {
-        culture = south_german
+        culture = hungarian
         religion = catholic
         size = 1025
     }
 
     farmers = {
-        culture = south_german
+        culture = hungarian
         religion = catholic
         size = 765
     }
@@ -1107,27 +1113,27 @@
     }
 
     clergymen = {
-        culture = slovene
+        culture = carniolan
         religion = catholic
         size = 1225
     }
 
     artisans = {
-        culture = slovene
+        culture = carniolan
         religion = catholic
         size = 5600
     }
 
     soldiers = {
-        culture = slovene
+        culture = carniolan
         religion = catholic
         size = 1250
     }
 
     farmers = {
-        culture = slovene
+        culture = carniolan
         religion = catholic
-        size = 13625
+        size = 9625
     }
 
 }

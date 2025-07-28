@@ -1252,8 +1252,8 @@ country_event = {
 		CRO = { all_core = { add_core = YUG } }
 		BOS = { all_core = { add_core = YUG } }
 		SLO = { all_core = { add_core = YUG } }
-		add_accepted_culture = serb
-		add_accepted_culture = croat
+		add_accepted_culture = morejan
+		add_accepted_culture = carniolan
 		add_accepted_culture = slovene
 		change_tag = YUG
 		any_neighbor_country = {

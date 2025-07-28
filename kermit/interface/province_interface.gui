@@ -434,7 +434,7 @@ guiTypes = {
 				name = "culture"
 				position = { x = 271 y = 161 }
 				font = "vic_18_black"
-				text = "Culture"	
+				text = "Language"	
 				maxWidth = 100
 				maxHeight = 16	
 				format = centre
@@ -849,7 +849,7 @@ guiTypes = {
 				name = "culture"
 				position = { x = 290 y = 14 }
 				font = "vic_18_black"
-				text = "Culture"	
+				text = "Language"	
 				maxWidth = 100
 				maxHeight = 16	
 				format = centre

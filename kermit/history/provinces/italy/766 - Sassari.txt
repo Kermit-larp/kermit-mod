@@ -2,6 +2,7 @@ owner = SRD
 controller = SRD
 add_core = SRD
 add_core = ITA
+add_core = TUS
 trade_goods = grain
 life_rating = 35
 1861.1.1 = {

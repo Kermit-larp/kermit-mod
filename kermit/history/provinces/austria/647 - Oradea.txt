@@ -1,6 +1,5 @@
-owner = BKV
-controller = BKV
-add_core = SIE
-add_core = BKV
+owner = PNN
+controller = PNN
+add_core = PNN
 trade_goods = wool
 life_rating = 35

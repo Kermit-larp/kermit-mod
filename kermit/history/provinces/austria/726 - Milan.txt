@@ -1,8 +1,6 @@
 owner = LOM
-controller = PAR
-add_core = PAR
+controller = LOM
 add_core = LOM
-add_core = HUN
 trade_goods = iron
 life_rating = 40
 terrain = milan
@@ -11,10 +9,6 @@ state_building = {
 	level = 1
 	building = fabric_factory
 	upgrade = yes
-}
-1861.1.1 = {
-	owner = ITA
-	controller = ITA
 }
 1861.1.1 = { 
 	state_building = {

@@ -1,10 +1,10 @@
-capital = 664
-primary_culture = romanian
-religion = orthodox
-government = colonial_company
-plurality = 25.0
+capital = 673
+primary_culture = cuman
+religion = catholic
+government = absolute_monarchy
+plurality = 5.0
 nationalvalue = nv_autocracy
-literacy = 0.04
+literacy = 0.03
 non_state_culture_literacy = 0.01
 civilized = yes
 prestige = 4
@@ -12,7 +12,7 @@ prestige = 4
 # Political reforms
 slavery = yes_slavery
 upper_house_composition = appointed
-vote_franschise = landed_voting
+vote_franschise = none_voting
 public_meetings = yes_meeting
 press_rights = state_press
 trade_unions = no_trade_unions
@@ -25,7 +25,7 @@ work_hours = no_work_hour_limit
 safety_regulations = no_safety
 health_care = no_health_care
 unemployment_subsidies = no_subsidies
-pensions = no_pensions 
+pensions = no_pensions
 school_reforms = no_schools
 
 # New Reforms

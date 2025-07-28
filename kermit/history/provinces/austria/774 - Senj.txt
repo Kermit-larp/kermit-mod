@@ -1,5 +1,6 @@
 owner = CRO
 controller = CRO
 add_core = DLM
+add_core = ITA
 trade_goods = iron
 life_rating = 35

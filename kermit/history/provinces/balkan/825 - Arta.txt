@@ -1,6 +1,5 @@
-owner = ATH
-controller = ATH
-add_core = ATH
+owner = ALB
+controller = ALB
 add_core = GRE
 trade_goods = wool
 life_rating = 35

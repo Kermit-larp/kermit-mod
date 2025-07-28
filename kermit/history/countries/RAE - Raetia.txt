@@ -1,13 +1,11 @@
 capital = 611
 primary_culture = romansh
-culture = swiss_italian
 religion = catholic
-government = dominion
+government = colonial_company
 plurality = 30.0
 nationalvalue = nv_order
 literacy = 0.8
 civilized = yes
-prestige = 5
 
 # Political reforms
 slavery = no_slavery

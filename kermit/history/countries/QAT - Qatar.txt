@@ -1,17 +1,17 @@
-capital = 116
-primary_culture = bedouin
-religion = sunni
-government = absolute_monarchy
-plurality = 0.0
-nationalvalue = nv_tradition
-literacy = 0.01
-non_state_culture_literacy = 0.01
+capital = 654
+primary_culture = undur
+religion = orthodox
+government = colonial_company
+plurality = 0.2
+nationalvalue = nv_autocracy
+literacy = 0.05
+civilized = yes
 
 # Political reforms
 slavery = yes_slavery
 upper_house_composition = appointed
 vote_franschise = none_voting
-public_meetings = no_meeting
+public_meetings = yes_meeting
 press_rights = state_press
 trade_unions = no_trade_unions
 voting_system = first_past_the_post

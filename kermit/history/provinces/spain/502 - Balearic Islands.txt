@@ -1,7 +1,7 @@
 owner = SVN
 controller = SVN
-add_core = CAT
 add_core = SVN
+add_core = CAT
 trade_goods = cattle
 life_rating = 35
 1861.1.1 = { railroad = 3 }

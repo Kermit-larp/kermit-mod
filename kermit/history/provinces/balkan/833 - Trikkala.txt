@@ -1,6 +1,7 @@
 owner = MCD
 controller = MCD
 add_core = MCD
+add_core = TSL
 add_core = GRE
 trade_goods = grain
 life_rating = 35

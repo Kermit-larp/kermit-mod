@@ -48,7 +48,6 @@ PROV744;Firenze;;;;;;;;;;;;x
 PROV749;Roma;;;;;;;;;;;;x
 PROV724;Genova;;;;;;;;;;;;x
 PROV754;Napoli;;;;;;;;;;;;x
-PROV720;Torino;;;;;;;;;;;;x
 PROV2721;Heligoland Bight;;;;;;;;;;;;x
 RUS_959;Volyn;;;;;;;;;;;;x
 druze;Druze;;;;;;;;;;;;x
@@ -930,7 +929,6 @@ PROV2187;La Mesilla;;;;;;;;;;;;x
 PROV2628;Ocos;;;;;;;;;;;;x
 BAV_601;Niederbayern;;;;;;;;;;;;x
 PROV3249;Old Tianjin;;;;;;;;;;;;;x
-PROV606;Luzern;;;;;;;;;;;;;x
 PROV2627;Coudersport;;;;;;;;;;;;x
 PROV160;Superior;;;;;;;;;;;;x
 PROV3250;Fribourg;;;;;;;;;;;;;x
@@ -968,7 +966,7 @@ PROV560;Cemnits;;;;;;;;;;;;;;;;;;x;;;;
 PROV575;Köln;;;;;;;;;;;;x
 PROV577;Kleve;;;;;;;;;;;;x
 PROV586;Carlsrueh;;;;;;;;;;;;;x;;;;
-PROV587;Friburche;;;;;;;;;;;;;x;;;;
+PROV587;Feketérdovár;;;;;;;;;;;;;x;;;;
 PROV588;Constanz;;;;;;;;;;;;;x;;;;
 PROV589;Svábváros;;;;;;;;;;;;;x;;;;
 PROV590;Jólgyógyul;;;;;;;;;;;;;x;;;;
@@ -984,12 +982,12 @@ PROV599;Akardáltal;;;;;;;;;;;;x
 PROV600;Erodavár;;;;;;;;;;;;;x;;;;
 PROV601;Azaranydunavár;;;;;;;;;;;;;x;;;;
 PROV602;Retisbürg;;;;;;;;;;;;;x;;;;
-PROV603;Szúrig;;;;;;;;;;;;;x;;;;
-PROV604;Basle;;;;;;;;;;;;;x;;;;
+PROV603;Várakathau;;;;;;;;;;;;;x;;;;
+PROV604;Kánmegye;;;;;;;;;;;;;x;;;;
 PROV605;Berna;;;;;;;;;;;;;x;;;;
-PROV606;Lucerna;;;;;;;;;;;;;x;;;;
+PROV606;Szúrig;;;;;;;;;;;;;x;;;;
 PROV607;Geneva;;;;;;;;;;;;;x;;;;
-PROV608;Neuch?el;;;;;;;;;;;;;x;;;;
+PROV608;Nagybecsületvár;;;;;;;;;;;;;x;;;;
 PROV609;Sitten;;;;;;;;;;;;;x;;;;
 PROV610;Ponape;;;;;;;;;;;;;x;;;;
 PROV611;Cuira;;;;;;;;;;;;;x;;;;
@@ -1001,13 +999,13 @@ PROV616;Grats;;;;;;;;;;;;;x;;;;
 PROV617;Judinbèrc;;;;;;;;;;;;;x;;;;
 PROV618;Siralomvára;;;;;;;;;;;;;x;;;;
 PROV619;Vienna;;;;;;;;;;;;;x;;;;
-PROV620;Sankt P?ten;;;;;;;;;;;;;x;;;;
+PROV620;Sankt Pölten;;;;;;;;;;;;;x;;;;
 PROV621;Krems;;;;;;;;;;;;;x;;;;
 PROV622;Linz;;;;;;;;;;;;;x;;;;
 PROV623;Sopron;;;;;;;;;;;;;x;;;;
 PROV624;Eisenstadt;;;;;;;;;;;;;x;;;;
-PROV720;Turin;;;;;;;;;;;;;x;;;;
-PROV721;Aosta;;;;;;;;;;;;;x;;;;
+PROV720;Ebreghia;;;;;;;;;;;;;x;;;;
+PROV721;Axosta;;;;;;;;;;;;;x;;;;
 PROV722;Nuárã;;;;;;;;;;;;;x;;;;
 PROV723;Tortúna;;;;;;;;;;;;;x;;;;
 PROV724;Genoa;;;;;;;;;;;;;x;;;;

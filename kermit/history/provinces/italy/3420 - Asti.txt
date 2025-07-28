@@ -1,7 +1,7 @@
 owner = ATI
 controller = ATI
 add_core = ATI
-add_core = ITA
+add_core = SWI
 trade_goods = fruit
 life_rating = 40
 

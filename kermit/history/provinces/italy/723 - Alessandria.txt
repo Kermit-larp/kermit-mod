@@ -2,6 +2,7 @@ owner = PAR
 controller = PAR
 add_core = PAR
 add_core = HUN
+add_core = SWI
 trade_goods = fruit
 life_rating = 35
 1861.1.1 = {

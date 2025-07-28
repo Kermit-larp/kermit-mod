@@ -59,69 +59,81 @@
 #Liechtenstein
 3253 = {
     aristocrats = {
-        culture = romansh
+        culture = burgundian
         religion = catholic
         size = 100
     }
 
     bureaucrats = {
-        culture = romansh
+        culture = arpitan
         religion = catholic
         size = 10
     }
 
     clergymen = {
-        culture = romansh
+        culture = arpitan
         religion = catholic
         size = 30
     }
 
     artisans = {
-        culture = romansh
+        culture = arpitan
         religion = catholic
-        size = 450
+        size = 2500
     }
 
     soldiers = {
-        culture = romansh
+        culture = burgundian
         religion = catholic
-        size = 100
+        size = 900
     }
 
     farmers = {
-        culture = romansh
+        culture = hungarian
         religion = catholic
         size = 875
     }
 
     aristocrats = {
-        culture = romansh
+        culture = hungarian
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = romansh
+        culture = hungarian
         religion = catholic
         size = 30
     }
 
     artisans = {
-        culture = romansh
+        culture = burgundian
         religion = catholic
-        size = 350
+        size = 1000
     }
 
     soldiers = {
         culture = romansh
         religion = catholic
-        size = 75
+        size = 1200
     }
 
     farmers = {
-        culture = romansh
+        culture = arpitan
         religion = catholic
-        size = 1075
+        size = 20000
+    }
+
+    farmers = {
+        culture = burgundian
+        religion = catholic
+        size = 10000
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = catholic
+        size = 1400
     }
 
 }

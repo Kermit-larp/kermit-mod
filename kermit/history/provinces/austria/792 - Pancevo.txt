@@ -1,7 +1,5 @@
-owner = BKV
-controller = BKV
-add_core = BAN
-add_core = BKV
-add_core = SIE
+owner = PNN
+controller = PNN
+add_core = PNN
 trade_goods = grain
 life_rating = 35

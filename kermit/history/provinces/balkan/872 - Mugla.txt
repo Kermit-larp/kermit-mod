@@ -1,5 +1,6 @@
 owner = ROU
 controller = ROU
 add_core = ROU
+add_core = GRE
 trade_goods = coal
 life_rating = 35

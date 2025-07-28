@@ -1,9 +1,7 @@
-capital = 657
-primary_culture = romanian
-culture = hungarian
-culture = siebenburger
-religion = orthodox
-government = absolute_monarchy
+capital = 3610
+primary_culture = siebenburger
+religion = protestant
+government = colonial_company
 plurality = 0.0
 nationalvalue = nv_order
 literacy = 0.1
@@ -11,12 +9,12 @@ civilized = yes
 
 
 # Political reforms
-slavery = no_slavery
+slavery = yes_slavery
 upper_house_composition = appointed
 vote_franschise = none_voting
 public_meetings = yes_meeting
-press_rights = censored_press
-trade_unions = non_socialist
+press_rights = state_press
+trade_unions = no_trade_unions
 voting_system = first_past_the_post
 political_parties = underground_parties
 

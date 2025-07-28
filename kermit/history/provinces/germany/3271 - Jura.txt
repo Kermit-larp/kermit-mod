@@ -1,7 +1,5 @@
-owner = NCT
-controller = NCT
-add_core = NCT
-add_core = SWI
+owner = BRN
+controller = BRN
 add_core = BRN
 trade_goods = grain
 life_rating = 32

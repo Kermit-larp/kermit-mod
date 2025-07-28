@@ -1,5 +1,5 @@
 capital = 3421
-primary_culture = north_italian
+primary_culture = noriconian
 religion = catholic
 government = absolute_monarchy
 plurality = 25.0

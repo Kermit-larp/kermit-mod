@@ -1,7 +1,6 @@
-owner = VLS
-controller = VLS
-add_core = VLS
-add_core = SWI
+owner = RAE
+controller = RAE
+add_core = RAE
 trade_goods = cattle
 life_rating = 32
 terrain = mountain

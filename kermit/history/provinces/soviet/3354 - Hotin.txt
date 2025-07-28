@@ -1,7 +1,5 @@
 owner = WAL
 controller = WAL
-add_core = UKR
-add_core = WAL  
-add_core = RUT
+add_core = WAL
 trade_goods = grain
 life_rating = 35

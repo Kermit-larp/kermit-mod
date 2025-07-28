@@ -1,8 +1,5 @@
 capital = 606
-primary_culture = romansh
-culture = swiss_italian
-culture = swiss_german
-religion = protestant
+primary_culture = noriconian
 government = colonial_company
 plurality = 40.0
 nationalvalue = nv_liberty

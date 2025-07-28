@@ -68,7 +68,7 @@ country_event = {
 	
 	option = {
 		name = EVTOPTA42003
-		THIS = prestige = 10
+		THIS = { prestige = 10 }
 		NCT = {
 			all_core = {
 				add_core = BRN
